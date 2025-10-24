@@ -5,7 +5,9 @@
   "main": "index.html",
   "scripts": {
     "build": "node build-content.js",
-    "build:watch": "node watch-content.js",
+    "watch": "node watch-content.js",
+    "dev": "node watch-content.js",
+    "populate": "node populate-cms.js",
     "prebuild": "echo '🏗️  Building Yoruba Heritage content...'",
     "postbuild": "echo '✅ Build complete! Content is ready.'"
   },

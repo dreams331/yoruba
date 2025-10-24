@@ -19,17 +19,23 @@ git clone <your-repo-url>
 cd Yoruba
 ```
 
-### 2. Build Content
+### 2. Start Auto-Watch Mode (Recommended)
 
 ```bash
-npm run build
+npm run dev
 ```
 
-This converts Markdown files in `content/` to JSON files in `data/`.
+This will:
+- Build content once
+- Watch for any changes to `.md` files
+- Automatically rebuild when you save
+- Keep running in the background
+
+**💡 TIP**: Leave this running while you work! No need to run build commands manually.
 
 ### 3. Start Local Server
 
-Choose one:
+In a **new terminal**:
 
 ```bash
 # Python (usually pre-installed on Mac)
@@ -45,6 +51,22 @@ npx serve
 ### 4. View in Browser
 
 Open: `http://localhost:8000`
+
+---
+
+## Alternative: Manual Build
+
+If you prefer not to use watch mode:
+
+```bash
+# Build once:
+npm run build
+
+# Start server:
+python3 -m http.server 8000
+```
+
+You'll need to run `npm run build` every time you edit content.
 
 ---
 

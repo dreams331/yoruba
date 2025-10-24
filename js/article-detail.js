@@ -143,25 +143,23 @@ async function loadArticle() {
     // Try to load from CMS first
     if (typeof getArticleById === 'function') {
         try {
-            const allArticles = await getArticles([]);
-            // Convert array to object format for compatibility
-            const articlesObj = {};
-            allArticles.forEach(a => {
-                articlesObj[a.id] = a;
-            });
+            const allArticles = await getArticles(Object.values(fallbackFullArticlesData));
             
-            // Merge with fallback
-            const fullArticlesData = { ...fallbackFullArticlesData, ...articlesObj };
-            article = fullArticlesData[articleId];
+            // Try to find article by numeric ID
+            article = allArticles.find(a => a.id === articleId);
             
-            console.log(`✓ Loaded article from CMS: ${article ? article.title : 'not found'}`);
+            // If not found, also try the fallback data
+            if (!article) {
+                article = fallbackFullArticlesData[articleId];
+            }
+            
+            console.log(`✓ Article loaded: ${article ? article.title : 'not found with ID ' + articleId}`);
         } catch (error) {
             console.warn('Error loading article from CMS:', error);
+            article = fallbackFullArticlesData[articleId];
         }
-    }
-    
-    // Fall back to hardcoded data
-    if (!article) {
+    } else {
+        // Fall back to hardcoded data
         article = fallbackFullArticlesData[articleId];
     }
     
@@ -204,7 +202,7 @@ async function loadRelatedArticles(category) {
     // Try to load from CMS
     if (typeof getArticles === 'function') {
         try {
-            allArticles = await getArticles([]);
+            allArticles = await getArticles(Object.values(fallbackFullArticlesData));
         } catch (error) {
             console.warn('Error loading related articles:', error);
             allArticles = Object.values(fallbackFullArticlesData);
@@ -214,7 +212,15 @@ async function loadRelatedArticles(category) {
     }
     
     const related = allArticles
-        .filter(article => article.category === category && article.id !== articleId)
+        .filter(article => {
+            const articleCategory = typeof article.category === 'string' 
+                ? article.category.toLowerCase() 
+                : article.category;
+            const targetCategory = typeof category === 'string' 
+                ? category.toLowerCase() 
+                : category;
+            return articleCategory === targetCategory && article.id !== articleId;
+        })
         .slice(0, 3);
     
     if (related.length === 0) {
