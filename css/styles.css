@@ -153,6 +153,17 @@ img {
     padding: 1rem var(--spacing-md);
 }
 
+.nav-brand a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    transition: var(--transition);
+}
+
+.nav-brand a:hover h1 {
+    color: var(--secondary-color);
+}
+
 .nav-brand h1 {
     font-size: 1.5rem;
     color: var(--primary-color);
@@ -160,6 +171,7 @@ img {
     display: flex;
     align-items: center;
     gap: 0.5rem;
+    transition: var(--transition);
 }
 
 .nav-menu {
