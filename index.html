@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Discover the rich history, culture, and wisdom of the Yoruba people. Explore articles, stories, IFA wisdom, and authentic narratives from Yoruba communities worldwide.">
+    <meta name="keywords" content="Yoruba, Yoruba history, Yoruba culture, IFA, Yoruba people, African history, Yoruba stories">
+    <title>Yoruba Heritage - History, Culture & Wisdom</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-brand">
+                <h1><i class="fas fa-crown"></i> Yoruba Heritage</h1>
+            </div>
+            <button class="nav-toggle" id="navToggle">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <ul class="nav-menu" id="navMenu">
+                <li><a href="index.html" class="active">Home</a></li>
+                <li><a href="articles.html">Articles</a></li>
+                <li><a href="stories.html">Stories</a></li>
+                <li><a href="ifa-wisdom.html">IFA Wisdom</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="search.html" class="btn-search"><i class="fas fa-search"></i> Search</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-overlay"></div>
+        <div class="hero-content">
+            <h2 class="hero-title">Àṣà Ìbílè Yorùbá</h2>
+            <h3 class="hero-subtitle">Preserving Our Rich Heritage & Cultural Identity</h3>
+            <p class="hero-description">Explore the authentic history, profound wisdom, and vibrant culture of the Yoruba people across the world</p>
+            <div class="hero-buttons">
+                <a href="articles.html" class="btn btn-primary">Explore Articles</a>
+                <a href="search.html" class="btn btn-secondary">Search Archive</a>
+            </div>
+        </div>
+        <div class="scroll-indicator">
+            <i class="fas fa-chevron-down"></i>
+        </div>
+    </section>
+
+    <!-- Featured Categories -->
+    <section class="categories">
+        <div class="container">
+            <div class="section-header">
+                <h2>Explore Our Collections</h2>
+                <p>Discover the diverse aspects of Yoruba heritage</p>
+            </div>
+            <div class="category-grid">
+                <div class="category-card">
+                    <div class="category-icon">
+                        <i class="fas fa-book-open"></i>
+                    </div>
+                    <h3>Historical Articles</h3>
+                    <p>In-depth scholarly articles on Yoruba history, kingdoms, and civilization</p>
+                    <a href="articles.html" class="category-link">Read More <i class="fas fa-arrow-right"></i></a>
+                </div>
+                <div class="category-card">
+                    <div class="category-icon">
+                        <i class="fas fa-scroll"></i>
+                    </div>
+                    <h3>Traditional Stories</h3>
+                    <p>Folklore, legends, and narratives passed down through generations</p>
+                    <a href="stories.html" class="category-link">Explore <i class="fas fa-arrow-right"></i></a>
+                </div>
+                <div class="category-card">
+                    <div class="category-icon">
+                        <i class="fas fa-infinity"></i>
+                    </div>
+                    <h3>IFA Wisdom</h3>
+                    <p>Ancient wisdom, divination knowledge, and spiritual teachings</p>
+                    <a href="ifa-wisdom.html" class="category-link">Learn <i class="fas fa-arrow-right"></i></a>
+                </div>
+                <div class="category-card">
+                    <div class="category-icon">
+                        <i class="fas fa-masks-theater"></i>
+                    </div>
+                    <h3>Cultural Practices</h3>
+                    <p>Festivals, ceremonies, arts, and living traditions</p>
+                    <a href="articles.html#culture" class="category-link">Discover <i class="fas fa-arrow-right"></i></a>
+                </div>
+                <div class="category-card">
+                    <div class="category-icon">
+                        <i class="fas fa-users"></i>
+                    </div>
+                    <h3>Notable Figures</h3>
+                    <p>Profiles of influential Yoruba leaders, scholars, and heroes</p>
+                    <a href="articles.html#people" class="category-link">View <i class="fas fa-arrow-right"></i></a>
+                </div>
+                <div class="category-card">
+                    <div class="category-icon">
+                        <i class="fas fa-globe-americas"></i>
+                    </div>
+                    <h3>Global Diaspora</h3>
+                    <p>Yoruba communities and influence around the world</p>
+                    <a href="articles.html#diaspora" class="category-link">Connect <i class="fas fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Featured Content -->
+    <section class="featured">
+        <div class="container">
+            <div class="section-header">
+                <h2>Featured Content</h2>
+                <p>Recent additions and highlighted materials</p>
+            </div>
+            <div class="featured-grid" id="featuredContent">
+                <!-- Content will be dynamically loaded -->
+            </div>
+            <div class="text-center">
+                <a href="articles.html" class="btn btn-outline">View All Content</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Stats Section -->
+    <section class="stats">
+        <div class="container">
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-number" data-target="500">0</div>
+                    <div class="stat-label">Articles & Stories</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" data-target="50">0</div>
+                    <div class="stat-label">Historical Topics</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" data-target="1000">0</div>
+                    <div class="stat-label">Years of History</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" data-target="30">0</div>
+                    <div class="stat-label">Countries Represented</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Preview -->
+    <section class="about-preview">
+        <div class="container">
+            <div class="about-content">
+                <div class="about-text">
+                    <h2>Our Mission</h2>
+                    <p>Yoruba Heritage is dedicated to preserving and sharing the authentic history, culture, and wisdom of the Yoruba people. We are committed to providing verified, factual information about Yoruba civilization, from ancient kingdoms to modern diaspora communities.</p>
+                    <p>Our platform serves as a comprehensive resource for anyone seeking knowledge about Yoruba traditions, IFA divination, historical events, cultural practices, and the enduring legacy of one of Africa's most influential civilizations.</p>
+                    <a href="about.html" class="btn btn-primary">Learn More About Us</a>
+                </div>
+                <div class="about-image">
+                    <div class="pattern-box"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3><i class="fas fa-crown"></i> Yoruba Heritage</h3>
+                    <p>Preserving and sharing the rich history, culture, and wisdom of the Yoruba people worldwide.</p>
+                    <div class="social-links">
+                        <a href="#"><i class="fab fa-facebook"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-youtube"></i></a>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="articles.html">Articles</a></li>
+                        <li><a href="stories.html">Stories</a></li>
+                        <li><a href="ifa-wisdom.html">IFA Wisdom</a></li>
+                        <li><a href="gallery.html">Gallery</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Resources</h4>
+                    <ul>
+                        <li><a href="search.html">Search</a></li>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                        <li><a href="contribute.html">Contribute</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Newsletter</h4>
+                    <p>Stay updated with new content and discoveries</p>
+                    <form class="newsletter-form">
+                        <input type="email" placeholder="Your email address" required>
+                        <button type="submit" class="btn btn-primary">Subscribe</button>
+                    </form>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Yoruba Heritage. All rights reserved. | Built with respect for our ancestors</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
