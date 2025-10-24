@@ -3,14 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Browse comprehensive articles on Yoruba history, culture, kingdoms, and civilization.">
-    <title>Articles - Yoruba Heritage</title>
+    <meta name="description" content="Read full Yoruba heritage articles">
+    <title>Article - Yoruba Heritage</title>
     <link rel="stylesheet" href="css/styles.css">
-    <link rel="stylesheet" href="css/articles.css">
+    <link rel="stylesheet" href="css/article-detail.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Netlify Identity Widget -->
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 <body>
     <!-- Navigation -->
@@ -38,40 +41,60 @@
         </div>
     </nav>
 
-    <!-- Page Header -->
-    <section class="page-header">
-        <div class="container">
-            <h1>Historical Articles</h1>
-            <p>Explore in-depth articles on Yoruba history, culture, and civilization</p>
+    <!-- Article Content -->
+    <article class="article-detail">
+        <div class="article-header">
+            <div class="container">
+                <a href="articles.html" class="back-link">
+                    <i class="fas fa-arrow-left"></i> Back to Articles
+                </a>
+                <div class="article-category-badge" id="articleCategory">History</div>
+                <h1 id="articleTitle">Loading...</h1>
+                <div class="article-meta">
+                    <span><i class="far fa-calendar"></i> <span id="articleDate"></span></span>
+                    <span><i class="far fa-clock"></i> <span id="articleReadTime"></span> read</span>
+                    <span><i class="fas fa-user"></i> Yoruba Heritage Team</span>
+                </div>
+            </div>
         </div>
-    </section>
 
-    <!-- Filters -->
-    <section class="filters-section">
-        <div class="container">
-            <div class="filters">
-                <button class="filter-btn active" data-category="all">All Articles</button>
-                <button class="filter-btn" data-category="history">History</button>
-                <button class="filter-btn" data-category="culture">Culture</button>
-                <button class="filter-btn" data-category="people">Notable Figures</button>
-                <button class="filter-btn" data-category="diaspora">Diaspora</button>
-                <button class="filter-btn" data-category="language">Language</button>
-            </div>
-            <div class="search-box">
-                <input type="text" id="articleSearch" placeholder="Search articles...">
-                <i class="fas fa-search"></i>
-            </div>
+        <div class="article-featured-image" id="articleImage">
+            <!-- Image will be loaded here -->
         </div>
-    </section>
 
-    <!-- Articles Grid -->
-    <section class="articles-section">
         <div class="container">
-            <div class="articles-grid" id="articlesGrid">
-                <!-- Articles will be dynamically loaded -->
+            <div class="article-content" id="articleContent">
+                <p>Loading article...</p>
+            </div>
+
+            <!-- Share Section -->
+            <div class="article-share">
+                <h3>Share this article</h3>
+                <div class="share-buttons">
+                    <button class="share-btn facebook" onclick="shareArticle('facebook')">
+                        <i class="fab fa-facebook"></i> Facebook
+                    </button>
+                    <button class="share-btn twitter" onclick="shareArticle('twitter')">
+                        <i class="fab fa-twitter"></i> Twitter
+                    </button>
+                    <button class="share-btn whatsapp" onclick="shareArticle('whatsapp')">
+                        <i class="fab fa-whatsapp"></i> WhatsApp
+                    </button>
+                    <button class="share-btn copy" onclick="copyLink()">
+                        <i class="fas fa-link"></i> Copy Link
+                    </button>
+                </div>
+            </div>
+
+            <!-- Related Articles -->
+            <div class="related-articles">
+                <h2>Related Articles</h2>
+                <div class="related-grid" id="relatedArticles">
+                    <!-- Will be populated dynamically -->
+                </div>
             </div>
         </div>
-    </section>
+    </article>
 
     <!-- Footer -->
     <footer class="footer">
@@ -122,6 +145,19 @@
 
     <script src="js/main.js"></script>
     <script src="js/content-loader.js"></script>
-    <script src="js/articles.js"></script>
+    <script src="js/article-detail.js"></script>
+    
+    <!-- Netlify Identity Redirect -->
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 </body>
 </html>

@@ -1,7 +1,7 @@
 // Articles Page JavaScript
 
-// Sample articles data - This would typically come from a backend/CMS
-const articlesData = [
+// Sample articles data - Fallback data if CMS content is not available
+const fallbackArticlesData = [
     {
         id: 1,
         title: "The Oyo Empire: Rise and Fall of a West African Power",
@@ -9,7 +9,7 @@ const articlesData = [
         date: "October 20, 2025",
         readTime: "8 min",
         excerpt: "The Oyo Empire was one of the most powerful and influential Yoruba kingdoms, dominating West Africa from the 14th to the 19th century. Explore its military prowess, political structure, and ultimate decline.",
-        image: null,
+        image: "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=800",
         content: "Full article content here..."
     },
     {
@@ -19,7 +19,7 @@ const articlesData = [
         date: "October 18, 2025",
         readTime: "10 min",
         excerpt: "Ile-Ife is considered the spiritual homeland of the Yoruba people and the legendary birthplace of humanity according to Yoruba mythology. Discover the archaeological wonders and spiritual significance of this ancient city.",
-        image: null,
+        image: "https://images.unsplash.com/photo-1523805009345-7448845a9e53?w=800",
         content: "Full article content here..."
     },
     {
@@ -29,7 +29,7 @@ const articlesData = [
         date: "October 15, 2025",
         readTime: "7 min",
         excerpt: "The artistic achievements of the Yoruba people, particularly in bronze casting and terracotta sculpture, rival any civilization in world history. Learn about the techniques and cultural significance of these masterpieces.",
-        image: null,
+        image: "https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3?w=800",
         content: "Full article content here..."
     },
     {
@@ -39,7 +39,7 @@ const articlesData = [
         date: "October 12, 2025",
         readTime: "6 min",
         excerpt: "Queen Moremi Ajasoro is celebrated as one of the most courageous figures in Yoruba history. Her sacrifice and bravery saved the people of Ile-Ife from enslavement and destruction.",
-        image: null,
+        image: "https://images.unsplash.com/photo-1594608661720-5596a37ab0cb?w=800",
         content: "Full article content here..."
     },
     {
@@ -49,7 +49,7 @@ const articlesData = [
         date: "October 10, 2025",
         readTime: "9 min",
         excerpt: "Yoruba is a tonal language with a rich vocabulary and complex grammatical structure. Explore its linguistic features, dialects, and influence on other languages across the diaspora.",
-        image: null,
+        image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800",
         content: "Full article content here..."
     },
     {
@@ -59,7 +59,7 @@ const articlesData = [
         date: "October 8, 2025",
         readTime: "8 min",
         excerpt: "The Yoruba people forcibly taken to Brazil during the transatlantic slave trade maintained their culture through Candomblé and other traditions. Discover how Yoruba culture thrives in modern Brazil.",
-        image: null,
+        image: "https://images.unsplash.com/photo-1516306580977-bd7e34a1f04e?w=800",
         content: "Full article content here..."
     },
     {
@@ -69,7 +69,7 @@ const articlesData = [
         date: "October 5, 2025",
         readTime: "7 min",
         excerpt: "Sango was a historical king of Oyo who was deified after his death. Learn about his life as a warrior king and his enduring legacy as the Orisha of thunder and lightning.",
-        image: null,
+        image: "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=800",
         content: "Full article content here..."
     },
     {
@@ -79,7 +79,7 @@ const articlesData = [
         date: "October 3, 2025",
         readTime: "6 min",
         excerpt: "The Eyo Festival is one of the most spectacular cultural events in Lagos, Nigeria. Discover its origins, symbolism, and the mystique of the white-robed Eyo masquerades.",
-        image: null,
+        image: "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800",
         content: "Full article content here..."
     },
     {
@@ -89,7 +89,7 @@ const articlesData = [
         date: "October 1, 2025",
         readTime: "10 min",
         excerpt: "The traditional Yoruba political system features a sophisticated balance of power between the Oba (king), council of chiefs, and the people. Explore this early form of democratic governance.",
-        image: null,
+        image: "https://images.unsplash.com/photo-1541872703-74c34d9d3fb8?w=800",
         content: "Full article content here..."
     },
     {
@@ -99,7 +99,7 @@ const articlesData = [
         date: "September 28, 2025",
         readTime: "9 min",
         excerpt: "Wole Soyinka, a Yoruba playwright and poet, became the first African to win the Nobel Prize in Literature in 1986. Examine his literary contributions and political activism.",
-        image: null,
+        image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800",
         content: "Full article content here..."
     },
     {
@@ -109,7 +109,7 @@ const articlesData = [
         date: "September 25, 2025",
         readTime: "5 min",
         excerpt: "Yoruba proverbs (Owe) are philosophical statements that convey deep wisdom. Learn about the most important proverbs and their meanings in contemporary life.",
-        image: null,
+        image: "https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?w=800",
         content: "Full article content here..."
     },
     {
@@ -119,7 +119,7 @@ const articlesData = [
         date: "September 22, 2025",
         readTime: "8 min",
         excerpt: "Santería emerged in Cuba as a syncretic religion combining Yoruba beliefs with Catholicism. Discover how the Orishas survived and thrived in the New World.",
-        image: null,
+        image: "https://images.unsplash.com/photo-1518834107812-67b0b7c58434?w=800",
         content: "Full article content here..."
     },
     {
@@ -129,7 +129,7 @@ const articlesData = [
         date: "September 20, 2025",
         readTime: "7 min",
         excerpt: "Yoruba architecture features intricate designs, carved pillars, and courtyard layouts. Explore the aesthetic and practical elements of traditional Yoruba buildings.",
-        image: null,
+        image: "https://images.unsplash.com/photo-1464146072230-91cabc968266?w=800",
         content: "Full article content here..."
     },
     {
@@ -139,7 +139,7 @@ const articlesData = [
         date: "September 18, 2025",
         readTime: "8 min",
         excerpt: "The Alaafin of Oyo holds one of the most prestigious traditional titles in Yorubaland. Learn about the role, powers, and succession of this important position.",
-        image: null,
+        image: "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800",
         content: "Full article content here..."
     },
     {
@@ -149,7 +149,7 @@ const articlesData = [
         date: "September 15, 2025",
         readTime: "6 min",
         excerpt: "The naming ceremony (Isomoloruko) is a joyous celebration marking a child's introduction to the world. Discover the rituals, prayers, and significance of Yoruba names.",
-        image: null,
+        image: "https://images.unsplash.com/photo-1519689373023-dd07c7988603?w=800",
         content: "Full article content here..."
     }
 ];
@@ -278,4 +278,24 @@ function animateCards() {
 }
 
 // Initialize
-displayArticles(articlesData);
+let articlesData = fallbackArticlesData;
+
+// Load content from CMS
+async function initializeArticles() {
+    try {
+        // Load articles from CMS (this function is defined in content-loader.js)
+        if (typeof getArticles === 'function') {
+            articlesData = await getArticles(fallbackArticlesData);
+            console.log(`✓ Loaded ${articlesData.length} articles from CMS`);
+        }
+    } catch (error) {
+        console.warn('Using fallback articles data:', error);
+        articlesData = fallbackArticlesData;
+    }
+    
+    // Display the articles
+    displayArticles(articlesData);
+}
+
+// Start initialization
+initializeArticles();

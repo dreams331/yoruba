@@ -1,6 +1,6 @@
 // Traditional Stories Page JavaScript
 
-const storiesData = [
+const fallbackStoriesData = [
     {
         id: 1,
         title: "The Tortoise and the Birds: Ijapa's Clever Scheme",
@@ -220,4 +220,21 @@ function animateCards() {
     });
 }
 
-displayStories(storiesData);
+let storiesData = fallbackStoriesData;
+
+// Load content from CMS
+async function initializeStories() {
+    try {
+        if (typeof getStories === 'function') {
+            storiesData = await getStories(fallbackStoriesData);
+            console.log(`✓ Loaded ${storiesData.length} stories from CMS`);
+        }
+    } catch (error) {
+        console.warn('Using fallback stories data:', error);
+        storiesData = fallbackStoriesData;
+    }
+    
+    displayStories(storiesData);
+}
+
+initializeStories();

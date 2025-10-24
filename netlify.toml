@@ -3,7 +3,7 @@
 # Build settings
 [build]
   publish = "."
-  command = "echo 'No build command needed'"
+  command = "node build-content.js"
 
 # Redirect rules
 [[redirects]]

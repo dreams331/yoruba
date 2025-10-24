@@ -1,6 +1,6 @@
 // IFA Wisdom Page JavaScript
 
-const ifaContent = [
+const fallbackIfaContent = [
     {
         id: 1,
         title: "Understanding IFA: The Oracle of Wisdom",
@@ -159,4 +159,21 @@ function animateCards() {
     });
 }
 
-displayIfaContent();
+let ifaContent = fallbackIfaContent;
+
+// Load content from CMS
+async function initializeIfa() {
+    try {
+        if (typeof getIfa === 'function') {
+            ifaContent = await getIfa(fallbackIfaContent);
+            console.log(`✓ Loaded ${ifaContent.length} IFA articles from CMS`);
+        }
+    } catch (error) {
+        console.warn('Using fallback IFA content:', error);
+        ifaContent = fallbackIfaContent;
+    }
+    
+    displayIfaContent();
+}
+
+initializeIfa();

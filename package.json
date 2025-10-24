@@ -1,0 +1,22 @@
+{
+  "name": "yoruba-heritage-website",
+  "version": "1.0.0",
+  "description": "A modern, collaborative Yoruba Heritage website with CMS integration",
+  "main": "index.html",
+  "scripts": {
+    "build": "node build-content.js",
+    "build:watch": "node watch-content.js",
+    "prebuild": "echo '🏗️  Building Yoruba Heritage content...'",
+    "postbuild": "echo '✅ Build complete! Content is ready.'"
+  },
+  "keywords": [
+    "yoruba",
+    "heritage",
+    "culture",
+    "cms",
+    "netlify"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {}
+}
