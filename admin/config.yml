@@ -1,0 +1,90 @@
+backend:
+  name: git-gateway
+  branch: main # or master, depending on your repo
+
+# Enable editorial workflow for content review
+publish_mode: editorial_workflow
+
+# Media files configuration
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
+
+# Collections (content types)
+collections:
+  # Articles Collection
+  - name: "articles"
+    label: "Articles"
+    folder: "content/articles"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Category", name: "category", widget: "select", options: ["history", "culture", "people", "diaspora", "language"]}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
+      - {label: "Excerpt", name: "excerpt", widget: "text"}
+      - {label: "Read Time", name: "readTime", widget: "string", default: "5 min"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Featured", name: "featured", widget: "boolean", default: false}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+
+  # Stories Collection
+  - name: "stories"
+    label: "Traditional Stories"
+    folder: "content/stories"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Category", name: "category", widget: "select", options: ["folktales", "legends", "myths", "parables"]}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
+      - {label: "Excerpt", name: "excerpt", widget: "text"}
+      - {label: "Read Time", name: "readTime", widget: "string", default: "5 min"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Moral/Lesson", name: "moral", widget: "text", required: false}
+
+  # IFA Wisdom Collection
+  - name: "ifa"
+    label: "IFA Wisdom"
+    folder: "content/ifa"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Category", name: "category", widget: "select", options: ["IFA Basics", "Odu IFA", "Orisha", "Practice", "Philosophy", "Contemporary"]}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
+      - {label: "Excerpt", name: "excerpt", widget: "text"}
+      - {label: "Read Time", name: "readTime", widget: "string", default: "10 min"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  # Gallery Collection
+  - name: "gallery"
+    label: "Gallery Images"
+    folder: "content/gallery"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Category", name: "category", widget: "select", options: ["artifacts", "festivals", "architecture", "arts-crafts", "sacred-sites", "contemporary"]}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Date Taken", name: "date", widget: "datetime", required: false}
+      - {label: "Location", name: "location", widget: "string", required: false}
+      - {label: "Photographer/Credit", name: "credit", widget: "string", required: false}
+
+  # Pages Collection (for About, etc.)
+  - name: "pages"
+    label: "Pages"
+    files:
+      - label: "About Page"
+        name: "about"
+        file: "content/pages/about.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Mission Statement", name: "mission", widget: "markdown"}
+          - {label: "Vision", name: "vision", widget: "markdown", required: false}
+
+# User roles (configure after setting up Netlify Identity)
+# Roles: admin, editor, contributor
