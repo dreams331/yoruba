@@ -36,11 +36,15 @@ Ile-Ife is often called the spiritual capital of the Yorùbá people. It is home
 
 The city contains shrines dedicated to important deities such as:
 
-* Ọbatala – the deity of purity and creation
-* Ọ̀rúnmìlà – deity of wisdom and divination
-* Ogun – deity of iron and war
-*  Ṣàngó – deity of thunder and lightning
-* Yemoja – associated with motherhood and water
+1. Ọbatala – the deity of purity and creation
+
+ ﻿2. Ọ̀rúnmìlà – deity of wisdom and divination
+
+ ﻿3. Ogun – deity of iron and war
+
+ ﻿4. Ṣàngó – deity of thunder and lightning
+
+5﻿. Yemoja – associated with motherhood and water
 
 Traditional worshippers, priests, and devotees from different parts of Nigeria and the African diaspora visit Ile-Ife for spiritual ceremonies and festivals.
 
