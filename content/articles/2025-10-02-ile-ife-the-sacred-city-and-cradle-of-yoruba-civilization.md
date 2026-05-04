@@ -2,7 +2,7 @@
 title: "Ile-Ife: The Sacred City and Cradle of Yoruba Civilization"
 date: 2025-10-17T23:00:00.000Z
 category: history
-image: https://images.unsplash.com/photo-1523805009345-7448845a9e53?w=800
+image: /images/uploads/ife.png
 excerpt: Ile-Ife is considered the spiritual homeland of the Yoruba people and
   the legendary birthplace of humanity according to Yoruba mythology. Discover
   the archaeological wonders and spiritual significance of this ancient city.
