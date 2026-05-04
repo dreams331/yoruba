@@ -36,7 +36,7 @@ Ile-Ife is often called the spiritual capital of the Yorùbá people. It is home
 
 The city contains shrines dedicated to important deities such as:
 
-1. Ọbatala – the deity of purity and creation
+ 1. Ọbatala – the deity of purity and creation
 
  ﻿2. Ọ̀rúnmìlà – deity of wisdom and divination
 
