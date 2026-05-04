@@ -48,15 +48,9 @@ Traditional worshippers, priests, and devotees from different parts of Nigeria a
 
 The traditional ruler of Ile-Ife, known as the Ooni of Ife, is one of the most respected monarchs in Yorùbáland. The Ooni is considered not just a political ruler, but also a spiritual custodian of Yorùbá culture and tradition.
 
-Historically, many Yorùbá kingdoms recognized the spiritual seniority of Ile-Ife because of its connection to Odùduwà. The Ooni therefore occupies a symbolic position of unity among the Yorùbá people.
+Historically, many Yorùbá kingdoms recognized the spiritual seniority of Ile-Ife because of its connection to Odùduwà. The Ooni therefore, occupies a symbolic position of unity among the Yorùbá people.
 
 Today, the palace of the Ooni remains an important cultural institution visited by dignitaries, historians, tourists, and traditional worshippers.
-
-![](https://images.openai.com/static-rsc-4/be3LJemge42B_chWwj3fhmfqdrF9j-g7gxmP0QEKvPiRsjJZHhSCkjCg867YPEfHwpW7URQ7sErITke_Q3xpJ-z_cceHNDKEJ5vXJq5RTQbNufcvzaEhq4lbC4Ma1jxVe9MUpxx48UYJjV2uXOtcqTp98ITzw285w86izCy7RUM?purpose=inline)
-
-![](https://images.openai.com/static-rsc-4/9xS0wq3APtfeaC-i0XvJDxp5dzngn-uCuz4WJl1MZycWhyeu8askb1PfDdJmu2E-HSIKe-_WUPGGbd5xx1aDRQOsoTrnm495l2sNbYx6ZLr8pfHSI899LybEdv8wk-a3b4SBPbCUc9dnkISt6nlUOxLWoNsgNweManDXubeAzpI?purpose=inline)
-
-![](https://images.openai.com/static-rsc-4/MtzyjZVALo6Z04MfHjmBXm_ue0g7Hz9PXPPESmaf-j9Xm9-ek29v3TKMWHNLlT1-I557pZ7a6d6tDtSn4xKob_vfiwRdmlhuYCBJwReeazjF1iSaAu9ILZFl8raaBiCvNO8hiz2iu2W7ipyONJ2S06Tx5W-6cRFLnfFhkfHpZzU?purpose=inline)
 
 ## Archaeological Wonders of Ile-Ife
 
@@ -71,12 +65,6 @@ The naturalistic bronze heads, believed to date between the 12th and 15th centur
 Some early European scholars initially refused to believe Africans could produce such sophisticated art, wrongly attributing the works to foreign civilizations. Later research confirmed that the sculptures were indeed products of indigenous Yorùbá artistry.
 
 These discoveries transformed global understanding of African history and art.
-
-![](https://images.openai.com/static-rsc-4/pPrAQFWqAp5xVSCmjIpj7y3MZjgkzEUXeR22uXVjmra_DBvFzly6RtaQ-mMUyfye4nbFZ2kCAM50uPK8cRbHLvoyADjVfKr4jwrRW2-_S7Y4IXcpcNvuqYywMBZhXejBtz1UPaPBt9u-NRes5cz7nB3tjRVW4PM6acPTRvRaR2A?purpose=inline)
-
-![](https://images.openai.com/static-rsc-4/yGO4LNzZwG-hBd4xxWDTe-0IuiXAjxPj8Qm5mc9ADQlbLI1D_fr56gN3H4MgQFR4wqh0nky3Mykgk9Gj8v0-fStSoulRgywf1-t5B6ByV5JE82uMelMDQRDxKlBVwoEexPGwpopjWlM7f_6ePG1RdToMJ-9mm5mB0CCZYlerH3Y?purpose=inline)
-
-![](https://images.openai.com/static-rsc-4/VvIT-44olxkQN910H6HQGOLY5YZmK6qmGzbLDGfZ6mtFmo0-VuPr03FAPWaxX0KVKmLuJlRwDzZxWDipQOc1HfSqRdC8wlXqKxqZSlAD02pP5QKDXlEcKa4EFMYgap7XTk3n1tZPpdpoupiFTqB-Se6HCWFr8LNksVvDNjCIGfw?purpose=inline)
 
 ## Ile-Ife and Yorùbá Civilization
 
@@ -118,12 +106,6 @@ During the festival:
 * Thousands of worshippers and tourists gather in celebration
 
 The festival symbolizes spiritual renewal, unity, and historical continuity.
-
-![](https://images.openai.com/static-rsc-4/-skLrTZFdL2386NY4DUqkx-1cV0lM9yXpKPdesM5tHEo38Npri24aPf9x2iw4TTuK-rPRH2gqRihaKuaXVxM2ZAuTXFXibEF-czDU3i-vWlV6OiYAUEHdlhlzmBTOiJbsqctYmq926LiUFfJ1Rkf_Uit1WJvjVfb3HmJ-EYB9zYfmVXBvL2bq62NkjrE-O2D?purpose=inline)
-
-![](https://images.openai.com/static-rsc-4/ncO4XPTjBdzZg__ZozuidAZ0GGw5nY9uU0JmoSHbZesCd2YTmA5wBoIpqi1oCqN4x_iKMxZu4Tocsam1uIbVAVTmriuCuvynpv-920WX5WN9THSH7_beoEYDSKUL5GaG7ir0fuuiQb-JEXWMC149f7q9ysl9ieEur8JHJTehJO7mEgomad2MDqwGpRm8hi4m?purpose=inline)
-
-![](https://images.openai.com/static-rsc-4/rzYwLlv50_FCqseC5x73Qmxde_kQGvDDOiLxHquSgLa-6dmQDAUn841LskIweFM8yRmT93X5wdQsLT3fa-op8xO8ml6I_Xin2cTgNBOdCPo6hLpDUDDRl7sTJuQVTAyGhHLzc4JBaXZXZ2ETC2aSB5_FagSkGtO0q3iVOfjJMHwbLn_GdmpjJcqDmigSiPPY?purpose=inline)
 
 ## Ile-Ife in Modern Times
 
