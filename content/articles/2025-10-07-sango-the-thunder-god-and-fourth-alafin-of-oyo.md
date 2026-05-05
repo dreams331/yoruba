@@ -56,8 +56,7 @@ Some accounts state that Ṣàngó later disappeared mysteriously or took his ow
 
 “Káwọ́ Kabíyèsí.”
 
-Meaning:\
-“The king did not hang.”
+Meaning: “The king did not hang.”
 
 This phrase became part of Ṣàngó’s enduring mythology and spiritual identity.
 
