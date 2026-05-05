@@ -78,8 +78,6 @@ Leadership and morality
 
 His writing style was rich, symbolic, poetic, and intellectually demanding, often requiring readers to think deeply about politics, culture, and human existence.
 
-![](/images/uploads/z0odopwdhxzbgxzxy_jted0griitahcc9zr4ktzzzujxzdwvwr49vmor6bwsjqq6ulfo33p2vslonr9nlhx9vpfohgmhh0lbaobzezeol_cfhf-f9jxaciyvfselnpwe0cskgjkcu0g-67lnxpzq9wjyxri_mhhy67zaow4absekj9_dauix4inl5kpudh8w.png)
-
 ## Yoruba Influence in Soyinka’s Work
 
 One of the defining features of Soyinka’s literature is his strong connection to Yoruba culture and spirituality.
@@ -143,8 +141,6 @@ Validation of African literature
 Global acknowledgment of African storytelling traditions
 
 A breakthrough against Eurocentric literary dominance
-
-![](/images/uploads/wole2.png)
 
 ## Major Literary Works
 
