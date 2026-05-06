@@ -85,5 +85,3 @@ Through Afrobeat, he built a language of resistance that spoke directly to the r
 In a world where many choose silence, Fela chose sound.
 
 And in that sound, he left behind a legacy that continues to inspire, provoke, and empower.
-
-<!--EndFragment-->
