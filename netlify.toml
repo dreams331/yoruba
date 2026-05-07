@@ -1,7 +1,17 @@
 # Netlify Configuration
 
-# Build settings
+# Build settings - Production (main branch → yorubaheritage.com)
 [build]
+  publish = "."
+  command = "node build-content.js"
+
+# Dev branch → preview URL only (content team's branch)
+[context.dev]
+  publish = "."
+  command = "node build-content.js"
+
+# Any branch deploy (fallback)
+[context.branch-deploy]
   publish = "."
   command = "node build-content.js"
 

@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: main # or master, depending on your repo
+  branch: dev # Content team commits here — never directly to main
 
 # Enable editorial workflow for content review
 publish_mode: editorial_workflow
