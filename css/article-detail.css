@@ -1,5 +1,19 @@
 /* Article Detail Page Styles */
 
+/* Reading Progress Bar */
+#reading-progress-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 0%;
+    height: 4px;
+    background: linear-gradient(to right, var(--primary-color), #e8a020);
+    z-index: 9999;
+    transition: width 0.1s ease;
+    border-radius: 0 2px 2px 0;
+    box-shadow: 0 1px 6px rgba(193, 120, 23, 0.5);
+}
+
 .article-detail {
     background: var(--light-color);
 }

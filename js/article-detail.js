@@ -280,3 +280,13 @@ function copyLink() {
 
 // Initialize
 loadArticle();
+
+// Reading Progress Bar
+window.addEventListener('scroll', () => {
+    const bar = document.getElementById('reading-progress-bar');
+    if (!bar) return;
+    const scrollTop = window.scrollY;
+    const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+    const progress = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
+    bar.style.width = Math.min(progress, 100) + '%';
+});
