@@ -214,7 +214,7 @@ function animateStats() {
                 current = target;
                 clearInterval(timer);
             }
-            stat.textContent = Math.floor(current);
+            stat.textContent = Math.floor(current).toLocaleString();
         }, 16);
     });
 }
