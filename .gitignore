@@ -2,6 +2,16 @@
 node_modules/
 package-lock.json
 
+# -----------------------------------------------
+# IMAGES: Uploaded media files
+# Large images are stored via Netlify CMS media
+# and served from Netlify CDN directly.
+# Exclude from git to keep repo fast to clone.
+# -----------------------------------------------
+images/uploads/*
+# Keep the folder itself tracked (so the dir exists)
+!images/uploads/.gitkeep
+
 # Build files
 dist/
 build/
