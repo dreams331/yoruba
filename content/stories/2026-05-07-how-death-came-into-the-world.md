@@ -2,7 +2,7 @@
 title: How Death Came Into the World
 date: 2026-05-07T19:09:06.683Z
 category: myths
-image: null
+image: /images/uploads/ijapa.png
 excerpt: An ancient Yoruba creation story explaining how death became a part of
   human existence. Discover the cosmic drama between Olodumare and humanity's
   eternal quest for immortality.
