@@ -74,6 +74,23 @@ collections:
       - {label: "Location", name: "location", widget: "string", required: false}
       - {label: "Photographer/Credit", name: "credit", widget: "string", required: false}
 
+  # Diaspora Countries Collection
+  - name: "diaspora-countries"
+    label: "Diaspora Countries"
+    folder: "content/diaspora-countries"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Country Name", name: "title", widget: "string"}
+      - {label: "Country Slug", name: "slug", widget: "string", hint: "URL-friendly name e.g. brazil, united-kingdom, trinidad-and-tobago"}
+      - {label: "Flag Emoji", name: "flag", widget: "string", hint: "e.g. 🇧🇷"}
+      - {label: "Region", name: "region", widget: "select", options: ["The Americas", "Caribbean", "Africa", "Europe", "Asia", "Oceania"]}
+      - {label: "Estimated Population", name: "population", widget: "string", hint: "e.g. 1–2 million"}
+      - {label: "Short Overview", name: "description", widget: "text"}
+      - {label: "Tags", name: "tags", widget: "list", hint: "e.g. Candomblé, Cultural Centers"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
+      - {label: "Full Country Content", name: "body", widget: "markdown", hint: "Add detailed content about Yoruba culture, history, religion and community in this country"}
+
   # Pages Collection (for About, etc.)
   - name: "pages"
     label: "Pages"
@@ -85,6 +102,3 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Mission Statement", name: "mission", widget: "markdown"}
           - {label: "Vision", name: "vision", widget: "markdown", required: false}
-
-# User roles (configure after setting up Netlify Identity)
-# Roles: admin, editor, contributor

@@ -94,6 +94,20 @@
     margin-bottom: 1rem;
 }
 
+.country-arrow {
+    margin-left: auto;
+    color: var(--primary-color);
+    font-size: 1rem;
+    opacity: 0;
+    transform: translateX(-5px);
+    transition: all 0.3s ease;
+}
+
+.country-card:hover .country-arrow {
+    opacity: 1;
+    transform: translateX(0);
+}
+
 .country-flag {
     font-size: 3rem;
     line-height: 1;

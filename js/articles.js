@@ -184,19 +184,21 @@ function displayArticles(articles) {
         card.setAttribute('data-category', article.category);
         
         card.innerHTML = `
-            <div class="article-image">
-                ${article.image ? 
-                    `<img src="${article.image}" alt="${article.title}">` : 
-                    '<div style="width:100%;height:100%;background:linear-gradient(135deg, var(--primary-color), var(--secondary-color));"></div>'
-                }
-                <span class="article-category">${getCategoryLabel(article.category)}</span>
-            </div>
+            <a href="article-detail.html?id=${article.id}" class="article-image-link">
+                <div class="article-image">
+                    ${article.image ? 
+                        `<img src="${article.image}" alt="${article.title}">` : 
+                        '<div style="width:100%;height:100%;background:linear-gradient(135deg, var(--primary-color), var(--secondary-color));"></div>'
+                    }
+                    <span class="article-category">${getCategoryLabel(article.category)}</span>
+                </div>
+            </a>
             <div class="article-content">
                 <div class="article-meta">
                     <span><i class="far fa-calendar"></i> ${article.date}</span>
                     <span><i class="far fa-clock"></i> ${article.readTime} read</span>
                 </div>
-                <h3>${article.title}</h3>
+                <h3><a href="article-detail.html?id=${article.id}" style="color:inherit;text-decoration:none;">${article.title}</a></h3>
                 <p>${article.excerpt}</p>
                 <a href="article-detail.html?id=${article.id}" class="article-link">
                     Read Full Article <i class="fas fa-arrow-right"></i>

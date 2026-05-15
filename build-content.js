@@ -197,7 +197,8 @@ function buildContent() {
         { name: 'stories', dir: path.join(contentDir, 'stories') },
         { name: 'ifa', dir: path.join(contentDir, 'ifa') },
         { name: 'gallery', dir: path.join(contentDir, 'gallery') },
-        { name: 'pages', dir: path.join(contentDir, 'pages') }
+        { name: 'pages', dir: path.join(contentDir, 'pages') },
+        { name: 'diaspora-countries', dir: path.join(contentDir, 'diaspora-countries') }
     ];
     
     const results = {};

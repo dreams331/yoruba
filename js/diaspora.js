@@ -177,9 +177,13 @@ function populateCountries(region, containerId) {
     const countries = diasporaData[region];
     
     countries.forEach(country => {
+        const slug = country.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
         const card = document.createElement('div');
         card.className = 'country-card';
-        
+        card.style.cursor = 'pointer';
+        card.setAttribute('role', 'link');
+        card.setAttribute('tabindex', '0');
+
         card.innerHTML = `
             <div class="country-header">
                 <div class="country-flag">${country.flag}</div>
@@ -187,13 +191,18 @@ function populateCountries(region, containerId) {
                     <h3>${country.name}</h3>
                     <p class="population">${country.population}</p>
                 </div>
+                <div class="country-arrow"><i class="fas fa-arrow-right"></i></div>
             </div>
             <p class="country-description">${country.description}</p>
             <div class="country-tags">
                 ${country.tags.map(tag => `<span class="country-tag">${tag}</span>`).join('')}
             </div>
         `;
-        
+
+        const navigate = () => { window.location.href = `diaspora-country.html?country=${slug}`; };
+        card.addEventListener('click', navigate);
+        card.addEventListener('keydown', (e) => { if (e.key === 'Enter') navigate(); });
+
         container.appendChild(card);
     });
 }

@@ -1,0 +1,223 @@
+/* Diaspora Country Page Styles */
+
+.country-hero {
+    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    color: var(--white);
+    padding: var(--spacing-xl) 0 var(--spacing-lg);
+}
+
+.back-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: rgba(255,255,255,0.85);
+    font-weight: 600;
+    margin-bottom: var(--spacing-md);
+    text-decoration: none;
+    transition: var(--transition);
+}
+
+.back-link:hover {
+    color: var(--white);
+    gap: 0.75rem;
+}
+
+.country-hero-content {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-lg);
+}
+
+.country-flag-large {
+    font-size: 5rem;
+    line-height: 1;
+}
+
+.country-hero-content h1 {
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+}
+
+.country-region {
+    font-size: 1.1rem;
+    opacity: 0.85;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 0.5rem;
+}
+
+.country-population {
+    font-size: 1rem;
+    opacity: 0.9;
+}
+
+.country-population i {
+    margin-right: 0.4rem;
+}
+
+/* Overview Grid */
+.country-overview {
+    padding: var(--spacing-xl) 0;
+    background: var(--light-color);
+}
+
+.overview-grid {
+    display: grid;
+    grid-template-columns: 1fr 320px;
+    gap: var(--spacing-lg);
+    align-items: start;
+}
+
+@media (max-width: 900px) {
+    .overview-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Content Blocks */
+.content-block {
+    background: var(--white);
+    border-radius: 15px;
+    padding: var(--spacing-lg);
+    margin-bottom: var(--spacing-md);
+    box-shadow: 0 3px 15px rgba(0,0,0,0.07);
+}
+
+.content-block h2 {
+    font-size: 1.6rem;
+    color: var(--text-dark);
+    margin-bottom: var(--spacing-md);
+    padding-bottom: 0.75rem;
+    border-bottom: 2px solid var(--primary-color);
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+}
+
+.content-block h2 i {
+    color: var(--primary-color);
+    font-size: 1.3rem;
+}
+
+.content-block p {
+    color: var(--text-light);
+    line-height: 1.8;
+    font-size: 1.05rem;
+}
+
+.placeholder-text {
+    color: var(--text-light) !important;
+    font-style: italic;
+    background: var(--light-color);
+    padding: var(--spacing-md);
+    border-radius: 8px;
+    border-left: 4px solid var(--primary-color);
+}
+
+.placeholder-text a {
+    color: var(--primary-color);
+    font-weight: 600;
+}
+
+.country-tags-large {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: var(--spacing-sm);
+}
+
+.country-tag-large {
+    padding: 0.4rem 1rem;
+    background: rgba(193, 120, 23, 0.1);
+    color: var(--primary-color);
+    border-radius: 50px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    border: 1px solid rgba(193, 120, 23, 0.2);
+}
+
+/* Sidebar */
+.country-sidebar {
+    position: sticky;
+    top: 100px;
+}
+
+.sidebar-block {
+    background: var(--white);
+    border-radius: 15px;
+    padding: var(--spacing-md);
+    margin-bottom: var(--spacing-md);
+    box-shadow: 0 3px 15px rgba(0,0,0,0.07);
+}
+
+.sidebar-block h3 {
+    font-size: 1.1rem;
+    color: var(--text-dark);
+    margin-bottom: var(--spacing-sm);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.sidebar-block h3 i {
+    color: var(--primary-color);
+}
+
+.facts-list {
+    list-style: none;
+    padding: 0;
+}
+
+.facts-list li {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.6rem 0;
+    border-bottom: 1px solid var(--border-color);
+    font-size: 0.95rem;
+    gap: 0.5rem;
+}
+
+.facts-list li:last-child {
+    border-bottom: none;
+}
+
+.facts-list li span:first-child {
+    color: var(--text-light);
+    font-weight: 500;
+    white-space: nowrap;
+}
+
+.facts-list li span:last-child {
+    color: var(--text-dark);
+    font-weight: 600;
+    text-align: right;
+}
+
+.sidebar-link {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    color: var(--primary-color);
+    font-weight: 600;
+    padding: 0.6rem 0;
+    border-bottom: 1px solid var(--border-color);
+    text-decoration: none;
+    transition: var(--transition);
+    font-size: 0.95rem;
+}
+
+.sidebar-link:last-child {
+    border-bottom: none;
+}
+
+.sidebar-link:hover {
+    gap: 0.9rem;
+    color: var(--secondary-color);
+}
+
+/* Related articles grid */
+.related-articles-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: var(--spacing-sm);
+}

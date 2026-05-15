@@ -3,27 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Learn about IFA divination, Yoruba spiritual wisdom, and the teachings of Orunmila.">
-    <title>IFA Wisdom - Yoruba Heritage</title>
+    <meta name="description" content="Yoruba heritage and diaspora in this country">
+    <title>Yoruba Diaspora - Yoruba Heritage</title>
     <!-- Open Graph / Social Preview -->
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Yoruba Heritage">
-    <meta property="og:title" content="IFA Wisdom - Yoruba Heritage">
-    <meta property="og:description" content="Learn about IFA divination, Yoruba spiritual wisdom, and the teachings of Orunmila — one of humanity's oldest spiritual traditions.">
+    <meta property="og:title" content="Yoruba Diaspora - Yoruba Heritage">
     <meta property="og:image" content="https://yorubaheritage.netlify.app/images/uploads/ife.png">
-    <meta property="og:url" content="https://yorubaheritage.netlify.app/ifa-wisdom.html">
+    <meta property="og:url" content="https://www.yorubaheritage.com/diaspora-country.html">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="IFA Wisdom - Yoruba Heritage">
-    <meta name="twitter:description" content="Learn about IFA divination, Yoruba spiritual wisdom, and the teachings of Orunmila — one of humanity's oldest spiritual traditions.">
-    <meta name="twitter:image" content="https://yorubaheritage.netlify.app/images/uploads/ife.png">
     <link rel="icon" type="image/png" href="/images/favicon.png">
     <link rel="apple-touch-icon" href="/images/favicon.png">
     <link rel="stylesheet" href="css/styles.css">
-    <link rel="stylesheet" href="css/articles.css">
+    <link rel="stylesheet" href="css/diaspora-country.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Netlify Identity Widget -->
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-43VWC293SB"></script>
     <script>
@@ -32,7 +30,11 @@
       gtag('js', new Date());
       gtag('config', 'G-43VWC293SB');
     </script>
-</head>        <div class="container">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
             <div class="nav-brand">
                 <a href="index.html">
                     <h1><i class="fas fa-crown"></i> Yoruba Heritage</h1>
@@ -47,7 +49,8 @@
                 <li><a href="index.html">Home</a></li>
                 <li><a href="articles.html">Articles</a></li>
                 <li><a href="stories.html">Stories</a></li>
-                <li><a href="ifa-wisdom.html" class="active">IFA Wisdom</a></li>
+                <li><a href="ifa-wisdom.html">IFA Wisdom</a></li>
+                <li><a href="diaspora.html" class="active">Diaspora</a></li>
                 <li><a href="gallery.html">Gallery</a></li>
                 <li><a href="about.html">About</a></li>
                 <li><a href="search.html" class="btn-search"><i class="fas fa-search"></i> Search</a></li>
@@ -55,34 +58,66 @@
         </div>
     </nav>
 
-    <!-- Page Header -->
-    <section class="page-header">
+    <!-- Country Hero -->
+    <section class="country-hero" id="countryHero">
         <div class="container">
-            <h1><i class="fas fa-infinity"></i> IFA Wisdom</h1>
-            <p>Ancient divination system and spiritual guidance of the Yoruba people</p>
-        </div>
-    </section>
-
-    <!-- Introduction -->
-    <section class="intro-section">
-        <div class="container">
-            <div class="intro-content">
-                <h2>What is IFA?</h2>
-                <p>IFA is a comprehensive divination system and spiritual tradition that has guided the Yoruba people for millennia. It represents a vast body of knowledge encompassing philosophy, medicine, psychology, and cosmology. Through IFA divination, practitioners (Babalawos) access divine wisdom to provide guidance on life's challenges and opportunities.</p>
-                <p>The IFA literary corpus, known as the Odu IFA, consists of 256 chapters (Odu) containing thousands of verses. These verses encode the collective wisdom of countless generations, offering insights into every aspect of human existence.</p>
+            <a href="diaspora.html" class="back-link"><i class="fas fa-arrow-left"></i> Back to Diaspora</a>
+            <div class="country-hero-content">
+                <div class="country-flag-large" id="countryFlag"></div>
+                <div>
+                    <h1 id="countryName">Loading...</h1>
+                    <p class="country-region" id="countryRegion"></p>
+                    <p class="country-population"><i class="fas fa-users"></i> Estimated Yoruba population: <span id="countryPopulation"></span></p>
+                </div>
             </div>
         </div>
     </section>
 
-    <!-- IFA Content Grid -->
-    <section class="articles-section">
+    <!-- Country Overview -->
+    <section class="country-overview">
         <div class="container">
-            <div class="section-header">
-                <h2>Explore IFA Knowledge</h2>
-                <p>Learn about divination, the Orisha, and spiritual wisdom</p>
-            </div>
-            <div class="articles-grid" id="ifaGrid">
-                <!-- Content will be dynamically loaded -->
+            <div class="overview-grid">
+                <div class="overview-main">
+                    <div class="content-block" id="overviewBlock">
+                        <h2><i class="fas fa-globe-africa"></i> Overview</h2>
+                        <p id="countryDescription"></p>
+                        <div class="country-tags-large" id="countryTags"></div>
+                    </div>
+
+                    <!-- CMS Content Section -->
+                    <div class="content-block" id="cmsContent">
+                        <h2><i class="fas fa-book-open"></i> Yoruba Culture in <span id="cmsCountryName"></span></h2>
+                        <div id="countryArticleContent">
+                            <p class="placeholder-text"><i class="fas fa-pen"></i> Content for this country page is being developed. Check back soon or <a href="about.html#contribute">contribute your knowledge</a>.</p>
+                        </div>
+                    </div>
+
+                    <!-- Community Articles -->
+                    <div class="content-block" id="communityArticles">
+                        <h2><i class="fas fa-newspaper"></i> Related Articles</h2>
+                        <div class="related-articles-grid" id="relatedArticlesGrid">
+                            <p class="placeholder-text">Articles about this country's Yoruba community will appear here.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Sidebar -->
+                <aside class="country-sidebar">
+                    <div class="sidebar-block">
+                        <h3><i class="fas fa-info-circle"></i> Quick Facts</h3>
+                        <ul class="facts-list" id="quickFacts">
+                            <li><span>Region:</span> <span id="sidebarRegion">—</span></li>
+                            <li><span>Population:</span> <span id="sidebarPop">—</span></li>
+                            <li><span>Key Practices:</span> <span id="sidebarTags">—</span></li>
+                        </ul>
+                    </div>
+                    <div class="sidebar-block">
+                        <h3><i class="fas fa-map-marked-alt"></i> Explore More</h3>
+                        <a href="diaspora.html" class="sidebar-link"><i class="fas fa-globe"></i> All Diaspora Countries</a>
+                        <a href="articles.html?filter=diaspora" class="sidebar-link"><i class="fas fa-newspaper"></i> Diaspora Articles</a>
+                        <a href="stories.html" class="sidebar-link"><i class="fas fa-scroll"></i> Traditional Stories</a>
+                    </div>
+                </aside>
             </div>
         </div>
     </section>
@@ -115,8 +150,7 @@
                     <ul>
                         <li><a href="search.html">Search</a></li>
                         <li><a href="about.html">About Us</a></li>
-                        <li><a href="contact.html">Contact</a></li>
-                        <li><a href="contribute.html">Contribute</a></li>
+                        <li><a href="diaspora.html">Diaspora</a></li>
                     </ul>
                 </div>
                 <div class="footer-section">
@@ -137,6 +171,6 @@
 
     <script src="js/main.js"></script>
     <script src="js/content-loader.js"></script>
-    <script src="js/ifa.js"></script>
+    <script src="js/diaspora-country.js"></script>
 </body>
 </html>
