@@ -116,52 +116,58 @@ window.addEventListener('scroll', () => {
 // ========================================
 const featuredArticles = [
     {
+        id: 1,
         title: "The Oyo Empire: Rise of a West African Power",
         category: "History",
         date: "October 20, 2025",
         excerpt: "Explore the magnificent history of the Oyo Empire, one of the most powerful Yoruba kingdoms that dominated West Africa from the 14th to 19th century.",
-        image: null,
-        link: "articles.html#oyo-empire"
+        image: "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=800",
+        link: "article-detail.html?id=1"
     },
     {
+        id: 3,
         title: "Understanding IFA: The Ancient Oracle System",
         category: "IFA Wisdom",
         date: "October 18, 2025",
         excerpt: "Delve into the profound wisdom of IFA divination, a complex system of spiritual guidance that has served the Yoruba people for millennia.",
-        image: null,
-        link: "ifa-wisdom.html#oracle-system"
+        image: "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800",
+        link: "article-detail.html?id=3"
     },
     {
+        id: 5,
         title: "Yoruba Language: A Linguistic Treasure",
         category: "Culture",
         date: "October 15, 2025",
         excerpt: "Discover the beauty and complexity of the Yoruba language, its tonal nature, and its influence on languages across the African diaspora.",
-        image: null,
-        link: "articles.html#yoruba-language"
+        image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800",
+        link: "article-detail.html?id=5"
     },
     {
+        id: 8,
         title: "Festivals and Celebrations: Preserving Tradition",
         category: "Culture",
         date: "October 12, 2025",
         excerpt: "From Egungun to Osun-Osogbo, explore the vibrant festivals that keep Yoruba traditions alive and thriving in the modern world.",
-        image: null,
-        link: "articles.html#festivals"
+        image: "https://images.unsplash.com/photo-1516306580977-bd7e34a1f04e?w=800",
+        link: "article-detail.html?id=8"
     },
     {
+        id: 6,
         title: "The Yoruba Diaspora: From Africa to the Americas",
         category: "Diaspora",
         date: "October 10, 2025",
         excerpt: "Trace the journey of Yoruba people across the Atlantic and their lasting cultural impact in Brazil, Cuba, Trinidad, and beyond.",
-        image: null,
-        link: "articles.html#diaspora"
+        image: "https://images.unsplash.com/photo-1523805009345-7448845a9e53?w=800",
+        link: "article-detail.html?id=6"
     },
     {
+        id: 2,
         title: "Ife: The Sacred City and Cradle of Civilization",
         category: "History",
         date: "October 8, 2025",
         excerpt: "Uncover the mysteries of Ile-Ife, the spiritual homeland of the Yoruba people and the legendary birthplace of humanity according to Yoruba mythology.",
-        image: null,
-        link: "articles.html#ile-ife"
+        image: "https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3?w=800",
+        link: "article-detail.html?id=2"
     }
 ];
 
@@ -174,19 +180,21 @@ function loadFeaturedContent() {
         card.className = 'featured-card';
         
         card.innerHTML = `
-            <div class="featured-image">
-                ${article.image ? 
-                    `<img src="${article.image}" alt="${article.title}">` : 
-                    '<div style="width:100%;height:100%;background:linear-gradient(135deg, var(--primary-color), var(--secondary-color));"></div>'
-                }
-                <span class="featured-badge">${article.category}</span>
-            </div>
+            <a href="${article.link}" class="featured-image-link">
+                <div class="featured-image">
+                    ${article.image ? 
+                        `<img src="${article.image}" alt="${article.title}">` : 
+                        '<div style="width:100%;height:100%;background:linear-gradient(135deg, var(--primary-color), var(--secondary-color));"></div>'
+                    }
+                    <span class="featured-badge">${article.category}</span>
+                </div>
+            </a>
             <div class="featured-content">
                 <div class="featured-meta">
                     <span><i class="far fa-calendar"></i> ${article.date}</span>
                     <span><i class="far fa-clock"></i> 5 min read</span>
                 </div>
-                <h3>${article.title}</h3>
+                <h3><a href="${article.link}" style="color:inherit;text-decoration:none;">${article.title}</a></h3>
                 <p>${article.excerpt}</p>
                 <a href="${article.link}" class="featured-link">
                     Read More <i class="fas fa-arrow-right"></i>
