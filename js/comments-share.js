@@ -64,7 +64,8 @@ function floatShare(platform) {
 function initDisqus() {
     if (!document.getElementById('disqus_thread')) return;
 
-    var disqus_config = function () {
+    // Must be global for Disqus to pick it up
+    window.disqus_config = function () {
         this.page.url = window.location.href;
         this.page.identifier = window.location.pathname;
     };
