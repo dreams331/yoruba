@@ -135,9 +135,9 @@ function processMarkdownFile(filePath, category) {
     const content = fs.readFileSync(filePath, 'utf8');
     const { metadata, content: bodyContent } = parseFrontMatter(content);
     
-    // Generate an ID from the filename
+    // Generate an ID from the filename (keep hyphens for URL-friendly slugs)
     const filename = path.basename(filePath, '.md');
-    const id = filename.replace(/^\d{4}-\d{2}-\d{2}-/, '').replace(/-/g, '_');
+    const id = filename.replace(/^\d{4}-\d{2}-\d{2}-/, '');
     
     // Convert content to HTML
     const htmlContent = markdownToHtml(bodyContent);

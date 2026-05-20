@@ -3,28 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Browse the Yoruba Heritage gallery of cultural artifacts, festivals, and traditions.">
-    <title>Gallery - Yoruba Heritage</title>
-    <!-- Open Graph / Social Preview -->
-    <meta property="og:type" content="website">
-    <meta property="og:site_name" content="Yoruba Heritage">
-    <meta property="og:title" content="Gallery - Yoruba Heritage">
-    <meta property="og:description" content="Browse the Yoruba Heritage gallery — cultural artifacts, festivals, art and traditions captured across time.">
-    <meta property="og:image" content="https://yorubaheritage.netlify.app/images/uploads/ife.png">
-    <meta property="og:url" content="https://yorubaheritage.netlify.app/gallery.html">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Gallery - Yoruba Heritage">
-    <meta name="twitter:description" content="Browse the Yoruba Heritage gallery — cultural artifacts, festivals, art and traditions captured across time.">
-    <meta name="twitter:image" content="https://yorubaheritage.netlify.app/images/uploads/ife.png">
+    <meta name="description" content="Read traditional Yoruba stories and folktales">
+    <title>Story - Yoruba Heritage</title>
     <link rel="icon" type="image/png" href="/images/favicon.png">
     <link rel="apple-touch-icon" href="/images/favicon.png">
     <link rel="stylesheet" href="css/styles.css">
-    <link rel="stylesheet" href="css/gallery.css">
+    <link rel="stylesheet" href="css/article-detail.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-43VWC293SB"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -32,55 +20,88 @@
       gtag('js', new Date());
       gtag('config', 'G-43VWC293SB');
     </script>
-</head>            <div class="nav-brand">
+    <style>
+        .moral-box {
+            background: linear-gradient(135deg, #8B0000 0%, #C17817 100%);
+            color: #fff;
+            border-radius: 12px;
+            padding: 1.5rem 2rem;
+            margin: 2rem 0;
+            display: flex;
+            align-items: flex-start;
+            gap: 1rem;
+        }
+        .moral-box i { font-size: 1.6rem; margin-top: 2px; flex-shrink: 0; }
+        .moral-box p { margin: 0; font-style: italic; font-size: 1.05rem; line-height: 1.7; }
+        .moral-box strong { display: block; font-style: normal; margin-bottom: 0.3rem; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 1px; opacity: 0.85; }
+    </style>
+</head>
+<body>
+    <div id="reading-progress-bar"></div>
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-brand">
                 <a href="index.html">
                     <h1><i class="fas fa-crown"></i> Yoruba Heritage</h1>
                 </a>
             </div>
             <button class="nav-toggle" id="navToggle">
-                <span></span>
-                <span></span>
-                <span></span>
+                <span></span><span></span><span></span>
             </button>
             <ul class="nav-menu" id="navMenu">
                 <li><a href="index.html">Home</a></li>
                 <li><a href="articles.html">Articles</a></li>
-                <li><a href="stories.html">Stories</a></li>
+                <li><a href="stories.html" class="active">Stories</a></li>
                 <li><a href="ifa-wisdom.html">IFA Wisdom</a></li>
-                <li><a href="gallery.html" class="active">Gallery</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
                 <li><a href="about.html">About</a></li>
                 <li><a href="search.html" class="btn-search"><i class="fas fa-search"></i> Search</a></li>
             </ul>
         </div>
     </nav>
 
-    <!-- Page Header -->
-    <section class="page-header">
-        <div class="container">
-            <h1><i class="fas fa-images"></i> Visual Gallery</h1>
-            <p>Explore images, artifacts, festivals, and cultural treasures</p>
-        </div>
-    </section>
-
-    <!-- Gallery Filter Bar -->
-    <section class="gallery-filter-section">
-        <div class="container">
-            <div class="gallery-filter-bar" id="galleryFilters">
-                <!-- Filter buttons injected by gallery.js -->
+    <article class="article-detail">
+        <div class="article-header">
+            <div class="container">
+                <a href="stories.html" class="back-link">
+                    <i class="fas fa-arrow-left"></i> Back to Stories
+                </a>
+                <div class="article-category-badge" id="storyCategory">Folktale</div>
+                <h1 id="storyTitle">Loading...</h1>
+                <div class="article-meta">
+                    <span><i class="far fa-calendar"></i> <span id="storyDate"></span></span>
+                    <span><i class="far fa-clock"></i> <span id="storyReadTime"></span> read</span>
+                    <span><i class="fas fa-scroll"></i> Oral Tradition</span>
+                </div>
             </div>
         </div>
-    </section>
 
-    <!-- Gallery Grid -->
-    <section class="gallery-grid-section">
+        <div class="article-featured-image" id="storyImage"></div>
+
         <div class="container">
-            <div class="gallery-grid" id="galleryGrid">
-                <!-- Items injected by gallery.js -->
+            <div class="article-content" id="storyContent">
+                <p>Loading story...</p>
+            </div>
+
+            <div id="storyMoral"></div>
+
+            <div class="article-share">
+                <h3>Share this story</h3>
+                <div class="share-buttons">
+                    <button class="share-btn facebook" onclick="shareItem('facebook')"><i class="fab fa-facebook"></i> Facebook</button>
+                    <button class="share-btn twitter" onclick="shareItem('twitter')"><i class="fab fa-twitter"></i> Twitter</button>
+                    <button class="share-btn whatsapp" onclick="shareItem('whatsapp')"><i class="fab fa-whatsapp"></i> WhatsApp</button>
+                    <button class="share-btn copy" onclick="copyLink()"><i class="fas fa-link"></i> Copy Link</button>
+                </div>
+            </div>
+
+            <div class="related-articles">
+                <h2>More Stories</h2>
+                <div class="related-grid" id="relatedStories"></div>
             </div>
         </div>
-    </section>
+    </article>
 
-    <!-- Footer -->
     <footer class="footer">
         <div class="container">
             <div class="footer-content">
@@ -108,8 +129,6 @@
                     <ul>
                         <li><a href="search.html">Search</a></li>
                         <li><a href="about.html">About Us</a></li>
-                        <li><a href="contact.html">Contact</a></li>
-                        <li><a href="contribute.html">Contribute</a></li>
                     </ul>
                 </div>
                 <div class="footer-section">
@@ -129,6 +148,7 @@
     </footer>
 
     <script src="js/main.js"></script>
-    <script src="js/gallery.js"></script>
+    <script src="js/content-loader.js"></script>
+    <script src="js/story-detail.js"></script>
 </body>
 </html>

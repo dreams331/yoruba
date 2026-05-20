@@ -2,7 +2,7 @@
 title: "Understanding IFA: The Oracle of Wisdom"
 date: 2025-10-21T10:00:00.000Z
 category: "IFA Basics"
-image: null
+image: /images/uploads/ifa.png
 excerpt: "IFA is the Yoruba system of divination based on an extensive body of texts and mathematical systems. Learn the fundamentals of this ancient wisdom tradition that has guided millions for centuries."
 readTime: "12 min"
 ---

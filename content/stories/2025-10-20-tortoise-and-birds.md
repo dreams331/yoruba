@@ -2,7 +2,7 @@
 title: "The Tortoise and the Birds: Ijapa's Clever Scheme"
 date: 2025-10-20T10:00:00.000Z
 category: "folktales"
-image: null
+image: /images/uploads/ijapa.png
 excerpt: "Learn how Ijapa the tortoise tricked the birds to attend a feast in the sky, and how his greed led to his downfall. A classic tale teaching the dangers of deceit and selfishness."
 readTime: "5 min"
 moral: "Greed and deception ultimately lead to one's downfall. Honesty and respect for others are more valuable than temporary gains."
