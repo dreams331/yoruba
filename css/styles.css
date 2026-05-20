@@ -296,6 +296,26 @@ img {
     color: #fff;
 }
 
+/* ── Disqus Comment Count on Cards ────────────────────────────────────── */
+.article-comment-count {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 0.82rem;
+    color: var(--text-secondary, #888);
+    text-decoration: none;
+    margin-top: 0.4rem;
+}
+.article-comment-count::before {
+    content: '\f086';
+    font-family: 'Font Awesome 6 Free';
+    font-weight: 900;
+    color: var(--primary-color);
+}
+.article-comment-count:hover {
+    color: var(--primary-color);
+}
+
 /* ── Floating Share Bar ────────────────────────────────────────────────── */
 .floating-share {
     position: fixed;

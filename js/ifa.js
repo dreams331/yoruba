@@ -136,6 +136,7 @@ function displayIfaContent() {
                 <a href="ifa-detail.html?id=${item.id}" class="article-link">
                     Read More <i class="fas fa-arrow-right"></i>
                 </a>
+                <a href="ifa-detail.html?id=${item.id}#disqus_thread" class="disqus-comment-count article-comment-count" data-disqus-url="${window.location.origin}/ifa-detail.html?id=${item.id}">0 Comments</a>
             </div>
         `;
         
