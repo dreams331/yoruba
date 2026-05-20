@@ -60,34 +60,22 @@ function floatShare(platform) {
     }
 }
 
-// ── Giscus Comments ────────────────────────────────────────────────────────
-function initGiscus(containerId = 'giscus-comments') {
-    const container = document.getElementById(containerId);
-    if (!container) return;
+// ── Disqus Comments ────────────────────────────────────────────────────────
+function initDisqus() {
+    if (!document.getElementById('disqus_thread')) return;
 
-    const theme = document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light';
+    var disqus_config = function () {
+        this.page.url = window.location.href;
+        this.page.identifier = window.location.pathname;
+    };
 
-    const script = document.createElement('script');
-    script.src            = 'https://giscus.app/client.js';
-    script.setAttribute('data-repo',              'dreams331/yoruba');
-    script.setAttribute('data-repo-id',           'R_kgDOQIfzTg');
-    script.setAttribute('data-category',          'General');
-    script.setAttribute('data-category-id',       'DIC_kwDOQIfzTs4C9ffZ');
-    script.setAttribute('data-mapping',           'pathname');
-    script.setAttribute('data-strict',            '0');
-    script.setAttribute('data-reactions-enabled', '1');
-    script.setAttribute('data-emit-metadata',     '0');
-    script.setAttribute('data-input-position',    'top');
-    script.setAttribute('data-theme',             theme);
-    script.setAttribute('data-lang',              'en');
-    script.setAttribute('data-loading',           'lazy');
-    script.crossOrigin = 'anonymous';
-    script.async = true;
-
-    container.appendChild(script);
+    var d = document, s = d.createElement('script');
+    s.src = 'https://yoruba-heritage.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
 }
 
 document.addEventListener('DOMContentLoaded', () => {
     initFloatingShare();
-    initGiscus();
+    initDisqus();
 });
