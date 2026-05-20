@@ -227,6 +227,36 @@ if (newsletterForm) {
 }
 
 // ========================================
+// Newsletter Form — Netlify AJAX submission
+// ========================================
+document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.newsletter-form').forEach(form => {
+        form.addEventListener('submit', async e => {
+            e.preventDefault();
+            const emailInput = form.querySelector('input[type="email"]');
+            const btn = form.querySelector('button[type="submit"]');
+            if (!emailInput || !emailInput.value) return;
+
+            const original = btn.textContent;
+            btn.textContent = 'Subscribing…';
+            btn.disabled = true;
+
+            try {
+                const body = new URLSearchParams({ 'form-name': 'newsletter', email: emailInput.value });
+                await fetch('/', { method: 'POST', headers: { 'Content-Type': 'application/x-www-form-urlencoded' }, body });
+                btn.textContent = '✓ Subscribed!';
+                btn.style.background = '#2e7d32';
+                emailInput.value = '';
+                setTimeout(() => { btn.textContent = original; btn.style.background = ''; btn.disabled = false; }, 3000);
+            } catch {
+                btn.textContent = 'Try again';
+                btn.disabled = false;
+            }
+        });
+    });
+});
+
+// ========================================
 // Fade-in Animation on Scroll
 // ========================================
 const observerOptions = {
