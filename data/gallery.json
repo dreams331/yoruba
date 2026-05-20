@@ -1,1 +1,266 @@
-[]
+[
+  {
+    "id": "ife-bronze-head",
+    "title": "Ife Bronze Head",
+    "category": "artifacts",
+    "description": "A masterpiece of Yoruba classical art — the bronze heads of Ile-Ife represent the spiritual and royal power of Ooni, believed to be commissioned from the 12th–14th century CE.",
+    "image": "/images/uploads/ife.png",
+    "tags": ["Ile-Ife", "bronze", "art", "royalty"]
+  },
+  {
+    "id": "adire-cloth",
+    "title": "Adire — Indigo-Dyed Cloth",
+    "category": "arts-crafts",
+    "description": "Adire is the traditional Yoruba art of resist-dyeing fabric using indigo. Practiced predominantly by Egba women in Abeokuta, each pattern carries symbolic meaning.",
+    "image": "/images/uploads/adire.png",
+    "tags": ["adire", "textile", "art", "Abeokuta"]
+  },
+  {
+    "id": "egungun-masquerade",
+    "title": "Egungun Masquerade",
+    "category": "festivals",
+    "description": "The Egungun masquerade is a sacred Yoruba ceremony that invokes the spirits of ancestors. The elaborate costumes represent the returning dead who come to bless and counsel the living.",
+    "image": "/images/uploads/egunn.png",
+    "tags": ["Egungun", "ancestors", "masquerade", "ceremony"]
+  },
+  {
+    "id": "eyo-festival",
+    "title": "Eyo Festival — Lagos",
+    "category": "festivals",
+    "description": "The Eyo Festival, also called Adamu Orisa Play, is a uniquely Lagosian masquerade honouring deceased prominent citizens. Eyo masquerades in white robes and broad hats process through Lagos Island.",
+    "image": "/images/uploads/eyo.png",
+    "tags": ["Eyo", "Lagos", "festival", "masquerade"]
+  },
+  {
+    "id": "gelede-mask",
+    "title": "Gelede Mask",
+    "category": "artifacts",
+    "description": "Gelede masks are used in ceremonies honouring the power of elderly women, mothers, and female ancestors. Recognized by UNESCO as Intangible Cultural Heritage of Humanity.",
+    "image": "/images/uploads/gelede.png",
+    "tags": ["Gelede", "mask", "women", "UNESCO"]
+  },
+  {
+    "id": "sango-thunder",
+    "title": "Sango — Orisha of Thunder",
+    "category": "sacred",
+    "description": "Sango, the deified third Alaafin of Oyo, is one of the most powerful Orisha. Depicted with a double-headed axe (oshe sango), he embodies justice, power, and the storm.",
+    "image": "/images/uploads/sango.png",
+    "tags": ["Sango", "Orisha", "thunder", "Oyo"]
+  },
+  {
+    "id": "osun-river",
+    "title": "Osun-Osogbo Sacred Grove",
+    "category": "sacred",
+    "description": "The Osun-Osogbo Sacred Grove, a UNESCO World Heritage Site, is the dwelling place of Osun, Orisha of rivers and fertility. Pilgrims and devotees gather there every August for the annual festival.",
+    "image": "/images/uploads/osun.png",
+    "tags": ["Osun", "Osogbo", "grove", "UNESCO", "sacred"]
+  },
+  {
+    "id": "ifa-divination",
+    "title": "IFA Divination",
+    "category": "sacred",
+    "description": "IFA is a sacred system of divination central to Yoruba spiritual life. The Babalawo uses the opele chain or ikin (palm nuts) to communicate the will of Orunmila, Orisha of wisdom.",
+    "image": "/images/uploads/ifa.png",
+    "tags": ["IFA", "divination", "Babalawo", "Orunmila"]
+  },
+  {
+    "id": "oyo-empire",
+    "title": "The Old Oyo Empire",
+    "category": "history",
+    "description": "Old Oyo was the largest and most powerful Yoruba state, controlling vast trade routes from the 14th–19th century. At its peak, the Alaafin of Oyo commanded cavalry forces across West Africa.",
+    "image": "/images/uploads/oyo.png",
+    "tags": ["Oyo", "empire", "history", "Alaafin"]
+  },
+  {
+    "id": "abeokuta-rock",
+    "title": "Olumo Rock — Abeokuta",
+    "category": "history",
+    "description": "Olumo Rock in Abeokuta served as a natural fortress for the Egba people during 19th century wars. Its name means 'God moulded this' and it remains a powerful symbol of Egba resilience.",
+    "image": "/images/uploads/abeokuta.png",
+    "tags": ["Abeokuta", "Egba", "rock", "history"]
+  },
+  {
+    "id": "benin-bronzes",
+    "title": "Benin Bronzes — Royal Art",
+    "category": "artifacts",
+    "description": "The Benin Bronzes are a collection of over a thousand metal plaques and sculptures that decorated the royal palace of the Kingdom of Benin, part of the broader Yoruba-influenced artistic tradition.",
+    "image": "/images/uploads/benin.png",
+    "tags": ["Benin", "bronzes", "art", "royal"]
+  },
+  {
+    "id": "opobo-king",
+    "title": "King Jaja of Opobo",
+    "category": "history",
+    "description": "King Jaja of Opobo (1821–1891) rose from enslaved origins to found and lead the trading kingdom of Opobo. He resisted British colonial expansion and was eventually exiled — a towering figure of Yoruba and Niger Delta history.",
+    "image": "/images/uploads/opobo.png",
+    "tags": ["Jaja", "Opobo", "history", "resistance"]
+  },
+  {
+    "id": "moremi-statue",
+    "title": "Moremi Ajasoro — Heroine of Ile-Ife",
+    "category": "history",
+    "description": "Moremi Ajasoro was a queen of Ile-Ife who sacrificed her son Oluorogbo to save her people from the Ugbo raiders. The giant statue in Osogbo commemorates her legendary bravery.",
+    "image": "/images/uploads/moremi.png",
+    "tags": ["Moremi", "Ile-Ife", "history", "heroine"]
+  },
+  {
+    "id": "wole-soyinka",
+    "title": "Wole Soyinka — Nobel Laureate",
+    "category": "contemporary",
+    "description": "Wole Soyinka, born in Abeokuta in 1934, became Africa's first Nobel Laureate in Literature in 1986. His works fuse Yoruba mythology, oral tradition, and political commentary into world literature.",
+    "image": "/images/uploads/wole.png",
+    "tags": ["Wole Soyinka", "Nobel", "literature", "contemporary"]
+  },
+  {
+    "id": "fela-kuti",
+    "title": "Fela Kuti — Father of Afrobeat",
+    "category": "contemporary",
+    "description": "Fela Anikulapo Kuti (1938–1997) created Afrobeat — a genre fusing Yoruba music, jazz, and funk with fearless political activism. His music and legacy continue to inspire generations worldwide.",
+    "image": "/images/uploads/kuti.png",
+    "tags": ["Fela", "Afrobeat", "music", "contemporary"]
+  },
+  {
+    "id": "yoruba-wedding",
+    "title": "Traditional Yoruba Wedding",
+    "category": "contemporary",
+    "description": "A traditional Yoruba wedding (Igbeyawo) is a vibrant, joyous event. The bride and groom are dressed in aso-oke fabric, and the ceremony features prostration, prayers, kola nut rites, and communal celebration.",
+    "image": "/images/uploads/wed.png",
+    "tags": ["wedding", "ceremony", "culture", "aso-oke"]
+  },
+  {
+    "id": "yoruba-women",
+    "title": "Yoruba Women — Pillars of Society",
+    "category": "contemporary",
+    "description": "Yoruba women have historically commanded great economic and social power — as traders, farmers, artisans, priestesses, and leaders. Their role is celebrated in proverbs, songs, and ceremony.",
+    "image": "/images/uploads/women.png",
+    "tags": ["women", "culture", "society", "contemporary"]
+  },
+  {
+    "id": "isese-festival",
+    "title": "Isese Festival — Day of Tradition",
+    "category": "festivals",
+    "description": "Isese Day (August 20) is an official Osun State holiday celebrating Yoruba indigenous religion and spiritual traditions. Devotees dress in white and honour the Orisha with offerings and prayers.",
+    "image": "/images/uploads/isese.png",
+    "tags": ["Isese", "festival", "religion", "Orisha"]
+  },
+  {
+    "id": "candomble-brazil",
+    "title": "Candomblé — Yoruba in Brazil",
+    "category": "diaspora",
+    "description": "Candomblé is an Afro-Brazilian religion descended from Yoruba traditions brought by enslaved people. Practiced in Bahia and across Brazil, it honours the Orishas and preserves Yoruba language, music, and ritual.",
+    "image": "/images/uploads/candomble.png",
+    "tags": ["Candomblé", "Brazil", "diaspora", "Orisha"]
+  },
+  {
+    "id": "lucumi-cuba",
+    "title": "Lucumí / Santería — Yoruba in Cuba",
+    "category": "diaspora",
+    "description": "Lucumí (also called La Regla de Ocha or Santería) is the Cuban expression of Yoruba religion. Brought by enslaved Yoruba (called Lucumí in Cuba), it syncretised Catholic saints with the Orishas.",
+    "image": "/images/uploads/lucumi.png",
+    "tags": ["Lucumí", "Santería", "Cuba", "diaspora"]
+  },
+  {
+    "id": "yoruba-drums",
+    "title": "Dundun — The Talking Drum",
+    "category": "arts-crafts",
+    "description": "The dundun (talking drum) is perhaps the most iconic Yoruba instrument. Skilled drummers can mimic the tones of the Yoruba language, transmitting messages and praises across great distances.",
+    "image": "/images/uploads/drum.png",
+    "tags": ["drum", "music", "dundun", "art"]
+  },
+  {
+    "id": "yoruba-food",
+    "title": "Yoruba Cuisine",
+    "category": "contemporary",
+    "description": "Yoruba cuisine is rich, aromatic, and diverse. Staples include amala (yam flour), ewedu (jute leaf soup), gbegiri (bean soup), egusi stew, and pounded yam — foods laden with heritage and communal meaning.",
+    "image": "/images/uploads/food.png",
+    "tags": ["food", "cuisine", "culture", "amala"]
+  },
+  {
+    "id": "yoruba-warrior",
+    "title": "Yoruba Warrior",
+    "category": "history",
+    "description": "Yoruba warriors were the backbone of powerful empires — from the cavalry of Old Oyo to the foot soldiers of Ibadan. Their tactics, bravery, and herbal war medicine (ogun) made them formidable throughout West Africa.",
+    "image": "/images/uploads/warrior.png",
+    "tags": ["warrior", "military", "history", "Oyo"]
+  },
+  {
+    "id": "yoruba-monarch",
+    "title": "Yoruba Obas — Sacred Kings",
+    "category": "history",
+    "description": "The Oba (king) in Yoruba society is a sacred figure, combining political authority with spiritual power. Adorned in beaded crowns (ade), the Oba's face is often veiled to protect onlookers from the divine power he carries.",
+    "image": "/images/uploads/monarch.png",
+    "tags": ["Oba", "royalty", "crown", "history"]
+  },
+  {
+    "id": "traditional-house",
+    "title": "Traditional Yoruba Compound",
+    "category": "history",
+    "description": "The traditional Yoruba agbo-ile (compound) is built around a central courtyard where family life unfolds. Compounds reflect the communal nature of Yoruba society — extended families living, farming, and worshipping together.",
+    "image": "/images/uploads/house.png",
+    "tags": ["architecture", "compound", "culture", "family"]
+  },
+  {
+    "id": "bashorun-gaa",
+    "title": "Bashorun Gaa — Power Behind the Throne",
+    "category": "history",
+    "description": "Bashorun Gaa was the most powerful prime minister in Old Oyo history (c.1754–1774), notorious for deposing and executing four Alaafin. He was eventually overthrown by Alaafin Abiodun in a dramatic popular uprising.",
+    "image": "/images/uploads/bashorun.png",
+    "tags": ["Gaa", "Oyo", "history", "politics"]
+  },
+  {
+    "id": "yoruba-trade",
+    "title": "Yoruba Trade & Markets",
+    "category": "history",
+    "description": "Yoruba people were master traders long before European contact. Their market system (oja) — governed by Orisha Oya — was highly organized, with professional guilds, credit systems, and long-distance commerce.",
+    "image": "/images/uploads/trade.png",
+    "tags": ["trade", "market", "economy", "history"]
+  },
+  {
+    "id": "ijapa-tortoise",
+    "title": "Ijapa — The Trickster Tortoise",
+    "category": "arts-crafts",
+    "description": "Ijapa (the tortoise) is the great trickster figure of Yoruba folklore — cunning, clever, and often self-defeating. Stories of Ijapa teach moral lessons about greed, pride, and the consequences of dishonesty.",
+    "image": "/images/uploads/ijapa.png",
+    "tags": ["Ijapa", "folklore", "stories", "trickster"]
+  },
+  {
+    "id": "yoruba-people",
+    "title": "The Yoruba People",
+    "category": "contemporary",
+    "description": "The Yoruba are one of Africa's largest ethnic groups, numbering over 40 million people across Nigeria, Benin, Togo, and the global diaspora. United by language, culture, and a shared belief in the spiritual power of Ase.",
+    "image": "/images/uploads/yoruba.png",
+    "tags": ["Yoruba", "people", "culture", "identity"]
+  },
+  {
+    "id": "divi-tools",
+    "title": "Tools of Divination",
+    "category": "sacred",
+    "description": "The tools of Yoruba divination — the opele chain, ikin palm nuts, opon ifa tray, and osun staff — are sacred objects through which the Babalawo communicates with Orunmila and reads the Odu.",
+    "image": "/images/uploads/divi.png",
+    "tags": ["divination", "IFA", "Babalawo", "sacred"]
+  },
+  {
+    "id": "orisha-oogun",
+    "title": "Oogun — Yoruba Herbal Medicine",
+    "category": "sacred",
+    "description": "Oogun is the Yoruba system of herbal medicine, inseparable from spiritual practice. Trained herbalists (onisegun) harness the healing power of plants guided by knowledge passed down through Ifa verses.",
+    "image": "/images/uploads/oogun.png",
+    "tags": ["oogun", "medicine", "herbs", "healing"]
+  },
+  {
+    "id": "hubert-ogunde",
+    "title": "Hubert Ogunde — Father of Yoruba Theatre",
+    "category": "contemporary",
+    "description": "Hubert Ogunde (1916–1990) founded the first professional Yoruba theatre company in 1945. He combined Yoruba oral traditions, music, and drama to create an entirely new theatrical form.",
+    "image": "/images/uploads/hubert.png",
+    "tags": ["Ogunde", "theatre", "arts", "contemporary"]
+  },
+  {
+    "id": "oyo-image",
+    "title": "Oyo — Heart of the Empire",
+    "category": "history",
+    "description": "New Oyo (Oyo-Ile) was rebuilt after the collapse of Old Oyo and remains the cultural capital of the Oyo people. It is home to the Alaafin's palace and the living traditions of one of Africa's greatest empires.",
+    "image": "/images/uploads/oyoimage.png",
+    "tags": ["Oyo", "empire", "history", "palace"]
+  }
+]
