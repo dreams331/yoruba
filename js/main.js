@@ -1,6 +1,49 @@
 // Yoruba Heritage - Main JavaScript
 
 // ========================================
+// Dark Mode
+// ========================================
+(function initDarkMode() {
+    const saved = localStorage.getItem('yh-theme') || 'light';
+    document.documentElement.setAttribute('data-theme', saved);
+
+    // Inject toggle button into navbar once DOM is ready
+    document.addEventListener('DOMContentLoaded', () => {
+        const navMenu = document.getElementById('navMenu');
+        if (!navMenu || document.getElementById('darkToggle')) return;
+
+        const btn = document.createElement('button');
+        btn.id = 'darkToggle';
+        btn.className = 'dark-toggle';
+        btn.setAttribute('aria-label', 'Toggle dark mode');
+        btn.setAttribute('title', 'Toggle dark mode');
+        btn.innerHTML = saved === 'dark' ? '<i class="fas fa-sun"></i>' : '<i class="fas fa-moon"></i>';
+
+        // Insert as a list item inside the nav menu so it flows naturally
+        const li = document.createElement('li');
+        li.appendChild(btn);
+        navMenu.appendChild(li);
+
+        btn.addEventListener('click', () => {
+            const current = document.documentElement.getAttribute('data-theme');
+            const next = current === 'dark' ? 'light' : 'dark';
+            document.documentElement.setAttribute('data-theme', next);
+            localStorage.setItem('yh-theme', next);
+            btn.innerHTML = next === 'dark' ? '<i class="fas fa-sun"></i>' : '<i class="fas fa-moon"></i>';
+
+            // Update Giscus theme if present
+            const giscusFrame = document.querySelector('iframe.giscus-frame');
+            if (giscusFrame) {
+                giscusFrame.contentWindow.postMessage(
+                    { giscus: { setConfig: { theme: next === 'dark' ? 'dark' : 'light' } } },
+                    'https://giscus.app'
+                );
+            }
+        });
+    });
+})();
+
+// ========================================
 // Navigation Toggle (Mobile)
 // ========================================
 const navToggle = document.getElementById('navToggle');
