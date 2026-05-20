@@ -203,6 +203,7 @@ function displayArticles(articles) {
                 <a href="article-detail.html?id=${article.id}" class="article-link">
                     Read Full Article <i class="fas fa-arrow-right"></i>
                 </a>
+                <a href="article-detail.html?id=${article.id}#disqus_thread" class="disqus-comment-count article-comment-count" data-disqus-url="${window.location.origin}/article-detail.html?id=${article.id}">0 Comments</a>
             </div>
         `;
         

@@ -168,6 +168,7 @@ function displayStories(stories) {
                 <a href="story-detail.html?id=${story.slug || story.id}" class="article-link">
                     Read Story <i class="fas fa-arrow-right"></i>
                 </a>
+                <a href="story-detail.html?id=${story.slug || story.id}#disqus_thread" class="disqus-comment-count article-comment-count" data-disqus-url="${window.location.origin}/story-detail.html?id=${story.slug || story.id}">0 Comments</a>
             </div>
         `;
         
