@@ -1,0 +1,323 @@
+/* ===== Diaspora Country Page Styles ===== */
+
+/* Hero */
+.dc-hero {
+    background: linear-gradient(135deg, var(--primary-color, #c8860a) 0%, #7a1a1a 100%);
+    color: white;
+    padding: 80px 0 60px;
+    text-align: center;
+}
+
+.dc-hero-inner {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.dc-flag {
+    font-size: 5rem;
+    line-height: 1;
+    margin-bottom: 16px;
+}
+
+.dc-hero h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 3rem;
+    color: white;
+    margin: 0 0 10px;
+}
+
+.dc-region {
+    font-size: 0.95rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    opacity: 0.8;
+    margin-bottom: 14px;
+}
+
+.dc-population {
+    font-size: 1.1rem;
+    opacity: 0.95;
+}
+
+.dc-population i {
+    margin-right: 6px;
+}
+
+/* Back bar */
+.dc-back-bar {
+    background: #f5f0e8;
+    border-bottom: 1px solid #e0d8cc;
+    padding: 12px 0;
+}
+
+.dc-back-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    color: var(--primary-color, #c8860a);
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 0.95rem;
+    transition: gap 0.2s ease;
+}
+
+.dc-back-link:hover {
+    gap: 12px;
+    text-decoration: underline;
+}
+
+/* Content area */
+.dc-content {
+    padding: 50px 0 70px;
+    background: var(--background-color, #faf7f2);
+}
+
+/* Two-column layout */
+.dc-layout {
+    display: grid;
+    grid-template-columns: 1fr 320px;
+    gap: 32px;
+    align-items: start;
+}
+
+/* Cards */
+.dc-card {
+    background: white;
+    border-radius: 14px;
+    padding: 32px;
+    margin-bottom: 28px;
+    box-shadow: 0 2px 14px rgba(0,0,0,0.06);
+}
+
+.dc-card h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    color: var(--text-color, #1a1a1a);
+    margin-bottom: 18px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.dc-card h2 i {
+    color: var(--primary-color, #c8860a);
+    font-size: 1.2rem;
+}
+
+.dc-description {
+    font-size: 1.05rem;
+    line-height: 1.8;
+    color: var(--text-secondary, #444);
+}
+
+/* Tags */
+.dc-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 16px;
+}
+
+.dc-tag {
+    background: var(--primary-color, #c8860a);
+    color: white;
+    padding: 5px 14px;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    font-weight: 500;
+}
+
+/* Culture list */
+.dc-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.dc-list li {
+    padding: 10px 0;
+    border-bottom: 1px solid #f0ebe0;
+    color: var(--text-secondary, #444);
+    line-height: 1.6;
+    display: flex;
+    gap: 10px;
+    align-items: flex-start;
+}
+
+.dc-list li:last-child {
+    border-bottom: none;
+}
+
+.dc-list li i {
+    color: var(--primary-color, #c8860a);
+    margin-top: 3px;
+    flex-shrink: 0;
+}
+
+/* Notable figures */
+.dc-figures {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+
+.dc-figure {
+    display: flex;
+    gap: 16px;
+    align-items: flex-start;
+    padding: 16px;
+    background: #faf7f2;
+    border-radius: 10px;
+    border-left: 4px solid var(--primary-color, #c8860a);
+}
+
+.dc-figure-icon {
+    font-size: 2rem;
+    color: var(--primary-color, #c8860a);
+    flex-shrink: 0;
+}
+
+.dc-figure strong {
+    display: block;
+    font-size: 1rem;
+    color: var(--text-color, #1a1a1a);
+    margin-bottom: 4px;
+}
+
+.dc-figure p {
+    font-size: 0.9rem;
+    color: var(--text-secondary, #666);
+    margin: 0;
+    line-height: 1.5;
+}
+
+/* Sidebar */
+.dc-sidebar {
+    position: sticky;
+    top: 100px;
+}
+
+.dc-sidebar-card {
+    background: white;
+    border-radius: 14px;
+    padding: 28px;
+    margin-bottom: 24px;
+    box-shadow: 0 2px 14px rgba(0,0,0,0.06);
+}
+
+.dc-sidebar-card h3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.2rem;
+    color: var(--text-color, #1a1a1a);
+    margin-bottom: 18px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid var(--primary-color, #c8860a);
+}
+
+/* Quick facts */
+.dc-facts {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.dc-facts li {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    align-items: flex-start;
+    padding: 10px 0;
+    border-bottom: 1px solid #f0ebe0;
+    font-size: 0.92rem;
+    color: var(--text-secondary, #444);
+    line-height: 1.5;
+}
+
+.dc-facts li:last-child {
+    border-bottom: none;
+}
+
+.dc-facts li i {
+    color: var(--primary-color, #c8860a);
+    width: 18px;
+    flex-shrink: 0;
+    margin-top: 2px;
+}
+
+.dc-fact-label {
+    font-weight: 600;
+    color: var(--text-color, #1a1a1a);
+}
+
+/* Sidebar explore links */
+.dc-sidebar-link {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 14px;
+    border-radius: 8px;
+    color: var(--text-color, #1a1a1a);
+    text-decoration: none;
+    font-size: 0.95rem;
+    font-weight: 500;
+    transition: background 0.2s ease, color 0.2s ease;
+    margin-bottom: 4px;
+}
+
+.dc-sidebar-link:hover {
+    background: #faf0df;
+    color: var(--primary-color, #c8860a);
+}
+
+.dc-sidebar-link i {
+    color: var(--primary-color, #c8860a);
+    width: 18px;
+}
+
+/* Not found */
+.dc-not-found {
+    text-align: center;
+    padding: 100px 20px;
+}
+
+.dc-not-found i {
+    font-size: 3.5rem;
+    color: var(--primary-color, #c8860a);
+    margin-bottom: 20px;
+    display: block;
+}
+
+.dc-not-found h2 {
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 12px;
+}
+
+.dc-not-found p {
+    color: var(--text-secondary, #666);
+    margin-bottom: 24px;
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+    .dc-layout {
+        grid-template-columns: 1fr;
+    }
+    .dc-sidebar {
+        position: static;
+    }
+    .dc-hero h1 {
+        font-size: 2.2rem;
+    }
+    .dc-flag {
+        font-size: 3.5rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .dc-hero h1 {
+        font-size: 1.8rem;
+    }
+    .dc-card {
+        padding: 20px;
+    }
+}
