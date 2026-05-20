@@ -129,10 +129,29 @@
 
 .result-item {
     background: var(--white);
-    padding: var(--spacing-md);
     border-radius: 15px;
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
     transition: var(--transition);
+    display: flex;
+    gap: 0;
+    overflow: hidden;
+}
+
+.result-item img {
+    width: 160px;
+    min-width: 160px;
+    object-fit: cover;
+    flex-shrink: 0;
+}
+
+.result-body {
+    padding: var(--spacing-md);
+    flex: 1;
+}
+
+@media (max-width: 600px) {
+    .result-item { flex-direction: column; }
+    .result-item img { width: 100%; min-width: 0; height: 160px; }
 }
 
 .result-item:hover {
@@ -288,4 +307,10 @@
     .browse-grid {
         grid-template-columns: 1fr;
     }
+}
+
+mark {
+    background: #FFE5B4;
+    padding: 0 2px;
+    border-radius: 2px;
 }

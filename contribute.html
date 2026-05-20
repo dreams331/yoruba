@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Contribute to Yoruba Heritage — share stories, articles, and cultural knowledge with the world.">
+    <title>Contribute - Yoruba Heritage</title>
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Yoruba Heritage">
+    <meta property="og:title" content="Contribute - Yoruba Heritage">
+    <meta property="og:description" content="Help us preserve Yoruba culture. Share articles, stories, traditions, and photographs.">
+    <meta property="og:image" content="https://yorubaheritage.netlify.app/images/uploads/ife.png">
+    <link rel="icon" type="image/png" href="/images/favicon.png">
+    <link rel="apple-touch-icon" href="/images/favicon.png">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/about.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-43VWC293SB"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-43VWC293SB');
+    </script>
+    <style>
+        .contribute-section { padding: var(--spacing-xl) 0; background: var(--light-color); }
+        .contribute-intro { text-align: center; max-width: 750px; margin: 0 auto 3rem; }
+        .contribute-intro h2 { color: var(--primary-color); margin-bottom: 1rem; }
+        .contribute-intro p { color: var(--text-light); font-size: 1.05rem; line-height: 1.8; }
+
+        .ways-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1.5rem; margin-bottom: 4rem; }
+        .way-card { background: var(--white); border-radius: 16px; padding: 2rem; box-shadow: 0 4px 15px rgba(0,0,0,0.07); transition: var(--transition); text-align: center; }
+        .way-card:hover { transform: translateY(-6px); box-shadow: 0 10px 30px rgba(0,0,0,0.12); }
+        .way-icon { width: 70px; height: 70px; border-radius: 50%; background: linear-gradient(135deg, var(--primary-color), #D4941D); color: #fff; font-size: 1.8rem; display: flex; align-items: center; justify-content: center; margin: 0 auto 1.2rem; }
+        .way-card h3 { color: var(--dark-color); margin-bottom: 0.6rem; }
+        .way-card p { color: var(--text-light); font-size: 0.95rem; line-height: 1.7; }
+
+        .guidelines-section { background: var(--white); border-radius: 20px; padding: 2.5rem; box-shadow: 0 4px 15px rgba(0,0,0,0.07); margin-bottom: 3rem; }
+        .guidelines-section h2 { color: var(--primary-color); margin-bottom: 1.5rem; display: flex; align-items: center; gap: 0.75rem; }
+        .guideline-list { list-style: none; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+        @media (max-width: 600px) { .guideline-list { grid-template-columns: 1fr; } }
+        .guideline-list li { display: flex; align-items: flex-start; gap: 0.75rem; padding: 0.75rem; border-radius: 10px; background: var(--light-color); }
+        .guideline-list li i { color: var(--primary-color); margin-top: 3px; flex-shrink: 0; }
+        .guideline-list li span { color: var(--text-light); font-size: 0.95rem; line-height: 1.6; }
+
+        .submit-section { background: var(--white); border-radius: 20px; padding: 2.5rem; box-shadow: 0 4px 15px rgba(0,0,0,0.07); }
+        .submit-section h2 { color: var(--dark-color); margin-bottom: 0.5rem; }
+        .submit-section > p { color: var(--text-light); margin-bottom: 1.5rem; }
+        .form-group { margin-bottom: 1.25rem; }
+        .form-group label { display: block; font-weight: 600; color: var(--dark-color); margin-bottom: 0.4rem; font-size: 0.9rem; }
+        .form-group input, .form-group select, .form-group textarea { width: 100%; padding: 0.75rem 1rem; border: 2px solid #e5e7eb; border-radius: 10px; font-family: inherit; font-size: 0.95rem; transition: border-color 0.2s; background: #fafafa; }
+        .form-group input:focus, .form-group select:focus, .form-group textarea:focus { outline: none; border-color: var(--primary-color); background: #fff; }
+        .form-group textarea { resize: vertical; min-height: 160px; }
+        .form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+        @media (max-width: 500px) { .form-row { grid-template-columns: 1fr; } }
+        .submit-btn { width: 100%; padding: 1rem; background: linear-gradient(135deg, var(--primary-color), #D4941D); color: #fff; border: none; border-radius: 10px; font-size: 1rem; font-weight: 600; cursor: pointer; transition: opacity 0.2s; }
+        .submit-btn:hover { opacity: 0.9; }
+        .form-note { font-size: 0.85rem; color: var(--text-light); margin-top: 0.75rem; text-align: center; }
+        .form-success { display: none; text-align: center; padding: 2rem; }
+        .form-success i { font-size: 3rem; color: #2e7d32; margin-bottom: 1rem; display: block; }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-brand">
+                <a href="index.html"><h1><i class="fas fa-crown"></i> Yoruba Heritage</h1></a>
+            </div>
+            <button class="nav-toggle" id="navToggle"><span></span><span></span><span></span></button>
+            <ul class="nav-menu" id="navMenu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="articles.html">Articles</a></li>
+                <li><a href="stories.html">Stories</a></li>
+                <li><a href="ifa-wisdom.html">IFA Wisdom</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="search.html" class="btn-search"><i class="fas fa-search"></i> Search</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <section class="page-header">
+        <div class="container">
+            <h1><i class="fas fa-pen-nib"></i> Contribute</h1>
+            <p>Help us preserve Yoruba culture for generations to come</p>
+        </div>
+    </section>
+
+    <section class="contribute-section">
+        <div class="container">
+
+            <div class="contribute-intro">
+                <h2>Every Voice Matters</h2>
+                <p>Yoruba Heritage is built on the collective knowledge and memories of our community. Whether you are a scholar, an elder, a member of the diaspora, or simply someone who loves Yoruba culture — your contribution adds to this living archive. <strong>Ìwà pelẹ̀</strong> — good character — is our guiding principle.</p>
+            </div>
+
+            <!-- Ways to Contribute -->
+            <div class="ways-grid">
+                <div class="way-card">
+                    <div class="way-icon"><i class="fas fa-newspaper"></i></div>
+                    <h3>Write an Article</h3>
+                    <p>Share your research or knowledge on any aspect of Yoruba history, culture, language, or people. We welcome essays from 800–3,000 words.</p>
+                </div>
+                <div class="way-card">
+                    <div class="way-icon"><i class="fas fa-scroll"></i></div>
+                    <h3>Share a Story</h3>
+                    <p>Know a folktale, family legend, or oral tradition? Write it down and submit it. These are the stories that hold our identity together.</p>
+                </div>
+                <div class="way-card">
+                    <div class="way-icon"><i class="fas fa-camera"></i></div>
+                    <h3>Submit a Photograph</h3>
+                    <p>Have photographs of Yoruba art, festivals, historical sites, or daily life? We'd love to feature them in our growing gallery.</p>
+                </div>
+                <div class="way-card">
+                    <div class="way-icon"><i class="fas fa-exclamation-circle"></i></div>
+                    <h3>Correct an Error</h3>
+                    <p>Noticed something inaccurate? We take factual accuracy seriously. Send us a correction with your source and we'll review it promptly.</p>
+                </div>
+                <div class="way-card">
+                    <div class="way-icon"><i class="fas fa-language"></i></div>
+                    <h3>Help with Translation</h3>
+                    <p>Fluent in Yoruba? Help us translate or verify Yoruba phrases, proverbs, and song lyrics used throughout the site.</p>
+                </div>
+                <div class="way-card">
+                    <div class="way-icon"><i class="fas fa-users"></i></div>
+                    <h3>Community Interview</h3>
+                    <p>Are you (or do you know) an elder, artist, or practitioner willing to share knowledge? We conduct and publish written interviews.</p>
+                </div>
+            </div>
+
+            <!-- Guidelines -->
+            <div class="guidelines-section">
+                <h2><i class="fas fa-clipboard-list"></i> Contribution Guidelines</h2>
+                <ul class="guideline-list">
+                    <li><i class="fas fa-check-circle"></i><span><strong>Accuracy first:</strong> All facts should be verifiable. Please cite sources where possible.</span></li>
+                    <li><i class="fas fa-check-circle"></i><span><strong>Respectful tone:</strong> Content must treat Yoruba culture, religion, and people with dignity.</span></li>
+                    <li><i class="fas fa-check-circle"></i><span><strong>Original work:</strong> We only publish original content. No plagiarism from other websites or books.</span></li>
+                    <li><i class="fas fa-check-circle"></i><span><strong>Language:</strong> Submissions in English are preferred. Yoruba text with translations is warmly welcomed.</span></li>
+                    <li><i class="fas fa-check-circle"></i><span><strong>Images:</strong> Only submit images you own or have permission to share. Include photographer credit.</span></li>
+                    <li><i class="fas fa-check-circle"></i><span><strong>Review process:</strong> All submissions are reviewed before publishing — usually within 5–7 days.</span></li>
+                    <li><i class="fas fa-check-circle"></i><span><strong>No advertising:</strong> Content must be educational or cultural — not promotional.</span></li>
+                    <li><i class="fas fa-check-circle"></i><span><strong>Credit:</strong> Your name and a short bio will be displayed with your contribution.</span></li>
+                </ul>
+            </div>
+
+            <!-- Submission Form -->
+            <div class="submit-section">
+                <h2>Submit Your Contribution</h2>
+                <p>Fill in the details below. You can paste article text directly into the message box, or share a Google Docs link. For photographs, please email them separately after submitting this form.</p>
+
+                <form id="contributeForm" name="contribute" data-netlify="true" netlify-honeypot="bot-field">
+                    <input type="hidden" name="form-name" value="contribute">
+                    <p style="display:none"><input name="bot-field"></p>
+
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="cFirstName">First Name *</label>
+                            <input type="text" id="cFirstName" name="firstName" placeholder="Adebayo" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="cLastName">Last Name *</label>
+                            <input type="text" id="cLastName" name="lastName" placeholder="Okafor" required>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="cEmail">Email Address *</label>
+                        <input type="email" id="cEmail" name="email" placeholder="you@example.com" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="cLocation">Location (Optional)</label>
+                        <input type="text" id="cLocation" name="location" placeholder="e.g. Lagos, London, New York">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="cType">Type of Contribution *</label>
+                        <select id="cType" name="contributionType" required>
+                            <option value="">Select type…</option>
+                            <option value="article">Article / Essay</option>
+                            <option value="story">Folktale / Story</option>
+                            <option value="photograph">Photograph(s)</option>
+                            <option value="correction">Fact Correction</option>
+                            <option value="translation">Translation Help</option>
+                            <option value="interview">Interview Subject</option>
+                            <option value="other">Other</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="cTitle">Title of Your Contribution</label>
+                        <input type="text" id="cTitle" name="title" placeholder="e.g. The History of Gelede in Ketu">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="cContent">Your Content / Message *</label>
+                        <textarea id="cContent" name="content" placeholder="Paste your article, story, or describe your contribution here. You may also include a Google Docs link." required></textarea>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="cSources">Sources / References (Optional)</label>
+                        <textarea id="cSources" name="sources" placeholder="Books, links, oral sources, etc." style="min-height:80px;"></textarea>
+                    </div>
+
+                    <button type="submit" class="submit-btn">
+                        <i class="fas fa-paper-plane"></i> Submit Contribution
+                    </button>
+                    <p class="form-note">By submitting, you confirm this is original work and you grant Yoruba Heritage the right to publish it with attribution.</p>
+                </form>
+
+                <div class="form-success" id="contributeSuccess">
+                    <i class="fas fa-check-circle"></i>
+                    <h3>Contribution Received!</h3>
+                    <p>Thank you for adding to the Yoruba Heritage archive. We'll review your submission and be in touch within 5–7 days.</p>
+                    <p><em>Ẹ ṣeun gan-an.</em> Thank you so very much.</p>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3><i class="fas fa-crown"></i> Yoruba Heritage</h3>
+                    <p>Preserving and sharing the rich history, culture, and wisdom of the Yoruba people worldwide.</p>
+                    <div class="social-links">
+                        <a href="#"><i class="fab fa-facebook"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-youtube"></i></a>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="articles.html">Articles</a></li>
+                        <li><a href="stories.html">Stories</a></li>
+                        <li><a href="ifa-wisdom.html">IFA Wisdom</a></li>
+                        <li><a href="gallery.html">Gallery</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Resources</h4>
+                    <ul>
+                        <li><a href="search.html">Search</a></li>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                        <li><a href="contribute.html">Contribute</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Newsletter</h4>
+                    <p>Stay updated with new content and discoveries</p>
+                    <form class="newsletter-form" name="newsletter" data-netlify="true" netlify-honeypot="bot-field">
+                        <input type="hidden" name="form-name" value="newsletter">
+                        <p style="display:none"><input name="bot-field"></p>
+                        <input type="email" name="email" placeholder="Your email address" required>
+                        <button type="submit" class="btn btn-primary">Subscribe</button>
+                    </form>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Yoruba Heritage. All rights reserved. | Built with respect for our ancestors</p>
+                <p class="footer-credit">Courtesy of <strong>Eletu</strong> &nbsp;|&nbsp; Created by <a href="https://www.origloballtd.com" target="_blank" rel="noopener">ORI Global Ltd</a></p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+    <script>
+        document.getElementById('contributeForm')?.addEventListener('submit', async e => {
+            e.preventDefault();
+            const form = e.target;
+            const btn = form.querySelector('.submit-btn');
+            btn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Submitting…';
+            btn.disabled = true;
+            try {
+                await fetch('/', { method: 'POST', headers: { 'Content-Type': 'application/x-www-form-urlencoded' }, body: new URLSearchParams(new FormData(form)) });
+                form.style.display = 'none';
+                document.getElementById('contributeSuccess').style.display = 'block';
+            } catch {
+                btn.innerHTML = '<i class="fas fa-paper-plane"></i> Try Again';
+                btn.disabled = false;
+            }
+        });
+    </script>
+</body>
+</html>
