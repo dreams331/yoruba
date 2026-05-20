@@ -3,13 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Yoruba heritage and diaspora in this country">
+    <meta name="description" content="Yoruba heritage and diaspora - Yoruba Heritage">
     <title>Yoruba Diaspora - Yoruba Heritage</title>
-    <!-- Open Graph / Social Preview -->
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Yoruba Heritage">
     <meta property="og:title" content="Yoruba Diaspora - Yoruba Heritage">
-    <meta property="og:image" content="https://yorubaheritage.netlify.app/images/uploads/ife.png">
+    <meta property="og:image" content="https://www.yorubaheritage.com/images/uploads/ife.png">
     <meta property="og:url" content="https://www.yorubaheritage.com/diaspora-country.html">
     <meta name="twitter:card" content="summary_large_image">
     <link rel="icon" type="image/png" href="/images/favicon.png">
@@ -20,8 +19,6 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <!-- Netlify Identity Widget -->
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-43VWC293SB"></script>
     <script>
@@ -53,72 +50,88 @@
                 <li><a href="diaspora.html" class="active">Diaspora</a></li>
                 <li><a href="gallery.html">Gallery</a></li>
                 <li><a href="about.html">About</a></li>
-                <li><a href="search.html" class="btn-search"><i class="fas fa-search"></i> Search</a></li>
             </ul>
         </div>
     </nav>
 
-    <!-- Country Hero -->
-    <section class="country-hero" id="countryHero">
+    <!-- Hero -->
+    <section class="dc-hero" id="countryHero">
         <div class="container">
-            <a href="diaspora.html" class="back-link"><i class="fas fa-arrow-left"></i> Back to Diaspora</a>
-            <div class="country-hero-content">
-                <div class="country-flag-large" id="countryFlag"></div>
-                <div>
-                    <h1 id="countryName">Loading...</h1>
-                    <p class="country-region" id="countryRegion"></p>
-                    <p class="country-population"><i class="fas fa-users"></i> Estimated Yoruba population: <span id="countryPopulation"></span></p>
-                </div>
+            <div class="dc-hero-inner">
+                <div class="dc-flag" id="countryFlag">🌍</div>
+                <h1 id="countryName">Loading...</h1>
+                <p class="dc-region" id="countryRegion"></p>
+                <p class="dc-population"><i class="fas fa-users"></i> Estimated Yoruba population: <strong id="countryPopulation"></strong></p>
             </div>
         </div>
     </section>
 
-    <!-- Country Overview -->
-    <section class="country-overview">
+    <!-- Back Link -->
+    <div class="dc-back-bar">
         <div class="container">
-            <div class="overview-grid">
-                <div class="overview-main">
-                    <div class="content-block" id="overviewBlock">
-                        <h2><i class="fas fa-globe-africa"></i> Overview</h2>
-                        <p id="countryDescription"></p>
-                        <div class="country-tags-large" id="countryTags"></div>
+            <a href="diaspora.html" class="dc-back-link"><i class="fas fa-arrow-left"></i> Back to All Countries</a>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <section class="dc-content">
+        <div class="container">
+            <div class="dc-layout">
+
+                <!-- Left: Main content -->
+                <div class="dc-main">
+                    <!-- Overview -->
+                    <div class="dc-card">
+                        <h2><i class="fas fa-info-circle"></i> Overview</h2>
+                        <p id="countryDescription" class="dc-description"></p>
+                        <div class="dc-tags" id="countryTags"></div>
                     </div>
 
-                    <!-- CMS Content Section -->
-                    <div class="content-block" id="cmsContent">
-                        <h2><i class="fas fa-book-open"></i> Yoruba Culture in <span id="cmsCountryName"></span></h2>
-                        <div id="countryArticleContent">
-                            <p class="placeholder-text"><i class="fas fa-pen"></i> Content for this country page is being developed. Check back soon or <a href="about.html#contribute">contribute your knowledge</a>.</p>
-                        </div>
+                    <!-- History -->
+                    <div class="dc-card">
+                        <h2><i class="fas fa-landmark"></i> Historical Roots</h2>
+                        <p id="countryHistory"></p>
                     </div>
 
-                    <!-- Community Articles -->
-                    <div class="content-block" id="communityArticles">
-                        <h2><i class="fas fa-newspaper"></i> Related Articles</h2>
-                        <div class="related-articles-grid" id="relatedArticlesGrid">
-                            <p class="placeholder-text">Articles about this country's Yoruba community will appear here.</p>
-                        </div>
+                    <!-- Cultural Practices -->
+                    <div class="dc-card">
+                        <h2><i class="fas fa-drum"></i> Cultural Practices</h2>
+                        <ul class="dc-list" id="countryCulture"></ul>
+                    </div>
+
+                    <!-- Notable Figures -->
+                    <div class="dc-card" id="notableFiguresCard">
+                        <h2><i class="fas fa-star"></i> Notable Figures</h2>
+                        <div class="dc-figures" id="countryFigures"></div>
                     </div>
                 </div>
 
-                <!-- Sidebar -->
-                <aside class="country-sidebar">
-                    <div class="sidebar-block">
-                        <h3><i class="fas fa-info-circle"></i> Quick Facts</h3>
-                        <ul class="facts-list" id="quickFacts">
-                            <li><span>Region:</span> <span id="sidebarRegion">—</span></li>
-                            <li><span>Population:</span> <span id="sidebarPop">—</span></li>
-                            <li><span>Key Practices:</span> <span id="sidebarTags">—</span></li>
-                        </ul>
+                <!-- Right: Sidebar -->
+                <aside class="dc-sidebar">
+                    <div class="dc-sidebar-card">
+                        <h3>Quick Facts</h3>
+                        <ul class="dc-facts" id="countryFacts"></ul>
                     </div>
-                    <div class="sidebar-block">
-                        <h3><i class="fas fa-map-marked-alt"></i> Explore More</h3>
-                        <a href="diaspora.html" class="sidebar-link"><i class="fas fa-globe"></i> All Diaspora Countries</a>
-                        <a href="articles.html?filter=diaspora" class="sidebar-link"><i class="fas fa-newspaper"></i> Diaspora Articles</a>
-                        <a href="stories.html" class="sidebar-link"><i class="fas fa-scroll"></i> Traditional Stories</a>
+                    <div class="dc-sidebar-card">
+                        <h3>Explore More</h3>
+                        <a href="articles.html" class="dc-sidebar-link"><i class="fas fa-newspaper"></i> Read Articles</a>
+                        <a href="stories.html" class="dc-sidebar-link"><i class="fas fa-scroll"></i> Yoruba Stories</a>
+                        <a href="ifa-wisdom.html" class="dc-sidebar-link"><i class="fas fa-eye"></i> IFA Wisdom</a>
+                        <a href="diaspora.html" class="dc-sidebar-link"><i class="fas fa-globe"></i> All Diaspora Countries</a>
                     </div>
                 </aside>
+
             </div>
+        </div>
+    </section>
+
+    <!-- Not Found (hidden unless unknown country) -->
+    <section class="dc-not-found" id="notFound" style="display:none;">
+        <div class="container">
+            <i class="fas fa-map-marker-alt"></i>
+            <h2>Country Not Found</h2>
+            <p>We don't have a dedicated page for this country yet.</p>
+            <a href="diaspora.html" class="btn btn-primary">Back to Diaspora</a>
         </div>
     </section>
 
@@ -139,9 +152,9 @@
                 <div class="footer-section">
                     <h4>Quick Links</h4>
                     <ul>
+                        <li><a href="index.html">Home</a></li>
                         <li><a href="articles.html">Articles</a></li>
-                        <li><a href="stories.html">Stories</a></li>
-                        <li><a href="ifa-wisdom.html">IFA Wisdom</a></li>
+                        <li><a href="diaspora.html">Diaspora</a></li>
                         <li><a href="gallery.html">Gallery</a></li>
                     </ul>
                 </div>
@@ -150,7 +163,8 @@
                     <ul>
                         <li><a href="search.html">Search</a></li>
                         <li><a href="about.html">About Us</a></li>
-                        <li><a href="diaspora.html">Diaspora</a></li>
+                        <li><a href="stories.html">Stories</a></li>
+                        <li><a href="ifa-wisdom.html">IFA Wisdom</a></li>
                     </ul>
                 </div>
                 <div class="footer-section">
@@ -170,7 +184,6 @@
     </footer>
 
     <script src="js/main.js"></script>
-    <script src="js/content-loader.js"></script>
     <script src="js/diaspora-country.js"></script>
 </body>
 </html>

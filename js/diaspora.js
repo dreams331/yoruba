@@ -181,8 +181,6 @@ function populateCountries(region, containerId) {
         const card = document.createElement('div');
         card.className = 'country-card';
         card.style.cursor = 'pointer';
-        card.setAttribute('role', 'link');
-        card.setAttribute('tabindex', '0');
 
         card.innerHTML = `
             <div class="country-header">
@@ -191,7 +189,7 @@ function populateCountries(region, containerId) {
                     <h3>${country.name}</h3>
                     <p class="population">${country.population}</p>
                 </div>
-                <div class="country-arrow"><i class="fas fa-arrow-right"></i></div>
+                <div style="margin-left:auto;color:var(--primary-color);"><i class="fas fa-arrow-right"></i></div>
             </div>
             <p class="country-description">${country.description}</p>
             <div class="country-tags">
@@ -199,9 +197,9 @@ function populateCountries(region, containerId) {
             </div>
         `;
 
-        const navigate = () => { window.location.href = `diaspora-country.html?country=${slug}`; };
-        card.addEventListener('click', navigate);
-        card.addEventListener('keydown', (e) => { if (e.key === 'Enter') navigate(); });
+        card.addEventListener('click', () => {
+            window.location.href = `diaspora-country.html?country=${slug}`;
+        });
 
         container.appendChild(card);
     });
