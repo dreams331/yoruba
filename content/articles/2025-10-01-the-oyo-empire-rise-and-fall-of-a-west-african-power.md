@@ -22,8 +22,6 @@ The Oyo Empire emerged from the larger Yorùbá civilization, whose spiritual an
 
 Located in the savannah region north of the dense forests of Yorùbáland, Oyo enjoyed strategic advantages. Unlike many forest kingdoms, the open grasslands allowed the use of cavalry, which later became one of the empire’s greatest military strengths.
 
-![](/images/uploads/oyo4.png)
-
 ## Rise of a Military Power
 
 In its early years, Oyo faced threats from neighboring kingdoms such as Nupe and Borgu. During the 16th century, Oyo was temporarily subdued by these northern powers. However, the kingdom later rebuilt itself through strategic leadership and military reforms.
