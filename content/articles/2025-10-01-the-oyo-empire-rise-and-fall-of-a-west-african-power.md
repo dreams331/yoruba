@@ -2,7 +2,7 @@
 title: "The Oyo Empire: Rise and Fall of a West African Power"
 date: 2025-10-19T23:00:00.000Z
 category: history
-image: /images/uploads/slavery-in-the-oyo-empire.webp
+image: /images/uploads/oyo.png
 excerpt: The Oyo Empire was one of the most powerful and influential Yoruba
   kingdoms, dominating West Africa from the 14th to the 19th century. Explore
   its military prowess, political structure, and ultimate decline.
@@ -21,8 +21,6 @@ Today, the legacy of Oyo still echoes throughout Yorùbá culture, traditional i
 The Oyo Empire emerged from the larger Yorùbá civilization, whose spiritual and cultural center was Ile-Ife. According to Yorùbá oral traditions, the empire traced its origins to descendants of Oduduwa, the legendary progenitor of the Yorùbá people. One of his descendants, Oranmiyan, is often credited with founding the early Oyo Kingdom.
 
 Located in the savannah region north of the dense forests of Yorùbáland, Oyo enjoyed strategic advantages. Unlike many forest kingdoms, the open grasslands allowed the use of cavalry, which later became one of the empire’s greatest military strengths.
-
-![](/images/uploads/oyo4.png)
 
 ## Rise of a Military Power
 
