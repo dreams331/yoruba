@@ -2,7 +2,7 @@
 title: "The Oyo Empire: Rise and Fall of a West African Power"
 date: 2025-10-19T23:00:00.000Z
 category: history
-image: /images/uploads/slavery-in-the-oyo-empire.webp
+image: /images/uploads/oyo.png
 excerpt: The Oyo Empire was one of the most powerful and influential Yoruba
   kingdoms, dominating West Africa from the 14th to the 19th century. Explore
   its military prowess, political structure, and ultimate decline.
