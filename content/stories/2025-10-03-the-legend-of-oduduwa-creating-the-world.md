@@ -2,7 +2,7 @@
 title: "The Legend of Oduduwa: Creating the World"
 date: 2025-10-15T23:00:00.000Z
 category: "legends"
-image: null
+image: /images/uploads/ife.png
 excerpt: "The sacred story of how Oduduwa descended from heaven with a chain, carrying a handful of earth, a cockerel, and a palm nut to create the land at Ile-Ife."
 readTime: "8 min"
 moral: "Every great journey begins with divine purpose and careful preparation."

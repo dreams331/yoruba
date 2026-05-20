@@ -3,7 +3,7 @@ title: "Ogbe Meji: The Odu of Light and New Beginnings"
 date: 2025-10-24
 category: "Odu Ifa"
 excerpt: "Ogbe Meji is the first and senior Odu, embodying the pure light of Olodumare. It speaks of potential, divine origin, and the sacred responsibility of being alive."
-image: /images/uploads/ogbe-meji.jpg
+image: /images/uploads/ifa.png
 featured: true
 ---
 

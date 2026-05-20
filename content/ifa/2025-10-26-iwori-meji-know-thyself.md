@@ -3,7 +3,7 @@ title: "Iwori Meji: Know Thyself — The Inner Journey"
 date: 2025-10-26
 category: "Odu Ifa"
 excerpt: "Iwori Meji is the Odu of self-knowledge. It teaches that before you can know the world, you must know yourself — your ori, your weaknesses, your gifts, your purpose."
-image: /images/uploads/iwori-meji.jpg
+image: /images/uploads/owe.png
 featured: false
 ---
 

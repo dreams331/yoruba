@@ -3,7 +3,7 @@ title: "Otura Meji: The Wisdom of Transformation"
 date: 2025-10-23
 category: "Odu Ifa"
 excerpt: "Otura Meji teaches that change is not loss — it is the universe reshaping itself toward higher purpose. Every ending carries the seed of a new beginning."
-image: /images/uploads/otura-meji.jpg
+image: /images/uploads/divi.png
 featured: true
 ---
 

@@ -2,7 +2,7 @@
 title: "How Death Came Into the World"
 date: 2025-10-17T23:00:00.000Z
 category: "myths"
-image: null
+image: /images/uploads/egunn.png
 excerpt: "An ancient Yoruba creation story explaining how death became a part of human existence. Discover the cosmic drama between Olodumare and humanity's eternal quest for immortality."
 readTime: "7 min"
 moral: "Some changes, once set in motion, cannot be undone."

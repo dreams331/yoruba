@@ -3,7 +3,7 @@ title: "Oyeku Meji: The Profound Wisdom of Endings"
 date: 2025-10-25
 category: "Odu Ifa"
 excerpt: "Oyeku Meji, the Odu of death and transition, carries a message misunderstood by many: endings are not defeats. They are doorways. Death is not the enemy of life — it is its companion."
-image: /images/uploads/oyeku-meji.jpg
+image: /images/uploads/egunn.png
 featured: false
 ---
 

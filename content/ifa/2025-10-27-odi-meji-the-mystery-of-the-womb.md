@@ -3,7 +3,7 @@ title: "Odi Meji: The Mystery of the Womb and Hidden Power"
 date: 2025-10-27
 category: "Odu Ifa"
 excerpt: "Odi Meji governs mystery, hidden knowledge, and the power of what gestates in darkness. Like the womb, it teaches that the most important things grow unseen before they emerge into light."
-image: /images/uploads/odi-meji.jpg
+image: /images/uploads/osun.png
 featured: false
 ---
 

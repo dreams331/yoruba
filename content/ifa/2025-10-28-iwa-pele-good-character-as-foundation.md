@@ -3,7 +3,7 @@ title: "Iwa Pele: Good Character as the Foundation of Destiny"
 date: 2025-10-28
 category: Philosophy
 excerpt: "Iwa Pele — gentle, good character — is the cornerstone of Ifa ethics. Not wealth, not power, not intelligence. Character. This is what Ifa says makes a life worth living."
-image: /images/uploads/iwa-pele.jpg
+image: /images/uploads/yoruba.png
 featured: true
 ---
 

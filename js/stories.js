@@ -165,7 +165,7 @@ function displayStories(stories) {
                 </div>
                 <h3>${story.title}</h3>
                 <p>${story.excerpt}</p>
-                <a href="story-detail.html?id=${story.id}" class="article-link">
+                <a href="story-detail.html?id=${story.slug || story.id}" class="article-link">
                     Read Story <i class="fas fa-arrow-right"></i>
                 </a>
             </div>
