@@ -296,6 +296,113 @@ img {
     color: #fff;
 }
 
+/* ── Language Switcher ─────────────────────────────────────────────────── */
+.lang-switcher {
+    position: relative;
+    list-style: none;
+}
+
+.lang-trigger {
+    background: none;
+    border: 2px solid var(--primary-color);
+    color: var(--primary-color);
+    border-radius: 20px;
+    padding: 0.35rem 0.9rem;
+    cursor: pointer;
+    font-size: 0.88rem;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    transition: var(--transition);
+    white-space: nowrap;
+    font-family: var(--font-body);
+}
+
+.lang-trigger:hover {
+    background: var(--primary-color);
+    color: #fff;
+}
+
+.lang-trigger .fa-chevron-down {
+    font-size: 0.7rem;
+    transition: transform 0.2s ease;
+}
+
+.lang-switcher.open .lang-trigger .fa-chevron-down {
+    transform: rotate(180deg);
+}
+
+.lang-dropdown {
+    display: none;
+    position: absolute;
+    top: calc(100% + 8px);
+    right: 0;
+    background: var(--white);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+    list-style: none;
+    padding: 0.5rem;
+    min-width: 160px;
+    z-index: 2000;
+}
+
+.lang-switcher.open .lang-dropdown {
+    display: block;
+    animation: dropIn 0.15s ease;
+}
+
+@keyframes dropIn {
+    from { opacity: 0; transform: translateY(-6px); }
+    to   { opacity: 1; transform: translateY(0); }
+}
+
+.lang-option {
+    width: 100%;
+    background: none;
+    border: none;
+    padding: 0.55rem 0.9rem;
+    border-radius: 8px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    font-size: 0.92rem;
+    font-family: var(--font-body);
+    color: var(--text-dark);
+    transition: background 0.15s ease;
+    text-align: left;
+}
+
+.lang-option:hover,
+.lang-option.active {
+    background: #faf0df;
+    color: var(--primary-color);
+    font-weight: 600;
+}
+
+.lang-flag { font-size: 1.1rem; }
+
+/* Dark mode */
+[data-theme="dark"] .lang-dropdown {
+    background: #2a2a2a;
+    border-color: #444;
+}
+[data-theme="dark"] .lang-option {
+    color: #e0d8c8;
+}
+[data-theme="dark"] .lang-option:hover,
+[data-theme="dark"] .lang-option.active {
+    background: #3a3020;
+    color: var(--primary-color);
+}
+
+/* Hide Google's own toolbar banner */
+.goog-te-banner-frame,
+.skiptranslate { display: none !important; }
+body { top: 0 !important; }
+
 /* ── Disqus Comment Count on Cards ────────────────────────────────────── */
 .article-comment-count {
     display: inline-flex;
