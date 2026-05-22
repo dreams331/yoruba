@@ -85,52 +85,29 @@ const LANGUAGES = [
     { code: 'fr',  label: 'Français',   flag: '🇫🇷', gt: 'fr'     },
 ];
 
-// ── Google Translate loader ────────────────────────────────────────────────
-function loadGoogleTranslate(targetLang) {
-    // Remove any existing GT elements
-    removeGoogleTranslate();
-
-    window._gtLang = targetLang;
-
-    window.googleTranslateElementInit = function () {
-        new google.translate.TranslateElement(
-            { pageLanguage: 'en', includedLanguages: 'pt,es,fr', autoDisplay: false },
-            'google_translate_element'
-        );
-        // Trigger the language after a short delay for the widget to initialise
-        setTimeout(() => triggerGoogleTranslate(targetLang), 800);
-    };
-
-    const s = document.createElement('script');
-    s.id = 'gt-script';
-    s.src = '//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
-    document.body.appendChild(s);
+// ── Google Translate — cookie method (no widget, no glitch) ───────────────
+function setGTCookie(lang) {
+    const val = lang ? `/en/${lang}` : '';
+    const exp = lang ? '' : '; expires=Thu, 01 Jan 1970 00:00:00 UTC';
+    document.cookie = `googtrans=${val}${exp}; path=/`;
+    document.cookie = `googtrans=${val}${exp}; path=/; domain=${location.hostname}`;
 }
 
-function triggerGoogleTranslate(lang) {
-    const select = document.querySelector('.goog-te-combo');
-    if (select) {
-        select.value = lang;
-        select.dispatchEvent(new Event('change'));
-    } else {
-        setTimeout(() => triggerGoogleTranslate(lang), 400);
+function loadGoogleTranslate(targetLang) {
+    setGTCookie(targetLang);
+    // Load translate.google.com just as a translator (no element widget)
+    if (!document.getElementById('gt-script')) {
+        const s = document.createElement('script');
+        s.id = 'gt-script';
+        s.src = '//translate.google.com/translate_a/element.js?cb=_gtNoop';
+        window._gtNoop = function () {}; // prevent TranslateElement init errors
+        document.body.appendChild(s);
     }
+    window.location.reload();
 }
 
 function removeGoogleTranslate() {
-    // Remove script
-    const s = document.getElementById('gt-script');
-    if (s) s.remove();
-    // Remove GT iframe/banner
-    const frame = document.getElementById(':1.container');
-    if (frame) frame.remove();
-    // Reset cookie so GT stops translating
-    document.cookie = 'googtrans=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;';
-    document.cookie = 'googtrans=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/; domain=' + location.hostname;
-    // Remove the hidden GT element
-    const el = document.getElementById('google_translate_element');
-    if (el) el.innerHTML = '';
-    // Force reload to clear GT translation (cleanest approach)
+    setGTCookie(''); // clear cookie
     if (window._gtActive) {
         window._gtActive = false;
         window.location.reload();
@@ -175,11 +152,6 @@ function applyLanguage(code) {
         btn.classList.toggle('active', btn.dataset.lang === code);
     });
 
-    // Update the switcher label
-    const lang = LANGUAGES.find(l => l.code === code);
-    const trigger = document.getElementById('langTrigger');
-    if (trigger && lang) trigger.innerHTML = `${lang.flag} <span>${lang.label}</span> <i class="fas fa-chevron-down"></i>`;
-
     if (code === 'en') {
         // Coming back to English — reload if something was active
         if (prev !== 'en') window.location.reload();
@@ -203,13 +175,6 @@ function buildLangSwitcher() {
     if (!navMenu || document.getElementById('langSwitcher')) return;
 
     const saved = localStorage.getItem('yh-lang') || 'en';
-    const current = LANGUAGES.find(l => l.code === saved) || LANGUAGES[0];
-
-    // Hidden GT container (required by Google Translate API)
-    const gtEl = document.createElement('div');
-    gtEl.id = 'google_translate_element';
-    gtEl.style.display = 'none';
-    document.body.appendChild(gtEl);
 
     // Build dropdown HTML
     const li = document.createElement('li');
@@ -217,7 +182,7 @@ function buildLangSwitcher() {
     li.className = 'lang-switcher';
     li.innerHTML = `
         <button id="langTrigger" class="lang-trigger" aria-label="Change language">
-            ${current.flag} <span>${current.label}</span> <i class="fas fa-chevron-down"></i>
+            <i class="fas fa-globe"></i> <span>Languages</span> <i class="fas fa-chevron-down"></i>
         </button>
         <ul class="lang-dropdown">
             ${LANGUAGES.map(l => `
