@@ -398,14 +398,24 @@ img {
 [data-theme="dark"] .lang-option.active { background: #332d1e; color: var(--primary-color); }
 [data-theme="dark"] .lang-trigger { color: #d8d0c0; }
 
-/* Completely suppress Google Translate toolbar — it breaks layout */
+/* ── Suppress ALL Google Translate native UI ──────────────────────────── */
 .goog-te-banner-frame,
 .goog-te-menu-frame,
-.goog-te-balloon-frame { display: none !important; }
+.goog-te-balloon-frame,
+.goog-te-ftab-float,
+.goog-te-menu-value    { display: none !important; }
 .skiptranslate         { display: none !important; }
 #goog-gt-tt            { display: none !important; }
 #google_translate_element { display: none !important; }
 body                   { top: 0 !important; }
+.goog-te-combo         { display: none !important; }
+
+/* Checkmark in language option */
+.lang-check {
+    margin-left: auto;
+    font-size: 0.7rem;
+    color: var(--primary-color);
+}
 
 /* ── Disqus Comment Count on Cards ────────────────────────────────────── */
 body { top: 0 !important; }
