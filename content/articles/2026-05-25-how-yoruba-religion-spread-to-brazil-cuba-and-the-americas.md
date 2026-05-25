@@ -242,5 +242,3 @@ The spread of Yoruba religion to Brazil, Cuba, and the Americas stands as one of
 Through traditions such as Candomblé, Santería, Lukumí, and Trinidad Orisha worship, Yoruba religion continues to shape the spiritual and cultural life of millions worldwide.
 
 The enduring legacy of Yoruba spirituality demonstrates the strength of memory, community, and ancestral wisdom in the face of oppression and historical upheaval.
-
-<!--EndFragment-->
