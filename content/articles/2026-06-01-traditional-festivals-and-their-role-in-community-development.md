@@ -2,7 +2,7 @@
 title: Traditional Festivals and Their Role in Community Development
 date: 2026-06-01T16:56:13.307Z
 category: culture
-image: /images/uploads/eyo8-2.jpg
+image: /images/uploads/436bff71c61e44cd81ca54ae46460426f75dcc80.webp
 excerpt: "In Yorubaland, a festival is not merely a day off work. It is the
   community remembering how to breathe together. Long before the arrival of
   calendars and clocks, the Yoruba people of southwestern Nigeria measured time
