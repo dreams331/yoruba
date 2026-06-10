@@ -2,6 +2,7 @@
 title: The Founding of Ondo Kingdom
 date: 2026-06-10T14:11:21.823Z
 category: history
+image: /images/uploads/ondo.jfif
 excerpt: In the rich tapestry of Yoruba civilisation, the **Ondo Kingdom**
   stands as one of the most enduring and historically layered societies in
   southwestern Nigeria. Known for its deep traditions, structured monarchy, and
