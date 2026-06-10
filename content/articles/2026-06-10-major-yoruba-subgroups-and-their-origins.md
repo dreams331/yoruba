@@ -2,6 +2,7 @@
 title: "Major Yoruba Subgroups and Their Origins "
 date: 2026-06-10T16:00:36.170Z
 category: people
+image: /images/uploads/10-facts-about-yoruba-culture-4.jpg
 excerpt: The Yoruba people are often spoken of as a single ethnic group, but in
   reality, they are a wide civilisation made up of many subgroups, each with its
   own history, dialect, political system, and cultural expressions.
