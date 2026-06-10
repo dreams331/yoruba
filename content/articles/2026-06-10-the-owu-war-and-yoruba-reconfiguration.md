@@ -2,6 +2,7 @@
 title: The Owu War and Yoruba Reconfiguration
 date: 2026-06-10T14:30:23.431Z
 category: history
+image: /images/uploads/4515216_parade_jpeg2b9d3790cde7ac6eaa4ad7334046dbd1.jfif
 excerpt: The nineteenth century was one of the most turbulent periods in Yoruba
   history. Old empires collapsed, new city-states rose, and entire communities
   were uprooted by a chain of civil wars that reshaped the political map of
