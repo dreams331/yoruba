@@ -2,6 +2,7 @@
 title: "The Concept of Àṣẹ in Yoruba Thought "
 date: 2026-06-11T10:50:17.915Z
 category: culture
+image: /images/uploads/49-22-2-6-16-2-9m.jpg
 excerpt: It is not simply a word, and it is not easily translated into a single
   English concept. Àṣẹ refers to the sacred power to make things happen, the
   force of manifestation, authority, command, and divine flow that moves through
