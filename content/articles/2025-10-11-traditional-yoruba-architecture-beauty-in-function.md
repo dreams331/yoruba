@@ -2,7 +2,7 @@
 title: "Traditional Yoruba Architecture: Beauty in Function"
 date: 2025-09-24T23:00:00.000Z
 category: culture
-image: /images/uploads/house.png
+image: /images/uploads/aaf684a0c7af72bd32a025b04779db10.jpg
 excerpt: Yoruba architecture features distinctive compounds, carved pillars, and
   practical designs suited to the tropical climate. Discover the aesthetics and
   engineering of traditional Yoruba buildings.
