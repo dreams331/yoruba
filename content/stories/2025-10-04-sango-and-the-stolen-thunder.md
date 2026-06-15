@@ -1,11 +1,14 @@
 ---
-title: "Sango and the Stolen Thunder"
+title: Sango and the Stolen Thunder
 date: 2025-10-04T00:00:00.000Z
 category: legends
-image: https://images.unsplash.com/photo-1605118883534-81d4b1a91b58?w=800
-excerpt: "The story of how Sango, the Orisha of thunder and lightning, discovered who had stolen the secret of his power — and what fate awaited the thief. A tale of divine justice and the sacred power of Orunmila."
+image: /images/uploads/sango.png
+excerpt: The story of how Sango, the Orisha of thunder and lightning, discovered
+  who had stolen the secret of his power — and what fate awaited the thief. A
+  tale of divine justice and the sacred power of Orunmila.
 readTime: 8 min
-moral: "No mortal can steal what belongs to the divine — wisdom and truth always prevail."
+moral: No mortal can steal what belongs to the divine — wisdom and truth always
+  prevail.
 ---
 
 ## The King Who Commanded the Sky
