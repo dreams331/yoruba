@@ -67,6 +67,36 @@ async function initStoryDetail() {
         // Update page title
         document.title = `${story.title} — Yoruba Heritage`;
 
+        // ── Dynamic SEO ──────────────────────────────────────────────────────
+        const pageUrl = `https://yorubaheritage.com/story-detail.html?id=${id}`;
+        const ogImage = (story.image && story.image.startsWith('http'))
+            ? story.image
+            : `https://yorubaheritage.com/${(story.image || 'images/uploads/yoruba-people.jpg').replace(/^\//, '')}`;
+        const desc = story.excerpt || '';
+        const setMeta = (sel, val) => { const el = document.querySelector(sel); if (el) el.setAttribute('content', val); };
+        document.querySelector('meta[name="description"]')?.setAttribute('content', desc);
+        setMeta('meta[property="og:title"]', `${story.title} — Yoruba Heritage`);
+        setMeta('meta[property="og:description"]', desc);
+        setMeta('meta[property="og:image"]', ogImage);
+        setMeta('meta[property="og:url"]', pageUrl);
+        setMeta('meta[name="twitter:title"]', `${story.title} — Yoruba Heritage`);
+        setMeta('meta[name="twitter:description"]', desc);
+        setMeta('meta[name="twitter:image"]', ogImage);
+        document.querySelector('link[rel="canonical"]')?.setAttribute('href', pageUrl);
+        const ld = document.createElement('script');
+        ld.type = 'application/ld+json';
+        ld.textContent = JSON.stringify({
+            "@context": "https://schema.org", "@type": "Article",
+            "headline": story.title, "description": desc, "image": ogImage,
+            "datePublished": story.date,
+            "author": { "@type": "Organization", "name": "Yoruba Heritage" },
+            "publisher": { "@type": "Organization", "name": "Yoruba Heritage",
+                "logo": { "@type": "ImageObject", "url": "https://yorubaheritage.com/images/favicon.png" }},
+            "mainEntityOfPage": { "@type": "WebPage", "@id": pageUrl }
+        });
+        document.head.appendChild(ld);
+        // ── End SEO ──────────────────────────────────────────────────────────
+
         // Category badge
         document.getElementById('storyCategory').textContent = story.category.charAt(0).toUpperCase() + story.category.slice(1);
 
