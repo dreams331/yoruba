@@ -188,7 +188,46 @@ async function loadArticle() {
     
     // Update page title
     document.title = `${article.title} - Yoruba Heritage`;
-    
+
+    // ── Dynamic SEO: OG tags + JSON-LD ──────────────────────────────────────
+    const pageUrl = `https://yorubaheritage.com/article-detail.html?id=${articleId}`;
+    const ogImage = (article.image && article.image.startsWith('http'))
+        ? article.image
+        : `https://yorubaheritage.com/${(article.image || 'images/uploads/yoruba-people.jpg').replace(/^\//, '')}`;
+    const description = article.excerpt || article.content?.replace(/<[^>]+>/g, '').substring(0, 160) || '';
+
+    const setMeta = (sel, val) => { const el = document.querySelector(sel); if (el) el.setAttribute('content', val); };
+    document.querySelector('meta[name="description"]')?.setAttribute('content', description);
+    setMeta('meta[property="og:title"]', `${article.title} - Yoruba Heritage`);
+    setMeta('meta[property="og:description"]', description);
+    setMeta('meta[property="og:image"]', ogImage);
+    setMeta('meta[property="og:url"]', pageUrl);
+    setMeta('meta[name="twitter:title"]', `${article.title} - Yoruba Heritage`);
+    setMeta('meta[name="twitter:description"]', description);
+    setMeta('meta[name="twitter:image"]', ogImage);
+    document.querySelector('link[rel="canonical"]')?.setAttribute('href', pageUrl);
+
+    // JSON-LD Article schema
+    const ld = document.createElement('script');
+    ld.type = 'application/ld+json';
+    ld.textContent = JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": article.title,
+        "description": description,
+        "image": ogImage,
+        "datePublished": article.date,
+        "author": { "@type": "Organization", "name": "Yoruba Heritage" },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Yoruba Heritage",
+            "logo": { "@type": "ImageObject", "url": "https://yorubaheritage.com/images/favicon.png" }
+        },
+        "mainEntityOfPage": { "@type": "WebPage", "@id": pageUrl }
+    });
+    document.head.appendChild(ld);
+    // ── End SEO ──────────────────────────────────────────────────────────────
+
     // Load related articles
     loadRelatedArticles(article.category);
 }

@@ -63,6 +63,36 @@ async function initIfaDetail() {
 
         document.title = `${entry.title} — IFA Wisdom — Yoruba Heritage`;
 
+        // ── Dynamic SEO ──────────────────────────────────────────────────────
+        const pageUrl = `https://yorubaheritage.com/ifa-detail.html?id=${id}`;
+        const ogImage = (entry.image && entry.image.startsWith('http'))
+            ? entry.image
+            : `https://yorubaheritage.com/${(entry.image || 'images/uploads/yoruba-people.jpg').replace(/^\//, '')}`;
+        const desc = entry.excerpt || '';
+        const setMeta = (sel, val) => { const el = document.querySelector(sel); if (el) el.setAttribute('content', val); };
+        document.querySelector('meta[name="description"]')?.setAttribute('content', desc);
+        setMeta('meta[property="og:title"]', `${entry.title} — IFA Wisdom — Yoruba Heritage`);
+        setMeta('meta[property="og:description"]', desc);
+        setMeta('meta[property="og:image"]', ogImage);
+        setMeta('meta[property="og:url"]', pageUrl);
+        setMeta('meta[name="twitter:title"]', `${entry.title} — IFA Wisdom — Yoruba Heritage`);
+        setMeta('meta[name="twitter:description"]', desc);
+        setMeta('meta[name="twitter:image"]', ogImage);
+        document.querySelector('link[rel="canonical"]')?.setAttribute('href', pageUrl);
+        const ld = document.createElement('script');
+        ld.type = 'application/ld+json';
+        ld.textContent = JSON.stringify({
+            "@context": "https://schema.org", "@type": "Article",
+            "headline": entry.title, "description": desc, "image": ogImage,
+            "datePublished": entry.date,
+            "author": { "@type": "Organization", "name": "Yoruba Heritage" },
+            "publisher": { "@type": "Organization", "name": "Yoruba Heritage",
+                "logo": { "@type": "ImageObject", "url": "https://yorubaheritage.com/images/favicon.png" }},
+            "mainEntityOfPage": { "@type": "WebPage", "@id": pageUrl }
+        });
+        document.head.appendChild(ld);
+        // ── End SEO ──────────────────────────────────────────────────────────
+
         document.getElementById('ifaCategory').textContent = entry.category || 'IFA Wisdom';
         document.getElementById('ifaTitle').textContent = entry.title;
 
