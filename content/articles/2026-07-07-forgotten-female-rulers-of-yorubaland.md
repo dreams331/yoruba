@@ -1,7 +1,7 @@
 ---
 title: "Forgotten Female Rulers of Yorubaland "
 date: 2026-07-07T13:32:46.678Z
-category: history
+category: people
 image: /images/uploads/forgotten-female-rulers-of-yorubaland.jfif
 excerpt: When the history of Yorubaland is told, the stories of kings, warriors,
   and male rulers often take centre stage. Yet women also exercised political
