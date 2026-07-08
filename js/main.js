@@ -382,3 +382,43 @@ window.addEventListener('load', () => {
         document.body.style.opacity = '1';
     }, 100);
 });
+
+// ========================================
+// PWA — Service Worker & Install Prompt
+// ========================================
+if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/sw.js')
+            .then(() => console.log('✓ Yoruba Heritage PWA ready'))
+            .catch(err => console.warn('SW:', err));
+    });
+}
+
+// Show "Add to Home Screen" banner after a delay if not already installed
+let _deferredPrompt = null;
+window.addEventListener('beforeinstallprompt', e => {
+    e.preventDefault();
+    _deferredPrompt = e;
+
+    // Show a subtle install banner after 30 seconds
+    setTimeout(() => {
+        if (!_deferredPrompt) return;
+        const banner = document.createElement('div');
+        banner.id = 'pwa-install-banner';
+        banner.innerHTML = `
+            <span>👑 Add <strong>Yoruba Heritage</strong> to your home screen</span>
+            <button id="pwa-install-btn">Install</button>
+            <button id="pwa-dismiss-btn" aria-label="Dismiss">✕</button>
+        `;
+        document.body.appendChild(banner);
+
+        document.getElementById('pwa-install-btn').addEventListener('click', () => {
+            _deferredPrompt.prompt();
+            _deferredPrompt.userChoice.then(() => {
+                _deferredPrompt = null;
+                banner.remove();
+            });
+        });
+        document.getElementById('pwa-dismiss-btn').addEventListener('click', () => banner.remove());
+    }, 30000);
+});

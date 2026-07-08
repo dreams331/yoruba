@@ -151,6 +151,39 @@
 }
 #jumpToday:hover { opacity: 0.88; }
 
+/* ── Add to Calendar button ──────────────────────────────────────────── */
+.jump-today-wrap {
+    display: flex;
+    gap: 0.6rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#downloadIcsBtn {
+    background: #2C5F2D;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 0.55rem 1.4rem;
+    cursor: pointer;
+    font-family: var(--font-body);
+    font-size: 0.88rem;
+    font-weight: 600;
+    transition: opacity 0.15s;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+}
+#downloadIcsBtn:hover { opacity: 0.88; }
+
+.ics-help {
+    text-align: center;
+    font-size: 0.8rem;
+    color: var(--text-secondary, #999);
+    margin: 0.5rem 0 1rem;
+}
+.ics-help i { color: var(--primary-color); margin-right: 0.2rem; }
+.ics-help a { color: var(--primary-color); }
+
 /* ── Week Day Guide ──────────────────────────────────────────────────── */
 .wd-grid { display: grid; grid-template-columns: repeat(auto-fit,minmax(220px,1fr)); gap: 1rem; }
 .wd-card { background: var(--bg-card,#fff); border-radius: 12px; padding: 1.2rem; box-shadow: 0 2px 10px rgba(0,0,0,0.06); }
