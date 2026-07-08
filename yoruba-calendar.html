@@ -16,6 +16,8 @@
     <meta name="twitter:title" content="Yoruba Calendar (Kọ́jọ́dá) - Yoruba Heritage">
     <meta name="twitter:image" content="https://yorubaheritage.com/images/uploads/yoruba-people.jpg">
     <link rel="canonical" href="https://yorubaheritage.com/yoruba-calendar.html">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#C17817">
     <link rel="icon" type="image/png" href="/images/favicon.png">
     <link rel="apple-touch-icon" href="/images/favicon.png">
     <link rel="stylesheet" href="css/styles.css">
@@ -97,10 +99,19 @@
             <div class="year-strip" id="yearStrip"></div>
         </div>
 
-        <!-- Jump to today -->
+        <!-- Jump to today + export -->
         <div class="jump-today-wrap">
             <button id="jumpToday"><i class="fas fa-crosshairs"></i> Jump to Today</button>
+            <button id="downloadIcsBtn" onclick="downloadICS()" title="Add Yoruba Calendar to Apple Calendar, Google Calendar or Outlook">
+                <i class="fas fa-calendar-plus"></i> Add to My Calendar
+            </button>
         </div>
+        <!-- Export help text -->
+        <p class="ics-help">
+            <i class="fas fa-info-circle"></i>
+            Downloads a <strong>.ics file</strong> — works with Apple Calendar, Google Calendar, Outlook and Android.
+            <a href="https://support.apple.com/guide/calendar/import-or-export-calendars-icl1023/mac" target="_blank" rel="noopener">How to import?</a>
+        </p>
 
         <!-- Month calendar -->
         <div class="cal-section">
@@ -191,5 +202,6 @@
 
     <script src="js/main.js"></script>
     <script src="js/yoruba-calendar.js"></script>
+    <script src="js/calendar-export.js"></script>
 </body>
 </html>

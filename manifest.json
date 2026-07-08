@@ -1,0 +1,49 @@
+{
+  "name": "Yoruba Heritage",
+  "short_name": "Yoruba Heritage",
+  "description": "Preserving and sharing the rich history, culture, and wisdom of the Yoruba people worldwide.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a0a00",
+  "theme_color": "#C17817",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/images/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Kọ́jọ́dá Calendar",
+      "short_name": "Calendar",
+      "description": "View today's Yoruba date",
+      "url": "/yoruba-calendar.html",
+      "icons": [{ "src": "/images/favicon.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Articles",
+      "short_name": "Articles",
+      "description": "Read Yoruba heritage articles",
+      "url": "/articles.html",
+      "icons": [{ "src": "/images/favicon.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "IFA Wisdom",
+      "short_name": "IFA",
+      "description": "Explore IFA wisdom",
+      "url": "/ifa-wisdom.html",
+      "icons": [{ "src": "/images/favicon.png", "sizes": "192x192" }]
+    }
+  ],
+  "categories": ["education", "lifestyle", "books"],
+  "lang": "en"
+}
