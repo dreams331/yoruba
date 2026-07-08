@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Explore the traditional Yoruba Kọ́jọ́dá calendar — 13 months, 4-day sacred weeks, Orisha festival days and today's Yoruba date.">
+    <title>Yoruba Calendar (Kọ́jọ́dá) - Yoruba Heritage</title>
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Yoruba Heritage">
+    <meta property="og:title" content="Yoruba Calendar (Kọ́jọ́dá) - Yoruba Heritage">
+    <meta property="og:description" content="Explore the traditional Yoruba Kọ́jọ́dá calendar — 13 months, 4-day sacred weeks dedicated to the Orisha, and today's Yoruba date.">
+    <meta property="og:image" content="https://yorubaheritage.com/images/uploads/yoruba-people.jpg">
+    <meta property="og:url" content="https://yorubaheritage.com/yoruba-calendar.html">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Yoruba Calendar (Kọ́jọ́dá) - Yoruba Heritage">
+    <meta name="twitter:image" content="https://yorubaheritage.com/images/uploads/yoruba-people.jpg">
+    <link rel="canonical" href="https://yorubaheritage.com/yoruba-calendar.html">
+    <link rel="icon" type="image/png" href="/images/favicon.png">
+    <link rel="apple-touch-icon" href="/images/favicon.png">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/yoruba-calendar.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-43VWC293SB"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-43VWC293SB');
+    </script>
+    <!-- JSON-LD -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Yoruba Calendar (Kọ́jọ́dá)",
+      "description": "The traditional Yoruba calendar with 13 months, 4-day sacred weeks and Orisha festival days.",
+      "url": "https://yorubaheritage.com/yoruba-calendar.html",
+      "publisher": { "@type": "Organization", "name": "Yoruba Heritage" }
+    }
+    </script>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-brand">
+                <a href="index.html">
+                    <h1><i class="fas fa-crown"></i> Yoruba Heritage</h1>
+                </a>
+            </div>
+            <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation">
+                <span></span><span></span><span></span>
+            </button>
+            <ul class="nav-menu" id="navMenu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="articles.html">Articles</a></li>
+                <li><a href="stories.html">Stories</a></li>
+                <li><a href="ifa-wisdom.html">IFA Wisdom</a></li>
+                <li><a href="yoruba-calendar.html" class="active">Calendar</a></li>
+                <li><a href="diaspora.html">Diaspora</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="about.html">About</a></li>
+                <li>
+                    <a href="search.html" class="btn btn-search">
+                        <i class="fas fa-search"></i> Search
+                    </a>
+                </li>
+                <li>
+                    <button class="dark-mode-toggle" id="darkModeToggle" aria-label="Toggle dark mode">
+                        <i class="fas fa-moon"></i>
+                    </button>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Hero -->
+    <section class="calendar-hero">
+        <div class="container">
+            <h1><i class="fas fa-calendar-alt"></i> Kọ́jọ́dá</h1>
+            <p class="hero-sub">The Traditional Yoruba Calendar</p>
+            <p class="hero-year">364 days · 13 months · 4-day sacred week · New Year: June 3</p>
+        </div>
+    </section>
+
+    <main class="container" style="padding-top:1.5rem;padding-bottom:3rem;">
+
+        <!-- Today banner -->
+        <div id="todayBanner"></div>
+
+        <!-- Year strip -->
+        <div class="year-strip-wrap">
+            <div class="year-strip" id="yearStrip"></div>
+        </div>
+
+        <!-- Jump to today -->
+        <div class="jump-today-wrap">
+            <button id="jumpToday"><i class="fas fa-crosshairs"></i> Jump to Today</button>
+        </div>
+
+        <!-- Month calendar -->
+        <div class="cal-section">
+            <div class="cal-month-nav" id="calMonthHeader"></div>
+            <p class="cal-month-orisha" id="calMonthOrisha"></p>
+            <div id="calGrid"></div>
+        </div>
+
+        <!-- Dot legend -->
+        <div class="cal-section">
+            <h2 style="font-family:var(--font-heading);margin:0 0 1rem;color:var(--primary-color)">The Four Sacred Days (Ọ̀sẹ̀ Mẹ́rin)</h2>
+            <p style="color:var(--text-secondary,#666);margin-bottom:1.2rem;font-size:0.9rem;">
+                The traditional Yoruba week has <strong>4 days</strong>, each dedicated to specific Orisha. 
+                Priests and devotees observe the day most sacred to their Orisha.
+            </p>
+            <div class="wd-grid" id="weekDayGuide"></div>
+        </div>
+
+        <!-- Gregorian ref -->
+        <div class="cal-section" id="gregRef"></div>
+
+        <!-- About section -->
+        <div class="cal-section">
+            <h2 style="font-family:var(--font-heading);margin:0 0 1rem;color:var(--primary-color)">About Kọ́jọ́dá</h2>
+            <p style="line-height:1.8;color:var(--text-secondary,#555);">
+                The Yoruba calendar — <em>Kọ́jọ́dá</em> (meaning "may the day be clearly foreseen") — is one of humanity's oldest calendar systems. It consists of <strong>364 days</strong> divided into <strong>13 months</strong> of exactly 28 days each (7 weeks × 4 days). The remaining day of the solar year is observed as the <strong>Bridge Day</strong> (Ọjọ́ Àfonínú) on June 2, a day between years.
+            </p>
+            <p style="line-height:1.8;color:var(--text-secondary,#555);margin-top:0.8rem;">
+                The Yoruba New Year begins on <strong>June 3</strong> every year, coinciding with the annual Ifá festival at Ilé-Ifẹ̀ — the sacred city considered the centre of creation. According to this reckoning, <strong>2026 CE = Year 10,068</strong> of Yoruba civilisation.
+            </p>
+            <div style="margin-top:1.2rem;">
+                <a href="ifa-wisdom.html" class="btn btn-primary" style="margin-right:0.8rem;">
+                    <i class="fas fa-book-open"></i> Explore IFA Wisdom
+                </a>
+                <a href="articles.html?category=history" class="btn btn-outline">
+                    <i class="fas fa-history"></i> Yoruba History Articles
+                </a>
+            </div>
+        </div>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-brand">
+                    <h3><i class="fas fa-crown"></i> Yoruba Heritage</h3>
+                    <p>Preserving and sharing the rich history, culture, and wisdom of the Yoruba people worldwide.</p>
+                </div>
+                <div class="footer-links">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="articles.html">Articles</a></li>
+                        <li><a href="stories.html">Stories</a></li>
+                        <li><a href="ifa-wisdom.html">IFA Wisdom</a></li>
+                        <li><a href="yoruba-calendar.html">Calendar</a></li>
+                        <li><a href="gallery.html">Gallery</a></li>
+                    </ul>
+                </div>
+                <div class="footer-links">
+                    <h4>Resources</h4>
+                    <ul>
+                        <li><a href="diaspora.html">Diaspora Map</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="contribute.html">Contribute</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 Yoruba Heritage. All rights reserved.</p>
+                <p>Built with respect for our ancestors</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+    <script src="js/yoruba-calendar.js"></script>
+</body>
+</html>
