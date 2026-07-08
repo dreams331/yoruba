@@ -396,6 +396,31 @@ if ('serviceWorker' in navigator) {
 
 // Show "Add to Home Screen" banner after a delay if not already installed
 let _deferredPrompt = null;
+
+// Expose a global install helper for the promo section button
+window.__pwaInstall = function () {
+    if (_deferredPrompt) {
+        _deferredPrompt.prompt();
+        _deferredPrompt.userChoice.then(choice => {
+            _deferredPrompt = null;
+            _updatePromoBtn(choice.outcome === 'accepted');
+        });
+    } else {
+        // Fallback: guide the user
+        alert('To install:\n• iPhone/iPad — tap Share ⬆️ then "Add to Home Screen"\n• Android/Desktop — tap the install icon in your browser address bar');
+    }
+};
+
+function _updatePromoBtn(installed) {
+    const btn = document.getElementById('appPromoInstallBtn');
+    if (!btn) return;
+    if (installed) {
+        btn.innerHTML = '<i class="fas fa-check"></i> Installed!';
+        btn.disabled = true;
+        btn.style.opacity = '0.7';
+    }
+}
+
 window.addEventListener('beforeinstallprompt', e => {
     e.preventDefault();
     _deferredPrompt = e;
@@ -414,11 +439,19 @@ window.addEventListener('beforeinstallprompt', e => {
 
         document.getElementById('pwa-install-btn').addEventListener('click', () => {
             _deferredPrompt.prompt();
-            _deferredPrompt.userChoice.then(() => {
+            _deferredPrompt.userChoice.then(choice => {
                 _deferredPrompt = null;
                 banner.remove();
+                _updatePromoBtn(choice.outcome === 'accepted');
             });
         });
         document.getElementById('pwa-dismiss-btn').addEventListener('click', () => banner.remove());
     }, 30000);
+});
+
+window.addEventListener('appinstalled', () => {
+    _deferredPrompt = null;
+    _updatePromoBtn(true);
+    const banner = document.getElementById('pwa-install-banner');
+    if (banner) banner.remove();
 });
