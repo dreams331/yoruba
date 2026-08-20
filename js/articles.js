@@ -265,6 +265,21 @@ searchInput.addEventListener('input', (e) => {
     filterArticles();
 });
 
+// Apply category filter from URL hash (e.g. articles.html#culture)
+function applyHashFilter() {
+    const hash = window.location.hash.replace('#', '').toLowerCase();
+    const validCategories = ['history', 'culture', 'people', 'diaspora', 'language'];
+    if (hash && validCategories.includes(hash)) {
+        currentFilter = hash;
+        filterBtns.forEach(b => {
+            b.classList.toggle('active', b.getAttribute('data-category') === hash);
+        });
+        filterArticles();
+    }
+}
+window.addEventListener('DOMContentLoaded', applyHashFilter);
+window.addEventListener('hashchange', applyHashFilter);
+
 // Animate cards
 function animateCards() {
     const cards = document.querySelectorAll('.article-card');
