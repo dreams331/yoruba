@@ -10,9 +10,7 @@ excerpt: Hair has always been an important part of Yoruba appearance, identity
 readTime: 5 min
 featured: false
 ---
-<!--StartFragment-->
-
-# Traditional Yoruba Hairstyles Through History
+## Introduction
 
 Hair has always been an important part of Yoruba appearance, identity and cultural expression. Across generations, Yoruba people developed creative ways of styling, braiding and decorating hair, turning the head into a space where beauty, age, status and personal identity could be expressed.
 
