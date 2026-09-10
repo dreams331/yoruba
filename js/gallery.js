@@ -101,6 +101,7 @@ function buildLightbox() {
             <button class="lightbox-next" aria-label="Next"><i class="fas fa-chevron-right"></i></button>
             <div class="lightbox-media">
                 <img id="lightboxImg" src="" alt="">
+                <div id="lightboxVideo"></div>
             </div>
             <div class="lightbox-details">
                 <span id="lightboxCategory" class="lightbox-tag"></span>
@@ -153,6 +154,15 @@ function populateLightbox() {
     document.getElementById('lightboxCategory').textContent = CATEGORY_LABELS[item.category] || item.category;
     document.getElementById('lightboxTags').innerHTML = (item.tags || []).map(t => `<span class="tag">#${t}</span>`).join('');
     document.getElementById('lightboxCounter').textContent = `${lightboxIndex + 1} / ${allItems.length}`;
+
+    // Video embed (optional, from CMS video_url field)
+    const videoSlot = document.getElementById('lightboxVideo');
+    if (videoSlot) {
+        const embed = (item.video_url && typeof buildVideoEmbed === 'function')
+            ? buildVideoEmbed(item.video_url, { title: item.title })
+            : null;
+        videoSlot.innerHTML = embed || '';
+    }
 }
 
 document.addEventListener('DOMContentLoaded', loadGallery);

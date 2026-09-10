@@ -185,6 +185,16 @@ async function loadArticle() {
     if (article.image) {
         imageContainer.innerHTML = `<img src="${article.image}" alt="${article.title}">`;
     }
+
+    // Video embed (optional, from CMS video_url field)
+    if (article.video_url && typeof buildVideoEmbed === 'function') {
+        const embed = buildVideoEmbed(article.video_url, { title: article.title });
+        if (embed) {
+            const wrap = document.createElement('div');
+            wrap.innerHTML = embed;
+            document.getElementById('articleContent')?.insertAdjacentElement('beforebegin', wrap.firstElementChild);
+        }
+    }
     
     // Update page title
     document.title = `${article.title} - Yoruba Heritage`;

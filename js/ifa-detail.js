@@ -104,6 +104,16 @@ async function initIfaDetail() {
             document.getElementById('ifaImage').innerHTML = `<img src="${entry.image}" alt="${entry.title}" style="width:100%;max-height:500px;object-fit:cover;" onerror="this.src='/images/uploads/ifa.png'">`;
         }
 
+        // Video embed (optional, from CMS video_url field)
+        if (entry.video_url && typeof buildVideoEmbed === 'function') {
+            const embed = buildVideoEmbed(entry.video_url, { title: entry.title });
+            if (embed) {
+                const wrap = document.createElement('div');
+                wrap.innerHTML = embed;
+                document.getElementById('ifaContent')?.insertAdjacentElement('beforebegin', wrap.firstElementChild);
+            }
+        }
+
         const html = entry.htmlContent || markdownToHtml(entry.content) || `<p>${entry.excerpt}</p>`;
         document.getElementById('ifaContent').innerHTML = html;
 

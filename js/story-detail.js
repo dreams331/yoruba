@@ -113,6 +113,16 @@ async function initStoryDetail() {
             document.getElementById('storyImage').innerHTML = `<img src="${story.image}" alt="${story.title}" style="width:100%;max-height:500px;object-fit:cover;">`;
         }
 
+        // Video embed (optional, from CMS video_url field)
+        if (story.video_url && typeof buildVideoEmbed === 'function') {
+            const embed = buildVideoEmbed(story.video_url, { title: story.title });
+            if (embed) {
+                const wrap = document.createElement('div');
+                wrap.innerHTML = embed;
+                document.getElementById('storyContent')?.insertAdjacentElement('beforebegin', wrap.firstElementChild);
+            }
+        }
+
         // Content
         const html = story.htmlContent || markdownToHtml(story.content) || `<p>${story.excerpt}</p>`;
         document.getElementById('storyContent').innerHTML = html;
