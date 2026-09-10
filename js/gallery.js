@@ -13,7 +13,8 @@ const CATEGORY_LABELS = {
     'history': 'History',
     'arts-crafts': 'Arts & Crafts',
     'contemporary': 'Contemporary',
-    'diaspora': 'Diaspora'
+    'diaspora': 'Diaspora',
+    'music-dance': 'Music & Dance'
 };
 
 async function loadGallery() {
@@ -63,9 +64,15 @@ function renderGrid(items) {
         return;
     }
 
-    grid.innerHTML = items.map((item, idx) => `
-        <div class="gallery-item" data-index="${allItems.indexOf(item)}" role="button" tabindex="0" aria-label="View ${item.title}">
-            <img src="${item.image}" alt="${item.title}" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=600'">
+    grid.innerHTML = items.map((item, idx) => {
+        const isVideo = !!item.video_url;
+        const thumb = item.image
+            ? `<img src="${item.image}" alt="${item.title}" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=600'">`
+            : `<div class="gallery-video-thumb"><i class="fas fa-play-circle"></i></div>`;
+        return `
+        <div class="gallery-item ${isVideo ? 'gallery-item-video' : ''}" data-index="${allItems.indexOf(item)}" role="button" tabindex="0" aria-label="View ${item.title}">
+            ${thumb}
+            ${isVideo ? '<i class="fas fa-play-circle gallery-video-badge"></i>' : ''}
             <div class="gallery-item-overlay">
                 <div class="gallery-item-info">
                     <span class="gallery-item-category">${CATEGORY_LABELS[item.category] || item.category}</span>
@@ -75,7 +82,8 @@ function renderGrid(items) {
                 <i class="fas fa-expand gallery-expand-icon"></i>
             </div>
         </div>
-    `).join('');
+    `;
+    }).join('');
 
     grid.querySelectorAll('.gallery-item').forEach(el => {
         el.addEventListener('click', () => openLightbox(parseInt(el.dataset.index)));
@@ -147,8 +155,15 @@ function shiftLightbox(dir) {
 
 function populateLightbox() {
     const item = allItems[lightboxIndex];
-    document.getElementById('lightboxImg').src = item.image;
-    document.getElementById('lightboxImg').alt = item.title;
+    const imgEl = document.getElementById('lightboxImg');
+    if (item.image) {
+        imgEl.src = item.image;
+        imgEl.alt = item.title;
+        imgEl.style.display = '';
+    } else {
+        imgEl.removeAttribute('src');
+        imgEl.style.display = 'none';
+    }
     document.getElementById('lightboxTitle').textContent = item.title;
     document.getElementById('lightboxDesc').textContent = item.description;
     document.getElementById('lightboxCategory').textContent = CATEGORY_LABELS[item.category] || item.category;

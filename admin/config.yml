@@ -158,22 +158,6 @@ collections:
       - {label: "Video URL (YouTube/Vimeo)", name: "video_url", widget: "string", required: false}
       - {label: "Featured", name: "featured", widget: "boolean", default: false}
 
-  # Videos Collection (standalone video library — embeds only, no hosting)
-  - name: "videos"
-    label: "Videos"
-    folder: "content/videos"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Category", name: "category", widget: "select", options: ["Festivals & Events", "Documentary", "Music & Dance", "Language Lessons", "Ifa & Orisha", "Interviews", "Diaspora", "Other"]}
-      - {label: "Video URL (YouTube/Vimeo)", name: "video_url", widget: "string", hint: "Paste the full YouTube or Vimeo link"}
-      - {label: "Thumbnail (optional override)", name: "image", widget: "image", required: false, hint: "Leave blank to auto-use YouTube thumbnail"}
-      - {label: "Description", name: "description", widget: "text"}
-      - {label: "Credit / Original Creator", name: "credit", widget: "string", required: false, hint: "e.g. Channel name — always credit the original creator"}
-      - {label: "Featured", name: "featured", widget: "boolean", default: false}
-
   # Pages Collection (for About, etc.)
   - name: "pages"
     label: "Pages"

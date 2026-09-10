@@ -201,8 +201,7 @@ function buildContent() {
         { name: 'diaspora-countries', dir: path.join(contentDir, 'diaspora-countries') },
         { name: 'odu-ifa', dir: path.join(contentDir, 'odu-ifa') },
         { name: 'events', dir: path.join(contentDir, 'events') },
-        { name: 'news', dir: path.join(contentDir, 'news') },
-        { name: 'videos', dir: path.join(contentDir, 'videos') }
+        { name: 'news', dir: path.join(contentDir, 'news') }
     ];
     
     const results = {};
