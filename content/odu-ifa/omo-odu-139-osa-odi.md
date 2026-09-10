@@ -1,0 +1,33 @@
+---
+title: "Ọ̀sá-Òdí"
+number: 155
+category: "Omo Odu"
+slug: "osa-odi"
+parent1: "osa-meji"
+parent2: "odi-meji"
+orisha: "Ọya; Ọya / Yemọja"
+theme: "upheaval, the whirlwind, sudden change, protection from harm; the womb, mystery, transformation, hidden depth"
+excerpt: "Ọ̀sá-Òdí combines the energy of Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm) with Òdí Méjì (the womb, mystery, transformation, hidden depth). It is read as a distinct Odù with its own guidance, drawing on both influences."
+pattern_right: "II,II,II,I"
+pattern_left: "II,I,I,II"
+---
+
+## Ọ̀sá-Òdí
+
+### Meaning
+
+Ọ̀sá-Òdí combines the energy of Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm) with Òdí Méjì (the womb, mystery, transformation, hidden depth). It is read as a distinct Odù with its own guidance, drawing on both influences.
+
+### Governing Influences
+
+- **Ọ̀sá Méjì** — upheaval, the whirlwind, sudden change, protection from harm (Ọya)
+- **Òdí Méjì** — the womb, mystery, transformation, hidden depth (Ọya / Yemọja)
+
+### Guidance
+
+When Ọ̀sá-Òdí appears, it suggests a situation where the lessons of Ọ̀sá Méjì — upheaval, the whirlwind, sudden change, protection from harm — must be balanced with the lessons of Òdí Méjì — the womb, mystery, transformation, hidden depth. Ọ̀sá Méjì advises: Ọ̀sá teaches resilience through sudden disruption. Òdí Méjì adds: Òdí teaches patience with processes that are not yet visible — pregnancy, growth, and transformation take time in darkness before they emerge into light. Together, they call for wisdom that honours both sides of this Odù.
+
+---
+
+*Ọ̀sá-Òdí is one of the 240 Omo Odù formed by combining two of the 16 principal Odù Méjì. Naming conventions for Omo Odù can vary between Ifá lineages; this entry uses a systematic right–left naming for clarity.*
+

@@ -91,6 +91,28 @@ collections:
       - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Full Country Content", name: "body", widget: "markdown", hint: "Add detailed content about Yoruba culture, history, religion and community in this country"}
 
+  # Odu Ifa Collection (256 Odu — 16 Meji + 240 Omo Odu)
+  - name: "odu-ifa"
+    label: "Odu Ifa"
+    folder: "content/odu-ifa"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title (Yoruba name)", name: "title", widget: "string", hint: "e.g. Èjì Ogbè, Ogbè-Ọ̀yẹ̀kú"}
+      - {label: "Number (1-256)", name: "number", widget: "number"}
+      - {label: "Category", name: "category", widget: "select", options: ["Odu Meji", "Omo Odu"]}
+      - {label: "Slug", name: "slug", widget: "string", hint: "URL-friendly id, e.g. eji-ogbe"}
+      - {label: "Parent Odu 1 (slug)", name: "parent1", widget: "string"}
+      - {label: "Parent Odu 2 (slug)", name: "parent2", widget: "string"}
+      - {label: "Associated Orisha", name: "orisha", widget: "string"}
+      - {label: "Theme/Keywords", name: "theme", widget: "string"}
+      - {label: "Proverb (Yoruba)", name: "proverb_yo", widget: "string", required: false}
+      - {label: "Proverb (English)", name: "proverb_en", widget: "string", required: false}
+      - {label: "Short Excerpt", name: "excerpt", widget: "text"}
+      - {label: "Pattern — Right Leg", name: "pattern_right", widget: "string", hint: "Comma-separated I/II marks, e.g. I,I,I,I"}
+      - {label: "Pattern — Left Leg", name: "pattern_left", widget: "string", hint: "Comma-separated I/II marks, e.g. I,I,I,I"}
+      - {label: "Full Body", name: "body", widget: "markdown"}
+
   # Pages Collection (for About, etc.)
   - name: "pages"
     label: "Pages"
