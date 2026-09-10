@@ -198,7 +198,8 @@ function buildContent() {
         { name: 'ifa', dir: path.join(contentDir, 'ifa') },
         { name: 'gallery', dir: path.join(contentDir, 'gallery') },
         { name: 'pages', dir: path.join(contentDir, 'pages') },
-        { name: 'diaspora-countries', dir: path.join(contentDir, 'diaspora-countries') }
+        { name: 'diaspora-countries', dir: path.join(contentDir, 'diaspora-countries') },
+        { name: 'odu-ifa', dir: path.join(contentDir, 'odu-ifa') }
     ];
     
     const results = {};

@@ -1,0 +1,447 @@
+/* ===================================
+   Odu Ifa Encyclopedia — Styles
+   =================================== */
+
+.odu-hero {
+    position: relative;
+    padding: 4.5rem 0 4rem;
+    text-align: center;
+    overflow: hidden;
+    color: #fff;
+    isolation: isolate;
+}
+.odu-hero-bg {
+    position: absolute;
+    inset: 0;
+    background-size: cover;
+    background-position: center 30%;
+    filter: saturate(1.1) brightness(0.55);
+    transform: scale(1.05);
+    z-index: -2;
+}
+.odu-hero-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(135deg, rgba(139,0,0,0.88) 0%, rgba(193,120,23,0.85) 100%);
+    z-index: -1;
+}
+.odu-hero-content { position: relative; }
+.odu-hero h1 {
+    font-family: var(--font-heading);
+    font-size: 2.8rem;
+    margin-bottom: 0.5rem;
+    text-shadow: 0 2px 10px rgba(0,0,0,0.35);
+    letter-spacing: 0.3px;
+}
+.odu-hero .hero-sub {
+    font-size: 1.2rem;
+    font-weight: 500;
+    opacity: 0.98;
+    margin-bottom: 1.1rem;
+    text-shadow: 0 1px 6px rgba(0,0,0,0.3);
+}
+.odu-hero .hero-desc {
+    max-width: 760px;
+    margin: 0 auto;
+    line-height: 1.85;
+    font-size: 1rem;
+    color: rgba(255,255,255,0.96);
+    text-shadow: 0 1px 4px rgba(0,0,0,0.25);
+}
+.odu-hero .hero-desc strong { color: #FFE7B0; }
+
+.odu-main { padding: 2.5rem 0 4rem; }
+
+/* ---- Cast Widget ---- */
+.cast-widget {
+    background: var(--light-color);
+    border: 1px solid var(--border-color);
+    border-radius: 16px;
+    padding: 2rem;
+    margin-bottom: 3rem;
+    text-align: center;
+}
+.cast-header h2 {
+    font-family: var(--font-heading);
+    color: var(--secondary-color);
+    margin-bottom: 0.4rem;
+}
+.cast-header p {
+    color: var(--text-light);
+    max-width: 560px;
+    margin: 0 auto 1.5rem;
+    font-size: 0.95rem;
+}
+.cast-body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 2.5rem;
+    margin-bottom: 1.5rem;
+}
+
+/* Ọ̀pẹ̀lẹ̀ divining chain — circular medallion with dotted border and two strands of marks */
+.opele-medallion {
+    position: relative;
+    width: 260px;
+    height: 260px;
+    border-radius: 50%;
+    background: radial-gradient(circle at 50% 35%, #E8C27A 0%, #C17817 60%, #8B5A2B 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    box-shadow: inset 0 4px 12px rgba(0,0,0,0.25), 0 8px 24px rgba(0,0,0,0.18);
+}
+.opele-medallion-ring {
+    position: absolute;
+    inset: 6px;
+    border-radius: 50%;
+    border: 2px dashed rgba(139,0,0,0.55);
+}
+.opele-medallion-ring::before {
+    content: '';
+    position: absolute;
+    inset: -3px;
+    border-radius: 50%;
+    background-image: radial-gradient(circle, var(--secondary-color) 1.5px, transparent 1.6px);
+    background-size: 14px 14px;
+    -webkit-mask: radial-gradient(circle, transparent 62%, #000 63%, #000 68%, transparent 69%);
+            mask: radial-gradient(circle, transparent 62%, #000 63%, #000 68%, transparent 69%);
+}
+.opele-face {
+    position: absolute;
+    top: 8%;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 2.4rem;
+    color: rgba(26,26,26,0.85);
+    text-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+.opele-strands {
+    display: flex;
+    gap: 1.4rem;
+    align-items: flex-end;
+    margin-top: 1.6rem;
+}
+.cast-leg {
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 8px;
+    min-height: 130px;
+    justify-content: flex-start;
+    align-items: center;
+}
+/* A single mark segment — rounded black tablet, like the reference medallion */
+.cast-mark {
+    width: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+.cast-mark::before {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 30px;
+    border-radius: 6px;
+    background: #1A1A1A;
+    box-shadow: 0 2px 3px rgba(0,0,0,0.35);
+}
+.cast-mark.double {
+    flex-direction: column;
+}
+.cast-mark.double::before { height: 13px; }
+.cast-mark.double::after {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 13px;
+    border-radius: 6px;
+    background: #1A1A1A;
+    box-shadow: 0 2px 3px rgba(0,0,0,0.35);
+}
+
+.cast-result {
+    min-width: 240px;
+    text-align: left;
+}
+.cast-result h3 {
+    font-family: var(--font-heading);
+    color: var(--secondary-color);
+    font-size: 1.4rem;
+    margin-bottom: 0.3rem;
+}
+.cast-result .cast-result-sub {
+    color: var(--text-light);
+    font-size: 0.9rem;
+    margin-bottom: 0.6rem;
+}
+.cast-result .cast-placeholder {
+    color: var(--text-light);
+    font-style: italic;
+}
+.cast-result a.btn { margin-top: 0.5rem; display: inline-block; }
+.cast-btn { font-size: 1.05rem; padding: 0.9rem 2.2rem; }
+.cast-btn.casting { opacity: 0.7; pointer-events: none; }
+.cast-disclaimer {
+    margin-top: 1.2rem;
+    font-size: 0.82rem;
+    color: var(--text-light);
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* ---- Controls ---- */
+.odu-controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+.odu-search-bar {
+    flex: 1;
+    min-width: 260px;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    background: var(--white);
+    border: 1px solid var(--border-color);
+    border-radius: 30px;
+    padding: 0.7rem 1.2rem;
+}
+.odu-search-bar i { color: var(--text-light); }
+.odu-search-bar input {
+    border: none;
+    outline: none;
+    flex: 1;
+    font-size: 0.95rem;
+    font-family: var(--font-body);
+    background: transparent;
+    color: var(--text-dark);
+}
+.odu-filters { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+.odu-filters .filter-btn {
+    border: 1px solid var(--border-color);
+    background: var(--white);
+    color: var(--text-dark);
+    padding: 0.55rem 1.1rem;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 0.88rem;
+    font-weight: 500;
+    transition: var(--transition);
+    white-space: nowrap;
+}
+.odu-filters .filter-btn:hover { border-color: var(--primary-color); }
+.odu-filters .filter-btn.active {
+    background: var(--primary-color);
+    color: #fff;
+    border-color: var(--primary-color);
+}
+
+.odu-results-count {
+    color: var(--text-light);
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+}
+
+/* ---- Grid ---- */
+.odu-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+    gap: 1.2rem;
+    margin-bottom: 2rem;
+}
+.odu-card {
+    background: var(--white);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: 1.3rem;
+    cursor: pointer;
+    transition: var(--transition);
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+.odu-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 24px rgba(0,0,0,0.18);
+    border-color: var(--primary-color);
+}
+.odu-card .odu-card-number {
+    font-size: 0.75rem;
+    color: var(--primary-color);
+    font-weight: 700;
+    letter-spacing: 0.5px;
+}
+.odu-card h3 {
+    font-family: var(--font-heading);
+    color: var(--secondary-color);
+    font-size: 1.15rem;
+    line-height: 1.3;
+}
+.odu-card .odu-card-badge {
+    display: inline-block;
+    font-size: 0.72rem;
+    background: var(--light-color);
+    color: var(--accent-color);
+    border-radius: 10px;
+    padding: 0.15rem 0.6rem;
+    width: fit-content;
+    font-weight: 600;
+}
+.odu-card p {
+    font-size: 0.85rem;
+    color: var(--text-light);
+    line-height: 1.5;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.odu-empty { text-align: center; color: var(--text-light); padding: 3rem 0; }
+.odu-load-more-wrap { text-align: center; }
+
+/* ---- About section ---- */
+.odu-about { margin-top: 3rem; }
+.odu-about h2 {
+    font-family: var(--font-heading);
+    color: var(--primary-color);
+    margin-bottom: 1.2rem;
+}
+.odu-about-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1.5rem;
+}
+.odu-about-card {
+    background: var(--light-color);
+    border-radius: 12px;
+    padding: 1.5rem;
+}
+.odu-about-card h3 {
+    color: var(--secondary-color);
+    font-family: var(--font-heading);
+    margin-bottom: 0.5rem;
+    font-size: 1.1rem;
+}
+.odu-about-card p { color: var(--text-light); line-height: 1.7; font-size: 0.92rem; }
+
+/* ---- Modal ---- */
+.odu-modal {
+    display: none;
+    position: fixed;
+    inset: 0;
+    z-index: 2000;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+}
+.odu-modal.open { display: flex; }
+.odu-modal-backdrop {
+    position: absolute;
+    inset: 0;
+    background: rgba(0,0,0,0.6);
+}
+.odu-modal-content {
+    position: relative;
+    background: var(--white);
+    border-radius: 16px;
+    max-width: 680px;
+    width: 100%;
+    max-height: 85vh;
+    overflow-y: auto;
+    padding: 2.2rem;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.4);
+}
+.odu-modal-close {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background: var(--light-color);
+    border: none;
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    cursor: pointer;
+    font-size: 1rem;
+    color: var(--text-dark);
+}
+.odu-modal-close:hover { background: var(--border-color); }
+#oduModalBody h2 {
+    font-family: var(--font-heading);
+    color: var(--secondary-color);
+    font-size: 1.6rem;
+    margin-bottom: 0.3rem;
+    padding-right: 2rem;
+}
+#oduModalBody .odu-modal-meta {
+    font-size: 0.85rem;
+    color: var(--text-light);
+    margin-bottom: 1rem;
+}
+#oduModalBody blockquote {
+    background: var(--light-color);
+    border-left: 4px solid var(--primary-color);
+    padding: 1rem 1.2rem;
+    margin: 1rem 0;
+    font-style: italic;
+    border-radius: 0 8px 8px 0;
+}
+#oduModalBody h3 {
+    color: var(--primary-color);
+    font-family: var(--font-heading);
+    margin: 1.2rem 0 0.4rem;
+    font-size: 1.05rem;
+}
+#oduModalBody p { line-height: 1.8; color: var(--text-dark); margin-bottom: 0.6rem; }
+#oduModalBody hr { border: none; border-top: 1px solid var(--border-color); margin: 1.2rem 0; }
+#oduModalBody em { color: var(--text-light); }
+
+@media (max-width: 600px) {
+    .odu-hero h1 { font-size: 2rem; }
+    .cast-body { flex-direction: column; gap: 1.5rem; }
+    .odu-controls { flex-direction: column; align-items: stretch; }
+    .opele-medallion { width: 210px; height: 210px; }
+    .opele-strands { gap: 1rem; }
+    .cast-leg { min-height: 100px; }
+}
+
+/* ===================================
+   Dark Mode Overrides
+   =================================== */
+[data-theme="dark"] .odu-hero-overlay {
+    background: linear-gradient(135deg, rgba(60,0,0,0.92) 0%, rgba(90,55,8,0.9) 100%);
+}
+[data-theme="dark"] .odu-card h3,
+[data-theme="dark"] .cast-result h3,
+[data-theme="dark"] #oduModalBody h2 {
+    color: #E8A855;
+}
+[data-theme="dark"] .odu-card .odu-card-badge {
+    background: rgba(193,120,23,0.18);
+    color: #7FCB8F;
+}
+[data-theme="dark"] .odu-filters .filter-btn.active {
+    color: #1A1A1A;
+}
+[data-theme="dark"] .opele-medallion {
+    box-shadow: inset 0 4px 12px rgba(0,0,0,0.4), 0 8px 28px rgba(0,0,0,0.5);
+}
+[data-theme="dark"] .odu-modal-backdrop {
+    background: rgba(0,0,0,0.8);
+}
+[data-theme="dark"] #oduModalBody h3 {
+    color: #D4941D;
+}
+[data-theme="dark"] #oduModalBody blockquote,
+[data-theme="dark"] .odu-about-card {
+    background: #242424;
+}

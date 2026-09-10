@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Explore all 256 Odu Ifa — the 16 principal Odu Meji and 240 Omo Odu — with meanings, proverbs and life lessons. Search, browse, or cast your own Odu with our interactive Ifa divination simulator.">
+    <title>Odu Ifa Encyclopedia — All 256 Odu | Yoruba Heritage</title>
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Yoruba Heritage">
+    <meta property="og:title" content="Odu Ifa Encyclopedia — All 256 Odu">
+    <meta property="og:description" content="Explore all 256 Odu Ifa with meanings, proverbs and life lessons, plus an interactive Ifa casting simulator.">
+    <meta property="og:image" content="https://yorubaheritage.com/images/uploads/ifa.png">
+    <meta property="og:url" content="https://yorubaheritage.com/odu-ifa.html">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Odu Ifa Encyclopedia — All 256 Odu">
+    <meta name="twitter:image" content="https://yorubaheritage.com/images/uploads/ifa.png">
+    <link rel="canonical" href="https://yorubaheritage.com/odu-ifa.html">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#C17817">
+    <link rel="icon" type="image/png" href="/images/favicon.png">
+    <link rel="apple-touch-icon" href="/images/favicon.png">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/odu-ifa.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Google AdSense -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1577349995482522" crossorigin="anonymous"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-43VWC293SB"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-43VWC293SB');
+    </script>
+    <!-- JSON-LD -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Odu Ifa Encyclopedia",
+      "description": "All 256 Odu Ifa with meanings, proverbs and life lessons.",
+      "url": "https://yorubaheritage.com/odu-ifa.html",
+      "publisher": { "@type": "Organization", "name": "Yoruba Heritage" }
+    }
+    </script>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-brand">
+                <a href="index.html">
+                    <h1><i class="fas fa-crown"></i> Yoruba Heritage</h1>
+                </a>
+            </div>
+            <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation">
+                <span></span><span></span><span></span>
+            </button>
+            <ul class="nav-menu" id="navMenu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="articles.html">Articles</a></li>
+                <li><a href="stories.html">Stories</a></li>
+                <li><a href="ifa-wisdom.html">IFA Wisdom</a></li>
+                <li><a href="odu-ifa.html" class="active">Odu Ifa</a></li>
+                <li><a href="yoruba-calendar.html">Calendar</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="search.html" class="btn btn-search"><i class="fas fa-search"></i> Search</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Hero -->
+    <section class="odu-hero">
+        <div class="odu-hero-bg" style="background-image:url('images/uploads/ifa.png');"></div>
+        <div class="odu-hero-overlay"></div>
+        <div class="container odu-hero-content">
+            <h1><i class="fas fa-scroll"></i> Odù Ifá</h1>
+            <p class="hero-sub">The Complete Encyclopedia of the 256 Sacred Odù</p>
+            <p class="hero-desc">
+                Odù Ifá are the 256 sacred verses/figures at the heart of Ifá divination — 16 principal
+                <strong>Odù Méjì</strong> and 240 <strong>Omo Odù</strong> formed from their combinations. Each carries
+                its own meaning, proverbs (Ẹsẹ Ifá), associated Òrìṣà, and life teachings passed down by Babaláwo
+                and Ìyánífá for centuries. Search, browse, or cast your own Odù below to begin exploring.
+            </p>
+        </div>
+    </section>
+
+    <main class="container odu-main">
+
+        <!-- Cast Your Odu Widget -->
+        <section class="cast-widget" id="castWidget">
+            <div class="cast-header">
+                <h2><i class="fas fa-hand-sparkles"></i> Cast Your Odù</h2>
+                <p>Tap the button to randomly cast an Odù, inspired by the traditional Ọ̀pẹ̀lẹ̀ (divining chain) method of forming two four-line figures.</p>
+            </div>
+            <div class="cast-body">
+                <div class="opele-medallion">
+                    <div class="opele-medallion-ring"></div>
+                    <div class="opele-face">
+                        <i class="fas fa-mask"></i>
+                    </div>
+                    <div class="opele-strands">
+                        <div class="cast-leg" id="castLegRight" aria-label="Right leg"></div>
+                        <div class="cast-leg" id="castLegLeft" aria-label="Left leg"></div>
+                    </div>
+                </div>
+                <div class="cast-result" id="castResult">
+                    <p class="cast-placeholder">Your Odù will appear here after casting.</p>
+                </div>
+            </div>
+            <button class="btn btn-primary cast-btn" id="castBtn">
+                <i class="fas fa-dice"></i> Cast Odù
+            </button>
+            <p class="cast-disclaimer">
+                <i class="fas fa-info-circle"></i>
+                This tool is for educational and entertainment purposes, inspired by traditional Ifá divination.
+                For an authentic consultation, please seek a qualified Babaláwo or Ìyánífá.
+            </p>
+        </section>
+
+        <!-- Search & Filter -->
+        <section class="odu-controls">
+            <div class="odu-search-bar">
+                <i class="fas fa-search"></i>
+                <input type="text" id="oduSearch" placeholder="Search by name, number, theme, or keyword…">
+            </div>
+            <div class="odu-filters" id="oduFilters">
+                <button class="filter-btn active" data-filter="all">All (256)</button>
+                <button class="filter-btn" data-filter="Odu Meji">Odù Méjì (16)</button>
+                <button class="filter-btn" data-filter="Omo Odu">Omo Odù (240)</button>
+            </div>
+        </section>
+
+        <!-- Results count -->
+        <p class="odu-results-count" id="oduResultsCount"></p>
+
+        <!-- Grid -->
+        <div class="odu-grid" id="oduGrid"></div>
+        <p class="odu-empty" id="oduEmpty" style="display:none;">No Odù matched your search. Try a different name or keyword.</p>
+
+        <!-- Load more -->
+        <div class="odu-load-more-wrap">
+            <button class="btn btn-outline" id="loadMoreBtn" style="display:none;">Load More Odù</button>
+        </div>
+
+        <!-- Educational section -->
+        <section class="odu-about">
+            <h2><i class="fas fa-book-open"></i> Understanding the Odù System</h2>
+            <div class="odu-about-grid">
+                <div class="odu-about-card">
+                    <h3>The Binary Lines</h3>
+                    <p>Each Odù is formed from marks made on the Ifá divination tray (Ọ̀pọ́n Ifá) using the sacred palm nuts (Ikin) or divining chain (Ọ̀pẹ̀lẹ̀). Each mark is either a <strong>single line (I)</strong> or a <strong>double line (II)</strong>. Four marks form one "leg" — giving 16 possible leg patterns.</p>
+                </div>
+                <div class="odu-about-card">
+                    <h3>16 Become 256</h3>
+                    <p>A full casting produces <strong>two</strong> four-line legs — a right leg and a left leg. When both legs are identical, the result is one of the 16 senior <strong>Odù Méjì</strong>. When the legs differ, the combination produces one of the 240 <strong>Omo Odù</strong> — each read as its own distinct figure with unique guidance.</p>
+                </div>
+                <div class="odu-about-card">
+                    <h3>Reading an Odù</h3>
+                    <p>A trained Babaláwo or Ìyánífá recites the Ẹsẹ Ifá (verses) associated with the cast Odù, drawing on years of memorised oral literature to offer guidance specific to the situation. Our encyclopedia offers a simplified, educational introduction to this vast tradition.</p>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Odu Detail Modal -->
+    <div class="odu-modal" id="oduModal" role="dialog" aria-modal="true">
+        <div class="odu-modal-backdrop" id="oduModalBackdrop"></div>
+        <div class="odu-modal-content">
+            <button class="odu-modal-close" id="oduModalClose" aria-label="Close"><i class="fas fa-times"></i></button>
+            <div id="oduModalBody"></div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-brand">
+                    <h3><i class="fas fa-crown"></i> Yoruba Heritage</h3>
+                    <p>Preserving and sharing the rich history, culture, and wisdom of the Yoruba people worldwide.</p>
+                </div>
+                <div class="footer-links">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="articles.html">Articles</a></li>
+                        <li><a href="stories.html">Stories</a></li>
+                        <li><a href="ifa-wisdom.html">IFA Wisdom</a></li>
+                        <li><a href="odu-ifa.html">Odu Ifa</a></li>
+                        <li><a href="yoruba-calendar.html">Calendar</a></li>
+                    </ul>
+                </div>
+                <div class="footer-links">
+                    <h4>Resources</h4>
+                    <ul>
+                        <li><a href="gallery.html">Gallery</a></li>
+                        <li><a href="diaspora.html">Diaspora Map</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 Yoruba Heritage · <strong>ORI Global Ltd</strong>. All rights reserved.</p>
+                <p>Presented by <strong>Eletu</strong> · Built with respect for our ancestors</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+    <script src="js/odu-ifa.js"></script>
+</body>
+</html>

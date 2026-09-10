@@ -245,6 +245,27 @@ img {
     background: #111;
 }
 
+[data-theme="dark"] .footer-section h4,
+[data-theme="dark"] .footer .nav-brand h1 {
+    color: #F0EBE0;
+}
+
+[data-theme="dark"] .footer-section p,
+[data-theme="dark"] .footer-section ul li a,
+[data-theme="dark"] .footer-bottom {
+    color: rgba(240, 235, 224, 0.7);
+}
+
+[data-theme="dark"] .footer-section ul li a:hover {
+    color: var(--primary-color);
+}
+
+[data-theme="dark"] .footer-credit,
+[data-theme="dark"] .footer-credit strong,
+[data-theme="dark"] .footer-credit a {
+    color: rgba(240, 235, 224, 0.4);
+}
+
 [data-theme="dark"] .article-card,
 [data-theme="dark"] .result-item,
 [data-theme="dark"] .gallery-item-overlay,
