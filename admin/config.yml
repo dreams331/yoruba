@@ -27,6 +27,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Featured", name: "featured", widget: "boolean", default: false}
       - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Video URL (YouTube/Vimeo)", name: "video_url", widget: "string", required: false, hint: "Optional — embeds a video on the article page"}
 
   # Stories Collection
   - name: "stories"
@@ -112,6 +113,63 @@ collections:
       - {label: "Pattern — Right Leg", name: "pattern_right", widget: "string", hint: "Comma-separated I/II marks, e.g. I,I,I,I"}
       - {label: "Pattern — Left Leg", name: "pattern_left", widget: "string", hint: "Comma-separated I/II marks, e.g. I,I,I,I"}
       - {label: "Full Body", name: "body", widget: "markdown"}
+
+  # Festivals & Events Collection (Àjọ̀dún Yorùbá)
+  - name: "events"
+    label: "Festivals & Events"
+    folder: "content/events"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Event/Festival Name", name: "title", widget: "string", hint: "e.g. Ọ̀ṣun Ọ̀ṣogbo Festival, Ìṣẹ̀ṣe Day, Èyo Festival"}
+      - {label: "Yoruba Name (optional)", name: "title_yo", widget: "string", required: false}
+      - {label: "Event Type", name: "type", widget: "select", options: ["Religious/Spiritual", "Cultural Festival", "Commemoration", "Royal/Palace", "Diaspora Celebration", "Modern/Contemporary"]}
+      - {label: "Location", name: "location", widget: "string", hint: "e.g. Osogbo, Nigeria or Bahia, Brazil"}
+      - {label: "Country/Region", name: "region", widget: "select", options: ["Nigeria — Southwest", "Nigeria — Other", "Benin Republic", "Togo", "Brazil", "Cuba", "USA", "UK", "Other Diaspora"]}
+      - {label: "When it Happens", name: "timing", widget: "string", hint: "e.g. August (2 weeks), Every August 20, Annually in Ogun state"}
+      - {label: "Is this a Recurring Annual Event?", name: "recurring", widget: "boolean", default: true}
+      - {label: "Approximate Date (this year/next occurrence)", name: "date", widget: "datetime", required: false}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
+      - {label: "Short Description", name: "excerpt", widget: "text"}
+      - {label: "Full Details", name: "body", widget: "markdown"}
+      - {label: "Associated Orisha/Deity", name: "orisha", widget: "string", required: false}
+      - {label: "Official/Reference Link", name: "link", widget: "string", required: false}
+      - {label: "Video URL (YouTube/Vimeo)", name: "video_url", widget: "string", required: false, hint: "Paste a YouTube or Vimeo link — it will be embedded automatically"}
+      - {label: "Featured", name: "featured", widget: "boolean", default: false}
+
+  # News Collection (Ìròyìn Yorùbá)
+  - name: "news"
+    label: "Ìròyìn (News)"
+    folder: "content/news"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Headline", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Category", name: "category", widget: "select", options: ["Culture & Heritage", "Royal/Palace News", "Diaspora Community", "Language & Education", "Religion & Ifa/Orisha", "Events & Festivals", "Notable People"]}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
+      - {label: "Short Summary", name: "excerpt", widget: "text", hint: "A brief fair-use summary — do not copy full articles"}
+      - {label: "Editorial Note/Context", name: "body", widget: "markdown", required: false, hint: "Optional additional Yoruba-community context/commentary"}
+      - {label: "Original Source Name", name: "source_name", widget: "string", hint: "e.g. Punch, BBC Yoruba, The Nation"}
+      - {label: "Original Source Link", name: "source_link", widget: "string", hint: "Always link back and credit the original publisher"}
+      - {label: "Video URL (YouTube/Vimeo)", name: "video_url", widget: "string", required: false}
+      - {label: "Featured", name: "featured", widget: "boolean", default: false}
+
+  # Videos Collection (standalone video library — embeds only, no hosting)
+  - name: "videos"
+    label: "Videos"
+    folder: "content/videos"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Category", name: "category", widget: "select", options: ["Festivals & Events", "Documentary", "Music & Dance", "Language Lessons", "Ifa & Orisha", "Interviews", "Diaspora", "Other"]}
+      - {label: "Video URL (YouTube/Vimeo)", name: "video_url", widget: "string", hint: "Paste the full YouTube or Vimeo link"}
+      - {label: "Thumbnail (optional override)", name: "image", widget: "image", required: false, hint: "Leave blank to auto-use YouTube thumbnail"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Credit / Original Creator", name: "credit", widget: "string", required: false, hint: "e.g. Channel name — always credit the original creator"}
+      - {label: "Featured", name: "featured", widget: "boolean", default: false}
 
   # Pages Collection (for About, etc.)
   - name: "pages"

@@ -3,33 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Browse the Yoruba Heritage gallery of cultural artifacts, festivals, and traditions.">
-    <title>Gallery - Yoruba Heritage</title>
-    <!-- Open Graph / Social Preview -->
+    <meta name="description" content="Discover Yoruba festivals and events — from Osun-Osogbo and Isese Day to diaspora celebrations across Brazil, Cuba, and beyond.">
+    <title>Festivals & Events (Àjọ̀dún) - Yoruba Heritage</title>
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Yoruba Heritage">
-    <meta property="og:title" content="Gallery - Yoruba Heritage">
-    <meta property="og:description" content="Browse the Yoruba Heritage gallery — cultural artifacts, festivals, art and traditions captured across time.">
-    <meta property="og:image" content="https://yorubaheritage.com/images/uploads/ife.png">
-    <meta property="og:url" content="https://yorubaheritage.com/gallery.html">
+    <meta property="og:title" content="Festivals & Events - Yoruba Heritage">
+    <meta property="og:description" content="Discover Yoruba festivals and events worldwide.">
+    <meta property="og:url" content="https://yorubaheritage.com/events.html">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Gallery - Yoruba Heritage">
-    <meta name="twitter:description" content="Browse the Yoruba Heritage gallery — cultural artifacts, festivals, art and traditions captured across time.">
-    <meta name="twitter:image" content="https://yorubaheritage.com/images/uploads/ife.png">
-    <link rel="canonical" href="https://yorubaheritage.com/gallery.html">
+    <link rel="canonical" href="https://yorubaheritage.com/events.html">
     <link rel="manifest" href="/manifest.json">
     <meta name="theme-color" content="#C17817">
     <link rel="icon" type="image/png" href="/images/favicon.png">
     <link rel="apple-touch-icon" href="/images/favicon.png">
     <link rel="stylesheet" href="css/styles.css">
-    <link rel="stylesheet" href="css/gallery.css">
+    <link rel="stylesheet" href="css/community.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <!-- Google AdSense -->
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1577349995482522" crossorigin="anonymous"></script>
-    <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-43VWC293SB"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -37,15 +30,15 @@
       gtag('js', new Date());
       gtag('config', 'G-43VWC293SB');
     </script>
-</head>            <div class="nav-brand">
-                <a href="index.html">
-                    <h1><i class="fas fa-crown"></i> Yoruba Heritage</h1>
-                </a>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-brand">
+                <a href="index.html"><h1><i class="fas fa-crown"></i> Yoruba Heritage</h1></a>
             </div>
-            <button class="nav-toggle" id="navToggle">
-                <span></span>
-                <span></span>
-                <span></span>
+            <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation">
+                <span></span><span></span><span></span>
             </button>
             <ul class="nav-menu" id="navMenu">
                 <li><a href="index.html">Home</a></li>
@@ -53,55 +46,54 @@
                 <li><a href="stories.html">Stories</a></li>
                 <li><a href="ifa-wisdom.html">IFA Wisdom</a></li>
                 <li><a href="odu-ifa.html">Odu Ifa</a></li>
-                <li><a href="events.html">Events</a></li>
+                <li><a href="events.html" class="active">Events</a></li>
                 <li><a href="news.html">Ìròyìn</a></li>
                 <li><a href="videos.html">Videos</a></li>
                 <li><a href="yoruba-calendar.html">Calendar</a></li>
-                <li><a href="gallery.html" class="active">Gallery</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
                 <li><a href="about.html">About</a></li>
-                <li><a href="search.html" class="btn-search"><i class="fas fa-search"></i> Search</a></li>
+                <li><a href="search.html" class="btn btn-search"><i class="fas fa-search"></i> Search</a></li>
             </ul>
         </div>
     </nav>
 
-    <!-- Page Header -->
     <section class="page-header">
         <div class="container">
-            <h1><i class="fas fa-images"></i> Visual Gallery</h1>
-            <p>Explore images, artifacts, festivals, and cultural treasures</p>
+            <h1><i class="fas fa-drum"></i> Àjọ̀dún — Festivals &amp; Events</h1>
+            <p>Celebrations of Yoruba culture, spirituality, and heritage — from Ọ̀ṣun Ọ̀ṣogbo to Ìṣẹ̀ṣe Day and beyond, across Nigeria and the diaspora.</p>
         </div>
     </section>
 
-    <!-- Intro (visible immediately, before JS renders the grid) -->
-    <section class="container" style="padding: 1.5rem 2rem 0;">
-        <p style="color: var(--text-light); max-width: 800px; line-height: 1.7;">
-            Our visual gallery documents Yoruba heritage through carefully curated photographs and artwork —
-            spanning sacred artifacts, royal regalia, festivals such as Osun-Osogbo and Eyo, traditional arts and
-            crafts, historical sites across Yorubaland, and the vibrant expressions of Yoruba culture in the
-            global diaspora. Each image is selected to preserve and share an authentic visual record of Yoruba
-            civilization for researchers, cultural enthusiasts, and future generations.
-        </p>
-    </section>
-
-    <!-- Gallery Filter Bar -->
-    <section class="gallery-filter-section">
-        <div class="container">
-            <div class="gallery-filter-bar" id="galleryFilters">
-                <!-- Filter buttons injected by gallery.js -->
+    <main class="container" style="padding: 2.5rem 0 4rem;">
+        <section class="content-controls">
+            <div class="content-search-bar">
+                <i class="fas fa-search"></i>
+                <input type="text" id="eventSearch" placeholder="Search festivals and events…">
             </div>
-        </div>
-    </section>
-
-    <!-- Gallery Grid -->
-    <section class="gallery-grid-section">
-        <div class="container">
-            <div class="gallery-grid" id="galleryGrid">
-                <!-- Items injected by gallery.js -->
+            <div class="content-filters" id="eventFilters">
+                <button class="filter-btn active" data-filter="all">All</button>
+                <button class="filter-btn" data-filter="Religious/Spiritual">Religious</button>
+                <button class="filter-btn" data-filter="Cultural Festival">Cultural</button>
+                <button class="filter-btn" data-filter="Commemoration">Commemoration</button>
+                <button class="filter-btn" data-filter="Royal/Palace">Royal</button>
+                <button class="filter-btn" data-filter="Diaspora Celebration">Diaspora</button>
             </div>
-        </div>
-    </section>
+        </section>
 
-    <!-- Footer -->
+        <p class="odu-results-count" id="eventResultsCount"></p>
+        <div class="events-grid" id="eventsGrid"></div>
+        <p class="odu-empty" id="eventsEmpty" style="display:none;">No events matched your search.</p>
+    </main>
+
+    <!-- Event Detail Modal -->
+    <div class="odu-modal" id="eventModal" role="dialog" aria-modal="true">
+        <div class="odu-modal-backdrop" id="eventModalBackdrop"></div>
+        <div class="odu-modal-content">
+            <button class="odu-modal-close" id="eventModalClose" aria-label="Close"><i class="fas fa-times"></i></button>
+            <div id="eventModalBody"></div>
+        </div>
+    </div>
+
     <footer class="footer">
         <div class="container">
             <div class="footer-content">
@@ -121,11 +113,11 @@
                         <li><a href="articles.html">Articles</a></li>
                         <li><a href="stories.html">Stories</a></li>
                         <li><a href="ifa-wisdom.html">IFA Wisdom</a></li>
-                <li><a href="odu-ifa.html">Odu Ifa</a></li>
-                <li><a href="events.html">Events</a></li>
-                <li><a href="news.html">Ìròyìn</a></li>
-                <li><a href="videos.html">Videos</a></li>
-                <li><a href="yoruba-calendar.html">Calendar</a></li>
+                        <li><a href="odu-ifa.html">Odu Ifa</a></li>
+                        <li><a href="events.html">Events</a></li>
+                        <li><a href="news.html">Ìròyìn</a></li>
+                        <li><a href="videos.html">Videos</a></li>
+                        <li><a href="yoruba-calendar.html">Calendar</a></li>
                         <li><a href="gallery.html">Gallery</a></li>
                     </ul>
                 </div>
@@ -148,13 +140,14 @@
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2025 Yoruba Heritage. All rights reserved. | Built with respect for our ancestors</p>
+                <p>&copy; 2026 Yoruba Heritage. All rights reserved. | Built with respect for our ancestors</p>
                 <p class="footer-credit">Courtesy of <strong>Eletu</strong> &nbsp;|&nbsp; Created by <a href="https://www.origloballtd.com" target="_blank" rel="noopener">ORI Global Ltd</a></p>
             </div>
         </div>
     </footer>
 
     <script src="js/main.js"></script>
-    <script src="js/gallery.js"></script>
+    <script src="js/video-embed.js"></script>
+    <script src="js/events.js"></script>
 </body>
 </html>
