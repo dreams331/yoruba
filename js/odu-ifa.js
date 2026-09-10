@@ -185,11 +185,6 @@ function renderLeg(container, marks, animate) {
         const div = document.createElement('div');
         div.className = `cast-mark ${mark === 'I' ? 'single' : 'double'}`;
         div.style.opacity = '0';
-        if (mark === 'I') {
-            div.innerHTML = '<span></span>';
-        } else {
-            div.innerHTML = '<span></span><span></span>';
-        }
         container.appendChild(div);
         if (animate) {
             setTimeout(() => { div.style.transition = 'opacity 0.3s'; div.style.opacity = '1'; }, i * 120);
