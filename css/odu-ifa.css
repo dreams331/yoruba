@@ -81,78 +81,86 @@
     margin-bottom: 1.5rem;
 }
 
-/* Ọ̀pẹ̀lẹ̀ divining chain — two seed-strands joined by a cord */
-.opele-wrap {
+/* Ọ̀pẹ̀lẹ̀ divining chain — circular medallion with dotted border and two strands of marks */
+.opele-medallion {
+    position: relative;
+    width: 260px;
+    height: 260px;
+    border-radius: 50%;
+    background: radial-gradient(circle at 50% 35%, #E8C27A 0%, #C17817 60%, #8B5A2B 100%);
     display: flex;
     align-items: center;
-    gap: 0;
-    background: radial-gradient(ellipse at center, rgba(193,120,23,0.06), transparent 70%);
-    padding: 1.2rem 1.6rem;
-    border-radius: 20px;
+    justify-content: center;
+    flex-shrink: 0;
+    box-shadow: inset 0 4px 12px rgba(0,0,0,0.25), 0 8px 24px rgba(0,0,0,0.18);
 }
-.opele-cord {
-    width: 46px;
-    height: 4px;
-    background: linear-gradient(90deg, #8B5A2B, #C17817, #8B5A2B);
-    border-radius: 3px;
-    margin: 0 -2px;
-    align-self: center;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.25);
+.opele-medallion-ring {
+    position: absolute;
+    inset: 6px;
+    border-radius: 50%;
+    border: 2px dashed rgba(139,0,0,0.55);
+}
+.opele-medallion-ring::before {
+    content: '';
+    position: absolute;
+    inset: -3px;
+    border-radius: 50%;
+    background-image: radial-gradient(circle, var(--secondary-color) 1.5px, transparent 1.6px);
+    background-size: 14px 14px;
+    -webkit-mask: radial-gradient(circle, transparent 62%, #000 63%, #000 68%, transparent 69%);
+            mask: radial-gradient(circle, transparent 62%, #000 63%, #000 68%, transparent 69%);
+}
+.opele-face {
+    position: absolute;
+    top: 8%;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 2.4rem;
+    color: rgba(26,26,26,0.85);
+    text-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+.opele-strands {
+    display: flex;
+    gap: 1.4rem;
+    align-items: flex-end;
+    margin-top: 1.6rem;
 }
 .cast-leg {
     display: flex;
     flex-direction: column-reverse;
-    gap: 10px;
-    min-height: 180px;
+    gap: 8px;
+    min-height: 130px;
     justify-content: flex-start;
     align-items: center;
-    position: relative;
 }
-/* A single "seed" segment on the chain — like a cowrie/palm-nut half */
+/* A single mark segment — rounded black tablet, like the reference medallion */
 .cast-mark {
-    width: 40px;
-    height: 22px;
-    border-radius: 50% / 45%;
-    background: linear-gradient(160deg, #E8C27A 0%, #C17817 55%, #8B5A2B 100%);
-    box-shadow: inset 0 -3px 4px rgba(0,0,0,0.25), 0 2px 4px rgba(0,0,0,0.2);
-    position: relative;
+    width: 20px;
     display: flex;
-    align-items: center;
-    justify-content: center;
+    flex-direction: column;
+    gap: 4px;
 }
-/* Convex side (single line "I") = seed shows its outer, unmarked convex face */
-.cast-mark.single { background: linear-gradient(160deg, #E8C27A 0%, #C17817 55%, #8B5A2B 100%); }
-.cast-mark.single::after {
+.cast-mark::before {
     content: '';
-    width: 60%;
-    height: 3px;
-    background: rgba(255,255,255,0.35);
-    border-radius: 2px;
+    display: block;
+    width: 100%;
+    height: 30px;
+    border-radius: 6px;
+    background: #1A1A1A;
+    box-shadow: 0 2px 3px rgba(0,0,0,0.35);
 }
-/* Concave side (double line "II") = seed shows its inner, split face */
 .cast-mark.double {
-    background: linear-gradient(160deg, #D9A85C 0%, #A85F14 60%, #6E4420 100%);
+    flex-direction: column;
 }
-.cast-mark.double::before,
+.cast-mark.double::before { height: 13px; }
 .cast-mark.double::after {
     content: '';
-    width: 40%;
-    height: 3px;
-    background: rgba(0,0,0,0.3);
-    border-radius: 2px;
-    position: absolute;
-}
-.cast-mark.double::before { transform: translateY(-4px); }
-.cast-mark.double::after { transform: translateY(4px); }
-/* Connect the seeds with a thin chain line */
-.cast-leg::before {
-    content: '';
-    position: absolute;
-    top: 8px;
-    bottom: 8px;
-    width: 2px;
-    background: rgba(139,90,43,0.4);
-    z-index: -1;
+    display: block;
+    width: 100%;
+    height: 13px;
+    border-radius: 6px;
+    background: #1A1A1A;
+    box-shadow: 0 2px 3px rgba(0,0,0,0.35);
 }
 
 .cast-result {
@@ -401,6 +409,9 @@
     .odu-hero h1 { font-size: 2rem; }
     .cast-body { flex-direction: column; gap: 1.5rem; }
     .odu-controls { flex-direction: column; align-items: stretch; }
+    .opele-medallion { width: 210px; height: 210px; }
+    .opele-strands { gap: 1rem; }
+    .cast-leg { min-height: 100px; }
 }
 
 /* ===================================
@@ -421,8 +432,8 @@
 [data-theme="dark"] .odu-filters .filter-btn.active {
     color: #1A1A1A;
 }
-[data-theme="dark"] .opele-wrap {
-    background: radial-gradient(ellipse at center, rgba(193,120,23,0.12), transparent 70%);
+[data-theme="dark"] .opele-medallion {
+    box-shadow: inset 0 4px 12px rgba(0,0,0,0.4), 0 8px 28px rgba(0,0,0,0.5);
 }
 [data-theme="dark"] .odu-modal-backdrop {
     background: rgba(0,0,0,0.8);
