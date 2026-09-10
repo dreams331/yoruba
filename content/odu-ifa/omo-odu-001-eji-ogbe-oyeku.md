@@ -1,15 +1,19 @@
 ---
-title: "ÈjìOgbè-Ọ̀yẹ̀kú"
+title: Ogbè-Ọ̀yẹ̀kú
 number: 17
-category: "Omo Odu"
-slug: "eji-ogbe-oyeku"
-parent1: "eji-ogbe"
-parent2: "oyeku-meji"
-orisha: "Ọ̀rúnmìlà / Olódùmarè; Ikú (Death) / Ọ̀sun"
-theme: "light, new beginnings, divine potential; endings, the ancestors, the unseen world, mortality"
-excerpt: "ÈjìOgbè-Ọ̀yẹ̀kú combines the energy of Èjì Ogbè (light, new beginnings, divine potential) with Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,I,I,I"
-pattern_left: "II,II,II,II"
+category: Omo Odu
+slug: eji-ogbe-oyeku
+parent1: eji-ogbe
+parent2: oyeku-meji
+orisha: Ọ̀rúnmìlà / Olódùmarè; Ikú (Death) / Ọ̀sun
+theme: light, new beginnings, divine potential; endings, the ancestors, the
+  unseen world, mortality
+excerpt: ÈjìOgbè-Ọ̀yẹ̀kú combines the energy of Èjì Ogbè (light, new beginnings,
+  divine potential) with Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world,
+  mortality). It is read as a distinct Odù with its own guidance, drawing on
+  both influences.
+pattern_right: I,I,I,I
+pattern_left: II,II,II,II
 ---
 
 ## ÈjìOgbè-Ọ̀yẹ̀kú
