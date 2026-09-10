@@ -137,7 +137,8 @@
 .cast-mark {
     width: 20px;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    justify-content: center;
     gap: 4px;
 }
 .cast-mark::before {
@@ -149,15 +150,21 @@
     background: #1A1A1A;
     box-shadow: 0 2px 3px rgba(0,0,0,0.35);
 }
+/* Double mark (II) = two narrow vertical tablets side-by-side, not stacked horizontal bars */
 .cast-mark.double {
-    flex-direction: column;
+    width: 20px;
+    flex-direction: row;
+    gap: 3px;
 }
-.cast-mark.double::before { height: 13px; }
+.cast-mark.double::before {
+    width: 8px;
+    height: 30px;
+}
 .cast-mark.double::after {
     content: '';
     display: block;
-    width: 100%;
-    height: 13px;
+    width: 8px;
+    height: 30px;
     border-radius: 6px;
     background: #1A1A1A;
     box-shadow: 0 2px 3px rgba(0,0,0,0.35);
