@@ -1,15 +1,19 @@
 ---
-title: "Ọ̀yẹ̀kú-Ìká"
+title: Ọ̀yẹ̀kú-Ìká
 number: 41
-category: "Omo Odu"
-slug: "oyeku-ika"
-parent1: "oyeku-meji"
-parent2: "ika-meji"
-orisha: "Ikú (Death) / Ọ̀sun; Ọya / Èṣù"
-theme: "endings, the ancestors, the unseen world, mortality; cruelty, resentment, the need for restraint"
-excerpt: "Ọ̀yẹ̀kú-Ìká combines the energy of Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality) with Ìká Méjì (cruelty, resentment, the need for restraint). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,II,II"
-pattern_left: "I,II,II,I"
+category: Omo Odu
+slug: oyeku-ika
+parent1: oyeku-meji
+parent2: ika-meji
+orisha: Ikú (Death) / Ọ̀sun; Ọya / Èṣù
+theme: endings, the ancestors, the unseen world, mortality; cruelty, resentment,
+  the need for restraint
+excerpt: Ọ̀yẹ̀kú-Ìká combines the energy of Ọ̀yẹ̀kú Méjì (endings, the
+  ancestors, the unseen world, mortality) with Ìká Méjì (cruelty, resentment,
+  the need for restraint). It is read as a distinct Odù with its own guidance,
+  drawing on both influences.
+pattern_right: II,II,II,II
+pattern_left: II,I,II,II
 ---
 
 ## Ọ̀yẹ̀kú-Ìká
