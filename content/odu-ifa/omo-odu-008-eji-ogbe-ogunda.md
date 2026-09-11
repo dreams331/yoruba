@@ -23,7 +23,7 @@ Ogbè-Ògúndá combines the energy of Èjì Ogbè (light, new beginnings, divin
 
 ### Governing Influences
 
-* **Ogbè** — light, new beginnings, divine potential (Ọ̀rúnmìlà / Olódùmarè)
+* **Èjì Ogbè** — light, new beginnings, divine potential (Ọ̀rúnmìlà / Olódùmarè)
 * **Ògúndá Méjì** — struggle, tools, perseverance, clearing the path (Ògún)
 
 ### Guidance
