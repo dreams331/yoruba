@@ -1,15 +1,19 @@
 ---
-title: "Ọ̀yẹ̀kú-Ọ̀bàrà"
+title: Ọ̀yẹ̀kú-Ọ̀bàrà
 number: 37
-category: "Omo Odu"
-slug: "oyeku-obara"
-parent1: "oyeku-meji"
-parent2: "obara-meji"
-orisha: "Ikú (Death) / Ọ̀sun; Ṣàngó / Ọ̀bàtálá"
-theme: "endings, the ancestors, the unseen world, mortality; honour, boastfulness, the danger of pride, leadership"
-excerpt: "Ọ̀yẹ̀kú-Ọ̀bàrà combines the energy of Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality) with Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,II,II"
-pattern_left: "I,I,I,II"
+category: Omo Odu
+slug: oyeku-obara
+parent1: oyeku-meji
+parent2: obara-meji
+orisha: Ikú (Death) / Ọ̀sun; Ṣàngó / Ọ̀bàtálá
+theme: endings, the ancestors, the unseen world, mortality; honour,
+  boastfulness, the danger of pride, leadership
+excerpt: Ọ̀yẹ̀kú-Ọ̀bàrà combines the energy of Ọ̀yẹ̀kú Méjì (endings, the
+  ancestors, the unseen world, mortality) with Ọ̀bàrà Méjì (honour,
+  boastfulness, the danger of pride, leadership). It is read as a distinct Odù
+  with its own guidance, drawing on both influences.
+pattern_right: II,II,II,II
+pattern_left: I,II,II,II
 ---
 
 ## Ọ̀yẹ̀kú-Ọ̀bàrà
