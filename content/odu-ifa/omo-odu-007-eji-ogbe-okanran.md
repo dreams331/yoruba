@@ -23,7 +23,7 @@ Ogbè-Ọ̀kànràn combines the energy of Èjì Ogbè (light, new beginnings, d
 
 ### Governing Influences
 
-* **Ogbè** — light, new beginnings, divine potential (Ọ̀rúnmìlà / Olódùmarè)
+* **Èjì Ogbè** — light, new beginnings, divine potential (Ọ̀rúnmìlà / Olódùmarè)
 * **Ọ̀kànràn Méjì** — conflict, truth-telling, sharp consequences (Ọya / Ògún)
 
 ### Guidance
