@@ -22,7 +22,7 @@ Ogbè-Ìwòrì combines the energy of Ogbè (light, new beginnings, divine poten
 
 ### Governing Influences
 
-* **Ogbè** — light, new beginnings, divine potential (Ọ̀rúnmìlà / Olódùmarè)
+* **Èjì Ogbè** — light, new beginnings, divine potential (Ọ̀rúnmìlà / Olódùmarè)
 * **Ìwòrì Méjì** — self-knowledge, hidden truth, inner vision (Ọ̀sanyìn / Ọ̀rúnmìlà)
 
 ### Guidance
