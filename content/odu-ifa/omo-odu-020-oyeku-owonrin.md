@@ -1,15 +1,19 @@
 ---
-title: "Ọ̀yẹ̀kú-Ọ̀wọ́nrín"
+title: Ọ̀yẹ̀kú-Ọ̀wọ́nrín
 number: 36
-category: "Omo Odu"
-slug: "oyeku-owonrin"
-parent1: "oyeku-meji"
-parent2: "owonrin-meji"
-orisha: "Ikú (Death) / Ọ̀sun; Èṣù / Ọ̀rúnmìlà"
-theme: "endings, the ancestors, the unseen world, mortality; instability, change, the trickster's lesson, humility"
-excerpt: "Ọ̀yẹ̀kú-Ọ̀wọ́nrín combines the energy of Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality) with Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,II,II"
-pattern_left: "II,I,II,I"
+category: Omo Odu
+slug: oyeku-owonrin
+parent1: oyeku-meji
+parent2: owonrin-meji
+orisha: Ikú (Death) / Ọ̀sun; Èṣù / Ọ̀rúnmìlà
+theme: endings, the ancestors, the unseen world, mortality; instability, change,
+  the trickster's lesson, humility
+excerpt: Ọ̀yẹ̀kú-Ọ̀wọ́nrín combines the energy of Ọ̀yẹ̀kú Méjì (endings, the
+  ancestors, the unseen world, mortality) with Ọ̀wọ́nrín Méjì (instability,
+  change, the trickster's lesson, humility). It is read as a distinct Odù with
+  its own guidance, drawing on both influences.
+pattern_right: II,II,II,II
+pattern_left: II,II,I,I
 ---
 
 ## Ọ̀yẹ̀kú-Ọ̀wọ́nrín
