@@ -1,15 +1,19 @@
 ---
-title: "ÈjìOgbè-Òtúrúpọ̀n"
+title: Ogbè-Òtúrúpọ̀n
 number: 27
-category: "Omo Odu"
-slug: "eji-ogbe-oturupon"
-parent1: "eji-ogbe"
-parent2: "oturupon-meji"
-orisha: "Ọ̀rúnmìlà / Olódùmarè; Ọbàtálá / Ọ̀rúnmìlà"
-theme: "light, new beginnings, divine potential; illness and healing, secrets of the body, patience"
-excerpt: "ÈjìOgbè-Òtúrúpọ̀n combines the energy of Èjì Ogbè (light, new beginnings, divine potential) with Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,I,I,I"
-pattern_left: "II,II,I,I"
+category: Omo Odu
+slug: ogbe-oturupon
+parent1: eji-ogbe
+parent2: oturupon-meji
+orisha: Ọ̀rúnmìlà / Olódùmarè; Ọbàtálá / Ọ̀rúnmìlà
+theme: light, new beginnings, divine potential; illness and healing, secrets of
+  the body, patience
+excerpt: Ogbè-Òtúrúpọ̀n combines the energy of Èjì Ogbè (light, new beginnings,
+  divine potential) with Òtúrúpọ̀n Méjì (illness and healing, secrets of the
+  body, patience). It is read as a distinct Odù with its own guidance, drawing
+  on both influences.
+pattern_right: I,I,I,I
+pattern_left: II,II,I,II
 ---
 
 ## ÈjìOgbè-Òtúrúpọ̀n
