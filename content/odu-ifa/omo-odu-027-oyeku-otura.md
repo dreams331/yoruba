@@ -1,15 +1,19 @@
 ---
-title: "Ọ̀yẹ̀kú-Òtúrá"
+title: Ọ̀yẹ̀kú-Òtúrá
 number: 43
-category: "Omo Odu"
-slug: "oyeku-otura"
-parent1: "oyeku-meji"
-parent2: "otura-meji"
-orisha: "Ikú (Death) / Ọ̀sun; Ọ̀rúnmìlà / Ọbàtálá"
-theme: "endings, the ancestors, the unseen world, mortality; transformation, clarity after confusion, truth revealed"
-excerpt: "Ọ̀yẹ̀kú-Òtúrá combines the energy of Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality) with Òtúrá Méjì (transformation, clarity after confusion, truth revealed). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,II,II"
-pattern_left: "I,I,II,I"
+category: Omo Odu
+slug: oyeku-otura
+parent1: oyeku-meji
+parent2: otura-meji
+orisha: Ikú (Death) / Ọ̀sun; Ọ̀rúnmìlà / Ọbàtálá
+theme: endings, the ancestors, the unseen world, mortality; transformation,
+  clarity after confusion, truth revealed
+excerpt: Ọ̀yẹ̀kú-Òtúrá combines the energy of Ọ̀yẹ̀kú Méjì (endings, the
+  ancestors, the unseen world, mortality) with Òtúrá Méjì (transformation,
+  clarity after confusion, truth revealed). It is read as a distinct Odù with
+  its own guidance, drawing on both influences.
+pattern_right: II,II,II,II
+pattern_left: I,II,I,I
 ---
 
 ## Ọ̀yẹ̀kú-Òtúrá
