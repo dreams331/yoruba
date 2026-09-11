@@ -1,15 +1,19 @@
 ---
-title: "Ọ̀yẹ̀kú-Òfún"
+title: Ọ̀yẹ̀kú-Òfún
 number: 46
-category: "Omo Odu"
-slug: "oyeku-ofun"
-parent1: "oyeku-meji"
-parent2: "ofun-meji"
-orisha: "Ikú (Death) / Ọ̀sun; Ọbàtálá / Olódùmarè"
-theme: "endings, the ancestors, the unseen world, mortality; purity, old age, completion, moral integrity"
-excerpt: "Ọ̀yẹ̀kú-Òfún combines the energy of Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality) with Òfún Méjì (purity, old age, completion, moral integrity). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,II,II"
-pattern_left: "II,I,II,II"
+category: Omo Odu
+slug: oyeku-ofun
+parent1: oyeku-meji
+parent2: ofun-meji
+orisha: Ikú (Death) / Ọ̀sun; Ọbàtálá / Olódùmarè
+theme: endings, the ancestors, the unseen world, mortality; purity, old age,
+  completion, moral integrity
+excerpt: Ọ̀yẹ̀kú-Òfún combines the energy of Ọ̀yẹ̀kú Méjì (endings, the
+  ancestors, the unseen world, mortality) with Òfún Méjì (purity, old age,
+  completion, moral integrity). It is read as a distinct Odù with its own
+  guidance, drawing on both influences.
+pattern_right: II,II,II,II
+pattern_left: II,I,II,I
 ---
 
 ## Ọ̀yẹ̀kú-Òfún
