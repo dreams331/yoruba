@@ -1,15 +1,19 @@
 ---
-title: "Ọ̀yẹ̀kú-Òdí"
+title: Ọ̀yẹ̀kú-Òdí
 number: 34
-category: "Omo Odu"
-slug: "oyeku-odi"
-parent1: "oyeku-meji"
-parent2: "odi-meji"
-orisha: "Ikú (Death) / Ọ̀sun; Ọya / Yemọja"
-theme: "endings, the ancestors, the unseen world, mortality; the womb, mystery, transformation, hidden depth"
-excerpt: "Ọ̀yẹ̀kú-Òdí combines the energy of Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality) with Òdí Méjì (the womb, mystery, transformation, hidden depth). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,II,II"
-pattern_left: "II,I,I,II"
+category: Omo Odu
+slug: oyeku-odi
+parent1: oyeku-meji
+parent2: odi-meji
+orisha: Ikú (Death) / Ọ̀sun; Ọya / Yemọja
+theme: endings, the ancestors, the unseen world, mortality; the womb, mystery,
+  transformation, hidden depth
+excerpt: Ọ̀yẹ̀kú-Òdí combines the energy of Ọ̀yẹ̀kú Méjì (endings, the
+  ancestors, the unseen world, mortality) with Òdí Méjì (the womb, mystery,
+  transformation, hidden depth). It is read as a distinct Odù with its own
+  guidance, drawing on both influences.
+pattern_right: II,II,II,II
+pattern_left: I,II,II,I
 ---
 
 ## Ọ̀yẹ̀kú-Òdí
