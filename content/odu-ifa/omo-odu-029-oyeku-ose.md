@@ -1,15 +1,19 @@
 ---
-title: "Ọ̀yẹ̀kú-Ọ̀ṣẹ́"
+title: Ọ̀yẹ̀kú-Ọ̀ṣẹ́
 number: 45
-category: "Omo Odu"
-slug: "oyeku-ose"
-parent1: "oyeku-meji"
-parent2: "ose-meji"
-orisha: "Ikú (Death) / Ọ̀sun; Ọ̀ṣun"
-theme: "endings, the ancestors, the unseen world, mortality; blessings, sweetness, abundance, gratitude"
-excerpt: "Ọ̀yẹ̀kú-Ọ̀ṣẹ́ combines the energy of Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality) with Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,II,II"
-pattern_left: "II,II,I,II"
+category: Omo Odu
+slug: oyeku-ose
+parent1: oyeku-meji
+parent2: ose-meji
+orisha: Ikú (Death) / Ọ̀sun; Ọ̀ṣun
+theme: endings, the ancestors, the unseen world, mortality; blessings,
+  sweetness, abundance, gratitude
+excerpt: Ọ̀yẹ̀kú-Ọ̀ṣẹ́ combines the energy of Ọ̀yẹ̀kú Méjì (endings, the
+  ancestors, the unseen world, mortality) with Ọ̀ṣẹ́ Méjì (blessings, sweetness,
+  abundance, gratitude). It is read as a distinct Odù with its own guidance,
+  drawing on both influences.
+pattern_right: II,II,II,II
+pattern_left: I,II,I,II
 ---
 
 ## Ọ̀yẹ̀kú-Ọ̀ṣẹ́
