@@ -23,7 +23,7 @@ Ogbè-Ọ̀wọ́nrín combines the energy of Èjì Ogbè (light, new beginnings
 
 ### Governing Influences
 
-* **Ogbè** — light, new beginnings, divine potential (Ọ̀rúnmìlà / Olódùmarè)
+* **Èjì Ogbè** — light, new beginnings, divine potential (Ọ̀rúnmìlà / Olódùmarè)
 * **Ọ̀wọ́nrín Méjì** — instability, change, the trickster's lesson, humility (Èṣù / Ọ̀rúnmìlà)
 
 ### Guidance
