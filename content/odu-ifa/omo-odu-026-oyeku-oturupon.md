@@ -1,15 +1,19 @@
 ---
-title: "Ọ̀yẹ̀kú-Òtúrúpọ̀n"
+title: Ọ̀yẹ̀kú-Òtúrúpọ̀n
 number: 42
-category: "Omo Odu"
-slug: "oyeku-oturupon"
-parent1: "oyeku-meji"
-parent2: "oturupon-meji"
-orisha: "Ikú (Death) / Ọ̀sun; Ọbàtálá / Ọ̀rúnmìlà"
-theme: "endings, the ancestors, the unseen world, mortality; illness and healing, secrets of the body, patience"
-excerpt: "Ọ̀yẹ̀kú-Òtúrúpọ̀n combines the energy of Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality) with Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,II,II"
-pattern_left: "II,II,I,I"
+category: Omo Odu
+slug: oyeku-oturupon
+parent1: oyeku-meji
+parent2: oturupon-meji
+orisha: Ikú (Death) / Ọ̀sun; Ọbàtálá / Ọ̀rúnmìlà
+theme: endings, the ancestors, the unseen world, mortality; illness and healing,
+  secrets of the body, patience
+excerpt: Ọ̀yẹ̀kú-Òtúrúpọ̀n combines the energy of Ọ̀yẹ̀kú Méjì (endings, the
+  ancestors, the unseen world, mortality) with Òtúrúpọ̀n Méjì (illness and
+  healing, secrets of the body, patience). It is read as a distinct Odù with its
+  own guidance, drawing on both influences.
+pattern_right: II,II,II,II
+pattern_left: II,II,I,II
 ---
 
 ## Ọ̀yẹ̀kú-Òtúrúpọ̀n
