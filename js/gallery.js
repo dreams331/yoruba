@@ -161,7 +161,6 @@ function populateLightbox() {
         imgEl.alt = item.title;
         imgEl.style.display = '';
     } else {
-        imgEl.removeAttribute('src');
         imgEl.style.display = 'none';
     }
     document.getElementById('lightboxTitle').textContent = item.title;
