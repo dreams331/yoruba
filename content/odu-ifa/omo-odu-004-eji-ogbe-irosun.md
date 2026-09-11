@@ -21,7 +21,7 @@ Ogbè-Ìrosùn combines the energy of Ogbè (light, new beginnings, divine poten
 
 ### Governing Influences
 
-* **Ogbè** — light, new beginnings, divine potential (Ọ̀rúnmìlà / Olódùmarè)
+* **Èjì Ogbè** — light, new beginnings, divine potential (Ọ̀rúnmìlà / Olódùmarè)
 * **Ìrosùn Méjì** — blood, sacrifice, warning, consequence (Ṣàngó / Ọya)
 
 ### Guidance
