@@ -22,7 +22,7 @@ Ogbè-Òdí combines the energy of Èjì Ogbè (light, new beginnings, divine po
 
 ### Governing Influences
 
-* **Ogbè** — light, new beginnings, divine potential (Ọ̀rúnmìlà / Olódùmarè)
+* **Èjì Ogbè** — light, new beginnings, divine potential (Ọ̀rúnmìlà / Olódùmarè)
 * **Òdí Méjì** — the womb, mystery, transformation, hidden depth (Ọya / Yemọja)
 
 ### Guidance
