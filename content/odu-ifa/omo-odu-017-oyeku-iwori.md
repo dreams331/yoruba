@@ -1,15 +1,19 @@
 ---
-title: "Ọ̀yẹ̀kú-Ìwòrì"
+title: Ọ̀yẹ̀kú-Ìwòrì
 number: 33
-category: "Omo Odu"
-slug: "oyeku-iwori"
-parent1: "oyeku-meji"
-parent2: "iwori-meji"
-orisha: "Ikú (Death) / Ọ̀sun; Ọ̀sanyìn / Ọ̀rúnmìlà"
-theme: "endings, the ancestors, the unseen world, mortality; self-knowledge, hidden truth, inner vision"
-excerpt: "Ọ̀yẹ̀kú-Ìwòrì combines the energy of Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality) with Ìwòrì Méjì (self-knowledge, hidden truth, inner vision). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,II,II"
-pattern_left: "I,II,I,II"
+category: Omo Odu
+slug: oyeku-iwori
+parent1: oyeku-meji
+parent2: iwori-meji
+orisha: Ikú (Death) / Ọ̀sun; Ọ̀sanyìn / Ọ̀rúnmìlà
+theme: endings, the ancestors, the unseen world, mortality; self-knowledge,
+  hidden truth, inner vision
+excerpt: Ọ̀yẹ̀kú-Ìwòrì combines the energy of Ọ̀yẹ̀kú Méjì (endings, the
+  ancestors, the unseen world, mortality) with Ìwòrì Méjì (self-knowledge,
+  hidden truth, inner vision). It is read as a distinct Odù with its own
+  guidance, drawing on both influences.
+pattern_right: II,II,II,II
+pattern_left: II,I,I,II
 ---
 
 ## Ọ̀yẹ̀kú-Ìwòrì
