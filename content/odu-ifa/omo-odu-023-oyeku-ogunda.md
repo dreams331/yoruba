@@ -1,15 +1,19 @@
 ---
-title: "Ọ̀yẹ̀kú-Ògúndá"
+title: Ọ̀yẹ̀kú-Ògúndá
 number: 39
-category: "Omo Odu"
-slug: "oyeku-ogunda"
-parent1: "oyeku-meji"
-parent2: "ogunda-meji"
-orisha: "Ikú (Death) / Ọ̀sun; Ògún"
-theme: "endings, the ancestors, the unseen world, mortality; struggle, tools, perseverance, clearing the path"
-excerpt: "Ọ̀yẹ̀kú-Ògúndá combines the energy of Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality) with Ògúndá Méjì (struggle, tools, perseverance, clearing the path). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,II,II"
-pattern_left: "I,II,II,II"
+category: Omo Odu
+slug: oyeku-ogunda
+parent1: oyeku-meji
+parent2: ogunda-meji
+orisha: Ikú (Death) / Ọ̀sun; Ògún
+theme: endings, the ancestors, the unseen world, mortality; struggle, tools,
+  perseverance, clearing the path
+excerpt: Ọ̀yẹ̀kú-Ògúndá combines the energy of Ọ̀yẹ̀kú Méjì (endings, the
+  ancestors, the unseen world, mortality) with Ògúndá Méjì (struggle, tools,
+  perseverance, clearing the path). It is read as a distinct Odù with its own
+  guidance, drawing on both influences.
+pattern_right: II,II,II,II
+pattern_left: I,I,I,II
 ---
 
 ## Ọ̀yẹ̀kú-Ògúndá
