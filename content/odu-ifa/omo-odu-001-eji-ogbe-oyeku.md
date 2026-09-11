@@ -23,7 +23,7 @@ pattern_left: II,II,II,II
 
 ### Governing Influences
 
-* **Ogbè** — light, new beginnings, divine potential (Ọ̀rúnmìlà / Olódùmarè)
+* **Èjì Ogbè** — light, new beginnings, divine potential (Ọ̀rúnmìlà / Olódùmarè)
 * **Ọ̀yẹ̀kú Méjì** — endings, the ancestors, the unseen world, mortality (Ikú (Death) / Ọ̀sun)
 
 ### Guidance
