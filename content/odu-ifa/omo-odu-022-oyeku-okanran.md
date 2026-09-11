@@ -1,15 +1,19 @@
 ---
-title: "Ọ̀yẹ̀kú-Ọ̀kànràn"
+title: Ọ̀yẹ̀kú-Ọ̀kànràn
 number: 38
-category: "Omo Odu"
-slug: "oyeku-okanran"
-parent1: "oyeku-meji"
-parent2: "okanran-meji"
-orisha: "Ikú (Death) / Ọ̀sun; Ọya / Ògún"
-theme: "endings, the ancestors, the unseen world, mortality; conflict, truth-telling, sharp consequences"
-excerpt: "Ọ̀yẹ̀kú-Ọ̀kànràn combines the energy of Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality) with Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,II,II"
-pattern_left: "II,I,I,I"
+category: Omo Odu
+slug: oyeku-okanran
+parent1: oyeku-meji
+parent2: okanran-meji
+orisha: Ikú (Death) / Ọ̀sun; Ọya / Ògún
+theme: endings, the ancestors, the unseen world, mortality; conflict,
+  truth-telling, sharp consequences
+excerpt: Ọ̀yẹ̀kú-Ọ̀kànràn combines the energy of Ọ̀yẹ̀kú Méjì (endings, the
+  ancestors, the unseen world, mortality) with Ọ̀kànràn Méjì (conflict,
+  truth-telling, sharp consequences). It is read as a distinct Odù with its own
+  guidance, drawing on both influences.
+pattern_right: II,II,II,II
+pattern_left: II,II,II,I
 ---
 
 ## Ọ̀yẹ̀kú-Ọ̀kànràn
