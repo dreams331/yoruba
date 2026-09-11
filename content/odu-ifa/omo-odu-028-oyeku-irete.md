@@ -1,15 +1,19 @@
 ---
-title: "Ọ̀yẹ̀kú-Ìrẹtẹ̀"
+title: Ọ̀yẹ̀kú-Ìrẹtẹ̀
 number: 44
-category: "Omo Odu"
-slug: "oyeku-irete"
-parent1: "oyeku-meji"
-parent2: "irete-meji"
-orisha: "Ikú (Death) / Ọ̀sun; Ọ̀rúnmìlà / Ọya"
-theme: "endings, the ancestors, the unseen world, mortality; perseverance despite setbacks, hidden victory"
-excerpt: "Ọ̀yẹ̀kú-Ìrẹtẹ̀ combines the energy of Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality) with Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,II,II"
-pattern_left: "I,II,I,I"
+category: Omo Odu
+slug: oyeku-irete
+parent1: oyeku-meji
+parent2: irete-meji
+orisha: Ikú (Death) / Ọ̀sun; Ọ̀rúnmìlà / Ọya
+theme: endings, the ancestors, the unseen world, mortality; perseverance despite
+  setbacks, hidden victory
+excerpt: Ọ̀yẹ̀kú-Ìrẹtẹ̀ combines the energy of Ọ̀yẹ̀kú Méjì (endings, the
+  ancestors, the unseen world, mortality) with Ìrẹtẹ̀ Méjì (perseverance despite
+  setbacks, hidden victory). It is read as a distinct Odù with its own guidance,
+  drawing on both influences.
+pattern_right: II,II,II,II
+pattern_left: I,I,II,I
 ---
 
 ## Ọ̀yẹ̀kú-Ìrẹtẹ̀
