@@ -1,15 +1,19 @@
 ---
-title: "Ọ̀yẹ̀kú-Ọ̀sá"
+title: Ọ̀yẹ̀kú-Ọ̀sá
 number: 40
-category: "Omo Odu"
-slug: "oyeku-osa"
-parent1: "oyeku-meji"
-parent2: "osa-meji"
-orisha: "Ikú (Death) / Ọ̀sun; Ọya"
-theme: "endings, the ancestors, the unseen world, mortality; upheaval, the whirlwind, sudden change, protection from harm"
-excerpt: "Ọ̀yẹ̀kú-Ọ̀sá combines the energy of Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality) with Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,II,II"
-pattern_left: "II,II,II,I"
+category: Omo Odu
+slug: oyeku-osa
+parent1: oyeku-meji
+parent2: osa-meji
+orisha: Ikú (Death) / Ọ̀sun; Ọya
+theme: endings, the ancestors, the unseen world, mortality; upheaval, the
+  whirlwind, sudden change, protection from harm
+excerpt: Ọ̀yẹ̀kú-Ọ̀sá combines the energy of Ọ̀yẹ̀kú Méjì (endings, the
+  ancestors, the unseen world, mortality) with Ọ̀sá Méjì (upheaval, the
+  whirlwind, sudden change, protection from harm). It is read as a distinct Odù
+  with its own guidance, drawing on both influences.
+pattern_right: II,II,II,II
+pattern_left: II,I,I,I
 ---
 
 ## Ọ̀yẹ̀kú-Ọ̀sá
