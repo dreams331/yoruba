@@ -1,17 +1,17 @@
 ---
-title: "Òfún Méjì"
+title: Òfún Méjì
 number: 16
-category: "Odu Meji"
-slug: "ofun-meji"
-parent1: "ofun-meji"
-parent2: "ofun-meji"
-orisha: "Ọbàtálá / Olódùmarè"
-theme: "purity, old age, completion, moral integrity"
-proverb_yo: "Funfun ni àrà; kò gba ìdọ̀tí láti dúró funfun."
-proverb_en: "White is sacred; it takes discipline to remain unstained."
-excerpt: "The elder Odu of purity and completion — moral integrity across a long life."
-pattern_right: "II,I,II,II"
-pattern_left: "II,I,II,II"
+category: Odu Meji
+slug: ofun-meji
+parent1: ofun-meji
+parent2: ofun-meji
+orisha: Ọbàtálá / Olódùmarè
+theme: purity, old age, completion, moral integrity
+proverb_yo: Funfun ni àrà; kò gba ìdọ̀tí láti dúró funfun.
+proverb_en: White is sacred; it takes discipline to remain unstained.
+excerpt: The elder Odu of purity and completion — moral integrity across a long life.
+pattern_right: II,I,II,I
+pattern_left: II,I,II,I
 ---
 
 ## Òfún Méjì
