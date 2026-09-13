@@ -1,17 +1,18 @@
 ---
-title: "Ọ̀ṣẹ́ Méjì"
+title: Ọ̀ṣẹ́ Méjì
 number: 15
-category: "Odu Meji"
-slug: "ose-meji"
-parent1: "ose-meji"
-parent2: "ose-meji"
-orisha: "Ọ̀ṣun"
-theme: "blessings, sweetness, abundance, gratitude"
-proverb_yo: "Ọwọ́ tí ó fúnni, ni Ọlọ́run í fi kún."
-proverb_en: "The hand that gives is the one Olódùmarè fills."
-excerpt: "The Odu of blessings and sweetness — abundance that flows from generosity and gratitude."
-pattern_right: "II,II,I,II"
-pattern_left: "II,II,I,II"
+category: Odu Meji
+slug: ose-meji
+parent1: ose-meji
+parent2: ose-meji
+orisha: Ọ̀ṣun
+theme: blessings, sweetness, abundance, gratitude
+proverb_yo: Ọwọ́ tí ó fúnni, ni Ọlọ́run í fi kún.
+proverb_en: The hand that gives is the one Olódùmarè fills.
+excerpt: The Odu of blessings and sweetness — abundance that flows from
+  generosity and gratitude.
+pattern_right: I,II,I,II
+pattern_left: I,II,I,II
 ---
 
 ## Ọ̀ṣẹ́ Méjì
