@@ -1,17 +1,18 @@
 ---
-title: "Ògúndá Méjì"
+title: Ògúndá Méjì
 number: 9
-category: "Odu Meji"
-slug: "ogunda-meji"
-parent1: "ogunda-meji"
-parent2: "ogunda-meji"
-orisha: "Ògún"
-theme: "struggle, tools, perseverance, clearing the path"
-proverb_yo: "Ọ̀nà tí a kò gbóná, a kì í rìn án láìsí ọgbọ́n."
-proverb_en: "A path that has not been cleared cannot be walked without skill and effort."
-excerpt: "The Odu of struggle and perseverance — clearing a path through hardship with the tools you have."
-pattern_right: "I,II,II,II"
-pattern_left: "I,II,II,II"
+category: Odu Meji
+slug: ogunda-meji
+parent1: ogunda-meji
+parent2: ogunda-meji
+orisha: Ògún
+theme: struggle, tools, perseverance, clearing the path
+proverb_yo: Ọ̀nà tí a kò gbóná, a kì í rìn án láìsí ọgbọ́n.
+proverb_en: A path that has not been cleared cannot be walked without skill and effort.
+excerpt: The Odu of struggle and perseverance — clearing a path through hardship
+  with the tools you have.
+pattern_right: I,I,I,II
+pattern_left: I,I,I,II
 ---
 
 ## Ògúndá Méjì
