@@ -1,17 +1,18 @@
 ---
-title: "Ìká Méjì"
+title: Ìká Méjì
 number: 11
-category: "Odu Meji"
-slug: "ika-meji"
-parent1: "ika-meji"
-parent2: "ika-meji"
-orisha: "Ọya / Èṣù"
-theme: "cruelty, resentment, the need for restraint"
-proverb_yo: "Ìkà ọkàn kì í mú àlàáfíà wá."
-proverb_en: "A cruel heart never brings peace."
-excerpt: "The Odu that warns against cruelty, resentment, and the corrosive effects of malice."
-pattern_right: "I,II,II,I"
-pattern_left: "I,II,II,I"
+category: Odu Meji
+slug: ika-meji
+parent1: ika-meji
+parent2: ika-meji
+orisha: Ọya / Èṣù
+theme: cruelty, resentment, the need for restraint
+proverb_yo: Ìkà ọkàn kì í mú àlàáfíà wá.
+proverb_en: A cruel heart never brings peace.
+excerpt: The Odu that warns against cruelty, resentment, and the corrosive
+  effects of malice.
+pattern_right: II,I,II,II
+pattern_left: II,I,II,II
 ---
 
 ## Ìká Méjì
