@@ -1,17 +1,17 @@
 ---
-title: "Ọ̀bàrà Méjì"
+title: Ọ̀bàrà Méjì
 number: 7
-category: "Odu Meji"
-slug: "obara-meji"
-parent1: "obara-meji"
-parent2: "obara-meji"
-orisha: "Ṣàngó / Ọ̀bàtálá"
-theme: "honour, boastfulness, the danger of pride, leadership"
-proverb_yo: "Ìgbéraga ni í tẹ̀lé àṣejù ìṣọ́ra."
-proverb_en: "Excess confidence is often followed by a fall."
-excerpt: "The Odu of honour and pride — the gift and the danger of confidence."
-pattern_right: "I,I,I,II"
-pattern_left: "I,I,I,II"
+category: Odu Meji
+slug: obara-meji
+parent1: obara-meji
+parent2: obara-meji
+orisha: Ṣàngó / Ọ̀bàtálá
+theme: honour, boastfulness, the danger of pride, leadership
+proverb_yo: Ìgbéraga ni í tẹ̀lé àṣejù ìṣọ́ra.
+proverb_en: Excess confidence is often followed by a fall.
+excerpt: The Odu of honour and pride — the gift and the danger of confidence.
+pattern_right: I,II,II,II
+pattern_left: I,II,II,II
 ---
 
 ## Ọ̀bàrà Méjì
