@@ -1,17 +1,18 @@
 ---
-title: "Ọ̀wọ́nrín Méjì"
+title: Ọ̀wọ́nrín Méjì
 number: 6
-category: "Odu Meji"
-slug: "owonrin-meji"
-parent1: "owonrin-meji"
-parent2: "owonrin-meji"
-orisha: "Èṣù / Ọ̀rúnmìlà"
-theme: "instability, change, the trickster's lesson, humility"
-proverb_yo: "Ohun tó dúró jẹ́ẹ́, ni yíò yí padà."
-proverb_en: "What stands firm today may be overturned tomorrow."
-excerpt: "The Odu of upheaval and change — nothing stays the same, and pride precedes a fall."
-pattern_right: "II,I,II,I"
-pattern_left: "II,I,II,I"
+category: Odu Meji
+slug: owonrin-meji
+parent1: owonrin-meji
+parent2: owonrin-meji
+orisha: Èṣù / Ọ̀rúnmìlà
+theme: instability, change, the trickster's lesson, humility
+proverb_yo: Ohun tó dúró jẹ́ẹ́, ni yíò yí padà.
+proverb_en: What stands firm today may be overturned tomorrow.
+excerpt: The Odu of upheaval and change — nothing stays the same, and pride
+  precedes a fall.
+pattern_right: II,II,I,I
+pattern_left: II,II,I,I
 ---
 
 ## Ọ̀wọ́nrín Méjì
