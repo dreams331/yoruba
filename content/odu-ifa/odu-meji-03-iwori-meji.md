@@ -1,17 +1,17 @@
 ---
-title: "Ìwòrì Méjì"
+title: Ìwòrì Méjì
 number: 3
-category: "Odu Meji"
-slug: "iwori-meji"
-parent1: "iwori-meji"
-parent2: "iwori-meji"
-orisha: "Ọ̀sanyìn / Ọ̀rúnmìlà"
-theme: "self-knowledge, hidden truth, inner vision"
-proverb_yo: "Bí a kò bá mọ ara ẹni, a kì í mọ ẹlòmíràn."
-proverb_en: "If one does not know oneself, one cannot truly know another."
-excerpt: "The Odu of self-knowledge — seeing what is hidden, including within oneself."
-pattern_right: "I,II,I,II"
-pattern_left: "I,II,I,II"
+category: Odu Meji
+slug: iwori-meji
+parent1: iwori-meji
+parent2: iwori-meji
+orisha: Ọ̀sanyìn / Ọ̀rúnmìlà
+theme: self-knowledge, hidden truth, inner vision
+proverb_yo: Bí a kò bá mọ ara ẹni, a kì í mọ ẹlòmíràn.
+proverb_en: If one does not know oneself, one cannot truly know another.
+excerpt: The Odu of self-knowledge — seeing what is hidden, including within oneself.
+pattern_right: II,I,I,II
+pattern_left: II,I,I,II
 ---
 
 ## Ìwòrì Méjì
