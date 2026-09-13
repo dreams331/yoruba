@@ -1,17 +1,17 @@
 ---
-title: "Ọ̀kànràn Méjì"
+title: Ọ̀kànràn Méjì
 number: 8
-category: "Odu Meji"
-slug: "okanran-meji"
-parent1: "okanran-meji"
-parent2: "okanran-meji"
-orisha: "Ọya / Ògún"
-theme: "conflict, truth-telling, sharp consequences"
-proverb_yo: "Òtítọ́ máa ń dùn, ṣùgbọ́n irọ́ máa ń pa ni níkẹyìn."
-proverb_en: "Truth may sting, but a lie eventually destroys."
-excerpt: "The Odu of sharp truths — conflict, exposure, and the cost of dishonesty."
-pattern_right: "II,I,I,I"
-pattern_left: "II,I,I,I"
+category: Odu Meji
+slug: okanran-meji
+parent1: okanran-meji
+parent2: okanran-meji
+orisha: Ọya / Ògún
+theme: conflict, truth-telling, sharp consequences
+proverb_yo: Òtítọ́ máa ń dùn, ṣùgbọ́n irọ́ máa ń pa ni níkẹyìn.
+proverb_en: Truth may sting, but a lie eventually destroys.
+excerpt: The Odu of sharp truths — conflict, exposure, and the cost of dishonesty.
+pattern_right: II,II,II,I
+pattern_left: II,II,II,I
 ---
 
 ## Ọ̀kànràn Méjì
