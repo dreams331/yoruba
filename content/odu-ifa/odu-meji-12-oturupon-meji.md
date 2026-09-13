@@ -1,17 +1,18 @@
 ---
-title: "Òtúrúpọ̀n Méjì"
+title: Òtúrúpọ̀n Méjì
 number: 12
-category: "Odu Meji"
-slug: "oturupon-meji"
-parent1: "oturupon-meji"
-parent2: "oturupon-meji"
-orisha: "Ọbàtálá / Ọ̀rúnmìlà"
-theme: "illness and healing, secrets of the body, patience"
-proverb_yo: "Àrùn tí a kò tọ́jú lọ́nà tí ó tọ́ kì í yá."
-proverb_en: "An illness not treated in the right way does not heal."
-excerpt: "The Odu of illness and healing — patience with the body and the wisdom of proper treatment."
-pattern_right: "II,II,I,I"
-pattern_left: "II,II,I,I"
+category: Odu Meji
+slug: oturupon-meji
+parent1: oturupon-meji
+parent2: oturupon-meji
+orisha: Ọbàtálá / Ọ̀rúnmìlà
+theme: illness and healing, secrets of the body, patience
+proverb_yo: Àrùn tí a kò tọ́jú lọ́nà tí ó tọ́ kì í yá.
+proverb_en: An illness not treated in the right way does not heal.
+excerpt: The Odu of illness and healing — patience with the body and the wisdom
+  of proper treatment.
+pattern_right: II,II,I,II
+pattern_left: II,II,I,II
 ---
 
 ## Òtúrúpọ̀n Méjì
