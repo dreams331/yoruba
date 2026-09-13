@@ -12,8 +12,8 @@ excerpt: Ìwòrì-Ogbè combines the energy of Ìwòrì Méjì (self-knowledge, 
   truth, inner vision) with Èjì Ogbè (light, new beginnings, divine potential).
   It is read as a distinct Odù with its own guidance, drawing on both
   influences.
-pattern_right: I,II,I,II
-pattern_left: II,I,I,II
+pattern_right: II,I,I,II
+pattern_left: I,I,I,I
 ---
 ## Ìwòrì-ÈjìOgbè
 
