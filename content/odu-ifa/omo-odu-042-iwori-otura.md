@@ -1,15 +1,19 @@
 ---
-title: "Ìwòrì-Òtúrá"
+title: Ìwòrì-Òtúrá
 number: 58
-category: "Omo Odu"
-slug: "iwori-otura"
-parent1: "iwori-meji"
-parent2: "otura-meji"
-orisha: "Ọ̀sanyìn / Ọ̀rúnmìlà; Ọ̀rúnmìlà / Ọbàtálá"
-theme: "self-knowledge, hidden truth, inner vision; transformation, clarity after confusion, truth revealed"
-excerpt: "Ìwòrì-Òtúrá combines the energy of Ìwòrì Méjì (self-knowledge, hidden truth, inner vision) with Òtúrá Méjì (transformation, clarity after confusion, truth revealed). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,I,II"
-pattern_left: "I,I,II,I"
+category: Omo Odu
+slug: iwori-otura
+parent1: iwori-meji
+parent2: otura-meji
+orisha: Ọ̀sanyìn / Ọ̀rúnmìlà; Ọ̀rúnmìlà / Ọbàtálá
+theme: self-knowledge, hidden truth, inner vision; transformation, clarity after
+  confusion, truth revealed
+excerpt: Ìwòrì-Òtúrá combines the energy of Ìwòrì Méjì (self-knowledge, hidden
+  truth, inner vision) with Òtúrá Méjì (transformation, clarity after confusion,
+  truth revealed). It is read as a distinct Odù with its own guidance, drawing
+  on both influences.
+pattern_right: II,I,I,II
+pattern_left: I,II,I,I
 ---
 
 ## Ìwòrì-Òtúrá
