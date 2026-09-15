@@ -1,15 +1,19 @@
 ---
-title: "Ìwòrì-Ọ̀sá"
+title: Ìwòrì-Ọ̀sá
 number: 55
-category: "Omo Odu"
-slug: "iwori-osa"
-parent1: "iwori-meji"
-parent2: "osa-meji"
-orisha: "Ọ̀sanyìn / Ọ̀rúnmìlà; Ọya"
-theme: "self-knowledge, hidden truth, inner vision; upheaval, the whirlwind, sudden change, protection from harm"
-excerpt: "Ìwòrì-Ọ̀sá combines the energy of Ìwòrì Méjì (self-knowledge, hidden truth, inner vision) with Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,I,II"
-pattern_left: "II,II,II,I"
+category: Omo Odu
+slug: iwori-osa
+parent1: iwori-meji
+parent2: osa-meji
+orisha: Ọ̀sanyìn / Ọ̀rúnmìlà; Ọya
+theme: self-knowledge, hidden truth, inner vision; upheaval, the whirlwind,
+  sudden change, protection from harm
+excerpt: Ìwòrì-Ọ̀sá combines the energy of Ìwòrì Méjì (self-knowledge, hidden
+  truth, inner vision) with Ọ̀sá Méjì (upheaval, the whirlwind, sudden change,
+  protection from harm). It is read as a distinct Odù with its own guidance,
+  drawing on both influences.
+pattern_right: II,I,I,II
+pattern_left: II,I,I,I
 ---
 
 ## Ìwòrì-Ọ̀sá
