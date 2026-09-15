@@ -1,15 +1,19 @@
 ---
-title: "Ìwòrì-Ọ̀bàrà"
+title: Ìwòrì-Ọ̀bàrà
 number: 52
-category: "Omo Odu"
-slug: "iwori-obara"
-parent1: "iwori-meji"
-parent2: "obara-meji"
-orisha: "Ọ̀sanyìn / Ọ̀rúnmìlà; Ṣàngó / Ọ̀bàtálá"
-theme: "self-knowledge, hidden truth, inner vision; honour, boastfulness, the danger of pride, leadership"
-excerpt: "Ìwòrì-Ọ̀bàrà combines the energy of Ìwòrì Méjì (self-knowledge, hidden truth, inner vision) with Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,I,II"
-pattern_left: "I,I,I,II"
+category: Omo Odu
+slug: iwori-obara
+parent1: iwori-meji
+parent2: obara-meji
+orisha: Ọ̀sanyìn / Ọ̀rúnmìlà; Ṣàngó / Ọ̀bàtálá
+theme: self-knowledge, hidden truth, inner vision; honour, boastfulness, the
+  danger of pride, leadership
+excerpt: Ìwòrì-Ọ̀bàrà combines the energy of Ìwòrì Méjì (self-knowledge, hidden
+  truth, inner vision) with Ọ̀bàrà Méjì (honour, boastfulness, the danger of
+  pride, leadership). It is read as a distinct Odù with its own guidance,
+  drawing on both influences.
+pattern_right: II,I,I,II
+pattern_left: I,II,II,II
 ---
 
 ## Ìwòrì-Ọ̀bàrà
