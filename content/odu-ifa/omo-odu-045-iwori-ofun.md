@@ -1,15 +1,19 @@
 ---
-title: "Ìwòrì-Òfún"
+title: Ìwòrì-Òfún
 number: 61
-category: "Omo Odu"
-slug: "iwori-ofun"
-parent1: "iwori-meji"
-parent2: "ofun-meji"
-orisha: "Ọ̀sanyìn / Ọ̀rúnmìlà; Ọbàtálá / Olódùmarè"
-theme: "self-knowledge, hidden truth, inner vision; purity, old age, completion, moral integrity"
-excerpt: "Ìwòrì-Òfún combines the energy of Ìwòrì Méjì (self-knowledge, hidden truth, inner vision) with Òfún Méjì (purity, old age, completion, moral integrity). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,I,II"
-pattern_left: "II,I,II,II"
+category: Omo Odu
+slug: iwori-ofun
+parent1: iwori-meji
+parent2: ofun-meji
+orisha: Ọ̀sanyìn / Ọ̀rúnmìlà; Ọbàtálá / Olódùmarè
+theme: self-knowledge, hidden truth, inner vision; purity, old age, completion,
+  moral integrity
+excerpt: Ìwòrì-Òfún combines the energy of Ìwòrì Méjì (self-knowledge, hidden
+  truth, inner vision) with Òfún Méjì (purity, old age, completion, moral
+  integrity). It is read as a distinct Odù with its own guidance, drawing on
+  both influences.
+pattern_right: II,I,I,II
+pattern_left: II,I,II,I
 ---
 
 ## Ìwòrì-Òfún
