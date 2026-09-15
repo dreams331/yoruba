@@ -1,15 +1,19 @@
 ---
-title: "Ìwòrì-Ọ̀ṣẹ́"
+title: Ìwòrì-Ọ̀ṣẹ́
 number: 60
-category: "Omo Odu"
-slug: "iwori-ose"
-parent1: "iwori-meji"
-parent2: "ose-meji"
-orisha: "Ọ̀sanyìn / Ọ̀rúnmìlà; Ọ̀ṣun"
-theme: "self-knowledge, hidden truth, inner vision; blessings, sweetness, abundance, gratitude"
-excerpt: "Ìwòrì-Ọ̀ṣẹ́ combines the energy of Ìwòrì Méjì (self-knowledge, hidden truth, inner vision) with Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,I,II"
-pattern_left: "II,II,I,II"
+category: Omo Odu
+slug: iwori-ose
+parent1: iwori-meji
+parent2: ose-meji
+orisha: Ọ̀sanyìn / Ọ̀rúnmìlà; Ọ̀ṣun
+theme: self-knowledge, hidden truth, inner vision; blessings, sweetness,
+  abundance, gratitude
+excerpt: Ìwòrì-Ọ̀ṣẹ́ combines the energy of Ìwòrì Méjì (self-knowledge, hidden
+  truth, inner vision) with Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance,
+  gratitude). It is read as a distinct Odù with its own guidance, drawing on
+  both influences.
+pattern_right: II,I,I,II
+pattern_left: I,II,I,II
 ---
 
 ## Ìwòrì-Ọ̀ṣẹ́
