@@ -1,15 +1,19 @@
 ---
-title: "Ìwòrì-Òtúrúpọ̀n"
+title: Ìwòrì-Òtúrúpọ̀n
 number: 57
-category: "Omo Odu"
-slug: "iwori-oturupon"
-parent1: "iwori-meji"
-parent2: "oturupon-meji"
-orisha: "Ọ̀sanyìn / Ọ̀rúnmìlà; Ọbàtálá / Ọ̀rúnmìlà"
-theme: "self-knowledge, hidden truth, inner vision; illness and healing, secrets of the body, patience"
-excerpt: "Ìwòrì-Òtúrúpọ̀n combines the energy of Ìwòrì Méjì (self-knowledge, hidden truth, inner vision) with Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,I,II"
-pattern_left: "II,II,I,I"
+category: Omo Odu
+slug: iwori-oturupon
+parent1: iwori-meji
+parent2: oturupon-meji
+orisha: Ọ̀sanyìn / Ọ̀rúnmìlà; Ọbàtálá / Ọ̀rúnmìlà
+theme: self-knowledge, hidden truth, inner vision; illness and healing, secrets
+  of the body, patience
+excerpt: Ìwòrì-Òtúrúpọ̀n combines the energy of Ìwòrì Méjì (self-knowledge,
+  hidden truth, inner vision) with Òtúrúpọ̀n Méjì (illness and healing, secrets
+  of the body, patience). It is read as a distinct Odù with its own guidance,
+  drawing on both influences.
+pattern_right: II,I,I,II
+pattern_left: II,II,I,II
 ---
 
 ## Ìwòrì-Òtúrúpọ̀n
