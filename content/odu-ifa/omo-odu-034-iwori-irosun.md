@@ -1,15 +1,19 @@
 ---
-title: "Ìwòrì-Ìrosùn"
+title: Ìwòrì-Ìrosùn
 number: 50
-category: "Omo Odu"
-slug: "iwori-irosun"
-parent1: "iwori-meji"
-parent2: "irosun-meji"
-orisha: "Ọ̀sanyìn / Ọ̀rúnmìlà; Ṣàngó / Ọya"
-theme: "self-knowledge, hidden truth, inner vision; blood, sacrifice, warning, consequence"
-excerpt: "Ìwòrì-Ìrosùn combines the energy of Ìwòrì Méjì (self-knowledge, hidden truth, inner vision) with Ìrosùn Méjì (blood, sacrifice, warning, consequence). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,I,II"
-pattern_left: "I,I,II,II"
+category: Omo Odu
+slug: iwori-irosun
+parent1: iwori-meji
+parent2: irosun-meji
+orisha: Ọ̀sanyìn / Ọ̀rúnmìlà; Ṣàngó / Ọya
+theme: self-knowledge, hidden truth, inner vision; blood, sacrifice, warning,
+  consequence
+excerpt: Ìwòrì-Ìrosùn combines the energy of Ìwòrì Méjì (self-knowledge, hidden
+  truth, inner vision) with Ìrosùn Méjì (blood, sacrifice, warning,
+  consequence). It is read as a distinct Odù with its own guidance, drawing on
+  both influences.
+pattern_right: II,I,I,II
+pattern_left: I,I,II,II
 ---
 
 ## Ìwòrì-Ìrosùn
