@@ -12,7 +12,7 @@ excerpt: Ìwòrì-Ìrẹtẹ̀ combines the energy of Ìwòrì Méjì (self-know
   truth, inner vision) with Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden
   victory). It is read as a distinct Odù with its own guidance, drawing on both
   influences.
-pattern_right: I,II,I,II
+pattern_right: II,I,I,II
 pattern_left: I,I,II,I
 ---
 
