@@ -1,15 +1,19 @@
 ---
-title: "Ìwòrì-Ọ̀kànràn"
+title: Ìwòrì-Ọ̀kànràn
 number: 53
-category: "Omo Odu"
-slug: "iwori-okanran"
-parent1: "iwori-meji"
-parent2: "okanran-meji"
-orisha: "Ọ̀sanyìn / Ọ̀rúnmìlà; Ọya / Ògún"
-theme: "self-knowledge, hidden truth, inner vision; conflict, truth-telling, sharp consequences"
-excerpt: "Ìwòrì-Ọ̀kànràn combines the energy of Ìwòrì Méjì (self-knowledge, hidden truth, inner vision) with Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,I,II"
-pattern_left: "II,I,I,I"
+category: Omo Odu
+slug: iwori-okanran
+parent1: iwori-meji
+parent2: okanran-meji
+orisha: Ọ̀sanyìn / Ọ̀rúnmìlà; Ọya / Ògún
+theme: self-knowledge, hidden truth, inner vision; conflict, truth-telling,
+  sharp consequences
+excerpt: Ìwòrì-Ọ̀kànràn combines the energy of Ìwòrì Méjì (self-knowledge,
+  hidden truth, inner vision) with Ọ̀kànràn Méjì (conflict, truth-telling, sharp
+  consequences). It is read as a distinct Odù with its own guidance, drawing on
+  both influences.
+pattern_right: II,I,I,II
+pattern_left: II,II,II,I
 ---
 
 ## Ìwòrì-Ọ̀kànràn
