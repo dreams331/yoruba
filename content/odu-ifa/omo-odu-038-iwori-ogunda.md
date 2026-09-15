@@ -1,15 +1,19 @@
 ---
-title: "Ìwòrì-Ògúndá"
+title: Ìwòrì-Ògúndá
 number: 54
-category: "Omo Odu"
-slug: "iwori-ogunda"
-parent1: "iwori-meji"
-parent2: "ogunda-meji"
-orisha: "Ọ̀sanyìn / Ọ̀rúnmìlà; Ògún"
-theme: "self-knowledge, hidden truth, inner vision; struggle, tools, perseverance, clearing the path"
-excerpt: "Ìwòrì-Ògúndá combines the energy of Ìwòrì Méjì (self-knowledge, hidden truth, inner vision) with Ògúndá Méjì (struggle, tools, perseverance, clearing the path). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,I,II"
-pattern_left: "I,II,II,II"
+category: Omo Odu
+slug: iwori-ogunda
+parent1: iwori-meji
+parent2: ogunda-meji
+orisha: Ọ̀sanyìn / Ọ̀rúnmìlà; Ògún
+theme: self-knowledge, hidden truth, inner vision; struggle, tools,
+  perseverance, clearing the path
+excerpt: Ìwòrì-Ògúndá combines the energy of Ìwòrì Méjì (self-knowledge, hidden
+  truth, inner vision) with Ògúndá Méjì (struggle, tools, perseverance, clearing
+  the path). It is read as a distinct Odù with its own guidance, drawing on both
+  influences.
+pattern_right: II,I,I,II
+pattern_left: I,I,I,II
 ---
 
 ## Ìwòrì-Ògúndá
