@@ -19,11 +19,11 @@ pattern_left: II,II,II,II
 
 ### Meaning
 
-ÈjìOgbè-Ọ̀yẹ̀kú combines the energy of Èjì Ogbè (light, new beginnings, divine potential) with Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Ogbè-Ọ̀yẹ̀kú combines the energy of Èjì Ogbè (light, new beginnings, divine potential) with Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality). It is read as a distinct Odù with its own guidance, drawing on both influences.
 
 ### Governing Influences
 
-* **Ogbè** — light, new beginnings, divine potential (Ọ̀rúnmìlà / Olódùmarè)
+* **Èjì Ogbè** — light, new beginnings, divine potential (Ọ̀rúnmìlà / Olódùmarè)
 * **Ọ̀yẹ̀kú Méjì** — endings, the ancestors, the unseen world, mortality (Ikú (Death) / Ọ̀sun)
 
 ### Guidance
