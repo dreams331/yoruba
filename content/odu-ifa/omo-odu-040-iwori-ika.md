@@ -1,15 +1,19 @@
 ---
-title: "Ìwòrì-Ìká"
+title: Ìwòrì-Ìká
 number: 56
-category: "Omo Odu"
-slug: "iwori-ika"
-parent1: "iwori-meji"
-parent2: "ika-meji"
-orisha: "Ọ̀sanyìn / Ọ̀rúnmìlà; Ọya / Èṣù"
-theme: "self-knowledge, hidden truth, inner vision; cruelty, resentment, the need for restraint"
-excerpt: "Ìwòrì-Ìká combines the energy of Ìwòrì Méjì (self-knowledge, hidden truth, inner vision) with Ìká Méjì (cruelty, resentment, the need for restraint). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,I,II"
-pattern_left: "I,II,II,I"
+category: Omo Odu
+slug: iwori-ika
+parent1: iwori-meji
+parent2: ika-meji
+orisha: Ọ̀sanyìn / Ọ̀rúnmìlà; Ọya / Èṣù
+theme: self-knowledge, hidden truth, inner vision; cruelty, resentment, the need
+  for restraint
+excerpt: Ìwòrì-Ìká combines the energy of Ìwòrì Méjì (self-knowledge, hidden
+  truth, inner vision) with Ìká Méjì (cruelty, resentment, the need for
+  restraint). It is read as a distinct Odù with its own guidance, drawing on
+  both influences.
+pattern_right: II,I,I,II
+pattern_left: II,I,II,II
 ---
 
 ## Ìwòrì-Ìká
