@@ -1,15 +1,19 @@
 ---
-title: "Ìwòrì-Ìrẹtẹ̀"
+title: Ìwòrì-Ìrẹtẹ̀
 number: 59
-category: "Omo Odu"
-slug: "iwori-irete"
-parent1: "iwori-meji"
-parent2: "irete-meji"
-orisha: "Ọ̀sanyìn / Ọ̀rúnmìlà; Ọ̀rúnmìlà / Ọya"
-theme: "self-knowledge, hidden truth, inner vision; perseverance despite setbacks, hidden victory"
-excerpt: "Ìwòrì-Ìrẹtẹ̀ combines the energy of Ìwòrì Méjì (self-knowledge, hidden truth, inner vision) with Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,I,II"
-pattern_left: "I,II,I,I"
+category: Omo Odu
+slug: iwori-irete
+parent1: iwori-meji
+parent2: irete-meji
+orisha: Ọ̀sanyìn / Ọ̀rúnmìlà; Ọ̀rúnmìlà / Ọya
+theme: self-knowledge, hidden truth, inner vision; perseverance despite
+  setbacks, hidden victory
+excerpt: Ìwòrì-Ìrẹtẹ̀ combines the energy of Ìwòrì Méjì (self-knowledge, hidden
+  truth, inner vision) with Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden
+  victory). It is read as a distinct Odù with its own guidance, drawing on both
+  influences.
+pattern_right: II,I,I,II
+pattern_left: I,I,II,I
 ---
 
 ## Ìwòrì-Ìrẹtẹ̀
