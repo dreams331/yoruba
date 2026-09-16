@@ -1,15 +1,19 @@
 ---
-title: "Òdí-Ìwòrì"
+title: Òdí-Ìwòrì
 number: 64
-category: "Omo Odu"
-slug: "odi-iwori"
-parent1: "odi-meji"
-parent2: "iwori-meji"
-orisha: "Ọya / Yemọja; Ọ̀sanyìn / Ọ̀rúnmìlà"
-theme: "the womb, mystery, transformation, hidden depth; self-knowledge, hidden truth, inner vision"
-excerpt: "Òdí-Ìwòrì combines the energy of Òdí Méjì (the womb, mystery, transformation, hidden depth) with Ìwòrì Méjì (self-knowledge, hidden truth, inner vision). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,I,II"
-pattern_left: "I,II,I,II"
+category: Omo Odu
+slug: odi-iwori
+parent1: odi-meji
+parent2: iwori-meji
+orisha: Ọya / Yemọja; Ọ̀sanyìn / Ọ̀rúnmìlà
+theme: the womb, mystery, transformation, hidden depth; self-knowledge, hidden
+  truth, inner vision
+excerpt: Òdí-Ìwòrì combines the energy of Òdí Méjì (the womb, mystery,
+  transformation, hidden depth) with Ìwòrì Méjì (self-knowledge, hidden truth,
+  inner vision). It is read as a distinct Odù with its own guidance, drawing on
+  both influences.
+pattern_right: I,II,II,I
+pattern_left: II,I,I,II
 ---
 
 ## Òdí-Ìwòrì
