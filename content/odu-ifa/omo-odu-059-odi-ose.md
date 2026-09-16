@@ -1,15 +1,19 @@
 ---
-title: "Òdí-Ọ̀ṣẹ́"
+title: Òdí-Ọ̀ṣẹ́
 number: 75
-category: "Omo Odu"
-slug: "odi-ose"
-parent1: "odi-meji"
-parent2: "ose-meji"
-orisha: "Ọya / Yemọja; Ọ̀ṣun"
-theme: "the womb, mystery, transformation, hidden depth; blessings, sweetness, abundance, gratitude"
-excerpt: "Òdí-Ọ̀ṣẹ́ combines the energy of Òdí Méjì (the womb, mystery, transformation, hidden depth) with Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,I,II"
-pattern_left: "II,II,I,II"
+category: Omo Odu
+slug: odi-ose
+parent1: odi-meji
+parent2: ose-meji
+orisha: Ọya / Yemọja; Ọ̀ṣun
+theme: the womb, mystery, transformation, hidden depth; blessings, sweetness,
+  abundance, gratitude
+excerpt: Òdí-Ọ̀ṣẹ́ combines the energy of Òdí Méjì (the womb, mystery,
+  transformation, hidden depth) with Ọ̀ṣẹ́ Méjì (blessings, sweetness,
+  abundance, gratitude). It is read as a distinct Odù with its own guidance,
+  drawing on both influences.
+pattern_right: I,II,II,I
+pattern_left: I,II,I,II
 ---
 
 ## Òdí-Ọ̀ṣẹ́
