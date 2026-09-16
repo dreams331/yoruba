@@ -1,15 +1,19 @@
 ---
-title: "Òdí-Ògúndá"
+title: Òdí-Ògúndá
 number: 69
-category: "Omo Odu"
-slug: "odi-ogunda"
-parent1: "odi-meji"
-parent2: "ogunda-meji"
-orisha: "Ọya / Yemọja; Ògún"
-theme: "the womb, mystery, transformation, hidden depth; struggle, tools, perseverance, clearing the path"
-excerpt: "Òdí-Ògúndá combines the energy of Òdí Méjì (the womb, mystery, transformation, hidden depth) with Ògúndá Méjì (struggle, tools, perseverance, clearing the path). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,I,II"
-pattern_left: "I,II,II,II"
+category: Omo Odu
+slug: odi-ogunda
+parent1: odi-meji
+parent2: ogunda-meji
+orisha: Ọya / Yemọja; Ògún
+theme: the womb, mystery, transformation, hidden depth; struggle, tools,
+  perseverance, clearing the path
+excerpt: Òdí-Ògúndá combines the energy of Òdí Méjì (the womb, mystery,
+  transformation, hidden depth) with Ògúndá Méjì (struggle, tools, perseverance,
+  clearing the path). It is read as a distinct Odù with its own guidance,
+  drawing on both influences.
+pattern_right: I,II,II,I
+pattern_left: I,I,I,II
 ---
 
 ## Òdí-Ògúndá
