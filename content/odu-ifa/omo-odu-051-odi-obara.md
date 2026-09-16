@@ -1,15 +1,19 @@
 ---
-title: "Òdí-Ọ̀bàrà"
+title: Òdí-Ọ̀bàrà
 number: 67
-category: "Omo Odu"
-slug: "odi-obara"
-parent1: "odi-meji"
-parent2: "obara-meji"
-orisha: "Ọya / Yemọja; Ṣàngó / Ọ̀bàtálá"
-theme: "the womb, mystery, transformation, hidden depth; honour, boastfulness, the danger of pride, leadership"
-excerpt: "Òdí-Ọ̀bàrà combines the energy of Òdí Méjì (the womb, mystery, transformation, hidden depth) with Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,I,II"
-pattern_left: "I,I,I,II"
+category: Omo Odu
+slug: odi-obara
+parent1: odi-meji
+parent2: obara-meji
+orisha: Ọya / Yemọja; Ṣàngó / Ọ̀bàtálá
+theme: the womb, mystery, transformation, hidden depth; honour, boastfulness,
+  the danger of pride, leadership
+excerpt: Òdí-Ọ̀bàrà combines the energy of Òdí Méjì (the womb, mystery,
+  transformation, hidden depth) with Ọ̀bàrà Méjì (honour, boastfulness, the
+  danger of pride, leadership). It is read as a distinct Odù with its own
+  guidance, drawing on both influences.
+pattern_right: I,II,II,I
+pattern_left: I,II,II,II
 ---
 
 ## Òdí-Ọ̀bàrà
