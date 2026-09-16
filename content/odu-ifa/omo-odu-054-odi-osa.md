@@ -1,15 +1,19 @@
 ---
-title: "Òdí-Ọ̀sá"
+title: Òdí-Ọ̀sá
 number: 70
-category: "Omo Odu"
-slug: "odi-osa"
-parent1: "odi-meji"
-parent2: "osa-meji"
-orisha: "Ọya / Yemọja; Ọya"
-theme: "the womb, mystery, transformation, hidden depth; upheaval, the whirlwind, sudden change, protection from harm"
-excerpt: "Òdí-Ọ̀sá combines the energy of Òdí Méjì (the womb, mystery, transformation, hidden depth) with Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,I,II"
-pattern_left: "II,II,II,I"
+category: Omo Odu
+slug: odi-osa
+parent1: odi-meji
+parent2: osa-meji
+orisha: Ọya / Yemọja; Ọya
+theme: the womb, mystery, transformation, hidden depth; upheaval, the whirlwind,
+  sudden change, protection from harm
+excerpt: Òdí-Ọ̀sá combines the energy of Òdí Méjì (the womb, mystery,
+  transformation, hidden depth) with Ọ̀sá Méjì (upheaval, the whirlwind, sudden
+  change, protection from harm). It is read as a distinct Odù with its own
+  guidance, drawing on both influences.
+pattern_right: I,II,II,I
+pattern_left: II,I,I,I
 ---
 
 ## Òdí-Ọ̀sá
