@@ -1,15 +1,19 @@
 ---
-title: "Òdí-Ìrẹtẹ̀"
+title: Òdí-Ìrẹtẹ̀
 number: 74
-category: "Omo Odu"
-slug: "odi-irete"
-parent1: "odi-meji"
-parent2: "irete-meji"
-orisha: "Ọya / Yemọja; Ọ̀rúnmìlà / Ọya"
-theme: "the womb, mystery, transformation, hidden depth; perseverance despite setbacks, hidden victory"
-excerpt: "Òdí-Ìrẹtẹ̀ combines the energy of Òdí Méjì (the womb, mystery, transformation, hidden depth) with Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,I,II"
-pattern_left: "I,II,I,I"
+category: Omo Odu
+slug: odi-irete
+parent1: odi-meji
+parent2: irete-meji
+orisha: Ọya / Yemọja; Ọ̀rúnmìlà / Ọya
+theme: the womb, mystery, transformation, hidden depth; perseverance despite
+  setbacks, hidden victory
+excerpt: Òdí-Ìrẹtẹ̀ combines the energy of Òdí Méjì (the womb, mystery,
+  transformation, hidden depth) with Ìrẹtẹ̀ Méjì (perseverance despite setbacks,
+  hidden victory). It is read as a distinct Odù with its own guidance, drawing
+  on both influences.
+pattern_right: I,II,II,I
+pattern_left: I,I,II,I
 ---
 
 ## Òdí-Ìrẹtẹ̀
