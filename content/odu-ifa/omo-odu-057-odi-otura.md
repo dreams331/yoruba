@@ -1,15 +1,19 @@
 ---
-title: "Òdí-Òtúrá"
+title: Òdí-Òtúrá
 number: 73
-category: "Omo Odu"
-slug: "odi-otura"
-parent1: "odi-meji"
-parent2: "otura-meji"
-orisha: "Ọya / Yemọja; Ọ̀rúnmìlà / Ọbàtálá"
-theme: "the womb, mystery, transformation, hidden depth; transformation, clarity after confusion, truth revealed"
-excerpt: "Òdí-Òtúrá combines the energy of Òdí Méjì (the womb, mystery, transformation, hidden depth) with Òtúrá Méjì (transformation, clarity after confusion, truth revealed). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,I,II"
-pattern_left: "I,I,II,I"
+category: Omo Odu
+slug: odi-otura
+parent1: odi-meji
+parent2: otura-meji
+orisha: Ọya / Yemọja; Ọ̀rúnmìlà / Ọbàtálá
+theme: the womb, mystery, transformation, hidden depth; transformation, clarity
+  after confusion, truth revealed
+excerpt: Òdí-Òtúrá combines the energy of Òdí Méjì (the womb, mystery,
+  transformation, hidden depth) with Òtúrá Méjì (transformation, clarity after
+  confusion, truth revealed). It is read as a distinct Odù with its own
+  guidance, drawing on both influences.
+pattern_right: I,II,II,I
+pattern_left: I,II,I,I
 ---
 
 ## Òdí-Òtúrá
