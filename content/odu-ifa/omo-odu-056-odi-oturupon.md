@@ -1,15 +1,19 @@
 ---
-title: "Òdí-Òtúrúpọ̀n"
+title: Òdí-Òtúrúpọ̀n
 number: 72
-category: "Omo Odu"
-slug: "odi-oturupon"
-parent1: "odi-meji"
-parent2: "oturupon-meji"
-orisha: "Ọya / Yemọja; Ọbàtálá / Ọ̀rúnmìlà"
-theme: "the womb, mystery, transformation, hidden depth; illness and healing, secrets of the body, patience"
-excerpt: "Òdí-Òtúrúpọ̀n combines the energy of Òdí Méjì (the womb, mystery, transformation, hidden depth) with Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,I,II"
-pattern_left: "II,II,I,I"
+category: Omo Odu
+slug: odi-oturupon
+parent1: odi-meji
+parent2: oturupon-meji
+orisha: Ọya / Yemọja; Ọbàtálá / Ọ̀rúnmìlà
+theme: the womb, mystery, transformation, hidden depth; illness and healing,
+  secrets of the body, patience
+excerpt: Òdí-Òtúrúpọ̀n combines the energy of Òdí Méjì (the womb, mystery,
+  transformation, hidden depth) with Òtúrúpọ̀n Méjì (illness and healing,
+  secrets of the body, patience). It is read as a distinct Odù with its own
+  guidance, drawing on both influences.
+pattern_right: I,II,II,I
+pattern_left: II,II,I,II
 ---
 
 ## Òdí-Òtúrúpọ̀n
