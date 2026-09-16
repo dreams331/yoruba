@@ -1,15 +1,19 @@
 ---
-title: "Òdí-Ọ̀kànràn"
+title: Òdí-Ọ̀kànràn
 number: 68
-category: "Omo Odu"
-slug: "odi-okanran"
-parent1: "odi-meji"
-parent2: "okanran-meji"
-orisha: "Ọya / Yemọja; Ọya / Ògún"
-theme: "the womb, mystery, transformation, hidden depth; conflict, truth-telling, sharp consequences"
-excerpt: "Òdí-Ọ̀kànràn combines the energy of Òdí Méjì (the womb, mystery, transformation, hidden depth) with Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,I,II"
-pattern_left: "II,I,I,I"
+category: Omo Odu
+slug: odi-okanran
+parent1: odi-meji
+parent2: okanran-meji
+orisha: Ọya / Yemọja; Ọya / Ògún
+theme: the womb, mystery, transformation, hidden depth; conflict, truth-telling,
+  sharp consequences
+excerpt: Òdí-Ọ̀kànràn combines the energy of Òdí Méjì (the womb, mystery,
+  transformation, hidden depth) with Ọ̀kànràn Méjì (conflict, truth-telling,
+  sharp consequences). It is read as a distinct Odù with its own guidance,
+  drawing on both influences.
+pattern_right: I,II,II,I
+pattern_left: I,II,II,II
 ---
 
 ## Òdí-Ọ̀kànràn
