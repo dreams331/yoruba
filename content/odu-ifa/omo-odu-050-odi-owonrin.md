@@ -1,15 +1,19 @@
 ---
-title: "Òdí-Ọ̀wọ́nrín"
+title: Òdí-Ọ̀wọ́nrín
 number: 66
-category: "Omo Odu"
-slug: "odi-owonrin"
-parent1: "odi-meji"
-parent2: "owonrin-meji"
-orisha: "Ọya / Yemọja; Èṣù / Ọ̀rúnmìlà"
-theme: "the womb, mystery, transformation, hidden depth; instability, change, the trickster's lesson, humility"
-excerpt: "Òdí-Ọ̀wọ́nrín combines the energy of Òdí Méjì (the womb, mystery, transformation, hidden depth) with Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,I,II"
-pattern_left: "II,I,II,I"
+category: Omo Odu
+slug: odi-owonrin
+parent1: odi-meji
+parent2: owonrin-meji
+orisha: Ọya / Yemọja; Èṣù / Ọ̀rúnmìlà
+theme: the womb, mystery, transformation, hidden depth; instability, change, the
+  trickster's lesson, humility
+excerpt: Òdí-Ọ̀wọ́nrín combines the energy of Òdí Méjì (the womb, mystery,
+  transformation, hidden depth) with Ọ̀wọ́nrín Méjì (instability, change, the
+  trickster's lesson, humility). It is read as a distinct Odù with its own
+  guidance, drawing on both influences.
+pattern_right: I,II,II,I
+pattern_left: II,II,I,I
 ---
 
 ## Òdí-Ọ̀wọ́nrín
