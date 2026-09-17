@@ -1,15 +1,19 @@
 ---
-title: "Ìrosùn-Òtúrá"
+title: Ìrosùn-Òtúrá
 number: 88
-category: "Omo Odu"
-slug: "irosun-otura"
-parent1: "irosun-meji"
-parent2: "otura-meji"
-orisha: "Ṣàngó / Ọya; Ọ̀rúnmìlà / Ọbàtálá"
-theme: "blood, sacrifice, warning, consequence; transformation, clarity after confusion, truth revealed"
-excerpt: "Ìrosùn-Òtúrá combines the energy of Ìrosùn Méjì (blood, sacrifice, warning, consequence) with Òtúrá Méjì (transformation, clarity after confusion, truth revealed). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,I,II,II"
-pattern_left: "I,I,II,I"
+category: Omo Odu
+slug: irosun-otura
+parent1: irosun-meji
+parent2: otura-meji
+orisha: Ṣàngó / Ọya; Ọ̀rúnmìlà / Ọbàtálá
+theme: blood, sacrifice, warning, consequence; transformation, clarity after
+  confusion, truth revealed
+excerpt: Ìrosùn-Òtúrá combines the energy of Ìrosùn Méjì (blood, sacrifice,
+  warning, consequence) with Òtúrá Méjì (transformation, clarity after
+  confusion, truth revealed). It is read as a distinct Odù with its own
+  guidance, drawing on both influences.
+pattern_right: I,I,II,II
+pattern_left: I,II,I,I
 ---
 
 ## Ìrosùn-Òtúrá
