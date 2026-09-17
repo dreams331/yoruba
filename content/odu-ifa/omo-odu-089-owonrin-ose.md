@@ -1,15 +1,19 @@
 ---
-title: "Ọ̀wọ́nrín-Ọ̀ṣẹ́"
+title: Ọ̀wọ́nrín-Ọ̀ṣẹ́
 number: 105
-category: "Omo Odu"
-slug: "owonrin-ose"
-parent1: "owonrin-meji"
-parent2: "ose-meji"
-orisha: "Èṣù / Ọ̀rúnmìlà; Ọ̀ṣun"
-theme: "instability, change, the trickster's lesson, humility; blessings, sweetness, abundance, gratitude"
-excerpt: "Ọ̀wọ́nrín-Ọ̀ṣẹ́ combines the energy of Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility) with Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,II,I"
-pattern_left: "II,II,I,II"
+category: Omo Odu
+slug: owonrin-ose
+parent1: owonrin-meji
+parent2: ose-meji
+orisha: Èṣù / Ọ̀rúnmìlà; Ọ̀ṣun
+theme: instability, change, the trickster's lesson, humility; blessings,
+  sweetness, abundance, gratitude
+excerpt: Ọ̀wọ́nrín-Ọ̀ṣẹ́ combines the energy of Ọ̀wọ́nrín Méjì (instability,
+  change, the trickster's lesson, humility) with Ọ̀ṣẹ́ Méjì (blessings,
+  sweetness, abundance, gratitude). It is read as a distinct Odù with its own
+  guidance, drawing on both influences.
+pattern_right: II,II,I,I
+pattern_left: I,II,I,II
 ---
 
 ## Ọ̀wọ́nrín-Ọ̀ṣẹ́
