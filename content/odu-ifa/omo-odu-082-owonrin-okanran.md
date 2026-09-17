@@ -1,15 +1,19 @@
 ---
-title: "Ọ̀wọ́nrín-Ọ̀kànràn"
+title: Ọ̀wọ́nrín-Ọ̀kànràn
 number: 98
-category: "Omo Odu"
-slug: "owonrin-okanran"
-parent1: "owonrin-meji"
-parent2: "okanran-meji"
-orisha: "Èṣù / Ọ̀rúnmìlà; Ọya / Ògún"
-theme: "instability, change, the trickster's lesson, humility; conflict, truth-telling, sharp consequences"
-excerpt: "Ọ̀wọ́nrín-Ọ̀kànràn combines the energy of Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility) with Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,II,I"
-pattern_left: "II,I,I,I"
+category: Omo Odu
+slug: owonrin-okanran
+parent1: owonrin-meji
+parent2: okanran-meji
+orisha: Èṣù / Ọ̀rúnmìlà; Ọya / Ògún
+theme: instability, change, the trickster's lesson, humility; conflict,
+  truth-telling, sharp consequences
+excerpt: Ọ̀wọ́nrín-Ọ̀kànràn combines the energy of Ọ̀wọ́nrín Méjì (instability,
+  change, the trickster's lesson, humility) with Ọ̀kànràn Méjì (conflict,
+  truth-telling, sharp consequences). It is read as a distinct Odù with its own
+  guidance, drawing on both influences.
+pattern_right: II,II,I,I
+pattern_left: II,II,II,I
 ---
 
 ## Ọ̀wọ́nrín-Ọ̀kànràn
