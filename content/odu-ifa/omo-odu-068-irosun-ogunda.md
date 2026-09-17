@@ -1,15 +1,19 @@
 ---
-title: "Ìrosùn-Ògúndá"
+title: Ìrosùn-Ògúndá
 number: 84
-category: "Omo Odu"
-slug: "irosun-ogunda"
-parent1: "irosun-meji"
-parent2: "ogunda-meji"
-orisha: "Ṣàngó / Ọya; Ògún"
-theme: "blood, sacrifice, warning, consequence; struggle, tools, perseverance, clearing the path"
-excerpt: "Ìrosùn-Ògúndá combines the energy of Ìrosùn Méjì (blood, sacrifice, warning, consequence) with Ògúndá Méjì (struggle, tools, perseverance, clearing the path). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,I,II,II"
-pattern_left: "I,II,II,II"
+category: Omo Odu
+slug: irosun-ogunda
+parent1: irosun-meji
+parent2: ogunda-meji
+orisha: Ṣàngó / Ọya; Ògún
+theme: blood, sacrifice, warning, consequence; struggle, tools, perseverance,
+  clearing the path
+excerpt: Ìrosùn-Ògúndá combines the energy of Ìrosùn Méjì (blood, sacrifice,
+  warning, consequence) with Ògúndá Méjì (struggle, tools, perseverance,
+  clearing the path). It is read as a distinct Odù with its own guidance,
+  drawing on both influences.
+pattern_right: I,I,II,II
+pattern_left: I,I,I,II
 ---
 
 ## Ìrosùn-Ògúndá
