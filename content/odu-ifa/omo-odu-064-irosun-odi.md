@@ -1,15 +1,19 @@
 ---
-title: "Ìrosùn-Òdí"
+title: Ìrosùn-Òdí
 number: 80
-category: "Omo Odu"
-slug: "irosun-odi"
-parent1: "irosun-meji"
-parent2: "odi-meji"
-orisha: "Ṣàngó / Ọya; Ọya / Yemọja"
-theme: "blood, sacrifice, warning, consequence; the womb, mystery, transformation, hidden depth"
-excerpt: "Ìrosùn-Òdí combines the energy of Ìrosùn Méjì (blood, sacrifice, warning, consequence) with Òdí Méjì (the womb, mystery, transformation, hidden depth). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,I,II,II"
-pattern_left: "II,I,I,II"
+category: Omo Odu
+slug: irosun-odi
+parent1: irosun-meji
+parent2: odi-meji
+orisha: Ṣàngó / Ọya; Ọya / Yemọja
+theme: blood, sacrifice, warning, consequence; the womb, mystery,
+  transformation, hidden depth
+excerpt: Ìrosùn-Òdí combines the energy of Ìrosùn Méjì (blood, sacrifice,
+  warning, consequence) with Òdí Méjì (the womb, mystery, transformation, hidden
+  depth). It is read as a distinct Odù with its own guidance, drawing on both
+  influences.
+pattern_right: I,I,II,II
+pattern_left: I,II,II,I
 ---
 
 ## Ìrosùn-Òdí
