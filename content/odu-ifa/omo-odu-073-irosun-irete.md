@@ -1,15 +1,19 @@
 ---
-title: "Ìrosùn-Ìrẹtẹ̀"
+title: Ìrosùn-Ìrẹtẹ̀
 number: 89
-category: "Omo Odu"
-slug: "irosun-irete"
-parent1: "irosun-meji"
-parent2: "irete-meji"
-orisha: "Ṣàngó / Ọya; Ọ̀rúnmìlà / Ọya"
-theme: "blood, sacrifice, warning, consequence; perseverance despite setbacks, hidden victory"
-excerpt: "Ìrosùn-Ìrẹtẹ̀ combines the energy of Ìrosùn Méjì (blood, sacrifice, warning, consequence) with Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,I,II,II"
-pattern_left: "I,II,I,I"
+category: Omo Odu
+slug: irosun-irete
+parent1: irosun-meji
+parent2: irete-meji
+orisha: Ṣàngó / Ọya; Ọ̀rúnmìlà / Ọya
+theme: blood, sacrifice, warning, consequence; perseverance despite setbacks,
+  hidden victory
+excerpt: Ìrosùn-Ìrẹtẹ̀ combines the energy of Ìrosùn Méjì (blood, sacrifice,
+  warning, consequence) with Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden
+  victory). It is read as a distinct Odù with its own guidance, drawing on both
+  influences.
+pattern_right: I,I,II,II
+pattern_left: I,I,II,I
 ---
 
 ## Ìrosùn-Ìrẹtẹ̀
