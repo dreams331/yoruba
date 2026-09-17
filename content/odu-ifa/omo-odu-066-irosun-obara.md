@@ -1,15 +1,19 @@
 ---
-title: "Ìrosùn-Ọ̀bàrà"
+title: Ìrosùn-Ọ̀bàrà
 number: 82
-category: "Omo Odu"
-slug: "irosun-obara"
-parent1: "irosun-meji"
-parent2: "obara-meji"
-orisha: "Ṣàngó / Ọya; Ṣàngó / Ọ̀bàtálá"
-theme: "blood, sacrifice, warning, consequence; honour, boastfulness, the danger of pride, leadership"
-excerpt: "Ìrosùn-Ọ̀bàrà combines the energy of Ìrosùn Méjì (blood, sacrifice, warning, consequence) with Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,I,II,II"
-pattern_left: "I,I,I,II"
+category: Omo Odu
+slug: irosun-obara
+parent1: irosun-meji
+parent2: obara-meji
+orisha: Ṣàngó / Ọya; Ṣàngó / Ọ̀bàtálá
+theme: blood, sacrifice, warning, consequence; honour, boastfulness, the danger
+  of pride, leadership
+excerpt: Ìrosùn-Ọ̀bàrà combines the energy of Ìrosùn Méjì (blood, sacrifice,
+  warning, consequence) with Ọ̀bàrà Méjì (honour, boastfulness, the danger of
+  pride, leadership). It is read as a distinct Odù with its own guidance,
+  drawing on both influences.
+pattern_right: I,I,II,II
+pattern_left: I,II,II,II
 ---
 
 ## Ìrosùn-Ọ̀bàrà
