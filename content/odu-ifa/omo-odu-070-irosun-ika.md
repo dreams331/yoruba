@@ -1,15 +1,19 @@
 ---
-title: "Ìrosùn-Ìká"
+title: Ìrosùn-Ìká
 number: 86
-category: "Omo Odu"
-slug: "irosun-ika"
-parent1: "irosun-meji"
-parent2: "ika-meji"
-orisha: "Ṣàngó / Ọya; Ọya / Èṣù"
-theme: "blood, sacrifice, warning, consequence; cruelty, resentment, the need for restraint"
-excerpt: "Ìrosùn-Ìká combines the energy of Ìrosùn Méjì (blood, sacrifice, warning, consequence) with Ìká Méjì (cruelty, resentment, the need for restraint). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,I,II,II"
-pattern_left: "I,II,II,I"
+category: Omo Odu
+slug: irosun-ika
+parent1: irosun-meji
+parent2: ika-meji
+orisha: Ṣàngó / Ọya; Ọya / Èṣù
+theme: blood, sacrifice, warning, consequence; cruelty, resentment, the need for
+  restraint
+excerpt: Ìrosùn-Ìká combines the energy of Ìrosùn Méjì (blood, sacrifice,
+  warning, consequence) with Ìká Méjì (cruelty, resentment, the need for
+  restraint). It is read as a distinct Odù with its own guidance, drawing on
+  both influences.
+pattern_right: I,I,II,II
+pattern_left: II,I,II,II
 ---
 
 ## Ìrosùn-Ìká
