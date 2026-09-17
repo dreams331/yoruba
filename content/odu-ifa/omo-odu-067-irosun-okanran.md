@@ -1,15 +1,19 @@
 ---
-title: "Ìrosùn-Ọ̀kànràn"
+title: Ìrosùn-Ọ̀kànràn
 number: 83
-category: "Omo Odu"
-slug: "irosun-okanran"
-parent1: "irosun-meji"
-parent2: "okanran-meji"
-orisha: "Ṣàngó / Ọya; Ọya / Ògún"
-theme: "blood, sacrifice, warning, consequence; conflict, truth-telling, sharp consequences"
-excerpt: "Ìrosùn-Ọ̀kànràn combines the energy of Ìrosùn Méjì (blood, sacrifice, warning, consequence) with Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,I,II,II"
-pattern_left: "II,I,I,I"
+category: Omo Odu
+slug: irosun-okanran
+parent1: irosun-meji
+parent2: okanran-meji
+orisha: Ṣàngó / Ọya; Ọya / Ògún
+theme: blood, sacrifice, warning, consequence; conflict, truth-telling, sharp
+  consequences
+excerpt: Ìrosùn-Ọ̀kànràn combines the energy of Ìrosùn Méjì (blood, sacrifice,
+  warning, consequence) with Ọ̀kànràn Méjì (conflict, truth-telling, sharp
+  consequences). It is read as a distinct Odù with its own guidance, drawing on
+  both influences.
+pattern_right: I,I,II,II
+pattern_left: II,II,II,I
 ---
 
 ## Ìrosùn-Ọ̀kànràn
