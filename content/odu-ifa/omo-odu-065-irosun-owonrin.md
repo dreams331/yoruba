@@ -1,15 +1,19 @@
 ---
-title: "Ìrosùn-Ọ̀wọ́nrín"
+title: Ìrosùn-Ọ̀wọ́nrín
 number: 81
-category: "Omo Odu"
-slug: "irosun-owonrin"
-parent1: "irosun-meji"
-parent2: "owonrin-meji"
-orisha: "Ṣàngó / Ọya; Èṣù / Ọ̀rúnmìlà"
-theme: "blood, sacrifice, warning, consequence; instability, change, the trickster's lesson, humility"
-excerpt: "Ìrosùn-Ọ̀wọ́nrín combines the energy of Ìrosùn Méjì (blood, sacrifice, warning, consequence) with Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,I,II,II"
-pattern_left: "II,I,II,I"
+category: Omo Odu
+slug: irosun-owonrin
+parent1: irosun-meji
+parent2: owonrin-meji
+orisha: Ṣàngó / Ọya; Èṣù / Ọ̀rúnmìlà
+theme: blood, sacrifice, warning, consequence; instability, change, the
+  trickster's lesson, humility
+excerpt: Ìrosùn-Ọ̀wọ́nrín combines the energy of Ìrosùn Méjì (blood, sacrifice,
+  warning, consequence) with Ọ̀wọ́nrín Méjì (instability, change, the
+  trickster's lesson, humility). It is read as a distinct Odù with its own
+  guidance, drawing on both influences.
+pattern_right: I,I,II,II
+pattern_left: II,II,I,I
 ---
 
 ## Ìrosùn-Ọ̀wọ́nrín
