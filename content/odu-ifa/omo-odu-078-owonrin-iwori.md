@@ -1,15 +1,19 @@
 ---
-title: "Ọ̀wọ́nrín-Ìwòrì"
+title: Ọ̀wọ́nrín-Ìwòrì
 number: 94
-category: "Omo Odu"
-slug: "owonrin-iwori"
-parent1: "owonrin-meji"
-parent2: "iwori-meji"
-orisha: "Èṣù / Ọ̀rúnmìlà; Ọ̀sanyìn / Ọ̀rúnmìlà"
-theme: "instability, change, the trickster's lesson, humility; self-knowledge, hidden truth, inner vision"
-excerpt: "Ọ̀wọ́nrín-Ìwòrì combines the energy of Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility) with Ìwòrì Méjì (self-knowledge, hidden truth, inner vision). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,II,I"
-pattern_left: "I,II,I,II"
+category: Omo Odu
+slug: owonrin-iwori
+parent1: owonrin-meji
+parent2: iwori-meji
+orisha: Èṣù / Ọ̀rúnmìlà; Ọ̀sanyìn / Ọ̀rúnmìlà
+theme: instability, change, the trickster's lesson, humility; self-knowledge,
+  hidden truth, inner vision
+excerpt: Ọ̀wọ́nrín-Ìwòrì combines the energy of Ọ̀wọ́nrín Méjì (instability,
+  change, the trickster's lesson, humility) with Ìwòrì Méjì (self-knowledge,
+  hidden truth, inner vision). It is read as a distinct Odù with its own
+  guidance, drawing on both influences.
+pattern_right: II,II,I,I
+pattern_left: II,I,I,II
 ---
 
 ## Ọ̀wọ́nrín-Ìwòrì
