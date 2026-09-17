@@ -1,15 +1,19 @@
 ---
-title: "Ìrosùn-Ọ̀sá"
+title: Ìrosùn-Ọ̀sá
 number: 85
-category: "Omo Odu"
-slug: "irosun-osa"
-parent1: "irosun-meji"
-parent2: "osa-meji"
-orisha: "Ṣàngó / Ọya; Ọya"
-theme: "blood, sacrifice, warning, consequence; upheaval, the whirlwind, sudden change, protection from harm"
-excerpt: "Ìrosùn-Ọ̀sá combines the energy of Ìrosùn Méjì (blood, sacrifice, warning, consequence) with Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,I,II,II"
-pattern_left: "II,II,II,I"
+category: Omo Odu
+slug: irosun-osa
+parent1: irosun-meji
+parent2: osa-meji
+orisha: Ṣàngó / Ọya; Ọya
+theme: blood, sacrifice, warning, consequence; upheaval, the whirlwind, sudden
+  change, protection from harm
+excerpt: Ìrosùn-Ọ̀sá combines the energy of Ìrosùn Méjì (blood, sacrifice,
+  warning, consequence) with Ọ̀sá Méjì (upheaval, the whirlwind, sudden change,
+  protection from harm). It is read as a distinct Odù with its own guidance,
+  drawing on both influences.
+pattern_right: I,I,II,II
+pattern_left: II,I,I,I
 ---
 
 ## Ìrosùn-Ọ̀sá
