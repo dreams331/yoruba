@@ -1,15 +1,19 @@
 ---
-title: "Ọ̀bàrà-Ọ̀sá"
+title: Ọ̀bàrà-Ọ̀sá
 number: 115
-category: "Omo Odu"
-slug: "obara-osa"
-parent1: "obara-meji"
-parent2: "osa-meji"
-orisha: "Ṣàngó / Ọ̀bàtálá; Ọya"
-theme: "honour, boastfulness, the danger of pride, leadership; upheaval, the whirlwind, sudden change, protection from harm"
-excerpt: "Ọ̀bàrà-Ọ̀sá combines the energy of Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership) with Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,I,I,II"
-pattern_left: "II,II,II,I"
+category: Omo Odu
+slug: obara-osa
+parent1: obara-meji
+parent2: osa-meji
+orisha: Ṣàngó / Ọ̀bàtálá; Ọya
+theme: honour, boastfulness, the danger of pride, leadership; upheaval, the
+  whirlwind, sudden change, protection from harm
+excerpt: Ọ̀bàrà-Ọ̀sá combines the energy of Ọ̀bàrà Méjì (honour, boastfulness,
+  the danger of pride, leadership) with Ọ̀sá Méjì (upheaval, the whirlwind,
+  sudden change, protection from harm). It is read as a distinct Odù with its
+  own guidance, drawing on both influences.
+pattern_right: I,II,II,II
+pattern_left: II,I,I,I
 ---
 
 ## Ọ̀bàrà-Ọ̀sá
