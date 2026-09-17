@@ -1,15 +1,19 @@
 ---
-title: "Ìrosùn-Òtúrúpọ̀n"
+title: Ìrosùn-Òtúrúpọ̀n
 number: 87
-category: "Omo Odu"
-slug: "irosun-oturupon"
-parent1: "irosun-meji"
-parent2: "oturupon-meji"
-orisha: "Ṣàngó / Ọya; Ọbàtálá / Ọ̀rúnmìlà"
-theme: "blood, sacrifice, warning, consequence; illness and healing, secrets of the body, patience"
-excerpt: "Ìrosùn-Òtúrúpọ̀n combines the energy of Ìrosùn Méjì (blood, sacrifice, warning, consequence) with Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,I,II,II"
-pattern_left: "II,II,I,I"
+category: Omo Odu
+slug: irosun-oturupon
+parent1: irosun-meji
+parent2: oturupon-meji
+orisha: Ṣàngó / Ọya; Ọbàtálá / Ọ̀rúnmìlà
+theme: blood, sacrifice, warning, consequence; illness and healing, secrets of
+  the body, patience
+excerpt: Ìrosùn-Òtúrúpọ̀n combines the energy of Ìrosùn Méjì (blood, sacrifice,
+  warning, consequence) with Òtúrúpọ̀n Méjì (illness and healing, secrets of the
+  body, patience). It is read as a distinct Odù with its own guidance, drawing
+  on both influences.
+pattern_right: I,I,II,II
+pattern_left: II,II,I,II
 ---
 
 ## Ìrosùn-Òtúrúpọ̀n
