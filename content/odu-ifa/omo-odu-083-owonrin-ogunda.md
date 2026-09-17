@@ -1,15 +1,19 @@
 ---
-title: "Ọ̀wọ́nrín-Ògúndá"
+title: Ọ̀wọ́nrín-Ògúndá
 number: 99
-category: "Omo Odu"
-slug: "owonrin-ogunda"
-parent1: "owonrin-meji"
-parent2: "ogunda-meji"
-orisha: "Èṣù / Ọ̀rúnmìlà; Ògún"
-theme: "instability, change, the trickster's lesson, humility; struggle, tools, perseverance, clearing the path"
-excerpt: "Ọ̀wọ́nrín-Ògúndá combines the energy of Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility) with Ògúndá Méjì (struggle, tools, perseverance, clearing the path). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,II,I"
-pattern_left: "I,II,II,II"
+category: Omo Odu
+slug: owonrin-ogunda
+parent1: owonrin-meji
+parent2: ogunda-meji
+orisha: Èṣù / Ọ̀rúnmìlà; Ògún
+theme: instability, change, the trickster's lesson, humility; struggle, tools,
+  perseverance, clearing the path
+excerpt: Ọ̀wọ́nrín-Ògúndá combines the energy of Ọ̀wọ́nrín Méjì (instability,
+  change, the trickster's lesson, humility) with Ògúndá Méjì (struggle, tools,
+  perseverance, clearing the path). It is read as a distinct Odù with its own
+  guidance, drawing on both influences.
+pattern_right: II,II,I,I
+pattern_left: I,I,I,II
 ---
 
 ## Ọ̀wọ́nrín-Ògúndá
