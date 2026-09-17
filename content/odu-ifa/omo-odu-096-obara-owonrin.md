@@ -1,15 +1,19 @@
 ---
-title: "Ọ̀bàrà-Ọ̀wọ́nrín"
+title: Ọ̀bàrà-Ọ̀wọ́nrín
 number: 112
-category: "Omo Odu"
-slug: "obara-owonrin"
-parent1: "obara-meji"
-parent2: "owonrin-meji"
-orisha: "Ṣàngó / Ọ̀bàtálá; Èṣù / Ọ̀rúnmìlà"
-theme: "honour, boastfulness, the danger of pride, leadership; instability, change, the trickster's lesson, humility"
-excerpt: "Ọ̀bàrà-Ọ̀wọ́nrín combines the energy of Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership) with Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,I,I,II"
-pattern_left: "II,I,II,I"
+category: Omo Odu
+slug: obara-owonrin
+parent1: obara-meji
+parent2: owonrin-meji
+orisha: Ṣàngó / Ọ̀bàtálá; Èṣù / Ọ̀rúnmìlà
+theme: honour, boastfulness, the danger of pride, leadership; instability,
+  change, the trickster's lesson, humility
+excerpt: Ọ̀bàrà-Ọ̀wọ́nrín combines the energy of Ọ̀bàrà Méjì (honour,
+  boastfulness, the danger of pride, leadership) with Ọ̀wọ́nrín Méjì
+  (instability, change, the trickster's lesson, humility). It is read as a
+  distinct Odù with its own guidance, drawing on both influences.
+pattern_right: I,II,II,II
+pattern_left: I,I,II,II
 ---
 
 ## Ọ̀bàrà-Ọ̀wọ́nrín
