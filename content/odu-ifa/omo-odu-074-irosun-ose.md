@@ -1,15 +1,19 @@
 ---
-title: "Ìrosùn-Ọ̀ṣẹ́"
+title: Ìrosùn-Ọ̀ṣẹ́
 number: 90
-category: "Omo Odu"
-slug: "irosun-ose"
-parent1: "irosun-meji"
-parent2: "ose-meji"
-orisha: "Ṣàngó / Ọya; Ọ̀ṣun"
-theme: "blood, sacrifice, warning, consequence; blessings, sweetness, abundance, gratitude"
-excerpt: "Ìrosùn-Ọ̀ṣẹ́ combines the energy of Ìrosùn Méjì (blood, sacrifice, warning, consequence) with Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,I,II,II"
-pattern_left: "II,II,I,II"
+category: Omo Odu
+slug: irosun-ose
+parent1: irosun-meji
+parent2: ose-meji
+orisha: Ṣàngó / Ọya; Ọ̀ṣun
+theme: blood, sacrifice, warning, consequence; blessings, sweetness, abundance,
+  gratitude
+excerpt: Ìrosùn-Ọ̀ṣẹ́ combines the energy of Ìrosùn Méjì (blood, sacrifice,
+  warning, consequence) with Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance,
+  gratitude). It is read as a distinct Odù with its own guidance, drawing on
+  both influences.
+pattern_right: I,I,II,II
+pattern_left: I,II,I,II
 ---
 
 ## Ìrosùn-Ọ̀ṣẹ́
