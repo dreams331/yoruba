@@ -1,15 +1,19 @@
 ---
-title: "Ọ̀wọ́nrín-Òtúrúpọ̀n"
+title: Ọ̀wọ́nrín-Òtúrúpọ̀n
 number: 102
-category: "Omo Odu"
-slug: "owonrin-oturupon"
-parent1: "owonrin-meji"
-parent2: "oturupon-meji"
-orisha: "Èṣù / Ọ̀rúnmìlà; Ọbàtálá / Ọ̀rúnmìlà"
-theme: "instability, change, the trickster's lesson, humility; illness and healing, secrets of the body, patience"
-excerpt: "Ọ̀wọ́nrín-Òtúrúpọ̀n combines the energy of Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility) with Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,II,I"
-pattern_left: "II,II,I,I"
+category: Omo Odu
+slug: owonrin-oturupon
+parent1: owonrin-meji
+parent2: oturupon-meji
+orisha: Èṣù / Ọ̀rúnmìlà; Ọbàtálá / Ọ̀rúnmìlà
+theme: instability, change, the trickster's lesson, humility; illness and
+  healing, secrets of the body, patience
+excerpt: Ọ̀wọ́nrín-Òtúrúpọ̀n combines the energy of Ọ̀wọ́nrín Méjì (instability,
+  change, the trickster's lesson, humility) with Òtúrúpọ̀n Méjì (illness and
+  healing, secrets of the body, patience). It is read as a distinct Odù with its
+  own guidance, drawing on both influences.
+pattern_right: II,II,I,I
+pattern_left: II,II,I,II
 ---
 
 ## Ọ̀wọ́nrín-Òtúrúpọ̀n
