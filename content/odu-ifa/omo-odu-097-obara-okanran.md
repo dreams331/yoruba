@@ -1,15 +1,19 @@
 ---
-title: "Ọ̀bàrà-Ọ̀kànràn"
+title: Ọ̀bàrà-Ọ̀kànràn
 number: 113
-category: "Omo Odu"
-slug: "obara-okanran"
-parent1: "obara-meji"
-parent2: "okanran-meji"
-orisha: "Ṣàngó / Ọ̀bàtálá; Ọya / Ògún"
-theme: "honour, boastfulness, the danger of pride, leadership; conflict, truth-telling, sharp consequences"
-excerpt: "Ọ̀bàrà-Ọ̀kànràn combines the energy of Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership) with Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,I,I,II"
-pattern_left: "II,I,I,I"
+category: Omo Odu
+slug: obara-okanran
+parent1: obara-meji
+parent2: okanran-meji
+orisha: Ṣàngó / Ọ̀bàtálá; Ọya / Ògún
+theme: honour, boastfulness, the danger of pride, leadership; conflict,
+  truth-telling, sharp consequences
+excerpt: Ọ̀bàrà-Ọ̀kànràn combines the energy of Ọ̀bàrà Méjì (honour,
+  boastfulness, the danger of pride, leadership) with Ọ̀kànràn Méjì (conflict,
+  truth-telling, sharp consequences). It is read as a distinct Odù with its own
+  guidance, drawing on both influences.
+pattern_right: I,II,II,II
+pattern_left: II,II,II,I
 ---
 
 ## Ọ̀bàrà-Ọ̀kànràn
