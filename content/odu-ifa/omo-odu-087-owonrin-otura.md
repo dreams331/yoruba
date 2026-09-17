@@ -1,15 +1,19 @@
 ---
-title: "Ọ̀wọ́nrín-Òtúrá"
+title: Ọ̀wọ́nrín-Òtúrá
 number: 103
-category: "Omo Odu"
-slug: "owonrin-otura"
-parent1: "owonrin-meji"
-parent2: "otura-meji"
-orisha: "Èṣù / Ọ̀rúnmìlà; Ọ̀rúnmìlà / Ọbàtálá"
-theme: "instability, change, the trickster's lesson, humility; transformation, clarity after confusion, truth revealed"
-excerpt: "Ọ̀wọ́nrín-Òtúrá combines the energy of Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility) with Òtúrá Méjì (transformation, clarity after confusion, truth revealed). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,II,I"
-pattern_left: "I,I,II,I"
+category: Omo Odu
+slug: owonrin-otura
+parent1: owonrin-meji
+parent2: otura-meji
+orisha: Èṣù / Ọ̀rúnmìlà; Ọ̀rúnmìlà / Ọbàtálá
+theme: instability, change, the trickster's lesson, humility; transformation,
+  clarity after confusion, truth revealed
+excerpt: Ọ̀wọ́nrín-Òtúrá combines the energy of Ọ̀wọ́nrín Méjì (instability,
+  change, the trickster's lesson, humility) with Òtúrá Méjì (transformation,
+  clarity after confusion, truth revealed). It is read as a distinct Odù with
+  its own guidance, drawing on both influences.
+pattern_right: II,II,I,I
+pattern_left: I,II,I,I
 ---
 
 ## Ọ̀wọ́nrín-Òtúrá
