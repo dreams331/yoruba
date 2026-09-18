@@ -1,15 +1,19 @@
 ---
-title: "Ọ̀bàrà-Òtúrá"
+title: Ọ̀bàrà-Òtúrá
 number: 118
-category: "Omo Odu"
-slug: "obara-otura"
-parent1: "obara-meji"
-parent2: "otura-meji"
-orisha: "Ṣàngó / Ọ̀bàtálá; Ọ̀rúnmìlà / Ọbàtálá"
-theme: "honour, boastfulness, the danger of pride, leadership; transformation, clarity after confusion, truth revealed"
-excerpt: "Ọ̀bàrà-Òtúrá combines the energy of Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership) with Òtúrá Méjì (transformation, clarity after confusion, truth revealed). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,I,I,II"
-pattern_left: "I,I,II,I"
+category: Omo Odu
+slug: obara-otura
+parent1: obara-meji
+parent2: otura-meji
+orisha: Ṣàngó / Ọ̀bàtálá; Ọ̀rúnmìlà / Ọbàtálá
+theme: honour, boastfulness, the danger of pride, leadership; transformation,
+  clarity after confusion, truth revealed
+excerpt: Ọ̀bàrà-Òtúrá combines the energy of Ọ̀bàrà Méjì (honour, boastfulness,
+  the danger of pride, leadership) with Òtúrá Méjì (transformation, clarity
+  after confusion, truth revealed). It is read as a distinct Odù with its own
+  guidance, drawing on both influences.
+pattern_right: I,II,II,II
+pattern_left: I,II,I,I
 ---
 
 ## Ọ̀bàrà-Òtúrá
