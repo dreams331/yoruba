@@ -1,15 +1,19 @@
 ---
-title: "Ọ̀bàrà-Ìrẹtẹ̀"
+title: Ọ̀bàrà-Ìrẹtẹ̀
 number: 119
-category: "Omo Odu"
-slug: "obara-irete"
-parent1: "obara-meji"
-parent2: "irete-meji"
-orisha: "Ṣàngó / Ọ̀bàtálá; Ọ̀rúnmìlà / Ọya"
-theme: "honour, boastfulness, the danger of pride, leadership; perseverance despite setbacks, hidden victory"
-excerpt: "Ọ̀bàrà-Ìrẹtẹ̀ combines the energy of Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership) with Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,I,I,II"
-pattern_left: "I,II,I,I"
+category: Omo Odu
+slug: obara-irete
+parent1: obara-meji
+parent2: irete-meji
+orisha: Ṣàngó / Ọ̀bàtálá; Ọ̀rúnmìlà / Ọya
+theme: honour, boastfulness, the danger of pride, leadership; perseverance
+  despite setbacks, hidden victory
+excerpt: Ọ̀bàrà-Ìrẹtẹ̀ combines the energy of Ọ̀bàrà Méjì (honour, boastfulness,
+  the danger of pride, leadership) with Ìrẹtẹ̀ Méjì (perseverance despite
+  setbacks, hidden victory). It is read as a distinct Odù with its own guidance,
+  drawing on both influences.
+pattern_right: I,II,II,II
+pattern_left: I,I,II,I
 ---
 
 ## Ọ̀bàrà-Ìrẹtẹ̀
