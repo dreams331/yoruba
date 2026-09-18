@@ -1,15 +1,19 @@
 ---
-title: "Ọ̀bàrà-Òfún"
+title: Ọ̀bàrà-Òfún
 number: 121
-category: "Omo Odu"
-slug: "obara-ofun"
-parent1: "obara-meji"
-parent2: "ofun-meji"
-orisha: "Ṣàngó / Ọ̀bàtálá; Ọbàtálá / Olódùmarè"
-theme: "honour, boastfulness, the danger of pride, leadership; purity, old age, completion, moral integrity"
-excerpt: "Ọ̀bàrà-Òfún combines the energy of Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership) with Òfún Méjì (purity, old age, completion, moral integrity). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,I,I,II"
-pattern_left: "II,I,II,II"
+category: Omo Odu
+slug: obara-ofun
+parent1: obara-meji
+parent2: ofun-meji
+orisha: Ṣàngó / Ọ̀bàtálá; Ọbàtálá / Olódùmarè
+theme: honour, boastfulness, the danger of pride, leadership; purity, old age,
+  completion, moral integrity
+excerpt: Ọ̀bàrà-Òfún combines the energy of Ọ̀bàrà Méjì (honour, boastfulness,
+  the danger of pride, leadership) with Òfún Méjì (purity, old age, completion,
+  moral integrity). It is read as a distinct Odù with its own guidance, drawing
+  on both influences.
+pattern_right: I,II,II,II
+pattern_left: II,I,II,I
 ---
 
 ## Ọ̀bàrà-Òfún
