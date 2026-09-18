@@ -1,15 +1,19 @@
 ---
-title: "Ọ̀bàrà-Ìká"
+title: Ọ̀bàrà-Ìká
 number: 116
-category: "Omo Odu"
-slug: "obara-ika"
-parent1: "obara-meji"
-parent2: "ika-meji"
-orisha: "Ṣàngó / Ọ̀bàtálá; Ọya / Èṣù"
-theme: "honour, boastfulness, the danger of pride, leadership; cruelty, resentment, the need for restraint"
-excerpt: "Ọ̀bàrà-Ìká combines the energy of Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership) with Ìká Méjì (cruelty, resentment, the need for restraint). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,I,I,II"
-pattern_left: "I,II,II,I"
+category: Omo Odu
+slug: obara-ika
+parent1: obara-meji
+parent2: ika-meji
+orisha: Ṣàngó / Ọ̀bàtálá; Ọya / Èṣù
+theme: honour, boastfulness, the danger of pride, leadership; cruelty,
+  resentment, the need for restraint
+excerpt: Ọ̀bàrà-Ìká combines the energy of Ọ̀bàrà Méjì (honour, boastfulness,
+  the danger of pride, leadership) with Ìká Méjì (cruelty, resentment, the need
+  for restraint). It is read as a distinct Odù with its own guidance, drawing on
+  both influences.
+pattern_right: I,II,II,II
+pattern_left: II,I,II,II
 ---
 
 ## Ọ̀bàrà-Ìká
