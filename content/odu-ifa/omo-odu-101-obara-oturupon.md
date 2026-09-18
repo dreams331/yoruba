@@ -1,15 +1,19 @@
 ---
-title: "Ọ̀bàrà-Òtúrúpọ̀n"
+title: Ọ̀bàrà-Òtúrúpọ̀n
 number: 117
-category: "Omo Odu"
-slug: "obara-oturupon"
-parent1: "obara-meji"
-parent2: "oturupon-meji"
-orisha: "Ṣàngó / Ọ̀bàtálá; Ọbàtálá / Ọ̀rúnmìlà"
-theme: "honour, boastfulness, the danger of pride, leadership; illness and healing, secrets of the body, patience"
-excerpt: "Ọ̀bàrà-Òtúrúpọ̀n combines the energy of Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership) with Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,I,I,II"
-pattern_left: "II,II,I,I"
+category: Omo Odu
+slug: obara-oturupon
+parent1: obara-meji
+parent2: oturupon-meji
+orisha: Ṣàngó / Ọ̀bàtálá; Ọbàtálá / Ọ̀rúnmìlà
+theme: honour, boastfulness, the danger of pride, leadership; illness and
+  healing, secrets of the body, patience
+excerpt: Ọ̀bàrà-Òtúrúpọ̀n combines the energy of Ọ̀bàrà Méjì (honour,
+  boastfulness, the danger of pride, leadership) with Òtúrúpọ̀n Méjì (illness
+  and healing, secrets of the body, patience). It is read as a distinct Odù with
+  its own guidance, drawing on both influences.
+pattern_right: I,II,II,II
+pattern_left: II,II,I,II
 ---
 
 ## Ọ̀bàrà-Òtúrúpọ̀n
