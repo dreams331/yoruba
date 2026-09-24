@@ -1,15 +1,19 @@
 ---
-title: "Ọ̀kànràn-Òfún"
+title: Ọ̀kànràn-Òfún
 number: 136
-category: "Omo Odu"
-slug: "okanran-ofun"
-parent1: "okanran-meji"
-parent2: "ofun-meji"
-orisha: "Ọya / Ògún; Ọbàtálá / Olódùmarè"
-theme: "conflict, truth-telling, sharp consequences; purity, old age, completion, moral integrity"
-excerpt: "Ọ̀kànràn-Òfún combines the energy of Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences) with Òfún Méjì (purity, old age, completion, moral integrity). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,I,I"
-pattern_left: "II,I,II,II"
+category: Omo Odu
+slug: okanran-ofun
+parent1: okanran-meji
+parent2: ofun-meji
+orisha: Ọya / Ògún; Ọbàtálá / Olódùmarè
+theme: conflict, truth-telling, sharp consequences; purity, old age, completion,
+  moral integrity
+excerpt: Ọ̀kànràn-Òfún combines the energy of Ọ̀kànràn Méjì (conflict,
+  truth-telling, sharp consequences) with Òfún Méjì (purity, old age,
+  completion, moral integrity). It is read as a distinct Odù with its own
+  guidance, drawing on both influences.
+pattern_right: II,II,II,I
+pattern_left: II,I,II,I
 ---
 
 ## Ọ̀kànràn-Òfún
