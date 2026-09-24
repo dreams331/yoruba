@@ -13,7 +13,7 @@ excerpt: Òdí-Òtúrúpọ̀n combines the energy of Òdí Méjì (the womb, my
   secrets of the body, patience). It is read as a distinct Odù with its own
   guidance, drawing on both influences.
 pattern_right: I,II,II,I
-pattern_left: II,II,I,II
+pattern_left: II,I,II,II
 ---
 
 ## Òdí-Òtúrúpọ̀n
