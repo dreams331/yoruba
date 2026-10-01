@@ -1,15 +1,19 @@
 ---
-title: "Ọ̀kànràn-Ìrẹtẹ̀"
+title: Ọ̀kànràn-Ìrẹtẹ̀
 number: 134
-category: "Omo Odu"
-slug: "okanran-irete"
-parent1: "okanran-meji"
-parent2: "irete-meji"
-orisha: "Ọya / Ògún; Ọ̀rúnmìlà / Ọya"
-theme: "conflict, truth-telling, sharp consequences; perseverance despite setbacks, hidden victory"
-excerpt: "Ọ̀kànràn-Ìrẹtẹ̀ combines the energy of Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences) with Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,I,I"
-pattern_left: "I,II,I,I"
+category: Omo Odu
+slug: okanran-irete
+parent1: okanran-meji
+parent2: irete-meji
+orisha: Ọya / Ògún; Ọ̀rúnmìlà / Ọya
+theme: conflict, truth-telling, sharp consequences; perseverance despite
+  setbacks, hidden victory
+excerpt: Ọ̀kànràn-Ìrẹtẹ̀ combines the energy of Ọ̀kànràn Méjì (conflict,
+  truth-telling, sharp consequences) with Ìrẹtẹ̀ Méjì (perseverance despite
+  setbacks, hidden victory). It is read as a distinct Odù with its own guidance,
+  drawing on both influences.
+pattern_right: II,II,II,I
+pattern_left: I,I,II,I
 ---
 
 ## Ọ̀kànràn-Ìrẹtẹ̀

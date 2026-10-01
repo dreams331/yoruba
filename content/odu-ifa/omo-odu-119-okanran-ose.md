@@ -1,15 +1,19 @@
 ---
-title: "Ọ̀kànràn-Ọ̀ṣẹ́"
+title: Ọ̀kànràn-Ọ̀ṣẹ́
 number: 135
-category: "Omo Odu"
-slug: "okanran-ose"
-parent1: "okanran-meji"
-parent2: "ose-meji"
-orisha: "Ọya / Ògún; Ọ̀ṣun"
-theme: "conflict, truth-telling, sharp consequences; blessings, sweetness, abundance, gratitude"
-excerpt: "Ọ̀kànràn-Ọ̀ṣẹ́ combines the energy of Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences) with Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,I,I"
-pattern_left: "II,II,I,II"
+category: Omo Odu
+slug: okanran-ose
+parent1: okanran-meji
+parent2: ose-meji
+orisha: Ọya / Ògún; Ọ̀ṣun
+theme: conflict, truth-telling, sharp consequences; blessings, sweetness,
+  abundance, gratitude
+excerpt: Ọ̀kànràn-Ọ̀ṣẹ́ combines the energy of Ọ̀kànràn Méjì (conflict,
+  truth-telling, sharp consequences) with Ọ̀ṣẹ́ Méjì (blessings, sweetness,
+  abundance, gratitude). It is read as a distinct Odù with its own guidance,
+  drawing on both influences.
+pattern_right: II,II,II,I
+pattern_left: I,II,I,II
 ---
 
 ## Ọ̀kànràn-Ọ̀ṣẹ́
