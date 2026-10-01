@@ -214,8 +214,9 @@ function toPlainExcerpt(html, maxLen = 160) {
 // so crawlers that don't execute JavaScript still see real, substantive content.
 // The JS-driven grid will still re-render on top of this for interactive filtering/search.
 function buildStaticCards(items, options) {
-    const { detailPage, categoryLabel, maxItems = 24 } = options;
+    const { detailPage, categoryLabel, maxItems = 24, sectionKey } = options;
     if (!items || items.length === 0) return '';
+    const slugs = sectionKey ? buildSlugMap(items) : null;
 
     return items.slice(0, maxItems).map((item, index) => {
         const id = index + 1; // matches content-loader.js numeric id scheme (array position)
@@ -224,7 +225,8 @@ function buildStaticCards(items, options) {
         const excerpt = escapeHtml(item.excerpt || toPlainExcerpt(item.htmlContent || item.content, 160));
         const category = escapeHtml(categoryLabel ? categoryLabel(item.category) : (item.category || ''));
         const image = item.image || '';
-        const href = `${detailPage}?id=${id}`;
+        // Link to the crawlable static page when available (JS re-render still uses ?id= links)
+        const href = slugs ? staticDetailUrl(sectionKey, slugs.get(item)) : `${detailPage}?id=${id}`;
 
         return `<article class="article-card" data-category="${escapeHtml(item.category || '')}" data-static="true">
             <a href="${href}" class="article-image-link">
@@ -302,6 +304,7 @@ function injectStaticContentForPages(results) {
         'articlesGrid',
         buildStaticCards(results.articles, {
             detailPage: 'article-detail.html',
+            sectionKey: 'articles',
             categoryLabel: (c) => articleCategoryLabels[c] || c,
             maxItems: 30
         })
@@ -312,6 +315,7 @@ function injectStaticContentForPages(results) {
         'storiesGrid',
         buildStaticCards(results.stories, {
             detailPage: 'story-detail.html',
+            sectionKey: 'stories',
             categoryLabel: (c) => storyCategoryLabels[c] || c,
             maxItems: 30
         })
@@ -322,6 +326,7 @@ function injectStaticContentForPages(results) {
         'ifaGrid',
         buildStaticCards(results.ifa, {
             detailPage: 'ifa-detail.html',
+            sectionKey: 'ifa',
             maxItems: 30
         })
     );
@@ -337,6 +342,38 @@ function injectStaticContentForPages(results) {
         'eventsGrid',
         buildStaticEventCards(results.events)
     );
+
+    injectStaticContent(
+        path.join(__dirname, 'odu-ifa.html'),
+        'oduGrid',
+        buildStaticOduMejiCards(results['odu-ifa'])
+    );
+}
+
+// Build static cards for the 16 principal Odù Méjì only. These carry the
+// richer editorial content (proverb, associated Òrìṣà, life lesson). The 240
+// Omo Odù combinations remain available through the interactive grid/modal.
+function buildStaticOduMejiCards(items) {
+    if (!items || items.length === 0) return '';
+    return items
+        .filter(o => o.category === 'Odu Meji')
+        .sort((a, b) => Number(a.number) - Number(b.number))
+        .map(o => {
+            const title = escapeHtml(o.title || 'Untitled');
+            const excerpt = escapeHtml(o.excerpt || '');
+            const orisha = o.orisha ? `<p><strong>Òrìṣà:</strong> ${escapeHtml(o.orisha)}</p>` : '';
+            const proverb = o.proverb_en
+                ? `<p><em>${escapeHtml(o.proverb_yo || '')}</em><br><em>${escapeHtml(o.proverb_en)}</em></p>`
+                : '';
+            return `<div class="odu-card" data-id="${escapeHtml(o.id)}" data-static="true">
+            <span class="odu-card-number">Odù #${escapeHtml(o.number)}</span>
+            <h3>${title}</h3>
+            <span class="odu-card-badge">${escapeHtml(o.category)}</span>
+            <p>${excerpt}</p>
+            ${orisha}
+            ${proverb}
+        </div>`;
+        }).join('\n');
 }
 
 // Build static cards for news items (no separate detail page; shown via modal in the live UI)
@@ -386,6 +423,198 @@ function buildStaticEventCards(items) {
     }).join('\n');
 }
 
+// ── Static detail pages (full text in raw HTML for crawlers) ────────────────
+
+// URL-safe slug: strips diacritics and non-alphanumerics
+function slugify(str) {
+    return String(str || '')
+        .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, '-')
+        .replace(/^-+|-+$/g, '');
+}
+
+const DETAIL_SECTIONS = {
+    articles: { dir: 'articles', label: 'Articles', listPage: 'articles.html' },
+    stories:  { dir: 'stories',  label: 'Stories',  listPage: 'stories.html' },
+    ifa:      { dir: 'ifa',      label: 'IFA Wisdom', listPage: 'ifa-wisdom.html' }
+};
+
+// Unique slug per item within a collection (falls back to filename on collision)
+function buildSlugMap(items) {
+    const used = new Set();
+    const map = new Map();
+    items.forEach(item => {
+        let slug = slugify(item.id) || slugify(item.filename) || 'item';
+        if (used.has(slug)) slug = slugify(item.filename) || `${slug}-${used.size}`;
+        used.add(slug);
+        map.set(item, slug);
+    });
+    return map;
+}
+
+function staticDetailUrl(sectionKey, slug) {
+    return `read/${DETAIL_SECTIONS[sectionKey].dir}/${slug}.html`;
+}
+
+function renderDetailPage(sectionKey, item, slug) {
+    const section = DETAIL_SECTIONS[sectionKey];
+    const title = escapeHtml(item.title || 'Untitled');
+    const date = formatDateForStatic(item.date);
+    const description = escapeHtml(item.excerpt || toPlainExcerpt(item.htmlContent || item.content, 160));
+    const pageUrl = `https://yorubaheritage.com/${staticDetailUrl(sectionKey, slug)}`;
+    const rawImage = item.image || 'images/uploads/yoruba-people.jpg';
+    const ogImage = /^https?:/.test(rawImage) ? rawImage : `https://yorubaheritage.com/${rawImage.replace(/^\//, '')}`;
+    const category = escapeHtml(item.category || section.label);
+    const body = item.htmlContent || `<p>${escapeHtml(item.content || '')}</p>`;
+    const moral = (sectionKey === 'stories' && item.moral)
+        ? `<div class="story-moral"><h3>Moral of the story</h3><p>${escapeHtml(item.moral)}</p></div>` : '';
+    const ld = JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'Article',
+        headline: item.title,
+        description: item.excerpt || toPlainExcerpt(item.htmlContent || item.content, 160),
+        image: ogImage,
+        datePublished: item.date || undefined,
+        author: { '@type': 'Organization', name: 'Yoruba Heritage' },
+        publisher: { '@type': 'Organization', name: 'Yoruba Heritage',
+            logo: { '@type': 'ImageObject', url: 'https://yorubaheritage.com/images/favicon.png' } },
+        mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl }
+    }).replace(/</g, '\\u003c');
+
+    return `<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <base href="/">
+    <title>${title} - Yoruba Heritage</title>
+    <meta name="description" content="${description}">
+    <link rel="canonical" href="${pageUrl}">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Yoruba Heritage">
+    <meta property="og:title" content="${title} - Yoruba Heritage">
+    <meta property="og:description" content="${description}">
+    <meta property="og:image" content="${escapeHtml(ogImage)}">
+    <meta property="og:url" content="${pageUrl}">
+    <meta name="twitter:card" content="summary_large_image">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#C17817">
+    <link rel="icon" type="image/png" href="/images/favicon.png">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/article-detail.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1577349995482522" crossorigin="anonymous"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-43VWC293SB"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-43VWC293SB');
+    </script>
+    <script type="application/ld+json">${ld}</script>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-brand"><a href="index.html"><h1><i class="fas fa-crown"></i> Yoruba Heritage</h1></a></div>
+            <button class="nav-toggle" id="navToggle"><span></span><span></span><span></span></button>
+            <ul class="nav-menu" id="navMenu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="articles.html">Articles</a></li>
+                <li><a href="stories.html">Stories</a></li>
+                <li><a href="ifa-wisdom.html">IFA Wisdom</a></li>
+                <li><a href="odu-ifa.html">Odu Ifa</a></li>
+                <li><a href="events.html">Events</a></li>
+                <li><a href="news.html">Ìròyìn</a></li>
+                <li><a href="yoruba-calendar.html">Calendar</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="search.html" class="btn-search"><i class="fas fa-search"></i> Search</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <article class="article-detail">
+        <div class="article-header">
+            <div class="container">
+                <a href="${section.listPage}" class="back-link"><i class="fas fa-arrow-left"></i> Back to ${section.label}</a>
+                <div class="article-category-badge">${category}</div>
+                <h1>${title}</h1>
+                <div class="article-meta">
+                    ${date ? `<span><i class="far fa-calendar"></i> ${escapeHtml(date)}</span>` : ''}
+                    <span><i class="fas fa-user"></i> Yoruba Heritage Team</span>
+                </div>
+            </div>
+        </div>
+        ${item.image ? `<div class="article-featured-image"><img src="${escapeHtml(item.image)}" alt="${title}"></div>` : ''}
+        <div class="container">
+            <div class="article-content">
+                ${body}
+                ${moral}
+            </div>
+        </div>
+    </article>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-bottom">
+                <p>&copy; 2026 Yoruba Heritage. All rights reserved. | Built with respect for our ancestors</p>
+                <p class="footer-legal"><a href="privacy.html">Privacy Policy</a> &nbsp;|&nbsp; <a href="terms.html">Terms of Use</a></p>
+                <p class="footer-credit">Courtesy of <strong>Eletu</strong> &nbsp;|&nbsp; Created by <a href="https://www.origloballtd.com" target="_blank" rel="noopener">ORI Global Ltd</a></p>
+            </div>
+        </div>
+    </footer>
+    <script src="js/main.js"></script>
+</body>
+</html>
+`;
+}
+
+// Write read/<section>/<slug>.html for every item; returns list of generated URL paths
+function generateStaticDetailPages(results) {
+    console.log('\n📄 Generating static detail pages...');
+    const root = path.join(__dirname, 'read');
+    fs.rmSync(root, { recursive: true, force: true });
+    const urls = [];
+    Object.keys(DETAIL_SECTIONS).forEach(key => {
+        // Skip empty/untitled entries so we never publish blank pages
+        const items = (results[key] || []).filter(i => i.title && (i.content || i.htmlContent));
+        const dir = path.join(root, DETAIL_SECTIONS[key].dir);
+        fs.mkdirSync(dir, { recursive: true });
+        const slugs = buildSlugMap(items);
+        items.forEach(item => {
+            const slug = slugs.get(item);
+            fs.writeFileSync(path.join(dir, `${slug}.html`), renderDetailPage(key, item, slug));
+            urls.push(staticDetailUrl(key, slug));
+        });
+        console.log(`  ✓ ${items.length} ${key} pages`);
+    });
+    return urls;
+}
+
+// Regenerate sitemap.xml from the fixed pages plus all generated detail pages
+function writeSitemap(detailUrls) {
+    const fixed = [
+        ['', 'daily', '1.0'], ['articles.html', 'daily', '0.9'], ['stories.html', 'daily', '0.9'],
+        ['ifa-wisdom.html', 'weekly', '0.8'], ['odu-ifa.html', 'weekly', '0.8'],
+        ['events.html', 'weekly', '0.8'], ['news.html', 'daily', '0.8'],
+        ['yoruba-calendar.html', 'monthly', '0.7'], ['gallery.html', 'weekly', '0.7'],
+        ['diaspora.html', 'monthly', '0.6'], ['about.html', 'monthly', '0.6'],
+        ['contact.html', 'monthly', '0.5'], ['contribute.html', 'monthly', '0.5'],
+        ['search.html', 'monthly', '0.4'], ['privacy.html', 'yearly', '0.3'], ['terms.html', 'yearly', '0.3']
+    ];
+    const entry = (p, f, pr) => `  <url>\n    <loc>https://yorubaheritage.com/${p}</loc>\n    <changefreq>${f}</changefreq>\n    <priority>${pr}</priority>\n  </url>`;
+    const xml = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
+        [...fixed.map(([p, f, pr]) => entry(p, f, pr)), ...detailUrls.map(u => entry(u, 'monthly', '0.6'))].join('\n') +
+        '\n</urlset>\n';
+    fs.writeFileSync(path.join(__dirname, 'sitemap.xml'), xml);
+    console.log(`  ✓ sitemap.xml (${fixed.length + detailUrls.length} URLs)`);
+}
+
 // Main build function
 function buildContent() {
     console.log('🔨 Building content from CMS...\n');
@@ -429,7 +658,9 @@ function buildContent() {
     fs.writeFileSync(combinedPath, JSON.stringify(results, null, 2));
     console.log(`\n✓ Wrote combined content to all-content.json`);
 
-    // Inject static, crawlable HTML content into key listing pages
+    // Generate full-text static detail pages + sitemap, then inject listing content
+    const detailUrls = generateStaticDetailPages(results);
+    writeSitemap(detailUrls);
     injectStaticContentForPages(results);
     
     // Generate summary
