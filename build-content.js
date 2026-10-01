@@ -71,6 +71,8 @@ function parseFrontMatter(content) {
             if ((value.startsWith('"') && value.endsWith('"')) || 
                 (value.startsWith("'") && value.endsWith("'"))) {
                 value = value.slice(1, -1);
+                // Unescape any backslash-escaped quotes inside the string (e.g. \" -> ")
+                value = value.replace(/\\"/g, '"').replace(/\\'/g, "'");
             }
             
             // Handle inline arrays [item1, item2]
@@ -179,6 +181,211 @@ function processDirectory(dirPath, category) {
     return items;
 }
 
+// Escape text for safe HTML attribute/text insertion
+function escapeHtml(str) {
+    if (!str) return '';
+    return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+}
+
+// Format an ISO date string to a readable form (e.g. "October 20, 2025")
+function formatDateForStatic(dateString) {
+    if (!dateString) return '';
+    try {
+        const date = new Date(dateString);
+        if (isNaN(date.getTime())) return dateString;
+        return date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+    } catch (e) {
+        return dateString;
+    }
+}
+
+// Strip HTML tags down to plain text for excerpts, truncated to a max length
+function toPlainExcerpt(html, maxLen = 160) {
+    if (!html) return '';
+    const text = String(html).replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
+    return text.length > maxLen ? text.slice(0, maxLen).trim() + '…' : text;
+}
+
+// Build a static HTML snippet of content cards for a given collection,
+// so crawlers that don't execute JavaScript still see real, substantive content.
+// The JS-driven grid will still re-render on top of this for interactive filtering/search.
+function buildStaticCards(items, options) {
+    const { detailPage, categoryLabel, maxItems = 24 } = options;
+    if (!items || items.length === 0) return '';
+
+    return items.slice(0, maxItems).map((item, index) => {
+        const id = index + 1; // matches content-loader.js numeric id scheme (array position)
+        const title = escapeHtml(item.title || 'Untitled');
+        const date = formatDateForStatic(item.date);
+        const excerpt = escapeHtml(item.excerpt || toPlainExcerpt(item.htmlContent || item.content, 160));
+        const category = escapeHtml(categoryLabel ? categoryLabel(item.category) : (item.category || ''));
+        const image = item.image || '';
+        const href = `${detailPage}?id=${id}`;
+
+        return `<article class="article-card" data-category="${escapeHtml(item.category || '')}" data-static="true">
+            <a href="${href}" class="article-image-link">
+                <div class="article-image">
+                    ${image ? `<img src="${escapeHtml(image)}" alt="${title}" loading="lazy">` : ''}
+                    <span class="article-category">${category}</span>
+                </div>
+            </a>
+            <div class="article-content">
+                <div class="article-meta">
+                    ${date ? `<span><i class="far fa-calendar"></i> ${escapeHtml(date)}</span>` : ''}
+                </div>
+                <h3><a href="${href}" style="color:inherit;text-decoration:none;">${title}</a></h3>
+                <p>${excerpt}</p>
+                <a href="${href}" class="article-link">Read Full Article <i class="fas fa-arrow-right"></i></a>
+            </div>
+        </article>`;
+    }).join('\n');
+}
+
+// Inject a static HTML snippet into a page between marker comments inside
+// a given container id, so search engines and policy crawlers see real
+// content even without executing JavaScript. Safe to re-run (idempotent).
+function injectStaticContent(htmlFilePath, containerId, snippet) {
+    if (!fs.existsSync(htmlFilePath)) {
+        console.log(`  ⚠ Skipped (file not found): ${htmlFilePath}`);
+        return;
+    }
+
+    let html = fs.readFileSync(htmlFilePath, 'utf8');
+    const startMarker = '<!-- STATIC_CONTENT_START -->';
+    const endMarker = '<!-- STATIC_CONTENT_END -->';
+    const wrapped = `${startMarker}\n${snippet}\n${endMarker}`;
+
+    const markerBlockRegex = new RegExp(
+        startMarker.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '[\\s\\S]*?' + endMarker.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+    );
+
+    if (markerBlockRegex.test(html)) {
+        // Markers already exist from a previous build — replace only that block,
+        // regardless of any nested <div> elements inside (avoids greedy/closing-tag ambiguity).
+        html = html.replace(markerBlockRegex, wrapped);
+        fs.writeFileSync(htmlFilePath, html);
+        console.log(`  ✓ Updated static content in ${path.basename(htmlFilePath)} (#${containerId})`);
+        return;
+    }
+
+    // First run: no markers yet. Insert the wrapped snippet right after the
+    // container's opening tag, leaving any existing placeholder content after it.
+    const openTagRegex = new RegExp(`(<div[^>]*id=["']${containerId}["'][^>]*>)`);
+    if (!openTagRegex.test(html)) {
+        console.log(`  ⚠ Container #${containerId} not found in ${path.basename(htmlFilePath)}`);
+        return;
+    }
+
+    html = html.replace(openTagRegex, (openTag) => `${openTag}\n${wrapped}`);
+    fs.writeFileSync(htmlFilePath, html);
+    console.log(`  ✓ Injected static content into ${path.basename(htmlFilePath)} (#${containerId})`);
+}
+
+const articleCategoryLabels = {
+    history: 'History', culture: 'Culture', people: 'Notable Figures',
+    diaspora: 'Diaspora', language: 'Language'
+};
+const storyCategoryLabels = {
+    folktales: 'Folktales', legends: 'Legends', myths: 'Myths', parables: 'Parables'
+};
+
+// Generate and inject static (crawlable) content for key listing pages
+function injectStaticContentForPages(results) {
+    console.log('\n🧱 Injecting static content for crawlers...');
+
+    injectStaticContent(
+        path.join(__dirname, 'articles.html'),
+        'articlesGrid',
+        buildStaticCards(results.articles, {
+            detailPage: 'article-detail.html',
+            categoryLabel: (c) => articleCategoryLabels[c] || c,
+            maxItems: 30
+        })
+    );
+
+    injectStaticContent(
+        path.join(__dirname, 'stories.html'),
+        'storiesGrid',
+        buildStaticCards(results.stories, {
+            detailPage: 'story-detail.html',
+            categoryLabel: (c) => storyCategoryLabels[c] || c,
+            maxItems: 30
+        })
+    );
+
+    injectStaticContent(
+        path.join(__dirname, 'ifa-wisdom.html'),
+        'ifaGrid',
+        buildStaticCards(results.ifa, {
+            detailPage: 'ifa-detail.html',
+            maxItems: 30
+        })
+    );
+
+    injectStaticContent(
+        path.join(__dirname, 'news.html'),
+        'newsList',
+        buildStaticNewsCards(results.news)
+    );
+
+    injectStaticContent(
+        path.join(__dirname, 'events.html'),
+        'eventsGrid',
+        buildStaticEventCards(results.events)
+    );
+}
+
+// Build static cards for news items (no separate detail page; shown via modal in the live UI)
+function buildStaticNewsCards(items) {
+    if (!items || items.length === 0) return '';
+    const sorted = [...items].sort((a, b) => new Date(b.date) - new Date(a.date));
+    return sorted.map(n => {
+        const title = escapeHtml(n.title || 'Untitled');
+        const date = formatDateForStatic(n.date);
+        const excerpt = escapeHtml(n.excerpt || toPlainExcerpt(n.htmlContent || n.content, 200));
+        const category = escapeHtml(n.category || '');
+        const source = n.source_name ? `<p class="news-item-source">Source: ${escapeHtml(n.source_name)}</p>` : '';
+        return `<article class="news-item" data-static="true">
+            ${n.image ? `<img class="news-item-img" src="${escapeHtml(n.image)}" alt="${title}" loading="lazy">` : ''}
+            <div class="news-item-body">
+                <span class="news-item-category">${category}</span>
+                <h3>${title}</h3>
+                ${date ? `<p class="news-item-date">${escapeHtml(date)}</p>` : ''}
+                <p>${excerpt}</p>
+                ${source}
+            </div>
+        </article>`;
+    }).join('\n');
+}
+
+// Build static cards for event items (no separate detail page; shown via modal in the live UI)
+function buildStaticEventCards(items) {
+    if (!items || items.length === 0) return '';
+    return items.map(ev => {
+        const title = escapeHtml(ev.title || 'Untitled');
+        const excerpt = escapeHtml(ev.excerpt || toPlainExcerpt(ev.htmlContent || ev.content, 200));
+        const type = escapeHtml(ev.type || '');
+        const location = escapeHtml(ev.location || '');
+        const timing = escapeHtml(ev.timing || '');
+        return `<article class="event-card" data-static="true">
+            ${ev.image ? `<img class="event-card-img" src="${escapeHtml(ev.image)}" alt="${title}" loading="lazy">` : ''}
+            <div class="event-card-body">
+                <span class="event-card-type">${type}</span>
+                <h3>${title}</h3>
+                <div class="event-card-meta">
+                    ${location ? `<i class="fas fa-map-marker-alt"></i> ${location}` : ''}
+                    ${timing ? `&middot; <i class="fas fa-calendar"></i> ${timing}` : ''}
+                </div>
+                <p class="event-excerpt">${excerpt}</p>
+            </div>
+        </article>`;
+    }).join('\n');
+}
+
 // Main build function
 function buildContent() {
     console.log('🔨 Building content from CMS...\n');
@@ -221,6 +428,9 @@ function buildContent() {
     const combinedPath = path.join(outputDir, 'all-content.json');
     fs.writeFileSync(combinedPath, JSON.stringify(results, null, 2));
     console.log(`\n✓ Wrote combined content to all-content.json`);
+
+    // Inject static, crawlable HTML content into key listing pages
+    injectStaticContentForPages(results);
     
     // Generate summary
     console.log('\n📊 Build Summary:');
