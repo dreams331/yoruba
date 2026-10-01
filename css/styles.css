@@ -902,6 +902,22 @@ img {
     text-decoration: underline;
 }
 
+.footer-legal {
+    margin-top: 6px;
+    font-size: 0.8rem;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.footer-legal a {
+    color: rgba(255, 255, 255, 0.65);
+    text-decoration: none;
+}
+
+.footer-legal a:hover {
+    color: rgba(255, 255, 255, 0.9);
+    text-decoration: underline;
+}
+
 /* ── PWA App Promo Section ────────────────────────────────────────────── */
 .app-promo {
     background: linear-gradient(135deg, #1a0a00 0%, #2d1500 50%, #1a0a00 100%);
