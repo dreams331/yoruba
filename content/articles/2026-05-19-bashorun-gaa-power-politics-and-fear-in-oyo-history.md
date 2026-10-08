@@ -100,11 +100,11 @@ Recent productions and documentaries have renewed public interest in his story, 
 
 You can also explore dramatized interpretations here:
 
-[Bashorun Gaa: The “Wicked Prime Minister” of the Old Oyo Empire](https://www.youtube.com/embed/sG_waOPvK_Y?rel=0&playsinline=1&origin=https%3A%2F%2Fchatgpt.com&enablejsapi=1&widgetid=1&forigin=https%3A%2F%2Fchatgpt.com%2Fc%2F6a0c6add-0000-83ea-80f4-3730502807c6&aoriginsup=1&vf=1)
+[Bashorun Gaa: The “Wicked Prime Minister” of the Old Oyo Empire](https://www.youtube.com/embed/sG_waOPvK_Y)
 
 [YouTube video player](https://www.youtube.com/embed/sG_waOPvK_Y)
 
-[Bashorun Gaa in Yoruba | Full Movie | epic historical drama](https://www.youtube.com/embed/qARL8DnXNXI?rel=0&playsinline=1&origin=https%3A%2F%2Fchatgpt.com&enablejsapi=1&widgetid=3&forigin=https%3A%2F%2Fchatgpt.com%2Fc%2F6a0c6add-0000-83ea-80f4-3730502807c6&aoriginsup=1&vf=1)
+[Bashorun Gaa in Yoruba | Full Movie | epic historical drama](https://www.youtube.com/embed/qARL8DnXNXI)
 
 [YouTube video player](https://www.youtube.com/embed/qARL8DnXNXI)
 
