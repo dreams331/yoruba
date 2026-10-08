@@ -8,28 +8,25 @@ parent2: oturupon-meji
 orisha: Ikú (Death) / Ọ̀sun; Ọbàtálá / Ọ̀rúnmìlà
 theme: endings, the ancestors, the unseen world, mortality; illness and healing,
   secrets of the body, patience
-excerpt: Ọ̀yẹ̀kú-Òtúrúpọ̀n combines the energy of Ọ̀yẹ̀kú Méjì (endings, the
-  ancestors, the unseen world, mortality) with Òtúrúpọ̀n Méjì (illness and
-  healing, secrets of the body, patience). It is read as a distinct Odù with its
-  own guidance, drawing on both influences.
+excerpt: "Sickness and the thin boundary of life appear together. The figure advises prompt care, patience and attention to the elderly and ill."
 pattern_right: "II,II,II,II"
 pattern_left: "II,II,I,II"
 ---
-
 ## Ọ̀yẹ̀kú-Òtúrúpọ̀n
 
-### Meaning
+### Overview
 
-Ọ̀yẹ̀kú-Òtúrúpọ̀n combines the energy of Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality) with Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Sickness and the thin boundary of life appear together. The figure advises prompt care, patience and attention to the elderly and ill.
 
 ### Governing Influences
 
 - **Ọ̀yẹ̀kú Méjì** — endings, the ancestors, the unseen world, mortality (Ikú (Death) / Ọ̀sun)
 - **Òtúrúpọ̀n Méjì** — illness and healing, secrets of the body, patience (Ọbàtálá / Ọ̀rúnmìlà)
 
+
 ### Guidance
 
-When Ọ̀yẹ̀kú-Òtúrúpọ̀n appears, it suggests a situation where the lessons of Ọ̀yẹ̀kú Méjì — endings, the ancestors, the unseen world, mortality — must be balanced with the lessons of Òtúrúpọ̀n Méjì — illness and healing, secrets of the body, patience. Ọ̀yẹ̀kú Méjì advises: Ọ̀yẹ̀kú teaches respect for the ancestors, acceptance of mortality, and the understanding that every ending clears space for renewal. Òtúrúpọ̀n Méjì adds: Òtúrúpọ̀n calls for patience, proper diagnosis before action, and respect for the body's natural healing processes. Together, they call for wisdom that honours both sides of this Odù.
+Look after the sick, seek treatment early, and do not delay the healing.
 
 ---
 

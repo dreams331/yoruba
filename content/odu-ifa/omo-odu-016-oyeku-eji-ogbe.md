@@ -8,27 +8,25 @@ parent2: eji-ogbe
 orisha: Ikú (Death) / Ọ̀sun; Ọ̀rúnmìlà / Olódùmarè
 theme: endings, the ancestors, the unseen world, mortality; light, new
   beginnings, divine potential
-excerpt: Ọ̀yẹ̀kú-Ogbè combines the energy of Ọ̀yẹ̀kú Méjì (endings, the
-  ancestors, the unseen world, mortality) with Èjì Ogbè (light, new beginnings,
-  divine potential). It is read as a distinct Odù with its own guidance, drawing
-  on both influences.
+excerpt: "The unseen world presses toward the light. The ancestors bring a message and ask that it be turned into a living, practical beginning."
 pattern_right: "II,II,II,II"
 pattern_left: "I,I,I,I"
 ---
-## Ọ̀yẹ̀kú-ÈjìOgbè
+## Ọ̀yẹ̀kú-Ogbè
 
-### Meaning
+### Overview
 
-Ọ̀yẹ̀kú-Ogbè combines the energy of Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality) with Èjì Ogbè (light, new beginnings, divine potential). It is read as a distinct Odù with its own guidance, drawing on both influences.
+The unseen world presses toward the light. The ancestors bring a message and ask that it be turned into a living, practical beginning.
 
 ### Governing Influences
 
 * **Ọ̀yẹ̀kú Méjì** — endings, the ancestors, the unseen world, mortality (Ikú (Death) / Ọ̀sun)
 * **Èjì Ogbè** — light, new beginnings, divine potential (Ọ̀rúnmìlà / Olódùmarè)
 
+
 ### Guidance
 
-When Ọ̀yẹ̀kú-Ogbè appears, it suggests a situation where the lessons of Ọ̀yẹ̀kú Méjì — endings, the ancestors, the unseen world, mortality — must be balanced with the lessons of Èjì Ogbè — light, new beginnings, divine potential. Ọ̀yẹ̀kú Méjì advises: Ọ̀yẹ̀kú teaches respect for the ancestors, acceptance of mortality, and the understanding that every ending clears space for renewal. Èjì Ogbè adds: You were not born by accident. Together, they call for wisdom that honours both sides of this Odù.
+Listen for guidance from elders and ancestors, then act on it with confidence.
 
 - - -
 

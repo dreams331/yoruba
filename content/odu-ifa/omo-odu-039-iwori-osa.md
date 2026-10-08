@@ -8,28 +8,25 @@ parent2: osa-meji
 orisha: Ọ̀sanyìn / Ọ̀rúnmìlà; Ọya
 theme: self-knowledge, hidden truth, inner vision; upheaval, the whirlwind,
   sudden change, protection from harm
-excerpt: Ìwòrì-Ọ̀sá combines the energy of Ìwòrì Méjì (self-knowledge, hidden
-  truth, inner vision) with Ọ̀sá Méjì (upheaval, the whirlwind, sudden change,
-  protection from harm). It is read as a distinct Odù with its own guidance,
-  drawing on both influences.
+excerpt: "Turmoil calls for a clear mind. When events are moving fast, self-knowledge is the anchor that keeps you safe."
 pattern_right: "II,I,I,II"
 pattern_left: "II,I,I,I"
 ---
-
 ## Ìwòrì-Ọ̀sá
 
-### Meaning
+### Overview
 
-Ìwòrì-Ọ̀sá combines the energy of Ìwòrì Méjì (self-knowledge, hidden truth, inner vision) with Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Turmoil calls for a clear mind. When events are moving fast, self-knowledge is the anchor that keeps you safe.
 
 ### Governing Influences
 
 - **Ìwòrì Méjì** — self-knowledge, hidden truth, inner vision (Ọ̀sanyìn / Ọ̀rúnmìlà)
 - **Ọ̀sá Méjì** — upheaval, the whirlwind, sudden change, protection from harm (Ọya)
 
+
 ### Guidance
 
-When Ìwòrì-Ọ̀sá appears, it suggests a situation where the lessons of Ìwòrì Méjì — self-knowledge, hidden truth, inner vision — must be balanced with the lessons of Ọ̀sá Méjì — upheaval, the whirlwind, sudden change, protection from harm. Ìwòrì Méjì advises: Ìwòrì calls for introspection and honesty about one's own motives before judging others. Ọ̀sá Méjì adds: Ọ̀sá teaches resilience through sudden disruption. Together, they call for wisdom that honours both sides of this Odù.
+Remain calm in a crisis and trust your own judgement.
 
 ---
 

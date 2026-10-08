@@ -8,28 +8,25 @@ parent2: irete-meji
 orisha: Ọ̀sanyìn / Ọ̀rúnmìlà; Ọ̀rúnmìlà / Ọya
 theme: self-knowledge, hidden truth, inner vision; perseverance despite
   setbacks, hidden victory
-excerpt: Ìwòrì-Ìrẹtẹ̀ combines the energy of Ìwòrì Méjì (self-knowledge, hidden
-  truth, inner vision) with Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden
-  victory). It is read as a distinct Odù with its own guidance, drawing on both
-  influences.
+excerpt: "Self-belief carries you through setbacks. The figure says that inner conviction is what turns delay into eventual victory."
 pattern_right: "II,I,I,II"
 pattern_left: "I,I,II,I"
 ---
-
 ## Ìwòrì-Ìrẹtẹ̀
 
-### Meaning
+### Overview
 
-Ìwòrì-Ìrẹtẹ̀ combines the energy of Ìwòrì Méjì (self-knowledge, hidden truth, inner vision) with Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Self-belief carries you through setbacks. The figure says that inner conviction is what turns delay into eventual victory.
 
 ### Governing Influences
 
 - **Ìwòrì Méjì** — self-knowledge, hidden truth, inner vision (Ọ̀sanyìn / Ọ̀rúnmìlà)
 - **Ìrẹtẹ̀ Méjì** — perseverance despite setbacks, hidden victory (Ọ̀rúnmìlà / Ọya)
 
+
 ### Guidance
 
-When Ìwòrì-Ìrẹtẹ̀ appears, it suggests a situation where the lessons of Ìwòrì Méjì — self-knowledge, hidden truth, inner vision — must be balanced with the lessons of Ìrẹtẹ̀ Méjì — perseverance despite setbacks, hidden victory. Ìwòrì Méjì advises: Ìwòrì calls for introspection and honesty about one's own motives before judging others. Ìrẹtẹ̀ Méjì adds: Ìrẹtẹ̀ teaches resilience in adversity, especially struggles others cannot see. Together, they call for wisdom that honours both sides of this Odù.
+Remember who you are when things look bleak, and keep working toward your goal.
 
 ---
 

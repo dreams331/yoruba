@@ -8,27 +8,25 @@ parent2: oyeku-meji
 orisha: Ọ̀rúnmìlà / Olódùmarè; Ikú (Death) / Ọ̀sun
 theme: light, new beginnings, divine potential; endings, the ancestors, the
   unseen world, mortality
-excerpt: Ogbè-Ọ̀yẹ̀kú combines the energy of Èjì Ogbè (light, new beginnings,
-  divine potential) with Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world,
-  mortality). It is read as a distinct Odù with its own guidance, drawing on
-  both influences.
+excerpt: "Light meets the threshold of the ancestors. This figure speaks of a bright beginning that must be built on respect for those who came before, and of potential that is only realised when it is rooted in lineage."
 pattern_right: "I,I,I,I"
 pattern_left: "II,II,II,II"
 ---
 ## Ogbè-Ọ̀yẹ̀kú
 
-### Meaning
+### Overview
 
-Ogbè-Ọ̀yẹ̀kú combines the energy of Èjì Ogbè (light, new beginnings, divine potential) with Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Light meets the threshold of the ancestors. This figure speaks of a bright beginning that must be built on respect for those who came before, and of potential that is only realised when it is rooted in lineage.
 
 ### Governing Influences
 
 * **Èjì Ogbè** — light, new beginnings, divine potential (Ọ̀rúnmìlà / Olódùmarè)
 * **Ọ̀yẹ̀kú Méjì** — endings, the ancestors, the unseen world, mortality (Ikú (Death) / Ọ̀sun)
 
+
 ### Guidance
 
-When Ogbè-Ọ̀yẹ̀kú appears, it suggests a situation where the lessons of Ogbè — light, new beginnings, divine potential — must be balanced with the lessons of Ọ̀yẹ̀kú Méjì — endings, the ancestors, the unseen world, mortality. Ogbè advises: You were not born by accident. Ọ̀yẹ̀kú Méjì adds: Ọ̀yẹ̀kú teaches respect for the ancestors, acceptance of mortality, and the understanding that every ending clears space for renewal. Together, they call for wisdom that honours both sides of this Odù.
+Honour your ancestors before launching a new venture, and let gratitude steady your ambition.
 
 - - -
 

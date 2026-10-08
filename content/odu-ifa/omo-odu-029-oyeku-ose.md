@@ -8,28 +8,25 @@ parent2: ose-meji
 orisha: Ikú (Death) / Ọ̀sun; Ọ̀ṣun
 theme: endings, the ancestors, the unseen world, mortality; blessings,
   sweetness, abundance, gratitude
-excerpt: Ọ̀yẹ̀kú-Ọ̀ṣẹ́ combines the energy of Ọ̀yẹ̀kú Méjì (endings, the
-  ancestors, the unseen world, mortality) with Ọ̀ṣẹ́ Méjì (blessings, sweetness,
-  abundance, gratitude). It is read as a distinct Odù with its own guidance,
-  drawing on both influences.
+excerpt: "Sweetness comes out of endings. The figure speaks of blessings that follow sacrifice and of gratitude toward those who have passed."
 pattern_right: "II,II,II,II"
 pattern_left: "I,II,I,II"
 ---
-
 ## Ọ̀yẹ̀kú-Ọ̀ṣẹ́
 
-### Meaning
+### Overview
 
-Ọ̀yẹ̀kú-Ọ̀ṣẹ́ combines the energy of Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality) with Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Sweetness comes out of endings. The figure speaks of blessings that follow sacrifice and of gratitude toward those who have passed.
 
 ### Governing Influences
 
 - **Ọ̀yẹ̀kú Méjì** — endings, the ancestors, the unseen world, mortality (Ikú (Death) / Ọ̀sun)
 - **Ọ̀ṣẹ́ Méjì** — blessings, sweetness, abundance, gratitude (Ọ̀ṣun)
 
+
 ### Guidance
 
-When Ọ̀yẹ̀kú-Ọ̀ṣẹ́ appears, it suggests a situation where the lessons of Ọ̀yẹ̀kú Méjì — endings, the ancestors, the unseen world, mortality — must be balanced with the lessons of Ọ̀ṣẹ́ Méjì — blessings, sweetness, abundance, gratitude. Ọ̀yẹ̀kú Méjì advises: Ọ̀yẹ̀kú teaches respect for the ancestors, acceptance of mortality, and the understanding that every ending clears space for renewal. Ọ̀ṣẹ́ Méjì adds: Ọ̀ṣẹ́ celebrates the sweetness of life earned through generosity, hospitality, and gratitude. Together, they call for wisdom that honours both sides of this Odù.
+Give thanks to your ancestors and enjoy the good that their foundation has made possible.
 
 ---
 

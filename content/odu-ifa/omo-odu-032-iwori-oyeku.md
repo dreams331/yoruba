@@ -8,28 +8,25 @@ parent2: oyeku-meji
 orisha: Ọ̀sanyìn / Ọ̀rúnmìlà; Ikú (Death) / Ọ̀sun
 theme: self-knowledge, hidden truth, inner vision; endings, the ancestors, the
   unseen world, mortality
-excerpt: Ìwòrì-Ọ̀yẹ̀kú combines the energy of Ìwòrì Méjì (self-knowledge, hidden
-  truth, inner vision) with Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen
-  world, mortality). It is read as a distinct Odù with its own guidance, drawing
-  on both influences.
+excerpt: "The inner eye turns toward the ancestors. Truth about yourself is tied to understanding your roots and the lives of those before you."
 pattern_right: "II,I,I,II"
 pattern_left: "II,II,II,II"
 ---
-
 ## Ìwòrì-Ọ̀yẹ̀kú
 
-### Meaning
+### Overview
 
-Ìwòrì-Ọ̀yẹ̀kú combines the energy of Ìwòrì Méjì (self-knowledge, hidden truth, inner vision) with Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality). It is read as a distinct Odù with its own guidance, drawing on both influences.
+The inner eye turns toward the ancestors. Truth about yourself is tied to understanding your roots and the lives of those before you.
 
 ### Governing Influences
 
 - **Ìwòrì Méjì** — self-knowledge, hidden truth, inner vision (Ọ̀sanyìn / Ọ̀rúnmìlà)
 - **Ọ̀yẹ̀kú Méjì** — endings, the ancestors, the unseen world, mortality (Ikú (Death) / Ọ̀sun)
 
+
 ### Guidance
 
-When Ìwòrì-Ọ̀yẹ̀kú appears, it suggests a situation where the lessons of Ìwòrì Méjì — self-knowledge, hidden truth, inner vision — must be balanced with the lessons of Ọ̀yẹ̀kú Méjì — endings, the ancestors, the unseen world, mortality. Ìwòrì Méjì advises: Ìwòrì calls for introspection and honesty about one's own motives before judging others. Ọ̀yẹ̀kú Méjì adds: Ọ̀yẹ̀kú teaches respect for the ancestors, acceptance of mortality, and the understanding that every ending clears space for renewal. Together, they call for wisdom that honours both sides of this Odù.
+Study your family history and reflect on how it shapes your character.
 
 ---
 

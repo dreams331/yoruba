@@ -8,27 +8,25 @@ parent2: eji-ogbe
 orisha: Ọya / Yemọja; Ọ̀rúnmìlà / Olódùmarè
 theme: the womb, mystery, transformation, hidden depth; light, new beginnings,
   divine potential
-excerpt: Òdí-Ogbè combines the energy of Òdí Méjì (the womb, mystery,
-  transformation, hidden depth) with Èjì Ogbè (light, new beginnings, divine
-  potential). It is read as a distinct Odù with its own guidance, drawing on
-  both influences.
+excerpt: "Mystery contains a gift. Something concealed or still developing holds the promise of light, if given time."
 pattern_right: "I,II,II,I"
 pattern_left: "I,I,I,I"
 ---
 ## Òdí-Ogbè
 
-### Meaning
+### Overview
 
-Òdí-Ogbè combines the energy of Òdí Méjì (the womb, mystery, transformation, hidden depth) with Èjì Ogbè (light, new beginnings, divine potential). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Mystery contains a gift. Something concealed or still developing holds the promise of light, if given time.
 
 ### Governing Influences
 
 * **Òdí Méjì** — the womb, mystery, transformation, hidden depth (Ọya / Yemọja)
 * **Èjì Ogbè** — light, new beginnings, divine potential (Ọ̀rúnmìlà / Olódùmarè)
 
+
 ### Guidance
 
-When Òdí-Ogbè appears, it suggests a situation where the lessons of Òdí Méjì — the womb, mystery, transformation, hidden depth — must be balanced with the lessons of Èjì Ogbè — light, new beginnings, divine potential. Òdí Méjì advises: Òdí teaches patience with processes that are not yet visible — pregnancy, growth, and transformation take time in darkness before they emerge into light. Èjì Ogbè adds: You were not born by accident. Together, they call for wisdom that honours both sides of this Odù.
+Nurture what is not yet visible and trust that it will emerge in its own season.
 
 - - -
 

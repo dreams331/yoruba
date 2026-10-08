@@ -8,28 +8,25 @@ parent2: obara-meji
 orisha: Ọya / Yemọja; Ṣàngó / Ọ̀bàtálá
 theme: the womb, mystery, transformation, hidden depth; honour, boastfulness,
   the danger of pride, leadership
-excerpt: Òdí-Ọ̀bàrà combines the energy of Òdí Méjì (the womb, mystery,
-  transformation, hidden depth) with Ọ̀bàrà Méjì (honour, boastfulness, the
-  danger of pride, leadership). It is read as a distinct Odù with its own
-  guidance, drawing on both influences.
+excerpt: "Hidden strength must not turn into pride. The figure grants quiet power and cautions against displaying it for show."
 pattern_right: "I,II,II,I"
 pattern_left: "I,II,II,II"
 ---
-
 ## Òdí-Ọ̀bàrà
 
-### Meaning
+### Overview
 
-Òdí-Ọ̀bàrà combines the energy of Òdí Méjì (the womb, mystery, transformation, hidden depth) with Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Hidden strength must not turn into pride. The figure grants quiet power and cautions against displaying it for show.
 
 ### Governing Influences
 
 - **Òdí Méjì** — the womb, mystery, transformation, hidden depth (Ọya / Yemọja)
 - **Ọ̀bàrà Méjì** — honour, boastfulness, the danger of pride, leadership (Ṣàngó / Ọ̀bàtálá)
 
+
 ### Guidance
 
-When Òdí-Ọ̀bàrà appears, it suggests a situation where the lessons of Òdí Méjì — the womb, mystery, transformation, hidden depth — must be balanced with the lessons of Ọ̀bàrà Méjì — honour, boastfulness, the danger of pride, leadership. Òdí Méjì advises: Òdí teaches patience with processes that are not yet visible — pregnancy, growth, and transformation take time in darkness before they emerge into light. Ọ̀bàrà Méjì adds: Ọ̀bàrà teaches that leadership and confidence are gifts, but boastfulness invites downfall. Together, they call for wisdom that honours both sides of this Odù.
+Let your capability be revealed through action rather than words.
 
 ---
 

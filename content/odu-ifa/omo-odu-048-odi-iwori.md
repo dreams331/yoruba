@@ -8,28 +8,25 @@ parent2: iwori-meji
 orisha: Ọya / Yemọja; Ọ̀sanyìn / Ọ̀rúnmìlà
 theme: the womb, mystery, transformation, hidden depth; self-knowledge, hidden
   truth, inner vision
-excerpt: Òdí-Ìwòrì combines the energy of Òdí Méjì (the womb, mystery,
-  transformation, hidden depth) with Ìwòrì Méjì (self-knowledge, hidden truth,
-  inner vision). It is read as a distinct Odù with its own guidance, drawing on
-  both influences.
+excerpt: "Depth is paired with insight. This figure advises looking beneath appearances, since what is concealed holds the meaning of the situation."
 pattern_right: "I,II,II,I"
 pattern_left: "II,I,I,II"
 ---
-
 ## Òdí-Ìwòrì
 
-### Meaning
+### Overview
 
-Òdí-Ìwòrì combines the energy of Òdí Méjì (the womb, mystery, transformation, hidden depth) with Ìwòrì Méjì (self-knowledge, hidden truth, inner vision). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Depth is paired with insight. This figure advises looking beneath appearances, since what is concealed holds the meaning of the situation.
 
 ### Governing Influences
 
 - **Òdí Méjì** — the womb, mystery, transformation, hidden depth (Ọya / Yemọja)
 - **Ìwòrì Méjì** — self-knowledge, hidden truth, inner vision (Ọ̀sanyìn / Ọ̀rúnmìlà)
 
+
 ### Guidance
 
-When Òdí-Ìwòrì appears, it suggests a situation where the lessons of Òdí Méjì — the womb, mystery, transformation, hidden depth — must be balanced with the lessons of Ìwòrì Méjì — self-knowledge, hidden truth, inner vision. Òdí Méjì advises: Òdí teaches patience with processes that are not yet visible — pregnancy, growth, and transformation take time in darkness before they emerge into light. Ìwòrì Méjì adds: Ìwòrì calls for introspection and honesty about one's own motives before judging others. Together, they call for wisdom that honours both sides of this Odù.
+Investigate carefully and do not trust surface impressions.
 
 ---
 

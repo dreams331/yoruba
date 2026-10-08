@@ -8,28 +8,25 @@ parent2: okanran-meji
 orisha: Ọya / Yemọja; Ọya / Ògún
 theme: the womb, mystery, transformation, hidden depth; conflict, truth-telling,
   sharp consequences
-excerpt: Òdí-Ọ̀kànràn combines the energy of Òdí Méjì (the womb, mystery,
-  transformation, hidden depth) with Ọ̀kànràn Méjì (conflict, truth-telling,
-  sharp consequences). It is read as a distinct Odù with its own guidance,
-  drawing on both influences.
+excerpt: "A concealed conflict demands honesty. The figure says that what is left unsaid will eventually erupt, so it is better to speak plainly."
 pattern_right: "I,II,II,I"
 pattern_left: "II,II,II,I"
 ---
-
 ## Òdí-Ọ̀kànràn
 
-### Meaning
+### Overview
 
-Òdí-Ọ̀kànràn combines the energy of Òdí Méjì (the womb, mystery, transformation, hidden depth) with Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences). It is read as a distinct Odù with its own guidance, drawing on both influences.
+A concealed conflict demands honesty. The figure says that what is left unsaid will eventually erupt, so it is better to speak plainly.
 
 ### Governing Influences
 
 - **Òdí Méjì** — the womb, mystery, transformation, hidden depth (Ọya / Yemọja)
 - **Ọ̀kànràn Méjì** — conflict, truth-telling, sharp consequences (Ọya / Ògún)
 
+
 ### Guidance
 
-When Òdí-Ọ̀kànràn appears, it suggests a situation where the lessons of Òdí Méjì — the womb, mystery, transformation, hidden depth — must be balanced with the lessons of Ọ̀kànràn Méjì — conflict, truth-telling, sharp consequences. Òdí Méjì advises: Òdí teaches patience with processes that are not yet visible — pregnancy, growth, and transformation take time in darkness before they emerge into light. Ọ̀kànràn Méjì adds: Ọ̀kànràn exposes what is hidden and warns against betrayal, gossip, and dishonesty. Together, they call for wisdom that honours both sides of this Odù.
+Address tensions early and truthfully before they grow.
 
 ---
 

@@ -8,28 +8,25 @@ parent2: okanran-meji
 orisha: Ọ̀sanyìn / Ọ̀rúnmìlà; Ọya / Ògún
 theme: self-knowledge, hidden truth, inner vision; conflict, truth-telling,
   sharp consequences
-excerpt: Ìwòrì-Ọ̀kànràn combines the energy of Ìwòrì Méjì (self-knowledge,
-  hidden truth, inner vision) with Ọ̀kànràn Méjì (conflict, truth-telling, sharp
-  consequences). It is read as a distinct Odù with its own guidance, drawing on
-  both influences.
+excerpt: "Sharp truth cuts through confusion. The figure promises that honest vision settles conflict, even if the process is uncomfortable."
 pattern_right: "II,I,I,II"
 pattern_left: "II,II,II,I"
 ---
-
 ## Ìwòrì-Ọ̀kànràn
 
-### Meaning
+### Overview
 
-Ìwòrì-Ọ̀kànràn combines the energy of Ìwòrì Méjì (self-knowledge, hidden truth, inner vision) with Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Sharp truth cuts through confusion. The figure promises that honest vision settles conflict, even if the process is uncomfortable.
 
 ### Governing Influences
 
 - **Ìwòrì Méjì** — self-knowledge, hidden truth, inner vision (Ọ̀sanyìn / Ọ̀rúnmìlà)
 - **Ọ̀kànràn Méjì** — conflict, truth-telling, sharp consequences (Ọya / Ògún)
 
+
 ### Guidance
 
-When Ìwòrì-Ọ̀kànràn appears, it suggests a situation where the lessons of Ìwòrì Méjì — self-knowledge, hidden truth, inner vision — must be balanced with the lessons of Ọ̀kànràn Méjì — conflict, truth-telling, sharp consequences. Ìwòrì Méjì advises: Ìwòrì calls for introspection and honesty about one's own motives before judging others. Ọ̀kànràn Méjì adds: Ọ̀kànràn exposes what is hidden and warns against betrayal, gossip, and dishonesty. Together, they call for wisdom that honours both sides of this Odù.
+Speak plainly and with insight, and accept that clarity can sting before it heals.
 
 ---
 

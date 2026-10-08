@@ -8,28 +8,25 @@ parent2: otura-meji
 orisha: Ikú (Death) / Ọ̀sun; Ọ̀rúnmìlà / Ọbàtálá
 theme: endings, the ancestors, the unseen world, mortality; transformation,
   clarity after confusion, truth revealed
-excerpt: Ọ̀yẹ̀kú-Òtúrá combines the energy of Ọ̀yẹ̀kú Méjì (endings, the
-  ancestors, the unseen world, mortality) with Òtúrá Méjì (transformation,
-  clarity after confusion, truth revealed). It is read as a distinct Odù with
-  its own guidance, drawing on both influences.
+excerpt: "Clarity arrives after grief. The mist lifts and the figure shows a calmer path forward following a period of sorrow."
 pattern_right: "II,II,II,II"
 pattern_left: "I,II,I,I"
 ---
-
 ## Ọ̀yẹ̀kú-Òtúrá
 
-### Meaning
+### Overview
 
-Ọ̀yẹ̀kú-Òtúrá combines the energy of Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality) with Òtúrá Méjì (transformation, clarity after confusion, truth revealed). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Clarity arrives after grief. The mist lifts and the figure shows a calmer path forward following a period of sorrow.
 
 ### Governing Influences
 
 - **Ọ̀yẹ̀kú Méjì** — endings, the ancestors, the unseen world, mortality (Ikú (Death) / Ọ̀sun)
 - **Òtúrá Méjì** — transformation, clarity after confusion, truth revealed (Ọ̀rúnmìlà / Ọbàtálá)
 
+
 ### Guidance
 
-When Ọ̀yẹ̀kú-Òtúrá appears, it suggests a situation where the lessons of Ọ̀yẹ̀kú Méjì — endings, the ancestors, the unseen world, mortality — must be balanced with the lessons of Òtúrá Méjì — transformation, clarity after confusion, truth revealed. Ọ̀yẹ̀kú Méjì advises: Ọ̀yẹ̀kú teaches respect for the ancestors, acceptance of mortality, and the understanding that every ending clears space for renewal. Òtúrá Méjì adds: Òtúrá teaches that confusion and difficulty are often temporary, giving way to clarity for those who remain patient and truthful. Together, they call for wisdom that honours both sides of this Odù.
+Allow mourning its season, then step forward with renewed clarity.
 
 ---
 

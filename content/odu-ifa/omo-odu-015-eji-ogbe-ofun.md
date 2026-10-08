@@ -8,27 +8,25 @@ parent2: ofun-meji
 orisha: Ọ̀rúnmìlà / Olódùmarè; Ọbàtálá / Olódùmarè
 theme: light, new beginnings, divine potential; purity, old age, completion,
   moral integrity
-excerpt: Ogbè-Òfún combines the energy of Èjì Ogbè (light, new beginnings,
-  divine potential) with Òfún Méjì (purity, old age, completion, moral
-  integrity). It is read as a distinct Odù with its own guidance, drawing on
-  both influences.
+excerpt: "A pure beginning reaches maturity. The figure speaks of integrity, of wisdom that comes with age, and of work brought to completion."
 pattern_right: "I,I,I,I"
 pattern_left: "II,I,II,I"
 ---
 ## Ogbè-Òfún
 
-### Meaning
+### Overview
 
-ÈjìOgbè-Òfún combines the energy of Èjì Ogbè (light, new beginnings, divine potential) with Òfún Méjì (purity, old age, completion, moral integrity). It is read as a distinct Odù with its own guidance, drawing on both influences.
+A pure beginning reaches maturity. The figure speaks of integrity, of wisdom that comes with age, and of work brought to completion.
 
 ### Governing Influences
 
 * **Èjì Ogbè** — light, new beginnings, divine potential (Ọ̀rúnmìlà / Olódùmarè)
 * **Òfún Méjì** — purity, old age, completion, moral integrity (Ọbàtálá / Olódùmarè)
 
+
 ### Guidance
 
-When Ogbè-Òfún appears, it suggests a situation where the lessons of Èjì Ogbè — light, new beginnings, divine potential — must be balanced with the lessons of Òfún Méjì — purity, old age, completion, moral integrity. Èjì Ogbè advises: You were not born by accident. Òfún Méjì adds: Òfún, closely tied to Ọbàtálá, teaches purity of character, patience, and the moral discipline required to age gracefully and finish life's journey with integrity intact. Together, they call for wisdom that honours both sides of this Odù.
+Act cleanly and honestly, and seek the counsel of elders to bring a matter to a good end.
 
 - - -
 

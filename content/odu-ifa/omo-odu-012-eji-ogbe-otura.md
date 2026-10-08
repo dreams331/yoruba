@@ -8,27 +8,25 @@ parent2: otura-meji
 orisha: Ọ̀rúnmìlà / Olódùmarè; Ọ̀rúnmìlà / Ọbàtálá
 theme: light, new beginnings, divine potential; transformation, clarity after
   confusion, truth revealed
-excerpt: Ogbè-Òtúrá combines the energy of Èjì Ogbè (light, new beginnings,
-  divine potential) with Òtúrá Méjì (transformation, clarity after confusion,
-  truth revealed). It is read as a distinct Odù with its own guidance, drawing
-  on both influences.
+excerpt: "Understanding follows a period of confusion. Truth that was hidden comes into view and brings a new sense of direction."
 pattern_right: "I,I,I,I"
 pattern_left: "I,II,I,I"
 ---
 ## Ogbè-Òtúrá
 
-### Meaning
+### Overview
 
-Ogbè-Òtúrá combines the energy of Èjì Ogbè (light, new beginnings, divine potential) with Òtúrá Méjì (transformation, clarity after confusion, truth revealed). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Understanding follows a period of confusion. Truth that was hidden comes into view and brings a new sense of direction.
 
 ### Governing Influences
 
 * **Èjì Ogbè** — light, new beginnings, divine potential (Ọ̀rúnmìlà / Olódùmarè)
 * **Òtúrá Méjì** — transformation, clarity after confusion, truth revealed (Ọ̀rúnmìlà / Ọbàtálá)
 
+
 ### Guidance
 
-When Ogbè-Òtúrá appears, it suggests a situation where the lessons of Èjì Ogbè — light, new beginnings, divine potential — must be balanced with the lessons of Òtúrá Méjì — transformation, clarity after confusion, truth revealed. Èjì Ogbè advises: You were not born by accident. Òtúrá Méjì adds: Òtúrá teaches that confusion and difficulty are often temporary, giving way to clarity for those who remain patient and truthful. Together, they call for wisdom that honours both sides of this Odù.
+Trust that answers are coming. Act once the picture is clear rather than in the fog.
 
 - - -
 

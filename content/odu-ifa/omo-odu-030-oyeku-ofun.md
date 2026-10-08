@@ -8,28 +8,25 @@ parent2: ofun-meji
 orisha: Ikú (Death) / Ọ̀sun; Ọbàtálá / Olódùmarè
 theme: endings, the ancestors, the unseen world, mortality; purity, old age,
   completion, moral integrity
-excerpt: Ọ̀yẹ̀kú-Òfún combines the energy of Ọ̀yẹ̀kú Méjì (endings, the
-  ancestors, the unseen world, mortality) with Òfún Méjì (purity, old age,
-  completion, moral integrity). It is read as a distinct Odù with its own
-  guidance, drawing on both influences.
+excerpt: "A life reaches its natural completion with dignity. The figure honours old age, a clean conscience and a peaceful transition."
 pattern_right: "II,II,II,II"
 pattern_left: "II,I,II,I"
 ---
-
 ## Ọ̀yẹ̀kú-Òfún
 
-### Meaning
+### Overview
 
-Ọ̀yẹ̀kú-Òfún combines the energy of Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality) with Òfún Méjì (purity, old age, completion, moral integrity). It is read as a distinct Odù with its own guidance, drawing on both influences.
+A life reaches its natural completion with dignity. The figure honours old age, a clean conscience and a peaceful transition.
 
 ### Governing Influences
 
 - **Ọ̀yẹ̀kú Méjì** — endings, the ancestors, the unseen world, mortality (Ikú (Death) / Ọ̀sun)
 - **Òfún Méjì** — purity, old age, completion, moral integrity (Ọbàtálá / Olódùmarè)
 
+
 ### Guidance
 
-When Ọ̀yẹ̀kú-Òfún appears, it suggests a situation where the lessons of Ọ̀yẹ̀kú Méjì — endings, the ancestors, the unseen world, mortality — must be balanced with the lessons of Òfún Méjì — purity, old age, completion, moral integrity. Ọ̀yẹ̀kú Méjì advises: Ọ̀yẹ̀kú teaches respect for the ancestors, acceptance of mortality, and the understanding that every ending clears space for renewal. Òfún Méjì adds: Òfún, closely tied to Ọbàtálá, teaches purity of character, patience, and the moral discipline required to age gracefully and finish life's journey with integrity intact. Together, they call for wisdom that honours both sides of this Odù.
+Live with integrity so that you may close each chapter in peace.
 
 ---
 

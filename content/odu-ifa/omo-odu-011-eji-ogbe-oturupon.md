@@ -8,27 +8,25 @@ parent2: oturupon-meji
 orisha: Ọ̀rúnmìlà / Olódùmarè; Ọbàtálá / Ọ̀rúnmìlà
 theme: light, new beginnings, divine potential; illness and healing, secrets of
   the body, patience
-excerpt: Ogbè-Òtúrúpọ̀n combines the energy of Èjì Ogbè (light, new beginnings,
-  divine potential) with Òtúrúpọ̀n Méjì (illness and healing, secrets of the
-  body, patience). It is read as a distinct Odù with its own guidance, drawing
-  on both influences.
+excerpt: "The figure joins vitality with the call to heal. Good fortune depends on caring for the body and being patient with slow recovery."
 pattern_right: "I,I,I,I"
 pattern_left: "II,II,I,II"
 ---
 ## Ogbè-Òtúrúpọ̀n
 
-### Meaning
+### Overview
 
-Ogbè-Òtúrúpọ̀n combines the energy of Èjì Ogbè (light, new beginnings, divine potential) with Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience). It is read as a distinct Odù with its own guidance, drawing on both influences.
+The figure joins vitality with the call to heal. Good fortune depends on caring for the body and being patient with slow recovery.
 
 ### Governing Influences
 
 * **Èjì Ogbè** — light, new beginnings, divine potential (Ọ̀rúnmìlà / Olódùmarè)
 * **Òtúrúpọ̀n Méjì** — illness and healing, secrets of the body, patience (Ọbàtálá / Ọ̀rúnmìlà)
 
+
 ### Guidance
 
-When Ogbè-Òtúrúpọ̀n appears, it suggests a situation where the lessons of Èjì Ogbè — light, new beginnings, divine potential — must be balanced with the lessons of Òtúrúpọ̀n Méjì — illness and healing, secrets of the body, patience. Èjì Ogbè advises: You were not born by accident. Òtúrúpọ̀n Méjì adds: Òtúrúpọ̀n calls for patience, proper diagnosis before action, and respect for the body's natural healing processes. Together, they call for wisdom that honours both sides of this Odù.
+Attend to your health, seek proper treatment, and give healing the time it needs.
 
 - - -
 

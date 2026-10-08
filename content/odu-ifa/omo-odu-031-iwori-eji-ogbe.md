@@ -8,27 +8,25 @@ parent2: eji-ogbe
 orisha: Ọ̀sanyìn / Ọ̀rúnmìlà; Ọ̀rúnmìlà / Olódùmarè
 theme: self-knowledge, hidden truth, inner vision; light, new beginnings, divine
   potential
-excerpt: Ìwòrì-Ogbè combines the energy of Ìwòrì Méjì (self-knowledge, hidden
-  truth, inner vision) with Èjì Ogbè (light, new beginnings, divine potential).
-  It is read as a distinct Odù with its own guidance, drawing on both
-  influences.
+excerpt: "Self-knowledge leads back to the source of light. This figure says that insight and opportunity belong together, and that inner honesty draws blessings in."
 pattern_right: "II,I,I,II"
 pattern_left: "I,I,I,I"
 ---
-## Ìwòrì-ÈjìOgbè
+## Ìwòrì-Ogbè
 
-### Meaning
+### Overview
 
-Ìwòrì-Ogbè combines the energy of Ìwòrì Méjì (self-knowledge, hidden truth, inner vision) with Èjì Ogbè (light, new beginnings, divine potential). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Self-knowledge leads back to the source of light. This figure says that insight and opportunity belong together, and that inner honesty draws blessings in.
 
 ### Governing Influences
 
 * **Ìwòrì Méjì** — self-knowledge, hidden truth, inner vision (Ọ̀sanyìn / Ọ̀rúnmìlà)
 * **Èjì Ogbè** — light, new beginnings, divine potential (Ọ̀rúnmìlà / Olódùmarè)
 
+
 ### Guidance
 
-When Ìwòrì-Ogbè appears, it suggests a situation where the lessons of Ìwòrì Méjì — self-knowledge, hidden truth, inner vision — must be balanced with the lessons of Èjì Ogbè — light, new beginnings, divine potential. Ìwòrì Méjì advises: Ìwòrì calls for introspection and honesty about one's own motives before judging others. Èjì Ogbè adds: You were not born by accident. Together, they call for wisdom that honours both sides of this Odù.
+Look inward with sincerity and let what you discover guide your next step.
 
 - - -
 

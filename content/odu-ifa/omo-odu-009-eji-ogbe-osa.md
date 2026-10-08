@@ -8,27 +8,25 @@ parent2: osa-meji
 orisha: Ọ̀rúnmìlà / Olódùmarè; Ọya
 theme: light, new beginnings, divine potential; upheaval, the whirlwind, sudden
   change, protection from harm
-excerpt: Ogbè-Ọ̀sá combines the energy of Èjì Ogbè (light, new beginnings,
-  divine potential) with Ọ̀sá Méjì (upheaval, the whirlwind, sudden change,
-  protection from harm). It is read as a distinct Odù with its own guidance,
-  drawing on both influences.
+excerpt: "A bright path crosses a whirlwind. Sudden change threatens plans, yet the figure promises protection to those who stay grounded."
 pattern_right: "I,I,I,I"
 pattern_left: "II,I,I,I"
 ---
 ## Ogbè-Ọ̀sá
 
-### Meaning
+### Overview
 
-Ogbè-Ọ̀sá combines the energy of Èjì Ogbè (light, new beginnings, divine potential) with Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm). It is read as a distinct Odù with its own guidance, drawing on both influences.
+A bright path crosses a whirlwind. Sudden change threatens plans, yet the figure promises protection to those who stay grounded.
 
 ### Governing Influences
 
 * **Èjì Ogbè** — light, new beginnings, divine potential (Ọ̀rúnmìlà / Olódùmarè)
 * **Ọ̀sá Méjì** — upheaval, the whirlwind, sudden change, protection from harm (Ọya)
 
+
 ### Guidance
 
-When Ogbè-Ọ̀sá appears, it suggests a situation where the lessons of Èjì Ogbè — light, new beginnings, divine potential — must be balanced with the lessons of Ọ̀sá Méjì — upheaval, the whirlwind, sudden change, protection from harm. Èjì Ogbè advises: You were not born by accident. Ọ̀sá Méjì adds: Ọ̀sá teaches resilience through sudden disruption. Together, they call for wisdom that honours both sides of this Odù.
+Expect disruption, keep your counsel, and hold on to your principles while things settle.
 
 - - -
 

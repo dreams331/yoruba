@@ -8,27 +8,25 @@ parent2: okanran-meji
 orisha: Ọ̀rúnmìlà / Olódùmarè; Ọya / Ògún
 theme: light, new beginnings, divine potential; conflict, truth-telling, sharp
   consequences
-excerpt: Ogbè-Ọ̀kànràn combines the energy of Èjì Ogbè (light, new beginnings,
-  divine potential) with Ọ̀kànràn Méjì (conflict, truth-telling, sharp
-  consequences). It is read as a distinct Odù with its own guidance, drawing on
-  both influences.
+excerpt: "Truth is spoken into a heated situation. Light exposes what is wrong, and that can cause conflict before it brings peace."
 pattern_right: "I,I,I,I"
 pattern_left: "II,II,II,I"
 ---
 ## Ogbè-Ọ̀kànràn
 
-### Meaning
+### Overview
 
-Ogbè-Ọ̀kànràn combines the energy of Èjì Ogbè (light, new beginnings, divine potential) with Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Truth is spoken into a heated situation. Light exposes what is wrong, and that can cause conflict before it brings peace.
 
 ### Governing Influences
 
 * **Èjì Ogbè** — light, new beginnings, divine potential (Ọ̀rúnmìlà / Olódùmarè)
 * **Ọ̀kànràn Méjì** — conflict, truth-telling, sharp consequences (Ọya / Ògún)
 
+
 ### Guidance
 
-When Ogbè-Ọ̀kànràn appears, it suggests a situation where the lessons of Èjì Ogbè — light, new beginnings, divine potential — must be balanced with the lessons of Ọ̀kànràn Méjì — conflict, truth-telling, sharp consequences. Èjì Ogbè advises: You were not born by accident. Ọ̀kànràn Méjì adds: Ọ̀kànràn exposes what is hidden and warns against betrayal, gossip, and dishonesty. Together, they call for wisdom that honours both sides of this Odù.
+Say what must be said with care, and avoid answering anger with anger.
 
 - - -
 

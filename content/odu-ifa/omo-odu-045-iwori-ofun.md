@@ -8,28 +8,25 @@ parent2: ofun-meji
 orisha: Ọ̀sanyìn / Ọ̀rúnmìlà; Ọbàtálá / Olódùmarè
 theme: self-knowledge, hidden truth, inner vision; purity, old age, completion,
   moral integrity
-excerpt: Ìwòrì-Òfún combines the energy of Ìwòrì Méjì (self-knowledge, hidden
-  truth, inner vision) with Òfún Méjì (purity, old age, completion, moral
-  integrity). It is read as a distinct Odù with its own guidance, drawing on
-  both influences.
+excerpt: "Insight ripens into integrity. The figure honours a life lived honestly and suggests that self-knowledge reaches its fullest form in goodness."
 pattern_right: "II,I,I,II"
 pattern_left: "II,I,II,I"
 ---
-
 ## Ìwòrì-Òfún
 
-### Meaning
+### Overview
 
-Ìwòrì-Òfún combines the energy of Ìwòrì Méjì (self-knowledge, hidden truth, inner vision) with Òfún Méjì (purity, old age, completion, moral integrity). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Insight ripens into integrity. The figure honours a life lived honestly and suggests that self-knowledge reaches its fullest form in goodness.
 
 ### Governing Influences
 
 - **Ìwòrì Méjì** — self-knowledge, hidden truth, inner vision (Ọ̀sanyìn / Ọ̀rúnmìlà)
 - **Òfún Méjì** — purity, old age, completion, moral integrity (Ọbàtálá / Olódùmarè)
 
+
 ### Guidance
 
-When Ìwòrì-Òfún appears, it suggests a situation where the lessons of Ìwòrì Méjì — self-knowledge, hidden truth, inner vision — must be balanced with the lessons of Òfún Méjì — purity, old age, completion, moral integrity. Ìwòrì Méjì advises: Ìwòrì calls for introspection and honesty about one's own motives before judging others. Òfún Méjì adds: Òfún, closely tied to Ọbàtálá, teaches purity of character, patience, and the moral discipline required to age gracefully and finish life's journey with integrity intact. Together, they call for wisdom that honours both sides of this Odù.
+Live truthfully and trust that your character will carry you to a good conclusion.
 
 ---
 

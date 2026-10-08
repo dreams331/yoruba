@@ -8,28 +8,25 @@ parent2: irosun-meji
 orisha: Ọ̀sanyìn / Ọ̀rúnmìlà; Ṣàngó / Ọya
 theme: self-knowledge, hidden truth, inner vision; blood, sacrifice, warning,
   consequence
-excerpt: Ìwòrì-Ìrosùn combines the energy of Ìwòrì Méjì (self-knowledge, hidden
-  truth, inner vision) with Ìrosùn Méjì (blood, sacrifice, warning,
-  consequence). It is read as a distinct Odù with its own guidance, drawing on
-  both influences.
+excerpt: "Perception is challenged by consequence. The figure warns that ignoring the signs leads to a costly lesson, and that sacrifice can restore order."
 pattern_right: "II,I,I,II"
 pattern_left: "I,I,II,II"
 ---
-
 ## Ìwòrì-Ìrosùn
 
-### Meaning
+### Overview
 
-Ìwòrì-Ìrosùn combines the energy of Ìwòrì Méjì (self-knowledge, hidden truth, inner vision) with Ìrosùn Méjì (blood, sacrifice, warning, consequence). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Perception is challenged by consequence. The figure warns that ignoring the signs leads to a costly lesson, and that sacrifice can restore order.
 
 ### Governing Influences
 
 - **Ìwòrì Méjì** — self-knowledge, hidden truth, inner vision (Ọ̀sanyìn / Ọ̀rúnmìlà)
 - **Ìrosùn Méjì** — blood, sacrifice, warning, consequence (Ṣàngó / Ọya)
 
+
 ### Guidance
 
-When Ìwòrì-Ìrosùn appears, it suggests a situation where the lessons of Ìwòrì Méjì — self-knowledge, hidden truth, inner vision — must be balanced with the lessons of Ìrosùn Méjì — blood, sacrifice, warning, consequence. Ìwòrì Méjì advises: Ìwòrì calls for introspection and honesty about one's own motives before judging others. Ìrosùn Méjì adds: Ìrosùn warns that actions have irreversible consequences, and that ẹbọ (sacrifice) — whether of time, pride, or resources — is often required to avert disaster. Together, they call for wisdom that honours both sides of this Odù.
+Pay attention to warnings, and act early to avoid avoidable losses.
 
 ---
 
