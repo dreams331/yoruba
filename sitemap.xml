@@ -271,11 +271,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yorubaheritage.com/read/articles/how-yoruba-religion-spread-to-brazil-cuba-and-the-americas.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://yorubaheritage.com/read/articles/traditional-yoruba-marriage-rites-and-their-symbolism.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -521,16 +516,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yorubaheritage.com/read/articles/the-fulani-yoruba-wars-and-their-consequences.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yorubaheritage.com/read/articles/the-reign-of-alaafin-abiodun.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://yorubaheritage.com/read/articles/how-abeokuta-became-a-refuge-city.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -561,7 +546,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yorubaheritage.com/read/articles/2026-06-26-how-yoruba-religion-spread-to-brazil-cuba-and-the-americas.html</loc>
+    <loc>https://yorubaheritage.com/read/articles/how-yoruba-religion-spread-to-brazil-cuba-and-the-americas.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -611,7 +596,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yorubaheritage.com/read/articles/2026-06-29-the-reign-of-alaafin-abiodun.html</loc>
+    <loc>https://yorubaheritage.com/read/articles/the-reign-of-alaafin-abiodun.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -626,7 +611,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yorubaheritage.com/read/articles/2026-07-01-the-fulani-yoruba-wars-and-their-consequences.html</loc>
+    <loc>https://yorubaheritage.com/read/articles/the-fulani-yoruba-wars-and-their-consequences.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -782,11 +767,6 @@
   </url>
   <url>
     <loc>https://yorubaheritage.com/read/articles/how-ancient-trade-routes-shaped-yoruba-civilisation-1.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yorubaheritage.com/read/articles/how-ancient-trade-routes-shaped-yoruba-civilisation.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1146,16 +1126,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yorubaheritage.com/read/ifa/lessons-from-the-odu-ifa-ogunda-meji.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yorubaheritage.com/read/ifa/moral-teachings-from-irete-meji.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://yorubaheritage.com/read/ifa/the-story-of-eji-ogbe-and-prosperity.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1171,12 +1141,12 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yorubaheritage.com/read/ifa/2026-06-29-lessons-from-the-odu-ifa-ogunda-meji.html</loc>
+    <loc>https://yorubaheritage.com/read/ifa/lessons-from-the-odu-ifa-ogunda-meji.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yorubaheritage.com/read/ifa/2026-06-29-moral-teachings-from-irete-meji.html</loc>
+    <loc>https://yorubaheritage.com/read/ifa/moral-teachings-from-irete-meji.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
