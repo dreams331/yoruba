@@ -70,7 +70,7 @@ As the corpse is carried to the burial site, a mourner walks ahead, pulling out 
 
 ## The Reception: Where Grief Becomes Celebration
 
-After the burial, the reception begins, and this is where Yoruba funeral traditions truly come alive. For an elder who died a good death, the reception is an *Owambe*, a large, lavish party with food, music, dancing, and socialising. Live bands, often playing juju, fuji, or gospel, perform throughout the event. Enormous quantities of food are served: jollof rice, pounded yam and egusi, amala and ewedu, assorted meats, and small chops.[](https://www.celebratethem.com/blog/yoruba-funeral-traditions-explained)
+Once the burial is over, the celebration begins. When an elder has lived a full life and died peacefully, the gathering that follows is often an *Owambe*, a festive occasion with music, dancing and generous hospitality. Bands commonly play juju, fuji or gospel, and guests are served dishes such as jollof rice, pounded yam with egusi, amala with ewedu, assorted meats and small chops.
 
 Guests wear *Aso Ebi*, matching fabrics that create a sea of coordinated colour. The *Aso Ebi* is central to the visual culture of Yoruba funerals. It signals solidarity, collective grief, and communal identity. Guests spray money on musicians and on each other while dancing, a tradition that signifies celebration, generosity, and appreciation. Families give out customised souvenirs bearing the deceased’s name and photograph. The reception can last for hours and is often the part of the funeral that people remember for months afterwards. It is not unusual for a Yoruba funeral reception to outshine many weddings in scale and splendour.[](https://www.celebratethem.com/blog/yoruba-funeral-traditions-explained)
 
@@ -86,7 +86,7 @@ Yoruba burial customs are governed by *Eewo*, taboos that are not mere superstit
 
 ### Where You Are Buried Matters
 
-People who committed serious offences, witches, murderers, and those who violated sacred customs, are buried in the bush or the evil forest, far from the family compound. This is both punishment and spiritual quarantine, preventing their negative energy from contaminating the community. Cremation is reserved for criminals, the possessed, and war victims. It is the ultimate reset button, used when someone’s spiritual energy is too dangerous to let naturally decompose into the earth.[](https://oriire.com/article/yoruba-isinku-practices-and-taboos)
+Burial customs differ for people whose deaths are considered abnormal or shameful, such as those accused of grave offences, witchcraft or murder, or who broke sacred taboos. Traditionally they were buried in the bush or in a forbidden grove outside the family compound, which was seen as both a sanction and a way of keeping spiritual danger away from the community. Cremation was reserved for criminals, people thought to be possessed and war casualties, because their spiritual force was believed too dangerous to return to the earth in the usual way.
 
 ### Royal Mysteries
 
@@ -106,4 +106,4 @@ Yet the old ways persist, often blending seamlessly with the new. A Christian Yo
 
 The Yoruba approach to death offers something rare in a world that often treats mortality as the ultimate taboo. They have created a system where death becomes not something to fear, but something to prepare for thoughtfully, celebrate appropriately, and honour correctly. Every action ripples through spiritual dimensions. Every funeral is a quality control check on the soul’s journey home. The living and the dead remain forever intertwined.
 
-Whether one is drawn to their emphasis on family continuity, their belief in the soul’s eternal journey, or their system of spiritual accountability, the Yoruba burial traditions reveal how human societies create meaning around life’s final transition. In the end, these customs are not just about death. They are about how to live with such respect for the spiritual order that even your final act becomes a gift to the generations who will one day perform the same rites for you.
+Whatever draws a reader to these customs, whether the continuity of the family, the belief in a soul that travels on, or the idea that people answer spiritually for how they lived, they show how Yoruba society gives meaning to the end of life. They are about more than death. They teach that a life lived with respect for the spiritual order becomes, at its close, a gift to the generations who will one day perform the same rites for the living of today.
