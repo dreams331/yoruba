@@ -2,7 +2,6 @@
 title: Conflict Resolution Within Yoruba Families
 date: 2026-08-12T11:35:18.031Z
 category: culture
-image: /images/uploads/conflict-resolution-within-yoruba-families.jpg
 excerpt: Conflict is a natural part of human relationships, and traditional
   Yoruba society developed ways of resolving disagreements while protecting
   family relationships and community harmony. Within the Yoruba extended family
