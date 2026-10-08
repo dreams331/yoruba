@@ -8,28 +8,25 @@ parent2: irete-meji
 orisha: Ṣàngó / Ọ̀bàtálá; Ọ̀rúnmìlà / Ọya
 theme: honour, boastfulness, the danger of pride, leadership; perseverance
   despite setbacks, hidden victory
-excerpt: Ọ̀bàrà-Ìrẹtẹ̀ combines the energy of Ọ̀bàrà Méjì (honour, boastfulness,
-  the danger of pride, leadership) with Ìrẹtẹ̀ Méjì (perseverance despite
-  setbacks, hidden victory). It is read as a distinct Odù with its own guidance,
-  drawing on both influences.
+excerpt: "Perseverance restores honour. The figure promises that standing lost through setbacks can be regained through patient effort."
 pattern_right: "I,II,II,II"
 pattern_left: "I,I,II,I"
 ---
-
 ## Ọ̀bàrà-Ìrẹtẹ̀
 
-### Meaning
+### Overview
 
-Ọ̀bàrà-Ìrẹtẹ̀ combines the energy of Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership) with Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Perseverance restores honour. The figure promises that standing lost through setbacks can be regained through patient effort.
 
 ### Governing Influences
 
 - **Ọ̀bàrà Méjì** — honour, boastfulness, the danger of pride, leadership (Ṣàngó / Ọ̀bàtálá)
 - **Ìrẹtẹ̀ Méjì** — perseverance despite setbacks, hidden victory (Ọ̀rúnmìlà / Ọya)
 
+
 ### Guidance
 
-When Ọ̀bàrà-Ìrẹtẹ̀ appears, it suggests a situation where the lessons of Ọ̀bàrà Méjì — honour, boastfulness, the danger of pride, leadership — must be balanced with the lessons of Ìrẹtẹ̀ Méjì — perseverance despite setbacks, hidden victory. Ọ̀bàrà Méjì advises: Ọ̀bàrà teaches that leadership and confidence are gifts, but boastfulness invites downfall. Ìrẹtẹ̀ Méjì adds: Ìrẹtẹ̀ teaches resilience in adversity, especially struggles others cannot see. Together, they call for wisdom that honours both sides of this Odù.
+Keep working steadily; your name will be rebuilt.
 
 ---
 

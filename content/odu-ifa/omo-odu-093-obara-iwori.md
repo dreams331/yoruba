@@ -8,28 +8,25 @@ parent2: iwori-meji
 orisha: Ṣàngó / Ọ̀bàtálá; Ọ̀sanyìn / Ọ̀rúnmìlà
 theme: honour, boastfulness, the danger of pride, leadership; self-knowledge,
   hidden truth, inner vision
-excerpt: Ọ̀bàrà-Ìwòrì combines the energy of Ọ̀bàrà Méjì (honour, boastfulness,
-  the danger of pride, leadership) with Ìwòrì Méjì (self-knowledge, hidden
-  truth, inner vision). It is read as a distinct Odù with its own guidance,
-  drawing on both influences.
+excerpt: "Leadership needs self-knowledge. The figure says that real authority starts with an honest look at your own motives."
 pattern_right: "I,II,II,II"
 pattern_left: "II,I,I,II"
 ---
-
 ## Ọ̀bàrà-Ìwòrì
 
-### Meaning
+### Overview
 
-Ọ̀bàrà-Ìwòrì combines the energy of Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership) with Ìwòrì Méjì (self-knowledge, hidden truth, inner vision). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Leadership needs self-knowledge. The figure says that real authority starts with an honest look at your own motives.
 
 ### Governing Influences
 
 - **Ọ̀bàrà Méjì** — honour, boastfulness, the danger of pride, leadership (Ṣàngó / Ọ̀bàtálá)
 - **Ìwòrì Méjì** — self-knowledge, hidden truth, inner vision (Ọ̀sanyìn / Ọ̀rúnmìlà)
 
+
 ### Guidance
 
-When Ọ̀bàrà-Ìwòrì appears, it suggests a situation where the lessons of Ọ̀bàrà Méjì — honour, boastfulness, the danger of pride, leadership — must be balanced with the lessons of Ìwòrì Méjì — self-knowledge, hidden truth, inner vision. Ọ̀bàrà Méjì advises: Ọ̀bàrà teaches that leadership and confidence are gifts, but boastfulness invites downfall. Ìwòrì Méjì adds: Ìwòrì calls for introspection and honesty about one's own motives before judging others. Together, they call for wisdom that honours both sides of this Odù.
+Examine your motives before you ask others to follow you.
 
 ---
 

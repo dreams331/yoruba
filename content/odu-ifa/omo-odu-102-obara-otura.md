@@ -8,28 +8,25 @@ parent2: otura-meji
 orisha: Ṣàngó / Ọ̀bàtálá; Ọ̀rúnmìlà / Ọbàtálá
 theme: honour, boastfulness, the danger of pride, leadership; transformation,
   clarity after confusion, truth revealed
-excerpt: Ọ̀bàrà-Òtúrá combines the energy of Ọ̀bàrà Méjì (honour, boastfulness,
-  the danger of pride, leadership) with Òtúrá Méjì (transformation, clarity
-  after confusion, truth revealed). It is read as a distinct Odù with its own
-  guidance, drawing on both influences.
+excerpt: "Insight tempers authority. The figure says that clarity of mind lets a leader decide with fairness once confusion has passed."
 pattern_right: "I,II,II,II"
 pattern_left: "I,II,I,I"
 ---
-
 ## Ọ̀bàrà-Òtúrá
 
-### Meaning
+### Overview
 
-Ọ̀bàrà-Òtúrá combines the energy of Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership) with Òtúrá Méjì (transformation, clarity after confusion, truth revealed). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Insight tempers authority. The figure says that clarity of mind lets a leader decide with fairness once confusion has passed.
 
 ### Governing Influences
 
 - **Ọ̀bàrà Méjì** — honour, boastfulness, the danger of pride, leadership (Ṣàngó / Ọ̀bàtálá)
 - **Òtúrá Méjì** — transformation, clarity after confusion, truth revealed (Ọ̀rúnmìlà / Ọbàtálá)
 
+
 ### Guidance
 
-When Ọ̀bàrà-Òtúrá appears, it suggests a situation where the lessons of Ọ̀bàrà Méjì — honour, boastfulness, the danger of pride, leadership — must be balanced with the lessons of Òtúrá Méjì — transformation, clarity after confusion, truth revealed. Ọ̀bàrà Méjì advises: Ọ̀bàrà teaches that leadership and confidence are gifts, but boastfulness invites downfall. Òtúrá Méjì adds: Òtúrá teaches that confusion and difficulty are often temporary, giving way to clarity for those who remain patient and truthful. Together, they call for wisdom that honours both sides of this Odù.
+Wait for the full picture before judging.
 
 ---
 

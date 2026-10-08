@@ -8,28 +8,25 @@ parent2: osa-meji
 orisha: Ṣàngó / Ọ̀bàtálá; Ọya
 theme: honour, boastfulness, the danger of pride, leadership; upheaval, the
   whirlwind, sudden change, protection from harm
-excerpt: Ọ̀bàrà-Ọ̀sá combines the energy of Ọ̀bàrà Méjì (honour, boastfulness,
-  the danger of pride, leadership) with Ọ̀sá Méjì (upheaval, the whirlwind,
-  sudden change, protection from harm). It is read as a distinct Odù with its
-  own guidance, drawing on both influences.
+excerpt: "A leader faces a storm. The figure advises calm, protective decisions when the group is shaken by sudden change."
 pattern_right: "I,II,II,II"
 pattern_left: "II,I,I,I"
 ---
-
 ## Ọ̀bàrà-Ọ̀sá
 
-### Meaning
+### Overview
 
-Ọ̀bàrà-Ọ̀sá combines the energy of Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership) with Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm). It is read as a distinct Odù with its own guidance, drawing on both influences.
+A leader faces a storm. The figure advises calm, protective decisions when the group is shaken by sudden change.
 
 ### Governing Influences
 
 - **Ọ̀bàrà Méjì** — honour, boastfulness, the danger of pride, leadership (Ṣàngó / Ọ̀bàtálá)
 - **Ọ̀sá Méjì** — upheaval, the whirlwind, sudden change, protection from harm (Ọya)
 
+
 ### Guidance
 
-When Ọ̀bàrà-Ọ̀sá appears, it suggests a situation where the lessons of Ọ̀bàrà Méjì — honour, boastfulness, the danger of pride, leadership — must be balanced with the lessons of Ọ̀sá Méjì — upheaval, the whirlwind, sudden change, protection from harm. Ọ̀bàrà Méjì advises: Ọ̀bàrà teaches that leadership and confidence are gifts, but boastfulness invites downfall. Ọ̀sá Méjì adds: Ọ̀sá teaches resilience through sudden disruption. Together, they call for wisdom that honours both sides of this Odù.
+Steady those around you and protect the vulnerable.
 
 ---
 

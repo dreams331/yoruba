@@ -8,28 +8,25 @@ parent2: ose-meji
 orisha: Ọya / Yemọja; Ọ̀ṣun
 theme: the womb, mystery, transformation, hidden depth; blessings, sweetness,
   abundance, gratitude
-excerpt: Òdí-Ọ̀ṣẹ́ combines the energy of Òdí Méjì (the womb, mystery,
-  transformation, hidden depth) with Ọ̀ṣẹ́ Méjì (blessings, sweetness,
-  abundance, gratitude). It is read as a distinct Odù with its own guidance,
-  drawing on both influences.
+excerpt: "Concealed effort is rewarded with sweetness. The figure promises that private discipline brings a blessing that you can share with others."
 pattern_right: "I,II,II,I"
 pattern_left: "I,II,I,II"
 ---
-
 ## Òdí-Ọ̀ṣẹ́
 
-### Meaning
+### Overview
 
-Òdí-Ọ̀ṣẹ́ combines the energy of Òdí Méjì (the womb, mystery, transformation, hidden depth) with Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Concealed effort is rewarded with sweetness. The figure promises that private discipline brings a blessing that you can share with others.
 
 ### Governing Influences
 
 - **Òdí Méjì** — the womb, mystery, transformation, hidden depth (Ọya / Yemọja)
 - **Ọ̀ṣẹ́ Méjì** — blessings, sweetness, abundance, gratitude (Ọ̀ṣun)
 
+
 ### Guidance
 
-When Òdí-Ọ̀ṣẹ́ appears, it suggests a situation where the lessons of Òdí Méjì — the womb, mystery, transformation, hidden depth — must be balanced with the lessons of Ọ̀ṣẹ́ Méjì — blessings, sweetness, abundance, gratitude. Òdí Méjì advises: Òdí teaches patience with processes that are not yet visible — pregnancy, growth, and transformation take time in darkness before they emerge into light. Ọ̀ṣẹ́ Méjì adds: Ọ̀ṣẹ́ celebrates the sweetness of life earned through generosity, hospitality, and gratitude. Together, they call for wisdom that honours both sides of this Odù.
+Be thankful and generous with what you receive.
 
 ---
 

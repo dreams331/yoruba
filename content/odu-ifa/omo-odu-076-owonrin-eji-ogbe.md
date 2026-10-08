@@ -8,27 +8,25 @@ parent2: eji-ogbe
 orisha: Èṣù / Ọ̀rúnmìlà; Ọ̀rúnmìlà / Olódùmarè
 theme: instability, change, the trickster's lesson, humility; light, new
   beginnings, divine potential
-excerpt: Ọ̀wọ́nrín-ÈjìOgbè combines the energy of Ọ̀wọ́nrín Méjì (instability,
-  change, the trickster's lesson, humility) with Èjì Ogbè (light, new
-  beginnings, divine potential). It is read as a distinct Odù with its own
-  guidance, drawing on both influences.
+excerpt: "Instability meets opportunity. The figure shows that light is available in a changing world, but only to those who stay humble and flexible."
 pattern_right: "II,II,I,I"
 pattern_left: "I,I,I,I"
 ---
 ## Ọ̀wọ́nrín-Ogbè
 
-### Meaning
+### Overview
 
-Ọ̀wọ́nrín-Ogbè combines the energy of Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility) with Èjì Ogbè (light, new beginnings, divine potential). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Instability meets opportunity. The figure shows that light is available in a changing world, but only to those who stay humble and flexible.
 
 ### Governing Influences
 
 * **Ọ̀wọ́nrín Méjì** — instability, change, the trickster's lesson, humility (Èṣù / Ọ̀rúnmìlà)
 * **Èjì Ogbè** — light, new beginnings, divine potential (Ọ̀rúnmìlà / Olódùmarè)
 
+
 ### Guidance
 
-When Ọ̀wọ́nrín-Ogbè appears, it suggests a situation where the lessons of Ọ̀wọ́nrín Méjì — instability, change, the trickster's lesson, humility — must be balanced with the lessons of Èjì Ogbè — light, new beginnings, divine potential. Ọ̀wọ́nrín Méjì advises: Ọ̀wọ́nrín teaches humility in success and resilience in reversal. Èjì Ogbè adds: You were not born by accident. Together, they call for wisdom that honours both sides of this Odù.
+Adapt your plans, and stay modest while fortunes shift.
 
 - - -
 

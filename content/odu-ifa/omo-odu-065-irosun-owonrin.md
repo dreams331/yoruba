@@ -8,28 +8,25 @@ parent2: owonrin-meji
 orisha: Ṣàngó / Ọya; Èṣù / Ọ̀rúnmìlà
 theme: blood, sacrifice, warning, consequence; instability, change, the
   trickster's lesson, humility
-excerpt: Ìrosùn-Ọ̀wọ́nrín combines the energy of Ìrosùn Méjì (blood, sacrifice,
-  warning, consequence) with Ọ̀wọ́nrín Méjì (instability, change, the
-  trickster's lesson, humility). It is read as a distinct Odù with its own
-  guidance, drawing on both influences.
+excerpt: "Danger and instability travel together. The figure advises humility and flexibility so that sudden change does not become a loss."
 pattern_right: "I,I,II,II"
 pattern_left: "II,II,I,I"
 ---
-
 ## Ìrosùn-Ọ̀wọ́nrín
 
-### Meaning
+### Overview
 
-Ìrosùn-Ọ̀wọ́nrín combines the energy of Ìrosùn Méjì (blood, sacrifice, warning, consequence) with Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Danger and instability travel together. The figure advises humility and flexibility so that sudden change does not become a loss.
 
 ### Governing Influences
 
 - **Ìrosùn Méjì** — blood, sacrifice, warning, consequence (Ṣàngó / Ọya)
 - **Ọ̀wọ́nrín Méjì** — instability, change, the trickster's lesson, humility (Èṣù / Ọ̀rúnmìlà)
 
+
 ### Guidance
 
-When Ìrosùn-Ọ̀wọ́nrín appears, it suggests a situation where the lessons of Ìrosùn Méjì — blood, sacrifice, warning, consequence — must be balanced with the lessons of Ọ̀wọ́nrín Méjì — instability, change, the trickster's lesson, humility. Ìrosùn Méjì advises: Ìrosùn warns that actions have irreversible consequences, and that ẹbọ (sacrifice) — whether of time, pride, or resources — is often required to avert disaster. Ọ̀wọ́nrín Méjì adds: Ọ̀wọ́nrín teaches humility in success and resilience in reversal. Together, they call for wisdom that honours both sides of this Odù.
+Stay adaptable, avoid risky shortcuts, and keep your guard up.
 
 ---
 

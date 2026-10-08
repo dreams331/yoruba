@@ -8,28 +8,25 @@ parent2: odi-meji
 orisha: Ṣàngó / Ọya; Ọya / Yemọja
 theme: blood, sacrifice, warning, consequence; the womb, mystery,
   transformation, hidden depth
-excerpt: Ìrosùn-Òdí combines the energy of Ìrosùn Méjì (blood, sacrifice,
-  warning, consequence) with Òdí Méjì (the womb, mystery, transformation, hidden
-  depth). It is read as a distinct Odù with its own guidance, drawing on both
-  influences.
+excerpt: "A costly secret demands attention. Hidden matters carry consequences, and bringing them into the open prevents greater harm."
 pattern_right: "I,I,II,II"
 pattern_left: "I,II,II,I"
 ---
-
 ## Ìrosùn-Òdí
 
-### Meaning
+### Overview
 
-Ìrosùn-Òdí combines the energy of Ìrosùn Méjì (blood, sacrifice, warning, consequence) with Òdí Méjì (the womb, mystery, transformation, hidden depth). It is read as a distinct Odù with its own guidance, drawing on both influences.
+A costly secret demands attention. Hidden matters carry consequences, and bringing them into the open prevents greater harm.
 
 ### Governing Influences
 
 - **Ìrosùn Méjì** — blood, sacrifice, warning, consequence (Ṣàngó / Ọya)
 - **Òdí Méjì** — the womb, mystery, transformation, hidden depth (Ọya / Yemọja)
 
+
 ### Guidance
 
-When Ìrosùn-Òdí appears, it suggests a situation where the lessons of Ìrosùn Méjì — blood, sacrifice, warning, consequence — must be balanced with the lessons of Òdí Méjì — the womb, mystery, transformation, hidden depth. Ìrosùn Méjì advises: Ìrosùn warns that actions have irreversible consequences, and that ẹbọ (sacrifice) — whether of time, pride, or resources — is often required to avert disaster. Òdí Méjì adds: Òdí teaches patience with processes that are not yet visible — pregnancy, growth, and transformation take time in darkness before they emerge into light. Together, they call for wisdom that honours both sides of this Odù.
+Be truthful about what has been concealed and put things right.
 
 ---
 

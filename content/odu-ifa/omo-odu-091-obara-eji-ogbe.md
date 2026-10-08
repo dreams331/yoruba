@@ -8,27 +8,25 @@ parent2: eji-ogbe
 orisha: Ṣàngó / Ọ̀bàtálá; Ọ̀rúnmìlà / Olódùmarè
 theme: honour, boastfulness, the danger of pride, leadership; light, new
   beginnings, divine potential
-excerpt: Ọ̀bàrà-Ogbè combines the energy of Ọ̀bàrà Méjì (honour, boastfulness,
-  the danger of pride, leadership) with Èjì Ogbè (light, new beginnings, divine
-  potential). It is read as a distinct Odù with its own guidance, drawing on
-  both influences.
+excerpt: "Honour meets light. The figure grants standing and favourable beginnings, and asks that leadership remain humble."
 pattern_right: "I,II,II,II"
 pattern_left: "I,I,I,I"
 ---
 ## Ọ̀bàrà-Ogbè
 
-### Meaning
+### Overview
 
-Ọ̀bàrà-Ogbè combines the energy of Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership) with Èjì Ogbè (light, new beginnings, divine potential). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Honour meets light. The figure grants standing and favourable beginnings, and asks that leadership remain humble.
 
 ### Governing Influences
 
 * **Ọ̀bàrà Méjì** — honour, boastfulness, the danger of pride, leadership (Ṣàngó / Ọ̀bàtálá)
 * **Èjì Ogbè** — light, new beginnings, divine potential (Ọ̀rúnmìlà / Olódùmarè)
 
+
 ### Guidance
 
-When Ọ̀bàrà-Ogbè appears, it suggests a situation where the lessons of Ọ̀bàrà Méjì — honour, boastfulness, the danger of pride, leadership — must be balanced with the lessons of Èjì Ogbè — light, new beginnings, divine potential. Ọ̀bàrà Méjì advises: Ọ̀bàrà teaches that leadership and confidence are gifts, but boastfulness invites downfall. Èjì Ogbè adds: You were not born by accident. Together, they call for wisdom that honours both sides of this Odù.
+Lead gracefully and credit those who helped you.
 
 - - -
 

@@ -8,28 +8,25 @@ parent2: oturupon-meji
 orisha: Ṣàngó / Ọ̀bàtálá; Ọbàtálá / Ọ̀rúnmìlà
 theme: honour, boastfulness, the danger of pride, leadership; illness and
   healing, secrets of the body, patience
-excerpt: Ọ̀bàrà-Òtúrúpọ̀n combines the energy of Ọ̀bàrà Méjì (honour,
-  boastfulness, the danger of pride, leadership) with Òtúrúpọ̀n Méjì (illness
-  and healing, secrets of the body, patience). It is read as a distinct Odù with
-  its own guidance, drawing on both influences.
+excerpt: "Responsibility includes health. The figure ties leadership to caring for the body and for people under your care."
 pattern_right: "I,II,II,II"
 pattern_left: "II,II,I,II"
 ---
-
 ## Ọ̀bàrà-Òtúrúpọ̀n
 
-### Meaning
+### Overview
 
-Ọ̀bàrà-Òtúrúpọ̀n combines the energy of Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership) with Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Responsibility includes health. The figure ties leadership to caring for the body and for people under your care.
 
 ### Governing Influences
 
 - **Ọ̀bàrà Méjì** — honour, boastfulness, the danger of pride, leadership (Ṣàngó / Ọ̀bàtálá)
 - **Òtúrúpọ̀n Méjì** — illness and healing, secrets of the body, patience (Ọbàtálá / Ọ̀rúnmìlà)
 
+
 ### Guidance
 
-When Ọ̀bàrà-Òtúrúpọ̀n appears, it suggests a situation where the lessons of Ọ̀bàrà Méjì — honour, boastfulness, the danger of pride, leadership — must be balanced with the lessons of Òtúrúpọ̀n Méjì — illness and healing, secrets of the body, patience. Ọ̀bàrà Méjì advises: Ọ̀bàrà teaches that leadership and confidence are gifts, but boastfulness invites downfall. Òtúrúpọ̀n Méjì adds: Òtúrúpọ̀n calls for patience, proper diagnosis before action, and respect for the body's natural healing processes. Together, they call for wisdom that honours both sides of this Odù.
+Look after your own wellbeing and that of your dependants.
 
 ---
 

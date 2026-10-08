@@ -7,27 +7,25 @@ parent1: irosun-meji
 parent2: eji-ogbe
 orisha: Ṣàngó / Ọya; Ọ̀rúnmìlà / Olódùmarè
 theme: blood, sacrifice, warning, consequence; light, new beginnings, divine potential
-excerpt: Ìrosùn-Ogbè combines the energy of Ìrosùn Méjì (blood, sacrifice,
-  warning, consequence) with Èjì Ogbè (light, new beginnings, divine potential).
-  It is read as a distinct Odù with its own guidance, drawing on both
-  influences.
+excerpt: "A warning is attached to a bright opportunity. Blessings are available, but they depend on keeping promises and making the right offering."
 pattern_right: "I,I,II,II"
 pattern_left: "I,I,I,I"
 ---
-## Ìrosùn-ÈjìOgbè
+## Ìrosùn-Ogbè
 
-### Meaning
+### Overview
 
-Ìrosùn-Ogbè combines the energy of Ìrosùn Méjì (blood, sacrifice, warning, consequence) with Èjì Ogbè (light, new beginnings, divine potential). It is read as a distinct Odù with its own guidance, drawing on both influences.
+A warning is attached to a bright opportunity. Blessings are available, but they depend on keeping promises and making the right offering.
 
 ### Governing Influences
 
 * **Ìrosùn Méjì** — blood, sacrifice, warning, consequence (Ṣàngó / Ọya)
 * **Èjì Ogbè** — light, new beginnings, divine potential (Ọ̀rúnmìlà / Olódùmarè)
 
+
 ### Guidance
 
-When Ìrosùn-Ogbè appears, it suggests a situation where the lessons of Ìrosùn Méjì — blood, sacrifice, warning, consequence — must be balanced with the lessons of Èjì Ogbè — light, new beginnings, divine potential. Ìrosùn Méjì advises: Ìrosùn warns that actions have irreversible consequences, and that ẹbọ (sacrifice) — whether of time, pride, or resources — is often required to avert disaster. Èjì Ogbè adds: You were not born by accident. Together, they call for wisdom that honours both sides of this Odù.
+Pay what you owe, spiritually and practically, before moving ahead.
 
 - - -
 

@@ -8,28 +8,25 @@ parent2: owonrin-meji
 orisha: Ṣàngó / Ọ̀bàtálá; Èṣù / Ọ̀rúnmìlà
 theme: honour, boastfulness, the danger of pride, leadership; instability,
   change, the trickster's lesson, humility
-excerpt: Ọ̀bàrà-Ọ̀wọ́nrín combines the energy of Ọ̀bàrà Méjì (honour,
-  boastfulness, the danger of pride, leadership) with Ọ̀wọ́nrín Méjì
-  (instability, change, the trickster's lesson, humility). It is read as a
-  distinct Odù with its own guidance, drawing on both influences.
+excerpt: "Power is unstable when pride grows. The figure says that status changes quickly for those who lose humility."
 pattern_right: "I,II,II,II"
 pattern_left: "II,II,I,I"
 ---
-
 ## Ọ̀bàrà-Ọ̀wọ́nrín
 
-### Meaning
+### Overview
 
-Ọ̀bàrà-Ọ̀wọ́nrín combines the energy of Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership) with Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Power is unstable when pride grows. The figure says that status changes quickly for those who lose humility.
 
 ### Governing Influences
 
 - **Ọ̀bàrà Méjì** — honour, boastfulness, the danger of pride, leadership (Ṣàngó / Ọ̀bàtálá)
 - **Ọ̀wọ́nrín Méjì** — instability, change, the trickster's lesson, humility (Èṣù / Ọ̀rúnmìlà)
 
+
 ### Guidance
 
-When Ọ̀bàrà-Ọ̀wọ́nrín appears, it suggests a situation where the lessons of Ọ̀bàrà Méjì — honour, boastfulness, the danger of pride, leadership — must be balanced with the lessons of Ọ̀wọ́nrín Méjì — instability, change, the trickster's lesson, humility. Ọ̀bàrà Méjì advises: Ọ̀bàrà teaches that leadership and confidence are gifts, but boastfulness invites downfall. Ọ̀wọ́nrín Méjì adds: Ọ̀wọ́nrín teaches humility in success and resilience in reversal. Together, they call for wisdom that honours both sides of this Odù.
+Stay grounded and prepare for shifts in fortune.
 
 ---
 

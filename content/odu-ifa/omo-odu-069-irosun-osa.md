@@ -8,28 +8,25 @@ parent2: osa-meji
 orisha: Ṣàngó / Ọya; Ọya
 theme: blood, sacrifice, warning, consequence; upheaval, the whirlwind, sudden
   change, protection from harm
-excerpt: Ìrosùn-Ọ̀sá combines the energy of Ìrosùn Méjì (blood, sacrifice,
-  warning, consequence) with Ọ̀sá Méjì (upheaval, the whirlwind, sudden change,
-  protection from harm). It is read as a distinct Odù with its own guidance,
-  drawing on both influences.
+excerpt: "A storm threatens, and a sacrifice shelters. The figure advises preparing for upheaval by making offerings and holding to principle."
 pattern_right: "I,I,II,II"
 pattern_left: "II,I,I,I"
 ---
-
 ## Ìrosùn-Ọ̀sá
 
-### Meaning
+### Overview
 
-Ìrosùn-Ọ̀sá combines the energy of Ìrosùn Méjì (blood, sacrifice, warning, consequence) with Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm). It is read as a distinct Odù with its own guidance, drawing on both influences.
+A storm threatens, and a sacrifice shelters. The figure advises preparing for upheaval by making offerings and holding to principle.
 
 ### Governing Influences
 
 - **Ìrosùn Méjì** — blood, sacrifice, warning, consequence (Ṣàngó / Ọya)
 - **Ọ̀sá Méjì** — upheaval, the whirlwind, sudden change, protection from harm (Ọya)
 
+
 ### Guidance
 
-When Ìrosùn-Ọ̀sá appears, it suggests a situation where the lessons of Ìrosùn Méjì — blood, sacrifice, warning, consequence — must be balanced with the lessons of Ọ̀sá Méjì — upheaval, the whirlwind, sudden change, protection from harm. Ìrosùn Méjì advises: Ìrosùn warns that actions have irreversible consequences, and that ẹbọ (sacrifice) — whether of time, pride, or resources — is often required to avert disaster. Ọ̀sá Méjì adds: Ọ̀sá teaches resilience through sudden disruption. Together, they call for wisdom that honours both sides of this Odù.
+Protect what matters before trouble arrives.
 
 ---
 

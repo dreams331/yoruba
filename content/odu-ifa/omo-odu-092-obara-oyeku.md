@@ -8,28 +8,25 @@ parent2: oyeku-meji
 orisha: Ṣàngó / Ọ̀bàtálá; Ikú (Death) / Ọ̀sun
 theme: honour, boastfulness, the danger of pride, leadership; endings, the
   ancestors, the unseen world, mortality
-excerpt: Ọ̀bàrà-Ọ̀yẹ̀kú combines the energy of Ọ̀bàrà Méjì (honour,
-  boastfulness, the danger of pride, leadership) with Ọ̀yẹ̀kú Méjì (endings, the
-  ancestors, the unseen world, mortality). It is read as a distinct Odù with its
-  own guidance, drawing on both influences.
+excerpt: "Status is set against mortality. The figure reminds the proud that position is temporary and that respect for ancestors is lasting."
 pattern_right: "I,II,II,II"
 pattern_left: "II,II,II,II"
 ---
-
 ## Ọ̀bàrà-Ọ̀yẹ̀kú
 
-### Meaning
+### Overview
 
-Ọ̀bàrà-Ọ̀yẹ̀kú combines the energy of Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership) with Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Status is set against mortality. The figure reminds the proud that position is temporary and that respect for ancestors is lasting.
 
 ### Governing Influences
 
 - **Ọ̀bàrà Méjì** — honour, boastfulness, the danger of pride, leadership (Ṣàngó / Ọ̀bàtálá)
 - **Ọ̀yẹ̀kú Méjì** — endings, the ancestors, the unseen world, mortality (Ikú (Death) / Ọ̀sun)
 
+
 ### Guidance
 
-When Ọ̀bàrà-Ọ̀yẹ̀kú appears, it suggests a situation where the lessons of Ọ̀bàrà Méjì — honour, boastfulness, the danger of pride, leadership — must be balanced with the lessons of Ọ̀yẹ̀kú Méjì — endings, the ancestors, the unseen world, mortality. Ọ̀bàrà Méjì advises: Ọ̀bàrà teaches that leadership and confidence are gifts, but boastfulness invites downfall. Ọ̀yẹ̀kú Méjì adds: Ọ̀yẹ̀kú teaches respect for the ancestors, acceptance of mortality, and the understanding that every ending clears space for renewal. Together, they call for wisdom that honours both sides of this Odù.
+Use your standing to serve and remember those who came before.
 
 ---
 

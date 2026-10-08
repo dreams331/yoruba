@@ -8,28 +8,25 @@ parent2: otura-meji
 orisha: Ọya / Yemọja; Ọ̀rúnmìlà / Ọbàtálá
 theme: the womb, mystery, transformation, hidden depth; transformation, clarity
   after confusion, truth revealed
-excerpt: Òdí-Òtúrá combines the energy of Òdí Méjì (the womb, mystery,
-  transformation, hidden depth) with Òtúrá Méjì (transformation, clarity after
-  confusion, truth revealed). It is read as a distinct Odù with its own
-  guidance, drawing on both influences.
+excerpt: "Mystery gives way to clarity. Something kept in the dark for a long time is about to be explained, and a confused situation will become plain."
 pattern_right: "I,II,II,I"
 pattern_left: "I,II,I,I"
 ---
-
 ## Òdí-Òtúrá
 
-### Meaning
+### Overview
 
-Òdí-Òtúrá combines the energy of Òdí Méjì (the womb, mystery, transformation, hidden depth) with Òtúrá Méjì (transformation, clarity after confusion, truth revealed). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Mystery gives way to clarity. Something kept in the dark for a long time is about to be explained, and a confused situation will become plain.
 
 ### Governing Influences
 
 - **Òdí Méjì** — the womb, mystery, transformation, hidden depth (Ọya / Yemọja)
 - **Òtúrá Méjì** — transformation, clarity after confusion, truth revealed (Ọ̀rúnmìlà / Ọbàtálá)
 
+
 ### Guidance
 
-When Òdí-Òtúrá appears, it suggests a situation where the lessons of Òdí Méjì — the womb, mystery, transformation, hidden depth — must be balanced with the lessons of Òtúrá Méjì — transformation, clarity after confusion, truth revealed. Òdí Méjì advises: Òdí teaches patience with processes that are not yet visible — pregnancy, growth, and transformation take time in darkness before they emerge into light. Òtúrá Méjì adds: Òtúrá teaches that confusion and difficulty are often temporary, giving way to clarity for those who remain patient and truthful. Together, they call for wisdom that honours both sides of this Odù.
+Hold steady through the uncertainty; understanding is close.
 
 ---
 

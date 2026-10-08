@@ -8,28 +8,25 @@ parent2: irete-meji
 orisha: Ṣàngó / Ọya; Ọ̀rúnmìlà / Ọya
 theme: blood, sacrifice, warning, consequence; perseverance despite setbacks,
   hidden victory
-excerpt: Ìrosùn-Ìrẹtẹ̀ combines the energy of Ìrosùn Méjì (blood, sacrifice,
-  warning, consequence) with Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden
-  victory). It is read as a distinct Odù with its own guidance, drawing on both
-  influences.
+excerpt: "Hardship is survivable with perseverance. The figure promises eventual victory, provided you accept guidance and make the needed offering."
 pattern_right: "I,I,II,II"
 pattern_left: "I,I,II,I"
 ---
-
 ## Ìrosùn-Ìrẹtẹ̀
 
-### Meaning
+### Overview
 
-Ìrosùn-Ìrẹtẹ̀ combines the energy of Ìrosùn Méjì (blood, sacrifice, warning, consequence) with Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Hardship is survivable with perseverance. The figure promises eventual victory, provided you accept guidance and make the needed offering.
 
 ### Governing Influences
 
 - **Ìrosùn Méjì** — blood, sacrifice, warning, consequence (Ṣàngó / Ọya)
 - **Ìrẹtẹ̀ Méjì** — perseverance despite setbacks, hidden victory (Ọ̀rúnmìlà / Ọya)
 
+
 ### Guidance
 
-When Ìrosùn-Ìrẹtẹ̀ appears, it suggests a situation where the lessons of Ìrosùn Méjì — blood, sacrifice, warning, consequence — must be balanced with the lessons of Ìrẹtẹ̀ Méjì — perseverance despite setbacks, hidden victory. Ìrosùn Méjì advises: Ìrosùn warns that actions have irreversible consequences, and that ẹbọ (sacrifice) — whether of time, pride, or resources — is often required to avert disaster. Ìrẹtẹ̀ Méjì adds: Ìrẹtẹ̀ teaches resilience in adversity, especially struggles others cannot see. Together, they call for wisdom that honours both sides of this Odù.
+Persist, and do not skip the steps that safeguard your progress.
 
 ---
 

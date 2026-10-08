@@ -8,28 +8,25 @@ parent2: ofun-meji
 orisha: Ọya / Yemọja; Ọbàtálá / Olódùmarè
 theme: the womb, mystery, transformation, hidden depth; purity, old age,
   completion, moral integrity
-excerpt: Òdí-Òfún combines the energy of Òdí Méjì (the womb, mystery,
-  transformation, hidden depth) with Òfún Méjì (purity, old age, completion,
-  moral integrity). It is read as a distinct Odù with its own guidance, drawing
-  on both influences.
+excerpt: "The deep mystery is brought to a clean completion. The figure favours honesty, integrity and bringing hidden matters to a peaceful end."
 pattern_right: "I,II,II,I"
 pattern_left: "II,I,II,I"
 ---
-
 ## Òdí-Òfún
 
-### Meaning
+### Overview
 
-Òdí-Òfún combines the energy of Òdí Méjì (the womb, mystery, transformation, hidden depth) with Òfún Méjì (purity, old age, completion, moral integrity). It is read as a distinct Odù with its own guidance, drawing on both influences.
+The deep mystery is brought to a clean completion. The figure favours honesty, integrity and bringing hidden matters to a peaceful end.
 
 ### Governing Influences
 
 - **Òdí Méjì** — the womb, mystery, transformation, hidden depth (Ọya / Yemọja)
 - **Òfún Méjì** — purity, old age, completion, moral integrity (Ọbàtálá / Olódùmarè)
 
+
 ### Guidance
 
-When Òdí-Òfún appears, it suggests a situation where the lessons of Òdí Méjì — the womb, mystery, transformation, hidden depth — must be balanced with the lessons of Òfún Méjì — purity, old age, completion, moral integrity. Òdí Méjì advises: Òdí teaches patience with processes that are not yet visible — pregnancy, growth, and transformation take time in darkness before they emerge into light. Òfún Méjì adds: Òfún, closely tied to Ọbàtálá, teaches purity of character, patience, and the moral discipline required to age gracefully and finish life's journey with integrity intact. Together, they call for wisdom that honours both sides of this Odù.
+Act transparently and finish what you started with a clear conscience.
 
 ---
 

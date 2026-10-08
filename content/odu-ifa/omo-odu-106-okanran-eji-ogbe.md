@@ -7,25 +7,25 @@ parent1: "okanran-meji"
 parent2: "eji-ogbe"
 orisha: "Ọya / Ògún; Ọ̀rúnmìlà / Olódùmarè"
 theme: "conflict, truth-telling, sharp consequences; light, new beginnings, divine potential"
-excerpt: "Ọ̀kànràn-ÈjìOgbè combines the energy of Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences) with Èjì Ogbè (light, new beginnings, divine potential). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Truth walks into the light. The figure says that open honesty brings a fresh start, even when it begins as conflict."
 pattern_right: "II,II,II,I"
 pattern_left: "I,I,I,I"
 ---
-
 ## Ọ̀kànràn-ÈjìOgbè
 
-### Meaning
+### Overview
 
-Ọ̀kànràn-ÈjìOgbè combines the energy of Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences) with Èjì Ogbè (light, new beginnings, divine potential). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Truth walks into the light. The figure says that open honesty brings a fresh start, even when it begins as conflict.
 
 ### Governing Influences
 
 - **Ọ̀kànràn Méjì** — conflict, truth-telling, sharp consequences (Ọya / Ògún)
 - **Èjì Ogbè** — light, new beginnings, divine potential (Ọ̀rúnmìlà / Olódùmarè)
 
+
 ### Guidance
 
-When Ọ̀kànràn-ÈjìOgbè appears, it suggests a situation where the lessons of Ọ̀kànràn Méjì — conflict, truth-telling, sharp consequences — must be balanced with the lessons of Èjì Ogbè — light, new beginnings, divine potential. Ọ̀kànràn Méjì advises: Ọ̀kànràn exposes what is hidden and warns against betrayal, gossip, and dishonesty. Èjì Ogbè adds: You were not born by accident. Together, they call for wisdom that honours both sides of this Odù.
+Speak truthfully and let the air clear.
 
 ---
 

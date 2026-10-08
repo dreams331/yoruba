@@ -8,28 +8,25 @@ parent2: otura-meji
 orisha: Ṣàngó / Ọya; Ọ̀rúnmìlà / Ọbàtálá
 theme: blood, sacrifice, warning, consequence; transformation, clarity after
   confusion, truth revealed
-excerpt: Ìrosùn-Òtúrá combines the energy of Ìrosùn Méjì (blood, sacrifice,
-  warning, consequence) with Òtúrá Méjì (transformation, clarity after
-  confusion, truth revealed). It is read as a distinct Odù with its own
-  guidance, drawing on both influences.
+excerpt: "Clarity follows a cautionary lesson. After a period of trouble, the picture clears and the right course is revealed."
 pattern_right: "I,I,II,II"
 pattern_left: "I,II,I,I"
 ---
-
 ## Ìrosùn-Òtúrá
 
-### Meaning
+### Overview
 
-Ìrosùn-Òtúrá combines the energy of Ìrosùn Méjì (blood, sacrifice, warning, consequence) with Òtúrá Méjì (transformation, clarity after confusion, truth revealed). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Clarity follows a cautionary lesson. After a period of trouble, the picture clears and the right course is revealed.
 
 ### Governing Influences
 
 - **Ìrosùn Méjì** — blood, sacrifice, warning, consequence (Ṣàngó / Ọya)
 - **Òtúrá Méjì** — transformation, clarity after confusion, truth revealed (Ọ̀rúnmìlà / Ọbàtálá)
 
+
 ### Guidance
 
-When Ìrosùn-Òtúrá appears, it suggests a situation where the lessons of Ìrosùn Méjì — blood, sacrifice, warning, consequence — must be balanced with the lessons of Òtúrá Méjì — transformation, clarity after confusion, truth revealed. Ìrosùn Méjì advises: Ìrosùn warns that actions have irreversible consequences, and that ẹbọ (sacrifice) — whether of time, pride, or resources — is often required to avert disaster. Òtúrá Méjì adds: Òtúrá teaches that confusion and difficulty are often temporary, giving way to clarity for those who remain patient and truthful. Together, they call for wisdom that honours both sides of this Odù.
+Learn from what has happened and move forward with a clear mind.
 
 ---
 

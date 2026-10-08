@@ -7,25 +7,25 @@ parent1: "owonrin-meji"
 parent2: "osa-meji"
 orisha: "Èṣù / Ọ̀rúnmìlà; Ọya"
 theme: "instability, change, the trickster's lesson, humility; upheaval, the whirlwind, sudden change, protection from harm"
-excerpt: "Ọ̀wọ́nrín-Ọ̀sá combines the energy of Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility) with Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Double turbulence demands calm. The figure advises staying centred when events spin quickly and seeking shelter in sound principles."
 pattern_right: "II,II,I,I"
 pattern_left: "II,I,I,I"
 ---
-
 ## Ọ̀wọ́nrín-Ọ̀sá
 
-### Meaning
+### Overview
 
-Ọ̀wọ́nrín-Ọ̀sá combines the energy of Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility) with Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Double turbulence demands calm. The figure advises staying centred when events spin quickly and seeking shelter in sound principles.
 
 ### Governing Influences
 
 - **Ọ̀wọ́nrín Méjì** — instability, change, the trickster's lesson, humility (Èṣù / Ọ̀rúnmìlà)
 - **Ọ̀sá Méjì** — upheaval, the whirlwind, sudden change, protection from harm (Ọya)
 
+
 ### Guidance
 
-When Ọ̀wọ́nrín-Ọ̀sá appears, it suggests a situation where the lessons of Ọ̀wọ́nrín Méjì — instability, change, the trickster's lesson, humility — must be balanced with the lessons of Ọ̀sá Méjì — upheaval, the whirlwind, sudden change, protection from harm. Ọ̀wọ́nrín Méjì advises: Ọ̀wọ́nrín teaches humility in success and resilience in reversal. Ọ̀sá Méjì adds: Ọ̀sá teaches resilience through sudden disruption. Together, they call for wisdom that honours both sides of this Odù.
+Keep your composure and avoid major decisions in the middle of the storm.
 
 ---
 

@@ -8,28 +8,25 @@ parent2: ika-meji
 orisha: Ṣàngó / Ọ̀bàtálá; Ọya / Èṣù
 theme: honour, boastfulness, the danger of pride, leadership; cruelty,
   resentment, the need for restraint
-excerpt: Ọ̀bàrà-Ìká combines the energy of Ọ̀bàrà Méjì (honour, boastfulness,
-  the danger of pride, leadership) with Ìká Méjì (cruelty, resentment, the need
-  for restraint). It is read as a distinct Odù with its own guidance, drawing on
-  both influences.
+excerpt: "Pride attracts envy. The figure warns that visible success draws resentment, and that restraint is the best shield."
 pattern_right: "I,II,II,II"
 pattern_left: "II,I,II,II"
 ---
-
 ## Ọ̀bàrà-Ìká
 
-### Meaning
+### Overview
 
-Ọ̀bàrà-Ìká combines the energy of Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership) with Ìká Méjì (cruelty, resentment, the need for restraint). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Pride attracts envy. The figure warns that visible success draws resentment, and that restraint is the best shield.
 
 ### Governing Influences
 
 - **Ọ̀bàrà Méjì** — honour, boastfulness, the danger of pride, leadership (Ṣàngó / Ọ̀bàtálá)
 - **Ìká Méjì** — cruelty, resentment, the need for restraint (Ọya / Èṣù)
 
+
 ### Guidance
 
-When Ọ̀bàrà-Ìká appears, it suggests a situation where the lessons of Ọ̀bàrà Méjì — honour, boastfulness, the danger of pride, leadership — must be balanced with the lessons of Ìká Méjì — cruelty, resentment, the need for restraint. Ọ̀bàrà Méjì advises: Ọ̀bàrà teaches that leadership and confidence are gifts, but boastfulness invites downfall. Ìká Méjì adds: Ìká warns of the dangers of bitterness, envy, and vengeance — both suffering it and inflicting it. Together, they call for wisdom that honours both sides of this Odù.
+Be discreet about your achievements and generous toward critics.
 
 ---
 

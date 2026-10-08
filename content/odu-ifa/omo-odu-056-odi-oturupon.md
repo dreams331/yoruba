@@ -8,28 +8,25 @@ parent2: oturupon-meji
 orisha: Ọya / Yemọja; Ọbàtálá / Ọ̀rúnmìlà
 theme: the womb, mystery, transformation, hidden depth; illness and healing,
   secrets of the body, patience
-excerpt: Òdí-Òtúrúpọ̀n combines the energy of Òdí Méjì (the womb, mystery,
-  transformation, hidden depth) with Òtúrúpọ̀n Méjì (illness and healing,
-  secrets of the body, patience). It is read as a distinct Odù with its own
-  guidance, drawing on both influences.
+excerpt: "A hidden depth meets the work of healing. The figure says that what is gestating inside you needs patient, proper care before it can come to full strength."
 pattern_right: "I,II,II,I"
 pattern_left: "II,II,I,II"
 ---
-
 ## Òdí-Òtúrúpọ̀n
 
-### Meaning
+### Overview
 
-Òdí-Òtúrúpọ̀n combines the energy of Òdí Méjì (the womb, mystery, transformation, hidden depth) with Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience). It is read as a distinct Odù with its own guidance, drawing on both influences.
+A hidden depth meets the work of healing. The figure says that what is gestating inside you needs patient, proper care before it can come to full strength.
 
 ### Governing Influences
 
 - **Òdí Méjì** — the womb, mystery, transformation, hidden depth (Ọya / Yemọja)
 - **Òtúrúpọ̀n Méjì** — illness and healing, secrets of the body, patience (Ọbàtálá / Ọ̀rúnmìlà)
 
+
 ### Guidance
 
-When Òdí-Òtúrúpọ̀n appears, it suggests a situation where the lessons of Òdí Méjì — the womb, mystery, transformation, hidden depth — must be balanced with the lessons of Òtúrúpọ̀n Méjì — illness and healing, secrets of the body, patience. Òdí Méjì advises: Òdí teaches patience with processes that are not yet visible — pregnancy, growth, and transformation take time in darkness before they emerge into light. Òtúrúpọ̀n Méjì adds: Òtúrúpọ̀n calls for patience, proper diagnosis before action, and respect for the body's natural healing processes. Together, they call for wisdom that honours both sides of this Odù.
+Give recovery and slow-growing plans the time they need, and seek good counsel.
 
 ---
 

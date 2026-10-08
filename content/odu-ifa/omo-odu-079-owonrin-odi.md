@@ -8,28 +8,25 @@ parent2: odi-meji
 orisha: Èṣù / Ọ̀rúnmìlà; Ọya / Yemọja
 theme: instability, change, the trickster's lesson, humility; the womb, mystery,
   transformation, hidden depth
-excerpt: Ọ̀wọ́nrín-Òdí combines the energy of Ọ̀wọ́nrín Méjì (instability,
-  change, the trickster's lesson, humility) with Òdí Méjì (the womb, mystery,
-  transformation, hidden depth). It is read as a distinct Odù with its own
-  guidance, drawing on both influences.
+excerpt: "Change works in hidden ways. Transformation is underway beneath the surface, and the figure asks for patience with the process."
 pattern_right: "II,II,I,I"
 pattern_left: "I,II,II,I"
 ---
-
 ## Ọ̀wọ́nrín-Òdí
 
-### Meaning
+### Overview
 
-Ọ̀wọ́nrín-Òdí combines the energy of Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility) with Òdí Méjì (the womb, mystery, transformation, hidden depth). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Change works in hidden ways. Transformation is underway beneath the surface, and the figure asks for patience with the process.
 
 ### Governing Influences
 
 - **Ọ̀wọ́nrín Méjì** — instability, change, the trickster's lesson, humility (Èṣù / Ọ̀rúnmìlà)
 - **Òdí Méjì** — the womb, mystery, transformation, hidden depth (Ọya / Yemọja)
 
+
 ### Guidance
 
-When Ọ̀wọ́nrín-Òdí appears, it suggests a situation where the lessons of Ọ̀wọ́nrín Méjì — instability, change, the trickster's lesson, humility — must be balanced with the lessons of Òdí Méjì — the womb, mystery, transformation, hidden depth. Ọ̀wọ́nrín Méjì advises: Ọ̀wọ́nrín teaches humility in success and resilience in reversal. Òdí Méjì adds: Òdí teaches patience with processes that are not yet visible — pregnancy, growth, and transformation take time in darkness before they emerge into light. Together, they call for wisdom that honours both sides of this Odù.
+Trust that something is shifting for the better, even if you cannot yet see it.
 
 ---
 

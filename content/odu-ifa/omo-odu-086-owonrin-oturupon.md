@@ -8,28 +8,25 @@ parent2: oturupon-meji
 orisha: Èṣù / Ọ̀rúnmìlà; Ọbàtálá / Ọ̀rúnmìlà
 theme: instability, change, the trickster's lesson, humility; illness and
   healing, secrets of the body, patience
-excerpt: Ọ̀wọ́nrín-Òtúrúpọ̀n combines the energy of Ọ̀wọ́nrín Méjì (instability,
-  change, the trickster's lesson, humility) with Òtúrúpọ̀n Méjì (illness and
-  healing, secrets of the body, patience). It is read as a distinct Odù with its
-  own guidance, drawing on both influences.
+excerpt: "Changes affect the body and health. The figure advises rest, regular care and patience during recovery."
 pattern_right: "II,II,I,I"
 pattern_left: "II,II,I,II"
 ---
-
 ## Ọ̀wọ́nrín-Òtúrúpọ̀n
 
-### Meaning
+### Overview
 
-Ọ̀wọ́nrín-Òtúrúpọ̀n combines the energy of Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility) with Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Changes affect the body and health. The figure advises rest, regular care and patience during recovery.
 
 ### Governing Influences
 
 - **Ọ̀wọ́nrín Méjì** — instability, change, the trickster's lesson, humility (Èṣù / Ọ̀rúnmìlà)
 - **Òtúrúpọ̀n Méjì** — illness and healing, secrets of the body, patience (Ọbàtálá / Ọ̀rúnmìlà)
 
+
 ### Guidance
 
-When Ọ̀wọ́nrín-Òtúrúpọ̀n appears, it suggests a situation where the lessons of Ọ̀wọ́nrín Méjì — instability, change, the trickster's lesson, humility — must be balanced with the lessons of Òtúrúpọ̀n Méjì — illness and healing, secrets of the body, patience. Ọ̀wọ́nrín Méjì advises: Ọ̀wọ́nrín teaches humility in success and resilience in reversal. Òtúrúpọ̀n Méjì adds: Òtúrúpọ̀n calls for patience, proper diagnosis before action, and respect for the body's natural healing processes. Together, they call for wisdom that honours both sides of this Odù.
+Look after your wellbeing while circumstances shift.
 
 ---
 
