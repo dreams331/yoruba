@@ -210,6 +210,17 @@ function toPlainExcerpt(html, maxLen = 160) {
     return text.length > maxLen ? text.slice(0, maxLen).trim() + '…' : text;
 }
 
+// Trim text to the last complete sentence within maxLen (never cuts mid-sentence)
+function toSentenceExcerpt(text, maxLen = 220) {
+    const t = String(text || '').replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim()
+        .replace(/^(?:#+\s*)?I\s?ntroduction\b[:.\-–—]?\s*/i, '');
+    if (t.length <= maxLen) return t;
+    const cut = t.slice(0, maxLen);
+    const m = cut.match(/^[\s\S]*[.!?](?=\s|$)/);
+    if (m && m[0].length >= 60) return m[0].trim();
+    return cut.replace(/\s+\S*$/, '').replace(/[,;:\-–—]+$/, '') + '…';
+}
+
 // Build a static HTML snippet of content cards for a given collection,
 // so crawlers that don't execute JavaScript still see real, substantive content.
 // The JS-driven grid will still re-render on top of this for interactive filtering/search.
@@ -639,10 +650,10 @@ function writeFeed(results, detailUrlsBySection) {
             items.push({
                 title: i.title,
                 link: `${SITE}/${staticDetailUrl(key, slugs.get(i))}`,
-                desc: i.excerpt || toPlainExcerpt(i.htmlContent || i.content, 200),
+                desc: toSentenceExcerpt(/[.!?…]$/.test(String(i.excerpt || '').trim()) ? i.excerpt : (i.htmlContent || i.content), 220),
                 date: d,
                 category: i.category || DETAIL_SECTIONS[key].label,
-                image: i.image
+                image: i.image || 'images/uploads/yoruba-people.jpg'
             });
         });
     });
