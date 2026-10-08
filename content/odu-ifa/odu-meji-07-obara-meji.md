@@ -33,6 +33,31 @@ The Odu of honour and pride — the gift and the danger of confidence.
 
 Ọ̀bàrà teaches that leadership and confidence are gifts, but boastfulness invites downfall. True honour is shown through humility and generosity, not empty declarations.
 
+### Overview
+
+Ọ̀bàrà Méjì is connected with confidence, public standing and leadership. It treats these as real strengths that need guarding against their most common weakness, which is boastfulness. A person who speaks beyond what they have done invites a fall.
+
+### Core Themes
+
+- Leadership and public responsibility
+- Pride and its consequences
+- Generosity as proof of real honour
+- Keeping promises and commitments
+
+### Everyday Guidance
+
+Read practically, this figure advises that a person should let results speak. Say less than you can do, deliver what you say, and share credit. Reputation built that way is stronger than one built on announcements.
+
+### Reflection
+
+Do my actions match what I say about myself?
+
+### In the Wider System
+
+This is a principal figure (Odù Méjì). It is the first parent of 15 of the 240 compound figures (Omo Odù), and the second parent of another 15. Each of those inherits something of this figure's character and adds the influence of its partner.
+
+*This page is an interpretive summary written for general readers. Practising priests (babaláwo) hold the full oral corpus (ẹsẹ Ifá) for each Odù, which is learned through apprenticeship and is not reproduced here.*
+
 ---
 
 *This is one of the 16 principal Odù Ifá (Odù Méjì) — the senior figures from which all 240 Omo Odù are formed by combination.*

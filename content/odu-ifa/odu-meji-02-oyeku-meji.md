@@ -33,6 +33,31 @@ Ikú (Death) / Ọ̀sun
 
 Ọ̀yẹ̀kú teaches respect for the ancestors, acceptance of mortality, and the understanding that every ending clears space for renewal. It warns against arrogance in the face of life's fragility.
 
+### Overview
+
+Ọ̀yẹ̀kú Méjì is made of four closed marks on both sides, the mirror of Èjì Ogbè. If Ogbè is light, Ọ̀yẹ̀kú is the darkness that holds, rests and receives. In Yorùbá thought this is not only loss: night, sleep and the ancestors are part of the cycle that makes new life possible.
+
+### Core Themes
+
+- Respect for ancestors and elders
+- Honest acceptance that life is finite
+- Endings as preparation for renewal
+- Rest, stillness and the value of what is not seen
+
+### Everyday Guidance
+
+Read in daily life, this figure asks a person to honour those who came before, settle unfinished obligations, and stop treating limits as enemies. It cautions against pride about health, wealth or status, since all of them are borrowed for a time.
+
+### Reflection
+
+What do I need to close properly so that something new can begin?
+
+### In the Wider System
+
+This is a principal figure (Odù Méjì). It is the first parent of 15 of the 240 compound figures (Omo Odù), and the second parent of another 15. Each of those inherits something of this figure's character and adds the influence of its partner.
+
+*This page is an interpretive summary written for general readers. Practising priests (babaláwo) hold the full oral corpus (ẹsẹ Ifá) for each Odù, which is learned through apprenticeship and is not reproduced here.*
+
 ---
 
 *This is one of the 16 principal Odù Ifá (Odù Méjì) — the senior figures from which all 240 Omo Odù are formed by combination.*
