@@ -8,8 +8,8 @@ parent2: "otura-meji"
 orisha: "Ọbàtálá / Ọ̀rúnmìlà; Ọ̀rúnmìlà / Ọbàtálá"
 theme: "illness and healing, secrets of the body, patience; transformation, clarity after confusion, truth revealed"
 excerpt: "Òtúrúpọ̀n-Òtúrá combines the energy of Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience) with Òtúrá Méjì (transformation, clarity after confusion, truth revealed). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,I,I"
-pattern_left: "I,I,II,I"
+pattern_right: "II,II,I,II"
+pattern_left: "I,II,I,I"
 ---
 
 ## Òtúrúpọ̀n-Òtúrá

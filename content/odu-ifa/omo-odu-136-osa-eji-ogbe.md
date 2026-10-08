@@ -8,7 +8,7 @@ parent2: "eji-ogbe"
 orisha: "Ọya; Ọ̀rúnmìlà / Olódùmarè"
 theme: "upheaval, the whirlwind, sudden change, protection from harm; light, new beginnings, divine potential"
 excerpt: "Ọ̀sá-ÈjìOgbè combines the energy of Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm) with Èjì Ogbè (light, new beginnings, divine potential). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,II,I"
+pattern_right: "II,I,I,I"
 pattern_left: "I,I,I,I"
 ---
 

@@ -12,8 +12,8 @@ excerpt: Ìrosùn-Ọ̀sá combines the energy of Ìrosùn Méjì (blood, sacrif
   warning, consequence) with Ọ̀sá Méjì (upheaval, the whirlwind, sudden change,
   protection from harm). It is read as a distinct Odù with its own guidance,
   drawing on both influences.
-pattern_right: I,I,II,II
-pattern_left: II,I,I,I
+pattern_right: "I,I,II,II"
+pattern_left: "II,I,I,I"
 ---
 
 ## Ìrosùn-Ọ̀sá

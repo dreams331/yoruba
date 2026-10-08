@@ -8,8 +8,8 @@ parent2: "odi-meji"
 orisha: "Ọ̀rúnmìlà / Ọbàtálá; Ọya / Yemọja"
 theme: "transformation, clarity after confusion, truth revealed; the womb, mystery, transformation, hidden depth"
 excerpt: "Òtúrá-Òdí combines the energy of Òtúrá Méjì (transformation, clarity after confusion, truth revealed) with Òdí Méjì (the womb, mystery, transformation, hidden depth). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,I,II,I"
-pattern_left: "II,I,I,II"
+pattern_right: "I,II,I,I"
+pattern_left: "I,II,II,I"
 ---
 
 ## Òtúrá-Òdí

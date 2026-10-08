@@ -8,7 +8,7 @@ parent2: "oyeku-meji"
 orisha: "Ọbàtálá / Ọ̀rúnmìlà; Ikú (Death) / Ọ̀sun"
 theme: "illness and healing, secrets of the body, patience; endings, the ancestors, the unseen world, mortality"
 excerpt: "Òtúrúpọ̀n-Ọ̀yẹ̀kú combines the energy of Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience) with Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,I,I"
+pattern_right: "II,II,I,II"
 pattern_left: "II,II,II,II"
 ---
 

@@ -11,8 +11,8 @@ theme: light, new beginnings, divine potential; self-knowledge, hidden truth,
 excerpt: Ogbè-Ìwòrì combines the energy of Ogbè (light, new beginnings, divine
   potential) with Ìwòrì Méjì (self-knowledge, hidden truth, inner vision). It is
   read as a distinct Odù with its own guidance, drawing on both influences.
-pattern_right: I,I,I,I
-pattern_left: II,I,I,II
+pattern_right: "I,I,I,I"
+pattern_left: "II,I,I,II"
 ---
 ## Ogbè-Ìwòrì
 

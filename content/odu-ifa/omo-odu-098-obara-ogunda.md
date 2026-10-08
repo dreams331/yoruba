@@ -12,8 +12,8 @@ excerpt: Ọ̀bàrà-Ògúndá combines the energy of Ọ̀bàrà Méjì (honour
   the danger of pride, leadership) with Ògúndá Méjì (struggle, tools,
   perseverance, clearing the path). It is read as a distinct Odù with its own
   guidance, drawing on both influences.
-pattern_right: I,II,II,II
-pattern_left: I,I,I,II
+pattern_right: "I,II,II,II"
+pattern_left: "I,I,I,II"
 ---
 
 ## Ọ̀bàrà-Ògúndá

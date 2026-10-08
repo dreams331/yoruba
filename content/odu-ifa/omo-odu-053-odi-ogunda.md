@@ -12,8 +12,8 @@ excerpt: Òdí-Ògúndá combines the energy of Òdí Méjì (the womb, mystery,
   transformation, hidden depth) with Ògúndá Méjì (struggle, tools, perseverance,
   clearing the path). It is read as a distinct Odù with its own guidance,
   drawing on both influences.
-pattern_right: I,II,II,I
-pattern_left: I,I,I,II
+pattern_right: "I,II,II,I"
+pattern_left: "I,I,I,II"
 ---
 
 ## Òdí-Ògúndá

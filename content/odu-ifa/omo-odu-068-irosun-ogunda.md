@@ -12,8 +12,8 @@ excerpt: Ìrosùn-Ògúndá combines the energy of Ìrosùn Méjì (blood, sacri
   warning, consequence) with Ògúndá Méjì (struggle, tools, perseverance,
   clearing the path). It is read as a distinct Odù with its own guidance,
   drawing on both influences.
-pattern_right: I,I,II,II
-pattern_left: I,I,I,II
+pattern_right: "I,I,II,II"
+pattern_left: "I,I,I,II"
 ---
 
 ## Ìrosùn-Ògúndá

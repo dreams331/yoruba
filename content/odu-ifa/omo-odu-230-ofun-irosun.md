@@ -8,7 +8,7 @@ parent2: "irosun-meji"
 orisha: "Ọbàtálá / Olódùmarè; Ṣàngó / Ọya"
 theme: "purity, old age, completion, moral integrity; blood, sacrifice, warning, consequence"
 excerpt: "Òfún-Ìrosùn combines the energy of Òfún Méjì (purity, old age, completion, moral integrity) with Ìrosùn Méjì (blood, sacrifice, warning, consequence). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,II,II"
+pattern_right: "II,I,II,I"
 pattern_left: "I,I,II,II"
 ---
 

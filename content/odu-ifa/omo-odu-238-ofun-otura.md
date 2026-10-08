@@ -8,8 +8,8 @@ parent2: "otura-meji"
 orisha: "Ọbàtálá / Olódùmarè; Ọ̀rúnmìlà / Ọbàtálá"
 theme: "purity, old age, completion, moral integrity; transformation, clarity after confusion, truth revealed"
 excerpt: "Òfún-Òtúrá combines the energy of Òfún Méjì (purity, old age, completion, moral integrity) with Òtúrá Méjì (transformation, clarity after confusion, truth revealed). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,II,II"
-pattern_left: "I,I,II,I"
+pattern_right: "II,I,II,I"
+pattern_left: "I,II,I,I"
 ---
 
 ## Òfún-Òtúrá

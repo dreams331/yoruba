@@ -8,7 +8,7 @@ parent2: "oyeku-meji"
 orisha: "Ọ̀ṣun; Ikú (Death) / Ọ̀sun"
 theme: "blessings, sweetness, abundance, gratitude; endings, the ancestors, the unseen world, mortality"
 excerpt: "Ọ̀ṣẹ́-Ọ̀yẹ̀kú combines the energy of Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude) with Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,I,II"
+pattern_right: "I,II,I,II"
 pattern_left: "II,II,II,II"
 ---
 

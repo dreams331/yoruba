@@ -8,8 +8,8 @@ parent2: "odi-meji"
 orisha: "Ọya / Ògún; Ọya / Yemọja"
 theme: "conflict, truth-telling, sharp consequences; the womb, mystery, transformation, hidden depth"
 excerpt: "Ọ̀kànràn-Òdí combines the energy of Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences) with Òdí Méjì (the womb, mystery, transformation, hidden depth). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,I,I"
-pattern_left: "II,I,I,II"
+pattern_right: "II,II,II,I"
+pattern_left: "I,II,II,I"
 ---
 
 ## Ọ̀kànràn-Òdí

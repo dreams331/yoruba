@@ -8,8 +8,8 @@ parent2: "ogunda-meji"
 orisha: "Ọ̀rúnmìlà / Ọya; Ògún"
 theme: "perseverance despite setbacks, hidden victory; struggle, tools, perseverance, clearing the path"
 excerpt: "Ìrẹtẹ̀-Ògúndá combines the energy of Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory) with Ògúndá Méjì (struggle, tools, perseverance, clearing the path). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,I,I"
-pattern_left: "I,II,II,II"
+pattern_right: "I,I,II,I"
+pattern_left: "I,I,I,II"
 ---
 
 ## Ìrẹtẹ̀-Ògúndá

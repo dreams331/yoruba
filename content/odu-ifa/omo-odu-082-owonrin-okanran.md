@@ -12,8 +12,8 @@ excerpt: Ọ̀wọ́nrín-Ọ̀kànràn combines the energy of Ọ̀wọ́nrín 
   change, the trickster's lesson, humility) with Ọ̀kànràn Méjì (conflict,
   truth-telling, sharp consequences). It is read as a distinct Odù with its own
   guidance, drawing on both influences.
-pattern_right: II,II,I,I
-pattern_left: II,II,II,I
+pattern_right: "II,II,I,I"
+pattern_left: "II,II,II,I"
 ---
 
 ## Ọ̀wọ́nrín-Ọ̀kànràn

@@ -12,8 +12,8 @@ excerpt: Ogbè-Ọ̀kànràn combines the energy of Èjì Ogbè (light, new begi
   divine potential) with Ọ̀kànràn Méjì (conflict, truth-telling, sharp
   consequences). It is read as a distinct Odù with its own guidance, drawing on
   both influences.
-pattern_right: I,I,I,I
-pattern_left: II,II,II,I
+pattern_right: "I,I,I,I"
+pattern_left: "II,II,II,I"
 ---
 ## Ogbè-Ọ̀kànràn
 

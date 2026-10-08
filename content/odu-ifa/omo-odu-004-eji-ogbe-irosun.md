@@ -10,8 +10,8 @@ theme: light, new beginnings, divine potential; blood, sacrifice, warning, conse
 excerpt: Ogbè-Ìrosùn combines the energy of Ogbè (light, new beginnings, divine
   potential) with Ìrosùn Méjì (blood, sacrifice, warning, consequence). It is
   read as a distinct Odù with its own guidance, drawing on both influences.
-pattern_right: I,I,I,I
-pattern_left: I,I,II,II
+pattern_right: "I,I,I,I"
+pattern_left: "I,I,II,II"
 ---
 ## Ogbè-Ìrosùn
 

@@ -3,7 +3,7 @@ title: Ogbè-Ìká
 number: 26
 category: Omo Odu
 slug: ogbe-ika
-parent1: ogbe
+parent1: eji-ogbe
 parent2: ika-meji
 orisha: Ọ̀rúnmìlà / Olódùmarè; Ọya / Èṣù
 theme: light, new beginnings, divine potential; cruelty, resentment, the need
@@ -11,8 +11,8 @@ theme: light, new beginnings, divine potential; cruelty, resentment, the need
 excerpt: Ogbè-Ìká combines the energy of Èjì Ogbè (light, new beginnings, divine
   potential) with Ìká Méjì (cruelty, resentment, the need for restraint). It is
   read as a distinct Odù with its own guidance, drawing on both influences.
-pattern_right: I,I,I,I
-pattern_left: II,I,II,II
+pattern_right: "I,I,I,I"
+pattern_left: "II,I,II,II"
 ---
 ## Ogbè-Ìká
 

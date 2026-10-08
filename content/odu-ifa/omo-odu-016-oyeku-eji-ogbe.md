@@ -12,8 +12,8 @@ excerpt: Ọ̀yẹ̀kú-Ogbè combines the energy of Ọ̀yẹ̀kú Méjì (endi
   ancestors, the unseen world, mortality) with Èjì Ogbè (light, new beginnings,
   divine potential). It is read as a distinct Odù with its own guidance, drawing
   on both influences.
-pattern_right: II,II,II,II
-pattern_left: I,I,I,I
+pattern_right: "II,II,II,II"
+pattern_left: "I,I,I,I"
 ---
 ## Ọ̀yẹ̀kú-ÈjìOgbè
 

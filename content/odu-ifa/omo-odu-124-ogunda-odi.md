@@ -8,8 +8,8 @@ parent2: "odi-meji"
 orisha: "Ògún; Ọya / Yemọja"
 theme: "struggle, tools, perseverance, clearing the path; the womb, mystery, transformation, hidden depth"
 excerpt: "Ògúndá-Òdí combines the energy of Ògúndá Méjì (struggle, tools, perseverance, clearing the path) with Òdí Méjì (the womb, mystery, transformation, hidden depth). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,II,II"
-pattern_left: "II,I,I,II"
+pattern_right: "I,I,I,II"
+pattern_left: "I,II,II,I"
 ---
 
 ## Ògúndá-Òdí

@@ -12,8 +12,8 @@ excerpt: Òdí-Ìwòrì combines the energy of Òdí Méjì (the womb, mystery,
   transformation, hidden depth) with Ìwòrì Méjì (self-knowledge, hidden truth,
   inner vision). It is read as a distinct Odù with its own guidance, drawing on
   both influences.
-pattern_right: I,II,II,I
-pattern_left: II,I,I,II
+pattern_right: "I,II,II,I"
+pattern_left: "II,I,I,II"
 ---
 
 ## Òdí-Ìwòrì

@@ -12,8 +12,8 @@ excerpt: Ogbè-Òtúrá combines the energy of Èjì Ogbè (light, new beginning
   divine potential) with Òtúrá Méjì (transformation, clarity after confusion,
   truth revealed). It is read as a distinct Odù with its own guidance, drawing
   on both influences.
-pattern_right: I,I,I,I
-pattern_left: I,II,I,I
+pattern_right: "I,I,I,I"
+pattern_left: "I,II,I,I"
 ---
 ## Ogbè-Òtúrá
 

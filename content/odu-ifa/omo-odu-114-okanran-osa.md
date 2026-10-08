@@ -8,8 +8,8 @@ parent2: "osa-meji"
 orisha: "Ọya / Ògún; Ọya"
 theme: "conflict, truth-telling, sharp consequences; upheaval, the whirlwind, sudden change, protection from harm"
 excerpt: "Ọ̀kànràn-Ọ̀sá combines the energy of Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences) with Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,I,I"
-pattern_left: "II,II,II,I"
+pattern_right: "II,II,II,I"
+pattern_left: "II,I,I,I"
 ---
 
 ## Ọ̀kànràn-Ọ̀sá

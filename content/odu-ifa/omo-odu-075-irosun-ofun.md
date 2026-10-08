@@ -12,8 +12,8 @@ excerpt: Ìrosùn-Òfún combines the energy of Ìrosùn Méjì (blood, sacrific
   warning, consequence) with Òfún Méjì (purity, old age, completion, moral
   integrity). It is read as a distinct Odù with its own guidance, drawing on
   both influences.
-pattern_right: I,I,II,II
-pattern_left: II,I,II,I
+pattern_right: "I,I,II,II"
+pattern_left: "II,I,II,I"
 ---
 
 ## Ìrosùn-Òfún

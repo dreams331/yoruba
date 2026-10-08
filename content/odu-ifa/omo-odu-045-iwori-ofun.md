@@ -12,8 +12,8 @@ excerpt: Ìwòrì-Òfún combines the energy of Ìwòrì Méjì (self-knowledge,
   truth, inner vision) with Òfún Méjì (purity, old age, completion, moral
   integrity). It is read as a distinct Odù with its own guidance, drawing on
   both influences.
-pattern_right: II,I,I,II
-pattern_left: II,I,II,I
+pattern_right: "II,I,I,II"
+pattern_left: "II,I,II,I"
 ---
 
 ## Ìwòrì-Òfún

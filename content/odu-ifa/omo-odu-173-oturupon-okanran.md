@@ -8,8 +8,8 @@ parent2: "okanran-meji"
 orisha: "Ọbàtálá / Ọ̀rúnmìlà; Ọya / Ògún"
 theme: "illness and healing, secrets of the body, patience; conflict, truth-telling, sharp consequences"
 excerpt: "Òtúrúpọ̀n-Ọ̀kànràn combines the energy of Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience) with Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,I,I"
-pattern_left: "II,I,I,I"
+pattern_right: "II,II,I,II"
+pattern_left: "II,II,II,I"
 ---
 
 ## Òtúrúpọ̀n-Ọ̀kànràn

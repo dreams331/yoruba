@@ -8,8 +8,8 @@ parent2: "osa-meji"
 orisha: "Èṣù / Ọ̀rúnmìlà; Ọya"
 theme: "instability, change, the trickster's lesson, humility; upheaval, the whirlwind, sudden change, protection from harm"
 excerpt: "Ọ̀wọ́nrín-Ọ̀sá combines the energy of Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility) with Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,II,I"
-pattern_left: "II,II,II,I"
+pattern_right: "II,II,I,I"
+pattern_left: "II,I,I,I"
 ---
 
 ## Ọ̀wọ́nrín-Ọ̀sá

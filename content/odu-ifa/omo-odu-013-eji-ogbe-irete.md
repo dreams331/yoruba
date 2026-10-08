@@ -12,8 +12,8 @@ excerpt: Ogbè-Ìrẹtẹ̀ combines the energy of Èjì Ogbè (light, new begin
   divine potential) with Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden
   victory). It is read as a distinct Odù with its own guidance, drawing on both
   influences.
-pattern_right: I,I,I,I
-pattern_left: I,I,II,I
+pattern_right: "I,I,I,I"
+pattern_left: "I,I,II,I"
 ---
 ## Ogbè-Ìrẹtẹ̀
 

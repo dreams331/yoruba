@@ -8,8 +8,8 @@ parent2: "iwori-meji"
 orisha: "Ọ̀rúnmìlà / Ọya; Ọ̀sanyìn / Ọ̀rúnmìlà"
 theme: "perseverance despite setbacks, hidden victory; self-knowledge, hidden truth, inner vision"
 excerpt: "Ìrẹtẹ̀-Ìwòrì combines the energy of Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory) with Ìwòrì Méjì (self-knowledge, hidden truth, inner vision). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,I,I"
-pattern_left: "I,II,I,II"
+pattern_right: "I,I,II,I"
+pattern_left: "II,I,I,II"
 ---
 
 ## Ìrẹtẹ̀-Ìwòrì

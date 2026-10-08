@@ -8,7 +8,7 @@ parent2: "oyeku-meji"
 orisha: "Ọya; Ikú (Death) / Ọ̀sun"
 theme: "upheaval, the whirlwind, sudden change, protection from harm; endings, the ancestors, the unseen world, mortality"
 excerpt: "Ọ̀sá-Ọ̀yẹ̀kú combines the energy of Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm) with Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,II,I"
+pattern_right: "II,I,I,I"
 pattern_left: "II,II,II,II"
 ---
 

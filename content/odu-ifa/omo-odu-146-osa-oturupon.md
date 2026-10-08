@@ -8,8 +8,8 @@ parent2: "oturupon-meji"
 orisha: "Ọya; Ọbàtálá / Ọ̀rúnmìlà"
 theme: "upheaval, the whirlwind, sudden change, protection from harm; illness and healing, secrets of the body, patience"
 excerpt: "Ọ̀sá-Òtúrúpọ̀n combines the energy of Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm) with Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,II,I"
-pattern_left: "II,II,I,I"
+pattern_right: "II,I,I,I"
+pattern_left: "II,II,I,II"
 ---
 
 ## Ọ̀sá-Òtúrúpọ̀n

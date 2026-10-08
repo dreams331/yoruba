@@ -8,8 +8,8 @@ parent2: "obara-meji"
 orisha: "Ọ̀ṣun; Ṣàngó / Ọ̀bàtálá"
 theme: "blessings, sweetness, abundance, gratitude; honour, boastfulness, the danger of pride, leadership"
 excerpt: "Ọ̀ṣẹ́-Ọ̀bàrà combines the energy of Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude) with Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,I,II"
-pattern_left: "I,I,I,II"
+pattern_right: "I,II,I,II"
+pattern_left: "I,II,II,II"
 ---
 
 ## Ọ̀ṣẹ́-Ọ̀bàrà

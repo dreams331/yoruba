@@ -12,8 +12,8 @@ excerpt: Ọ̀yẹ̀kú-Ọ̀wọ́nrín combines the energy of Ọ̀yẹ̀kú M
   ancestors, the unseen world, mortality) with Ọ̀wọ́nrín Méjì (instability,
   change, the trickster's lesson, humility). It is read as a distinct Odù with
   its own guidance, drawing on both influences.
-pattern_right: II,II,II,II
-pattern_left: II,II,I,I
+pattern_right: "II,II,II,II"
+pattern_left: "II,II,I,I"
 ---
 
 ## Ọ̀yẹ̀kú-Ọ̀wọ́nrín

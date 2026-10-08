@@ -12,8 +12,8 @@ excerpt: Òdí-Òtúrá combines the energy of Òdí Méjì (the womb, mystery,
   transformation, hidden depth) with Òtúrá Méjì (transformation, clarity after
   confusion, truth revealed). It is read as a distinct Odù with its own
   guidance, drawing on both influences.
-pattern_right: I,II,II,I
-pattern_left: I,II,I,I
+pattern_right: "I,II,II,I"
+pattern_left: "I,II,I,I"
 ---
 
 ## Òdí-Òtúrá

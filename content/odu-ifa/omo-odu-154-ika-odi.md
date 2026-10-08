@@ -8,8 +8,8 @@ parent2: "odi-meji"
 orisha: "Ọya / Èṣù; Ọya / Yemọja"
 theme: "cruelty, resentment, the need for restraint; the womb, mystery, transformation, hidden depth"
 excerpt: "Ìká-Òdí combines the energy of Ìká Méjì (cruelty, resentment, the need for restraint) with Òdí Méjì (the womb, mystery, transformation, hidden depth). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,II,I"
-pattern_left: "II,I,I,II"
+pattern_right: "II,I,II,II"
+pattern_left: "I,II,II,I"
 ---
 
 ## Ìká-Òdí

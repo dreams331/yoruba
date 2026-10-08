@@ -12,8 +12,8 @@ excerpt: Ogbè-Ọ̀ṣẹ́ combines the energy of Èjì Ogbè (light, new begi
   divine potential) with Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance,
   gratitude). It is read as a distinct Odù with its own guidance, drawing on
   both influences.
-pattern_right: I,I,I,I
-pattern_left: I,II,I,II
+pattern_right: "I,I,I,I"
+pattern_left: "I,II,I,II"
 ---
 ## Ogbè-Ọ̀ṣẹ́
 

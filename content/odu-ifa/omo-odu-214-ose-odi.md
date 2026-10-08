@@ -8,8 +8,8 @@ parent2: "odi-meji"
 orisha: "Ọ̀ṣun; Ọya / Yemọja"
 theme: "blessings, sweetness, abundance, gratitude; the womb, mystery, transformation, hidden depth"
 excerpt: "Ọ̀ṣẹ́-Òdí combines the energy of Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude) with Òdí Méjì (the womb, mystery, transformation, hidden depth). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,I,II"
-pattern_left: "II,I,I,II"
+pattern_right: "I,II,I,II"
+pattern_left: "I,II,II,I"
 ---
 
 ## Ọ̀ṣẹ́-Òdí

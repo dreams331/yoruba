@@ -8,7 +8,7 @@ parent2: "eji-ogbe"
 orisha: "Ọbàtálá / Olódùmarè; Ọ̀rúnmìlà / Olódùmarè"
 theme: "purity, old age, completion, moral integrity; light, new beginnings, divine potential"
 excerpt: "Òfún-ÈjìOgbè combines the energy of Òfún Méjì (purity, old age, completion, moral integrity) with Èjì Ogbè (light, new beginnings, divine potential). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,II,II"
+pattern_right: "II,I,II,I"
 pattern_left: "I,I,I,I"
 ---
 

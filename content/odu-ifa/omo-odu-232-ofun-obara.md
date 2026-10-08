@@ -8,8 +8,8 @@ parent2: "obara-meji"
 orisha: "Ọbàtálá / Olódùmarè; Ṣàngó / Ọ̀bàtálá"
 theme: "purity, old age, completion, moral integrity; honour, boastfulness, the danger of pride, leadership"
 excerpt: "Òfún-Ọ̀bàrà combines the energy of Òfún Méjì (purity, old age, completion, moral integrity) with Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,II,II"
-pattern_left: "I,I,I,II"
+pattern_right: "II,I,II,I"
+pattern_left: "I,II,II,II"
 ---
 
 ## Òfún-Ọ̀bàrà

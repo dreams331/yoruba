@@ -12,8 +12,8 @@ excerpt: Ọ̀wọ́nrín-Ọ̀ṣẹ́ combines the energy of Ọ̀wọ́nrín 
   change, the trickster's lesson, humility) with Ọ̀ṣẹ́ Méjì (blessings,
   sweetness, abundance, gratitude). It is read as a distinct Odù with its own
   guidance, drawing on both influences.
-pattern_right: II,II,I,I
-pattern_left: I,II,I,II
+pattern_right: "II,II,I,I"
+pattern_left: "I,II,I,II"
 ---
 
 ## Ọ̀wọ́nrín-Ọ̀ṣẹ́

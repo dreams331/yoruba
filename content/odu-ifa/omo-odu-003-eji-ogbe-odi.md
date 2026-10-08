@@ -11,8 +11,8 @@ theme: light, new beginnings, divine potential; the womb, mystery,
 excerpt: Ogbè-Òdí combines the energy of Èjì Ogbè (light, new beginnings, divine
   potential) with Òdí Méjì (the womb, mystery, transformation, hidden depth). It
   is read as a distinct Odù with its own guidance, drawing on both influences.
-pattern_right: I,I,I,I
-pattern_left: I,II,II,I
+pattern_right: "I,I,I,I"
+pattern_left: "I,II,II,I"
 ---
 ## Ogbè-Òdí
 

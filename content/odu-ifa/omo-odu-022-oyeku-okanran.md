@@ -12,8 +12,8 @@ excerpt: Ọ̀yẹ̀kú-Ọ̀kànràn combines the energy of Ọ̀yẹ̀kú Méj
   ancestors, the unseen world, mortality) with Ọ̀kànràn Méjì (conflict,
   truth-telling, sharp consequences). It is read as a distinct Odù with its own
   guidance, drawing on both influences.
-pattern_right: II,II,II,II
-pattern_left: II,II,II,I
+pattern_right: "II,II,II,II"
+pattern_left: "II,II,II,I"
 ---
 
 ## Ọ̀yẹ̀kú-Ọ̀kànràn

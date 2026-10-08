@@ -8,8 +8,8 @@ parent2: "oturupon-meji"
 orisha: "Ògún; Ọbàtálá / Ọ̀rúnmìlà"
 theme: "struggle, tools, perseverance, clearing the path; illness and healing, secrets of the body, patience"
 excerpt: "Ògúndá-Òtúrúpọ̀n combines the energy of Ògúndá Méjì (struggle, tools, perseverance, clearing the path) with Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,II,II"
-pattern_left: "II,II,I,I"
+pattern_right: "I,I,I,II"
+pattern_left: "II,II,I,II"
 ---
 
 ## Ògúndá-Òtúrúpọ̀n

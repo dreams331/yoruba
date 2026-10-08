@@ -12,8 +12,8 @@ excerpt: Ìwòrì-Ọ̀kànràn combines the energy of Ìwòrì Méjì (self-kno
   hidden truth, inner vision) with Ọ̀kànràn Méjì (conflict, truth-telling, sharp
   consequences). It is read as a distinct Odù with its own guidance, drawing on
   both influences.
-pattern_right: II,I,I,II
-pattern_left: II,II,II,I
+pattern_right: "II,I,I,II"
+pattern_left: "II,II,II,I"
 ---
 
 ## Ìwòrì-Ọ̀kànràn

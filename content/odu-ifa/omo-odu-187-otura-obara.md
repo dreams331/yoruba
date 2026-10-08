@@ -8,8 +8,8 @@ parent2: "obara-meji"
 orisha: "Ọ̀rúnmìlà / Ọbàtálá; Ṣàngó / Ọ̀bàtálá"
 theme: "transformation, clarity after confusion, truth revealed; honour, boastfulness, the danger of pride, leadership"
 excerpt: "Òtúrá-Ọ̀bàrà combines the energy of Òtúrá Méjì (transformation, clarity after confusion, truth revealed) with Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,I,II,I"
-pattern_left: "I,I,I,II"
+pattern_right: "I,II,I,I"
+pattern_left: "I,II,II,II"
 ---
 
 ## Òtúrá-Ọ̀bàrà

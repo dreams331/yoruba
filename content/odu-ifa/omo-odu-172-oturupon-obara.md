@@ -8,8 +8,8 @@ parent2: "obara-meji"
 orisha: "Ọbàtálá / Ọ̀rúnmìlà; Ṣàngó / Ọ̀bàtálá"
 theme: "illness and healing, secrets of the body, patience; honour, boastfulness, the danger of pride, leadership"
 excerpt: "Òtúrúpọ̀n-Ọ̀bàrà combines the energy of Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience) with Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,I,I"
-pattern_left: "I,I,I,II"
+pattern_right: "II,II,I,II"
+pattern_left: "I,II,II,II"
 ---
 
 ## Òtúrúpọ̀n-Ọ̀bàrà

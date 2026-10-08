@@ -8,7 +8,7 @@ parent2: "irosun-meji"
 orisha: "Ọya / Ògún; Ṣàngó / Ọya"
 theme: "conflict, truth-telling, sharp consequences; blood, sacrifice, warning, consequence"
 excerpt: "Ọ̀kànràn-Ìrosùn combines the energy of Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences) with Ìrosùn Méjì (blood, sacrifice, warning, consequence). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,I,I"
+pattern_right: "II,II,II,I"
 pattern_left: "I,I,II,II"
 ---
 

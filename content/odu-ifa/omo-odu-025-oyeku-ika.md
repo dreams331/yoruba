@@ -12,8 +12,8 @@ excerpt: Ọ̀yẹ̀kú-Ìká combines the energy of Ọ̀yẹ̀kú Méjì (endi
   ancestors, the unseen world, mortality) with Ìká Méjì (cruelty, resentment,
   the need for restraint). It is read as a distinct Odù with its own guidance,
   drawing on both influences.
-pattern_right: II,II,II,II
-pattern_left: II,I,II,II
+pattern_right: "II,II,II,II"
+pattern_left: "II,I,II,II"
 ---
 
 ## Ọ̀yẹ̀kú-Ìká

@@ -12,8 +12,8 @@ excerpt: Ọ̀bàrà-Ọ̀ṣẹ́ combines the energy of Ọ̀bàrà Méjì (ho
   the danger of pride, leadership) with Ọ̀ṣẹ́ Méjì (blessings, sweetness,
   abundance, gratitude). It is read as a distinct Odù with its own guidance,
   drawing on both influences.
-pattern_right: I,II,II,II
-pattern_left: I,II,I,II
+pattern_right: "I,II,II,II"
+pattern_left: "I,II,I,II"
 ---
 
 ## Ọ̀bàrà-Ọ̀ṣẹ́

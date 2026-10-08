@@ -12,8 +12,8 @@ excerpt: Ọ̀wọ́nrín-Ìrẹtẹ̀ combines the energy of Ọ̀wọ́nrín M
   change, the trickster's lesson, humility) with Ìrẹtẹ̀ Méjì (perseverance
   despite setbacks, hidden victory). It is read as a distinct Odù with its own
   guidance, drawing on both influences.
-pattern_right: II,II,I,I
-pattern_left: I,I,II,I
+pattern_right: "II,II,I,I"
+pattern_left: "I,I,II,I"
 ---
 
 ## Ọ̀wọ́nrín-Ìrẹtẹ̀

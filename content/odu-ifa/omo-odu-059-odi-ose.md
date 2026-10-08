@@ -12,8 +12,8 @@ excerpt: Òdí-Ọ̀ṣẹ́ combines the energy of Òdí Méjì (the womb, myst
   transformation, hidden depth) with Ọ̀ṣẹ́ Méjì (blessings, sweetness,
   abundance, gratitude). It is read as a distinct Odù with its own guidance,
   drawing on both influences.
-pattern_right: I,II,II,I
-pattern_left: I,II,I,II
+pattern_right: "I,II,II,I"
+pattern_left: "I,II,I,II"
 ---
 
 ## Òdí-Ọ̀ṣẹ́

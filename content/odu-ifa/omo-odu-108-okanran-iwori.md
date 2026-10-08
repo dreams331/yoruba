@@ -8,8 +8,8 @@ parent2: "iwori-meji"
 orisha: "Ọya / Ògún; Ọ̀sanyìn / Ọ̀rúnmìlà"
 theme: "conflict, truth-telling, sharp consequences; self-knowledge, hidden truth, inner vision"
 excerpt: "Ọ̀kànràn-Ìwòrì combines the energy of Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences) with Ìwòrì Méjì (self-knowledge, hidden truth, inner vision). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,I,I"
-pattern_left: "I,II,I,II"
+pattern_right: "II,II,II,I"
+pattern_left: "II,I,I,II"
 ---
 
 ## Ọ̀kànràn-Ìwòrì

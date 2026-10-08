@@ -8,7 +8,7 @@ parent2: "irosun-meji"
 orisha: "Ọya; Ṣàngó / Ọya"
 theme: "upheaval, the whirlwind, sudden change, protection from harm; blood, sacrifice, warning, consequence"
 excerpt: "Ọ̀sá-Ìrosùn combines the energy of Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm) with Ìrosùn Méjì (blood, sacrifice, warning, consequence). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,II,I"
+pattern_right: "II,I,I,I"
 pattern_left: "I,I,II,II"
 ---
 

@@ -12,8 +12,8 @@ excerpt: Ọ̀kànràn-Ìrẹtẹ̀ combines the energy of Ọ̀kànràn Méjì 
   truth-telling, sharp consequences) with Ìrẹtẹ̀ Méjì (perseverance despite
   setbacks, hidden victory). It is read as a distinct Odù with its own guidance,
   drawing on both influences.
-pattern_right: II,II,II,I
-pattern_left: I,I,II,I
+pattern_right: "II,II,II,I"
+pattern_left: "I,I,II,I"
 ---
 
 ## Ọ̀kànràn-Ìrẹtẹ̀

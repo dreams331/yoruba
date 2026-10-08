@@ -11,8 +11,8 @@ excerpt: Ìrosùn-Ogbè combines the energy of Ìrosùn Méjì (blood, sacrifice
   warning, consequence) with Èjì Ogbè (light, new beginnings, divine potential).
   It is read as a distinct Odù with its own guidance, drawing on both
   influences.
-pattern_right: I,I,II,II
-pattern_left: I,I,I,I
+pattern_right: "I,I,II,II"
+pattern_left: "I,I,I,I"
 ---
 ## Ìrosùn-ÈjìOgbè
 

@@ -12,8 +12,8 @@ excerpt: Ìwòrì-Ìká combines the energy of Ìwòrì Méjì (self-knowledge, 
   truth, inner vision) with Ìká Méjì (cruelty, resentment, the need for
   restraint). It is read as a distinct Odù with its own guidance, drawing on
   both influences.
-pattern_right: II,I,I,II
-pattern_left: II,I,II,II
+pattern_right: "II,I,I,II"
+pattern_left: "II,I,II,II"
 ---
 
 ## Ìwòrì-Ìká

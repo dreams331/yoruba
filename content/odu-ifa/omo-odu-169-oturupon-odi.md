@@ -8,8 +8,8 @@ parent2: "odi-meji"
 orisha: "Ọbàtálá / Ọ̀rúnmìlà; Ọya / Yemọja"
 theme: "illness and healing, secrets of the body, patience; the womb, mystery, transformation, hidden depth"
 excerpt: "Òtúrúpọ̀n-Òdí combines the energy of Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience) with Òdí Méjì (the womb, mystery, transformation, hidden depth). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,I,I"
-pattern_left: "II,I,I,II"
+pattern_right: "II,II,I,II"
+pattern_left: "I,II,II,I"
 ---
 
 ## Òtúrúpọ̀n-Òdí

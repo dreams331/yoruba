@@ -8,7 +8,7 @@ parent2: "eji-ogbe"
 orisha: "Ògún; Ọ̀rúnmìlà / Olódùmarè"
 theme: "struggle, tools, perseverance, clearing the path; light, new beginnings, divine potential"
 excerpt: "Ògúndá-ÈjìOgbè combines the energy of Ògúndá Méjì (struggle, tools, perseverance, clearing the path) with Èjì Ogbè (light, new beginnings, divine potential). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,II,II"
+pattern_right: "I,I,I,II"
 pattern_left: "I,I,I,I"
 ---
 

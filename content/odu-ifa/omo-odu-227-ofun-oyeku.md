@@ -8,7 +8,7 @@ parent2: "oyeku-meji"
 orisha: "Ọbàtálá / Olódùmarè; Ikú (Death) / Ọ̀sun"
 theme: "purity, old age, completion, moral integrity; endings, the ancestors, the unseen world, mortality"
 excerpt: "Òfún-Ọ̀yẹ̀kú combines the energy of Òfún Méjì (purity, old age, completion, moral integrity) with Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,II,II"
+pattern_right: "II,I,II,I"
 pattern_left: "II,II,II,II"
 ---
 

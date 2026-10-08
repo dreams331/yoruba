@@ -8,8 +8,8 @@ parent2: "obara-meji"
 orisha: "Ọya / Èṣù; Ṣàngó / Ọ̀bàtálá"
 theme: "cruelty, resentment, the need for restraint; honour, boastfulness, the danger of pride, leadership"
 excerpt: "Ìká-Ọ̀bàrà combines the energy of Ìká Méjì (cruelty, resentment, the need for restraint) with Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,II,I"
-pattern_left: "I,I,I,II"
+pattern_right: "II,I,II,II"
+pattern_left: "I,II,II,II"
 ---
 
 ## Ìká-Ọ̀bàrà

@@ -8,8 +8,8 @@ parent2: "owonrin-meji"
 orisha: "Ọ̀rúnmìlà / Ọya; Èṣù / Ọ̀rúnmìlà"
 theme: "perseverance despite setbacks, hidden victory; instability, change, the trickster's lesson, humility"
 excerpt: "Ìrẹtẹ̀-Ọ̀wọ́nrín combines the energy of Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory) with Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,I,I"
-pattern_left: "II,I,II,I"
+pattern_right: "I,I,II,I"
+pattern_left: "II,II,I,I"
 ---
 
 ## Ìrẹtẹ̀-Ọ̀wọ́nrín

@@ -8,8 +8,8 @@ parent2: "ose-meji"
 orisha: "Ọbàtálá / Olódùmarè; Ọ̀ṣun"
 theme: "purity, old age, completion, moral integrity; blessings, sweetness, abundance, gratitude"
 excerpt: "Òfún-Ọ̀ṣẹ́ combines the energy of Òfún Méjì (purity, old age, completion, moral integrity) with Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,II,II"
-pattern_left: "II,II,I,II"
+pattern_right: "II,I,II,I"
+pattern_left: "I,II,I,II"
 ---
 
 ## Òfún-Ọ̀ṣẹ́

@@ -8,8 +8,8 @@ parent2: "odi-meji"
 orisha: "Ọbàtálá / Olódùmarè; Ọya / Yemọja"
 theme: "purity, old age, completion, moral integrity; the womb, mystery, transformation, hidden depth"
 excerpt: "Òfún-Òdí combines the energy of Òfún Méjì (purity, old age, completion, moral integrity) with Òdí Méjì (the womb, mystery, transformation, hidden depth). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,II,II"
-pattern_left: "II,I,I,II"
+pattern_right: "II,I,II,I"
+pattern_left: "I,II,II,I"
 ---
 
 ## Òfún-Òdí

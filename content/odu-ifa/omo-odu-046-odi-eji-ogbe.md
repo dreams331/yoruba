@@ -12,8 +12,8 @@ excerpt: Òdí-Ogbè combines the energy of Òdí Méjì (the womb, mystery,
   transformation, hidden depth) with Èjì Ogbè (light, new beginnings, divine
   potential). It is read as a distinct Odù with its own guidance, drawing on
   both influences.
-pattern_right: I,II,II,I
-pattern_left: I,I,I,I
+pattern_right: "I,II,II,I"
+pattern_left: "I,I,I,I"
 ---
 ## Òdí-Ogbè
 

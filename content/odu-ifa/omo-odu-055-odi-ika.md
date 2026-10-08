@@ -12,8 +12,8 @@ excerpt: Òdí-Ìká combines the energy of Òdí Méjì (the womb, mystery,
   transformation, hidden depth) with Ìká Méjì (cruelty, resentment, the need for
   restraint). It is read as a distinct Odù with its own guidance, drawing on
   both influences.
-pattern_right: I,II,II,I
-pattern_left: II,I,II,II
+pattern_right: "I,II,II,I"
+pattern_left: "II,I,II,II"
 ---
 
 ## Òdí-Ìká

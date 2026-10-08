@@ -8,8 +8,8 @@ parent2: "iwori-meji"
 orisha: "Ọ̀ṣun; Ọ̀sanyìn / Ọ̀rúnmìlà"
 theme: "blessings, sweetness, abundance, gratitude; self-knowledge, hidden truth, inner vision"
 excerpt: "Ọ̀ṣẹ́-Ìwòrì combines the energy of Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude) with Ìwòrì Méjì (self-knowledge, hidden truth, inner vision). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,I,II"
-pattern_left: "I,II,I,II"
+pattern_right: "I,II,I,II"
+pattern_left: "II,I,I,II"
 ---
 
 ## Ọ̀ṣẹ́-Ìwòrì

@@ -8,7 +8,7 @@ parent2: "eji-ogbe"
 orisha: "Ọya / Ògún; Ọ̀rúnmìlà / Olódùmarè"
 theme: "conflict, truth-telling, sharp consequences; light, new beginnings, divine potential"
 excerpt: "Ọ̀kànràn-ÈjìOgbè combines the energy of Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences) with Èjì Ogbè (light, new beginnings, divine potential). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,I,I"
+pattern_right: "II,II,II,I"
 pattern_left: "I,I,I,I"
 ---
 

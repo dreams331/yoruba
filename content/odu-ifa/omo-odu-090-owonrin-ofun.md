@@ -8,8 +8,8 @@ parent2: "ofun-meji"
 orisha: "Èṣù / Ọ̀rúnmìlà; Ọbàtálá / Olódùmarè"
 theme: "instability, change, the trickster's lesson, humility; purity, old age, completion, moral integrity"
 excerpt: "Ọ̀wọ́nrín-Òfún combines the energy of Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility) with Òfún Méjì (purity, old age, completion, moral integrity). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,II,I"
-pattern_left: "II,I,II,II"
+pattern_right: "II,II,I,I"
+pattern_left: "II,I,II,I"
 ---
 
 ## Ọ̀wọ́nrín-Òfún

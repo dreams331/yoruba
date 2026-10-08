@@ -8,8 +8,8 @@ parent2: "osa-meji"
 orisha: "Ọ̀ṣun; Ọya"
 theme: "blessings, sweetness, abundance, gratitude; upheaval, the whirlwind, sudden change, protection from harm"
 excerpt: "Ọ̀ṣẹ́-Ọ̀sá combines the energy of Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude) with Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,I,II"
-pattern_left: "II,II,II,I"
+pattern_right: "I,II,I,II"
+pattern_left: "II,I,I,I"
 ---
 
 ## Ọ̀ṣẹ́-Ọ̀sá

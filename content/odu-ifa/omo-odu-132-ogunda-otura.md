@@ -8,8 +8,8 @@ parent2: "otura-meji"
 orisha: "Ògún; Ọ̀rúnmìlà / Ọbàtálá"
 theme: "struggle, tools, perseverance, clearing the path; transformation, clarity after confusion, truth revealed"
 excerpt: "Ògúndá-Òtúrá combines the energy of Ògúndá Méjì (struggle, tools, perseverance, clearing the path) with Òtúrá Méjì (transformation, clarity after confusion, truth revealed). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,II,II"
-pattern_left: "I,I,II,I"
+pattern_right: "I,I,I,II"
+pattern_left: "I,II,I,I"
 ---
 
 ## Ògúndá-Òtúrá

@@ -8,7 +8,7 @@ parent2: "eji-ogbe"
 orisha: "Ọbàtálá / Ọ̀rúnmìlà; Ọ̀rúnmìlà / Olódùmarè"
 theme: "illness and healing, secrets of the body, patience; light, new beginnings, divine potential"
 excerpt: "Òtúrúpọ̀n-ÈjìOgbè combines the energy of Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience) with Èjì Ogbè (light, new beginnings, divine potential). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,I,I"
+pattern_right: "II,II,I,II"
 pattern_left: "I,I,I,I"
 ---
 

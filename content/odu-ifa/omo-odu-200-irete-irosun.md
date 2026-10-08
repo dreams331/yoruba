@@ -8,7 +8,7 @@ parent2: "irosun-meji"
 orisha: "Ọ̀rúnmìlà / Ọya; Ṣàngó / Ọya"
 theme: "perseverance despite setbacks, hidden victory; blood, sacrifice, warning, consequence"
 excerpt: "Ìrẹtẹ̀-Ìrosùn combines the energy of Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory) with Ìrosùn Méjì (blood, sacrifice, warning, consequence). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,I,I"
+pattern_right: "I,I,II,I"
 pattern_left: "I,I,II,II"
 ---
 

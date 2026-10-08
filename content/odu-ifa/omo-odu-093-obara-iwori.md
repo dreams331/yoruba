@@ -12,8 +12,8 @@ excerpt: Ọ̀bàrà-Ìwòrì combines the energy of Ọ̀bàrà Méjì (honour,
   the danger of pride, leadership) with Ìwòrì Méjì (self-knowledge, hidden
   truth, inner vision). It is read as a distinct Odù with its own guidance,
   drawing on both influences.
-pattern_right: I,II,II,II
-pattern_left: II,I,I,II
+pattern_right: "I,II,II,II"
+pattern_left: "II,I,I,II"
 ---
 
 ## Ọ̀bàrà-Ìwòrì

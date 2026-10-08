@@ -12,8 +12,8 @@ excerpt: Ìrosùn-Ọ̀kànràn combines the energy of Ìrosùn Méjì (blood, s
   warning, consequence) with Ọ̀kànràn Méjì (conflict, truth-telling, sharp
   consequences). It is read as a distinct Odù with its own guidance, drawing on
   both influences.
-pattern_right: I,I,II,II
-pattern_left: II,II,II,I
+pattern_right: "I,I,II,II"
+pattern_left: "II,II,II,I"
 ---
 
 ## Ìrosùn-Ọ̀kànràn

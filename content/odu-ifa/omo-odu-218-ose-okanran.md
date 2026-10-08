@@ -8,8 +8,8 @@ parent2: "okanran-meji"
 orisha: "Ọ̀ṣun; Ọya / Ògún"
 theme: "blessings, sweetness, abundance, gratitude; conflict, truth-telling, sharp consequences"
 excerpt: "Ọ̀ṣẹ́-Ọ̀kànràn combines the energy of Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude) with Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,I,II"
-pattern_left: "II,I,I,I"
+pattern_right: "I,II,I,II"
+pattern_left: "II,II,II,I"
 ---
 
 ## Ọ̀ṣẹ́-Ọ̀kànràn

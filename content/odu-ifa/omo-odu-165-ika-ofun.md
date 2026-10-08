@@ -8,8 +8,8 @@ parent2: "ofun-meji"
 orisha: "Ọya / Èṣù; Ọbàtálá / Olódùmarè"
 theme: "cruelty, resentment, the need for restraint; purity, old age, completion, moral integrity"
 excerpt: "Ìká-Òfún combines the energy of Ìká Méjì (cruelty, resentment, the need for restraint) with Òfún Méjì (purity, old age, completion, moral integrity). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,II,I"
-pattern_left: "II,I,II,II"
+pattern_right: "II,I,II,II"
+pattern_left: "II,I,II,I"
 ---
 
 ## Ìká-Òfún

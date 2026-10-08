@@ -93,6 +93,31 @@
 
     <main class="container odu-main">
 
+        <!-- Odu Picker -->
+        <section class="odu-picker" id="oduPicker" aria-labelledby="pickerTitle">
+            <div class="cast-header">
+                <h2 id="pickerTitle"><i class="fas fa-columns"></i> Odù Explorer</h2>
+                <p>Choose a left (Òsì) and a right (Ọ̀tún) figure to see how the two combine into one of the 256 Odù.</p>
+            </div>
+            <div class="picker-controls">
+                <label class="picker-field">
+                    <span class="picker-label picker-left">Òsì (Left)</span>
+                    <select id="pickLeft" aria-label="Left figure"></select>
+                </label>
+                <label class="picker-field">
+                    <span class="picker-label picker-right">Ọ̀tún (Right)</span>
+                    <select id="pickRight" aria-label="Right figure"></select>
+                </label>
+                <button type="button" class="btn btn-outline btn-sm" id="pickSwap"><i class="fas fa-exchange-alt"></i> Swap</button>
+                <button type="button" class="btn btn-outline btn-sm" id="pickRandom"><i class="fas fa-random"></i> Random</button>
+            </div>
+            <div class="picker-stage">
+                <div class="picker-leg-wrap"><div class="cast-leg picker-leg" id="pickLegLeft" aria-label="Left figure marks"></div><span id="pickNameLeft"></span></div>
+                <div class="picker-leg-wrap"><div class="cast-leg picker-leg" id="pickLegRight" aria-label="Right figure marks"></div><span id="pickNameRight"></span></div>
+            </div>
+            <div class="picker-result" id="pickResult" aria-live="polite"></div>
+        </section>
+
         <!-- Cast Your Odu Widget -->
         <section class="cast-widget" id="castWidget">
             <div class="cast-header">

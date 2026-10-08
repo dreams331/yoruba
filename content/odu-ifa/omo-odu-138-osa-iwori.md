@@ -8,8 +8,8 @@ parent2: "iwori-meji"
 orisha: "Ọya; Ọ̀sanyìn / Ọ̀rúnmìlà"
 theme: "upheaval, the whirlwind, sudden change, protection from harm; self-knowledge, hidden truth, inner vision"
 excerpt: "Ọ̀sá-Ìwòrì combines the energy of Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm) with Ìwòrì Méjì (self-knowledge, hidden truth, inner vision). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,II,I"
-pattern_left: "I,II,I,II"
+pattern_right: "II,I,I,I"
+pattern_left: "II,I,I,II"
 ---
 
 ## Ọ̀sá-Ìwòrì

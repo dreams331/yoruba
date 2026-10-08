@@ -8,8 +8,8 @@ parent2: "ose-meji"
 orisha: "Ọya / Èṣù; Ọ̀ṣun"
 theme: "cruelty, resentment, the need for restraint; blessings, sweetness, abundance, gratitude"
 excerpt: "Ìká-Ọ̀ṣẹ́ combines the energy of Ìká Méjì (cruelty, resentment, the need for restraint) with Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,II,I"
-pattern_left: "II,II,I,II"
+pattern_right: "II,I,II,II"
+pattern_left: "I,II,I,II"
 ---
 
 ## Ìká-Ọ̀ṣẹ́

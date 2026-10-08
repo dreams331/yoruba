@@ -12,8 +12,8 @@ excerpt: Ọ̀wọ́nrín-ÈjìOgbè combines the energy of Ọ̀wọ́nrín Mé
   change, the trickster's lesson, humility) with Èjì Ogbè (light, new
   beginnings, divine potential). It is read as a distinct Odù with its own
   guidance, drawing on both influences.
-pattern_right: II,II,I,I
-pattern_left: I,I,I,I
+pattern_right: "II,II,I,I"
+pattern_left: "I,I,I,I"
 ---
 ## Ọ̀wọ́nrín-Ogbè
 

@@ -8,8 +8,8 @@ parent2: "okanran-meji"
 orisha: "Ògún; Ọya / Ògún"
 theme: "struggle, tools, perseverance, clearing the path; conflict, truth-telling, sharp consequences"
 excerpt: "Ògúndá-Ọ̀kànràn combines the energy of Ògúndá Méjì (struggle, tools, perseverance, clearing the path) with Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,II,II"
-pattern_left: "II,I,I,I"
+pattern_right: "I,I,I,II"
+pattern_left: "II,II,II,I"
 ---
 
 ## Ògúndá-Ọ̀kànràn

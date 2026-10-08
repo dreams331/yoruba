@@ -12,8 +12,8 @@ excerpt: Ìwòrì-Ògúndá combines the energy of Ìwòrì Méjì (self-knowled
   truth, inner vision) with Ògúndá Méjì (struggle, tools, perseverance, clearing
   the path). It is read as a distinct Odù with its own guidance, drawing on both
   influences.
-pattern_right: II,I,I,II
-pattern_left: I,I,I,II
+pattern_right: "II,I,I,II"
+pattern_left: "I,I,I,II"
 ---
 
 ## Ìwòrì-Ògúndá

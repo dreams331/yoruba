@@ -8,8 +8,8 @@ parent2: "iwori-meji"
 orisha: "Ògún; Ọ̀sanyìn / Ọ̀rúnmìlà"
 theme: "struggle, tools, perseverance, clearing the path; self-knowledge, hidden truth, inner vision"
 excerpt: "Ògúndá-Ìwòrì combines the energy of Ògúndá Méjì (struggle, tools, perseverance, clearing the path) with Ìwòrì Méjì (self-knowledge, hidden truth, inner vision). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,II,II"
-pattern_left: "I,II,I,II"
+pattern_right: "I,I,I,II"
+pattern_left: "II,I,I,II"
 ---
 
 ## Ògúndá-Ìwòrì

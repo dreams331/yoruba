@@ -12,8 +12,8 @@ excerpt: Ọ̀wọ́nrín-Ìká combines the energy of Ọ̀wọ́nrín Méjì (
   change, the trickster's lesson, humility) with Ìká Méjì (cruelty, resentment,
   the need for restraint). It is read as a distinct Odù with its own guidance,
   drawing on both influences.
-pattern_right: II,II,I,I
-pattern_left: II,I,II,II
+pattern_right: "II,II,I,I"
+pattern_left: "II,I,II,II"
 ---
 
 ## Ọ̀wọ́nrín-Ìká

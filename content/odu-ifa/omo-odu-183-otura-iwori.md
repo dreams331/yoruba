@@ -8,8 +8,8 @@ parent2: "iwori-meji"
 orisha: "Ọ̀rúnmìlà / Ọbàtálá; Ọ̀sanyìn / Ọ̀rúnmìlà"
 theme: "transformation, clarity after confusion, truth revealed; self-knowledge, hidden truth, inner vision"
 excerpt: "Òtúrá-Ìwòrì combines the energy of Òtúrá Méjì (transformation, clarity after confusion, truth revealed) with Ìwòrì Méjì (self-knowledge, hidden truth, inner vision). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,I,II,I"
-pattern_left: "I,II,I,II"
+pattern_right: "I,II,I,I"
+pattern_left: "II,I,I,II"
 ---
 
 ## Òtúrá-Ìwòrì

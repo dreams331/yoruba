@@ -8,8 +8,8 @@ parent2: "oturupon-meji"
 orisha: "Ọya / Èṣù; Ọbàtálá / Ọ̀rúnmìlà"
 theme: "cruelty, resentment, the need for restraint; illness and healing, secrets of the body, patience"
 excerpt: "Ìká-Òtúrúpọ̀n combines the energy of Ìká Méjì (cruelty, resentment, the need for restraint) with Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,II,I"
-pattern_left: "II,II,I,I"
+pattern_right: "II,I,II,II"
+pattern_left: "II,II,I,II"
 ---
 
 ## Ìká-Òtúrúpọ̀n

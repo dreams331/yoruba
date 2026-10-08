@@ -8,8 +8,8 @@ parent2: "irete-meji"
 orisha: "Ọya / Èṣù; Ọ̀rúnmìlà / Ọya"
 theme: "cruelty, resentment, the need for restraint; perseverance despite setbacks, hidden victory"
 excerpt: "Ìká-Ìrẹtẹ̀ combines the energy of Ìká Méjì (cruelty, resentment, the need for restraint) with Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,II,I"
-pattern_left: "I,II,I,I"
+pattern_right: "II,I,II,II"
+pattern_left: "I,I,II,I"
 ---
 
 ## Ìká-Ìrẹtẹ̀

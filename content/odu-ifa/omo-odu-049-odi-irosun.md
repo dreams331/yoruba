@@ -12,8 +12,8 @@ excerpt: Òdí-Ìrosùn combines the energy of Òdí Méjì (the womb, mystery,
   transformation, hidden depth) with Ìrosùn Méjì (blood, sacrifice, warning,
   consequence). It is read as a distinct Odù with its own guidance, drawing on
   both influences.
-pattern_right: I,II,II,I
-pattern_left: I,I,II,II
+pattern_right: "I,II,II,I"
+pattern_left: "I,I,II,II"
 ---
 
 ## Òdí-Ìrosùn

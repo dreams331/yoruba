@@ -8,8 +8,8 @@ parent2: "owonrin-meji"
 orisha: "Ọ̀rúnmìlà / Ọbàtálá; Èṣù / Ọ̀rúnmìlà"
 theme: "transformation, clarity after confusion, truth revealed; instability, change, the trickster's lesson, humility"
 excerpt: "Òtúrá-Ọ̀wọ́nrín combines the energy of Òtúrá Méjì (transformation, clarity after confusion, truth revealed) with Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,I,II,I"
-pattern_left: "II,I,II,I"
+pattern_right: "I,II,I,I"
+pattern_left: "II,II,I,I"
 ---
 
 ## Òtúrá-Ọ̀wọ́nrín

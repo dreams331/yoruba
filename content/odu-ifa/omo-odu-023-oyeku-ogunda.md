@@ -12,8 +12,8 @@ excerpt: Ọ̀yẹ̀kú-Ògúndá combines the energy of Ọ̀yẹ̀kú Méjì (
   ancestors, the unseen world, mortality) with Ògúndá Méjì (struggle, tools,
   perseverance, clearing the path). It is read as a distinct Odù with its own
   guidance, drawing on both influences.
-pattern_right: II,II,II,II
-pattern_left: I,I,I,II
+pattern_right: "II,II,II,II"
+pattern_left: "I,I,I,II"
 ---
 
 ## Ọ̀yẹ̀kú-Ògúndá

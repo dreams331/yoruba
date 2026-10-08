@@ -12,8 +12,8 @@ excerpt: Òdí-Ìrẹtẹ̀ combines the energy of Òdí Méjì (the womb, myste
   transformation, hidden depth) with Ìrẹtẹ̀ Méjì (perseverance despite setbacks,
   hidden victory). It is read as a distinct Odù with its own guidance, drawing
   on both influences.
-pattern_right: I,II,II,I
-pattern_left: I,I,II,I
+pattern_right: "I,II,II,I"
+pattern_left: "I,I,II,I"
 ---
 
 ## Òdí-Ìrẹtẹ̀

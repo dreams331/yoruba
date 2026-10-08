@@ -8,7 +8,7 @@ parent2: "oyeku-meji"
 orisha: "Ògún; Ikú (Death) / Ọ̀sun"
 theme: "struggle, tools, perseverance, clearing the path; endings, the ancestors, the unseen world, mortality"
 excerpt: "Ògúndá-Ọ̀yẹ̀kú combines the energy of Ògúndá Méjì (struggle, tools, perseverance, clearing the path) with Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,II,II"
+pattern_right: "I,I,I,II"
 pattern_left: "II,II,II,II"
 ---
 

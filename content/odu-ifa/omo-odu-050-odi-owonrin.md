@@ -12,8 +12,8 @@ excerpt: Òdí-Ọ̀wọ́nrín combines the energy of Òdí Méjì (the womb, m
   transformation, hidden depth) with Ọ̀wọ́nrín Méjì (instability, change, the
   trickster's lesson, humility). It is read as a distinct Odù with its own
   guidance, drawing on both influences.
-pattern_right: I,II,II,I
-pattern_left: II,II,I,I
+pattern_right: "I,II,II,I"
+pattern_left: "II,II,I,I"
 ---
 
 ## Òdí-Ọ̀wọ́nrín

@@ -8,7 +8,7 @@ parent2: "oyeku-meji"
 orisha: "Ọya / Ògún; Ikú (Death) / Ọ̀sun"
 theme: "conflict, truth-telling, sharp consequences; endings, the ancestors, the unseen world, mortality"
 excerpt: "Ọ̀kànràn-Ọ̀yẹ̀kú combines the energy of Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences) with Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,I,I"
+pattern_right: "II,II,II,I"
 pattern_left: "II,II,II,II"
 ---
 

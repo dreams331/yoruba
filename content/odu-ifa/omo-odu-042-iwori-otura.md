@@ -12,8 +12,8 @@ excerpt: Ìwòrì-Òtúrá combines the energy of Ìwòrì Méjì (self-knowledg
   truth, inner vision) with Òtúrá Méjì (transformation, clarity after confusion,
   truth revealed). It is read as a distinct Odù with its own guidance, drawing
   on both influences.
-pattern_right: II,I,I,II
-pattern_left: I,II,I,I
+pattern_right: "II,I,I,II"
+pattern_left: "I,II,I,I"
 ---
 
 ## Ìwòrì-Òtúrá

@@ -12,8 +12,8 @@ excerpt: Ogbè-Òfún combines the energy of Èjì Ogbè (light, new beginnings,
   divine potential) with Òfún Méjì (purity, old age, completion, moral
   integrity). It is read as a distinct Odù with its own guidance, drawing on
   both influences.
-pattern_right: I,I,I,I
-pattern_left: II,I,II,I
+pattern_right: "I,I,I,I"
+pattern_left: "II,I,II,I"
 ---
 ## Ogbè-Òfún
 

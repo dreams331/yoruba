@@ -8,7 +8,7 @@ parent2: "oyeku-meji"
 orisha: "Ọya / Èṣù; Ikú (Death) / Ọ̀sun"
 theme: "cruelty, resentment, the need for restraint; endings, the ancestors, the unseen world, mortality"
 excerpt: "Ìká-Ọ̀yẹ̀kú combines the energy of Ìká Méjì (cruelty, resentment, the need for restraint) with Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,II,I"
+pattern_right: "II,I,II,II"
 pattern_left: "II,II,II,II"
 ---
 

@@ -8,7 +8,7 @@ parent2: "irosun-meji"
 orisha: "Ọ̀ṣun; Ṣàngó / Ọya"
 theme: "blessings, sweetness, abundance, gratitude; blood, sacrifice, warning, consequence"
 excerpt: "Ọ̀ṣẹ́-Ìrosùn combines the energy of Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude) with Ìrosùn Méjì (blood, sacrifice, warning, consequence). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,I,II"
+pattern_right: "I,II,I,II"
 pattern_left: "I,I,II,II"
 ---
 

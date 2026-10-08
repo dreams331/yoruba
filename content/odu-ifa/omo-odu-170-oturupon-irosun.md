@@ -8,7 +8,7 @@ parent2: "irosun-meji"
 orisha: "Ọbàtálá / Ọ̀rúnmìlà; Ṣàngó / Ọya"
 theme: "illness and healing, secrets of the body, patience; blood, sacrifice, warning, consequence"
 excerpt: "Òtúrúpọ̀n-Ìrosùn combines the energy of Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience) with Ìrosùn Méjì (blood, sacrifice, warning, consequence). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,I,I"
+pattern_right: "II,II,I,II"
 pattern_left: "I,I,II,II"
 ---
 

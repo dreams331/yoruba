@@ -8,8 +8,8 @@ parent2: "ose-meji"
 orisha: "Ògún; Ọ̀ṣun"
 theme: "struggle, tools, perseverance, clearing the path; blessings, sweetness, abundance, gratitude"
 excerpt: "Ògúndá-Ọ̀ṣẹ́ combines the energy of Ògúndá Méjì (struggle, tools, perseverance, clearing the path) with Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,II,II"
-pattern_left: "II,II,I,II"
+pattern_right: "I,I,I,II"
+pattern_left: "I,II,I,II"
 ---
 
 ## Ògúndá-Ọ̀ṣẹ́

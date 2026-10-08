@@ -8,8 +8,8 @@ parent2: "obara-meji"
 orisha: "Ọya; Ṣàngó / Ọ̀bàtálá"
 theme: "upheaval, the whirlwind, sudden change, protection from harm; honour, boastfulness, the danger of pride, leadership"
 excerpt: "Ọ̀sá-Ọ̀bàrà combines the energy of Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm) with Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,II,I"
-pattern_left: "I,I,I,II"
+pattern_right: "II,I,I,I"
+pattern_left: "I,II,II,II"
 ---
 
 ## Ọ̀sá-Ọ̀bàrà

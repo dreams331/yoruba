@@ -8,7 +8,7 @@ parent2: "eji-ogbe"
 orisha: "Ọya / Èṣù; Ọ̀rúnmìlà / Olódùmarè"
 theme: "cruelty, resentment, the need for restraint; light, new beginnings, divine potential"
 excerpt: "Ìká-ÈjìOgbè combines the energy of Ìká Méjì (cruelty, resentment, the need for restraint) with Èjì Ogbè (light, new beginnings, divine potential). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,II,I"
+pattern_right: "II,I,II,II"
 pattern_left: "I,I,I,I"
 ---
 

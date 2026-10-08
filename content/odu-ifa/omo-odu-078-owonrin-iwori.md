@@ -12,8 +12,8 @@ excerpt: Ọ̀wọ́nrín-Ìwòrì combines the energy of Ọ̀wọ́nrín Méj�
   change, the trickster's lesson, humility) with Ìwòrì Méjì (self-knowledge,
   hidden truth, inner vision). It is read as a distinct Odù with its own
   guidance, drawing on both influences.
-pattern_right: II,II,I,I
-pattern_left: II,I,I,II
+pattern_right: "II,II,I,I"
+pattern_left: "II,I,I,II"
 ---
 
 ## Ọ̀wọ́nrín-Ìwòrì

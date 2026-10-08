@@ -12,8 +12,8 @@ excerpt: Ọ̀yẹ̀kú-Òtúrá combines the energy of Ọ̀yẹ̀kú Méjì (e
   ancestors, the unseen world, mortality) with Òtúrá Méjì (transformation,
   clarity after confusion, truth revealed). It is read as a distinct Odù with
   its own guidance, drawing on both influences.
-pattern_right: II,II,II,II
-pattern_left: I,II,I,I
+pattern_right: "II,II,II,II"
+pattern_left: "I,II,I,I"
 ---
 
 ## Ọ̀yẹ̀kú-Òtúrá

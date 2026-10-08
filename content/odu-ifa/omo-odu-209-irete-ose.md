@@ -8,8 +8,8 @@ parent2: "ose-meji"
 orisha: "Ọ̀rúnmìlà / Ọya; Ọ̀ṣun"
 theme: "perseverance despite setbacks, hidden victory; blessings, sweetness, abundance, gratitude"
 excerpt: "Ìrẹtẹ̀-Ọ̀ṣẹ́ combines the energy of Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory) with Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,I,I"
-pattern_left: "II,II,I,II"
+pattern_right: "I,I,II,I"
+pattern_left: "I,II,I,II"
 ---
 
 ## Ìrẹtẹ̀-Ọ̀ṣẹ́

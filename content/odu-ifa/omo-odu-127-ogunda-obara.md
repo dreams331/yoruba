@@ -8,8 +8,8 @@ parent2: "obara-meji"
 orisha: "Ògún; Ṣàngó / Ọ̀bàtálá"
 theme: "struggle, tools, perseverance, clearing the path; honour, boastfulness, the danger of pride, leadership"
 excerpt: "Ògúndá-Ọ̀bàrà combines the energy of Ògúndá Méjì (struggle, tools, perseverance, clearing the path) with Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,II,II"
-pattern_left: "I,I,I,II"
+pattern_right: "I,I,I,II"
+pattern_left: "I,II,II,II"
 ---
 
 ## Ògúndá-Ọ̀bàrà

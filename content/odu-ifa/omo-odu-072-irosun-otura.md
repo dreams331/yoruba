@@ -12,8 +12,8 @@ excerpt: Ìrosùn-Òtúrá combines the energy of Ìrosùn Méjì (blood, sacrif
   warning, consequence) with Òtúrá Méjì (transformation, clarity after
   confusion, truth revealed). It is read as a distinct Odù with its own
   guidance, drawing on both influences.
-pattern_right: I,I,II,II
-pattern_left: I,II,I,I
+pattern_right: "I,I,II,II"
+pattern_left: "I,II,I,I"
 ---
 
 ## Ìrosùn-Òtúrá

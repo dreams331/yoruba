@@ -12,8 +12,8 @@ excerpt: Ọ̀bàrà-Òdí combines the energy of Ọ̀bàrà Méjì (honour, bo
   the danger of pride, leadership) with Òdí Méjì (the womb, mystery,
   transformation, hidden depth). It is read as a distinct Odù with its own
   guidance, drawing on both influences.
-pattern_right: I,II,II,II
-pattern_left: I,II,II,I
+pattern_right: "I,II,II,II"
+pattern_left: "I,II,II,I"
 ---
 
 ## Ọ̀bàrà-Òdí

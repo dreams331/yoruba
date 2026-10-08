@@ -27,6 +27,7 @@ async function loadOduData() {
     setupFilters();
     setupModal();
     setupCastWidget();
+    setupPicker();
     handleDeepLink();
 }
 
@@ -232,6 +233,77 @@ function setupCastWidget() {
             btn.innerHTML = '<i class="fas fa-dice"></i> Cast Again';
         }, 700);
     });
+}
+
+/* ===================== Odù Explorer (manual picker) ===================== */
+
+function setupPicker() {
+    const selL = document.getElementById('pickLeft');
+    const selR = document.getElementById('pickRight');
+    if (!selL || !selR) return;
+
+    const mejis = allOdu
+        .filter(o => o.category === 'Odu Meji')
+        .sort((a, b) => Number(a.number) - Number(b.number));
+    if (mejis.length === 0) return;
+
+    const options = mejis.map(m => `<option value="${m.slug}">${m.title}</option>`).join('');
+    selL.innerHTML = options;
+    selR.innerHTML = options;
+
+    const bySlug = slug => mejis.find(m => m.slug === slug);
+    const marksOf = m => (m.pattern_right || '').split(',').filter(Boolean);
+
+    function update() {
+        const left = bySlug(selL.value);
+        const right = bySlug(selR.value);
+        if (!left || !right) return;
+
+        renderLeg(document.getElementById('pickLegLeft'), marksOf(left), false);
+        renderLeg(document.getElementById('pickLegRight'), marksOf(right), false);
+        document.getElementById('pickNameLeft').textContent = left.title;
+        document.getElementById('pickNameRight').textContent = right.title;
+
+        const found = findOduByLegs(marksOf(right), marksOf(left));
+        const out = document.getElementById('pickResult');
+        if (!found) {
+            out.innerHTML = '<p class="cast-placeholder">No matching Odù found for this pair.</p>';
+            return;
+        }
+        const pageSlug = String(found.id || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+        const hasPage = found.category === 'Odu Meji';
+        const kind = found.category === 'Odu Meji'
+            ? 'Odù Méjì — a principal figure (both sides the same)'
+            : `Omo Odù — ${right.title} (right) combined with ${left.title} (left)`;
+        out.innerHTML = `
+            <h3>${found.title}</h3>
+            <p class="cast-result-sub">Odù #${found.number} · ${kind}</p>
+            <p>${found.excerpt || ''}</p>
+            <a href="${hasPage ? `read/odu/${pageSlug}.html` : `#${found.slug}`}" class="btn btn-primary btn-sm picker-open">Read Full Meaning <i class="fas fa-arrow-right"></i></a>
+        `;
+        if (!hasPage) {
+            out.querySelector('.picker-open').addEventListener('click', e => {
+                e.preventDefault();
+                openModal(found.id);
+            });
+        }
+    }
+
+    selL.addEventListener('change', update);
+    selR.addEventListener('change', update);
+    document.getElementById('pickSwap')?.addEventListener('click', () => {
+        const t = selL.value; selL.value = selR.value; selR.value = t; update();
+    });
+    document.getElementById('pickRandom')?.addEventListener('click', () => {
+        selL.selectedIndex = Math.floor(Math.random() * mejis.length);
+        selR.selectedIndex = Math.floor(Math.random() * mejis.length);
+        update();
+    });
+
+    // Start on the first figure on both sides (Ogbè Ogbè)
+    selL.selectedIndex = 0;
+    selR.selectedIndex = 0;
+    update();
 }
 
 document.addEventListener('DOMContentLoaded', loadOduData);

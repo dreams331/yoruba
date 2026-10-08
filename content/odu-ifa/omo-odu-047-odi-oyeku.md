@@ -12,8 +12,8 @@ excerpt: Òdí-Ọ̀yẹ̀kú combines the energy of Òdí Méjì (the womb, mys
   transformation, hidden depth) with Ọ̀yẹ̀kú Méjì (endings, the ancestors, the
   unseen world, mortality). It is read as a distinct Odù with its own guidance,
   drawing on both influences.
-pattern_right: I,II,II,I
-pattern_left: II,II,II,II
+pattern_right: "I,II,II,I"
+pattern_left: "II,II,II,II"
 ---
 
 ## Òdí-Ọ̀yẹ̀kú

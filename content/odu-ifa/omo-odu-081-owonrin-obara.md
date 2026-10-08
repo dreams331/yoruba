@@ -12,8 +12,8 @@ excerpt: Ọ̀wọ́nrín-Ọ̀bàrà combines the energy of Ọ̀wọ́nrín M�
   change, the trickster's lesson, humility) with Ọ̀bàrà Méjì (honour,
   boastfulness, the danger of pride, leadership). It is read as a distinct Odù
   with its own guidance, drawing on both influences.
-pattern_right: II,II,I,I
-pattern_left: I,II,II,II
+pattern_right: "II,II,I,I"
+pattern_left: "I,II,II,II"
 ---
 
 ## Ọ̀wọ́nrín-Ọ̀bàrà

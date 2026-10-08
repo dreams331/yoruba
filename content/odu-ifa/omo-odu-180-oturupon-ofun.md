@@ -8,8 +8,8 @@ parent2: "ofun-meji"
 orisha: "Ọbàtálá / Ọ̀rúnmìlà; Ọbàtálá / Olódùmarè"
 theme: "illness and healing, secrets of the body, patience; purity, old age, completion, moral integrity"
 excerpt: "Òtúrúpọ̀n-Òfún combines the energy of Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience) with Òfún Méjì (purity, old age, completion, moral integrity). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,I,I"
-pattern_left: "II,I,II,II"
+pattern_right: "II,II,I,II"
+pattern_left: "II,I,II,I"
 ---
 
 ## Òtúrúpọ̀n-Òfún

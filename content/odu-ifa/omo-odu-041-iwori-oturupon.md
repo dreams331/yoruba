@@ -12,8 +12,8 @@ excerpt: Ìwòrì-Òtúrúpọ̀n combines the energy of Ìwòrì Méjì (self-k
   hidden truth, inner vision) with Òtúrúpọ̀n Méjì (illness and healing, secrets
   of the body, patience). It is read as a distinct Odù with its own guidance,
   drawing on both influences.
-pattern_right: II,I,I,II
-pattern_left: II,II,I,II
+pattern_right: "II,I,I,II"
+pattern_left: "II,II,I,II"
 ---
 
 ## Ìwòrì-Òtúrúpọ̀n

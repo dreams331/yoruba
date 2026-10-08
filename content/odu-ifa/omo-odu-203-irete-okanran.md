@@ -8,8 +8,8 @@ parent2: "okanran-meji"
 orisha: "Ọ̀rúnmìlà / Ọya; Ọya / Ògún"
 theme: "perseverance despite setbacks, hidden victory; conflict, truth-telling, sharp consequences"
 excerpt: "Ìrẹtẹ̀-Ọ̀kànràn combines the energy of Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory) with Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,I,I"
-pattern_left: "II,I,I,I"
+pattern_right: "I,I,II,I"
+pattern_left: "II,II,II,I"
 ---
 
 ## Ìrẹtẹ̀-Ọ̀kànràn

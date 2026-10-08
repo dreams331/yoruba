@@ -8,8 +8,8 @@ parent2: "ofun-meji"
 orisha: "Ọ̀rúnmìlà / Ọya; Ọbàtálá / Olódùmarè"
 theme: "perseverance despite setbacks, hidden victory; purity, old age, completion, moral integrity"
 excerpt: "Ìrẹtẹ̀-Òfún combines the energy of Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory) with Òfún Méjì (purity, old age, completion, moral integrity). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,I,I"
-pattern_left: "II,I,II,II"
+pattern_right: "I,I,II,I"
+pattern_left: "II,I,II,I"
 ---
 
 ## Ìrẹtẹ̀-Òfún

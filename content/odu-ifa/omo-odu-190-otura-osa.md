@@ -8,8 +8,8 @@ parent2: "osa-meji"
 orisha: "Ọ̀rúnmìlà / Ọbàtálá; Ọya"
 theme: "transformation, clarity after confusion, truth revealed; upheaval, the whirlwind, sudden change, protection from harm"
 excerpt: "Òtúrá-Ọ̀sá combines the energy of Òtúrá Méjì (transformation, clarity after confusion, truth revealed) with Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,I,II,I"
-pattern_left: "II,II,II,I"
+pattern_right: "I,II,I,I"
+pattern_left: "II,I,I,I"
 ---
 
 ## Òtúrá-Ọ̀sá

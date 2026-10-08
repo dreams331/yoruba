@@ -8,8 +8,8 @@ parent2: "obara-meji"
 orisha: "Ọ̀rúnmìlà / Ọya; Ṣàngó / Ọ̀bàtálá"
 theme: "perseverance despite setbacks, hidden victory; honour, boastfulness, the danger of pride, leadership"
 excerpt: "Ìrẹtẹ̀-Ọ̀bàrà combines the energy of Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory) with Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,I,I"
-pattern_left: "I,I,I,II"
+pattern_right: "I,I,II,I"
+pattern_left: "I,II,II,II"
 ---
 
 ## Ìrẹtẹ̀-Ọ̀bàrà

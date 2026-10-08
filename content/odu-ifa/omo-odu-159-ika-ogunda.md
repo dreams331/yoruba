@@ -8,8 +8,8 @@ parent2: "ogunda-meji"
 orisha: "Ọya / Èṣù; Ògún"
 theme: "cruelty, resentment, the need for restraint; struggle, tools, perseverance, clearing the path"
 excerpt: "Ìká-Ògúndá combines the energy of Ìká Méjì (cruelty, resentment, the need for restraint) with Ògúndá Méjì (struggle, tools, perseverance, clearing the path). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,II,I"
-pattern_left: "I,II,II,II"
+pattern_right: "II,I,II,II"
+pattern_left: "I,I,I,II"
 ---
 
 ## Ìká-Ògúndá

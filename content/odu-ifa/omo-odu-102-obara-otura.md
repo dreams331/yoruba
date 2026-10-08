@@ -12,8 +12,8 @@ excerpt: Ọ̀bàrà-Òtúrá combines the energy of Ọ̀bàrà Méjì (honour,
   the danger of pride, leadership) with Òtúrá Méjì (transformation, clarity
   after confusion, truth revealed). It is read as a distinct Odù with its own
   guidance, drawing on both influences.
-pattern_right: I,II,II,II
-pattern_left: I,II,I,I
+pattern_right: "I,II,II,II"
+pattern_left: "I,II,I,I"
 ---
 
 ## Ọ̀bàrà-Òtúrá

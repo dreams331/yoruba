@@ -12,8 +12,8 @@ excerpt: Ogbè-Ọ̀sá combines the energy of Èjì Ogbè (light, new beginning
   divine potential) with Ọ̀sá Méjì (upheaval, the whirlwind, sudden change,
   protection from harm). It is read as a distinct Odù with its own guidance,
   drawing on both influences.
-pattern_right: I,I,I,I
-pattern_left: II,I,I,I
+pattern_right: "I,I,I,I"
+pattern_left: "II,I,I,I"
 ---
 ## Ogbè-Ọ̀sá
 

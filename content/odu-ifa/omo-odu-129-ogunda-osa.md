@@ -8,8 +8,8 @@ parent2: "osa-meji"
 orisha: "Ògún; Ọya"
 theme: "struggle, tools, perseverance, clearing the path; upheaval, the whirlwind, sudden change, protection from harm"
 excerpt: "Ògúndá-Ọ̀sá combines the energy of Ògúndá Méjì (struggle, tools, perseverance, clearing the path) with Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,II,II"
-pattern_left: "II,II,II,I"
+pattern_right: "I,I,I,II"
+pattern_left: "II,I,I,I"
 ---
 
 ## Ògúndá-Ọ̀sá

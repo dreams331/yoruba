@@ -8,8 +8,8 @@ parent2: "ika-meji"
 orisha: "Ọ̀rúnmìlà / Ọbàtálá; Ọya / Èṣù"
 theme: "transformation, clarity after confusion, truth revealed; cruelty, resentment, the need for restraint"
 excerpt: "Òtúrá-Ìká combines the energy of Òtúrá Méjì (transformation, clarity after confusion, truth revealed) with Ìká Méjì (cruelty, resentment, the need for restraint). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,I,II,I"
-pattern_left: "I,II,II,I"
+pattern_right: "I,II,I,I"
+pattern_left: "II,I,II,II"
 ---
 
 ## Òtúrá-Ìká

@@ -12,8 +12,8 @@ excerpt: Ọ̀yẹ̀kú-Ìrẹtẹ̀ combines the energy of Ọ̀yẹ̀kú Méj�
   ancestors, the unseen world, mortality) with Ìrẹtẹ̀ Méjì (perseverance despite
   setbacks, hidden victory). It is read as a distinct Odù with its own guidance,
   drawing on both influences.
-pattern_right: II,II,II,II
-pattern_left: I,I,II,I
+pattern_right: "II,II,II,II"
+pattern_left: "I,I,II,I"
 ---
 
 ## Ọ̀yẹ̀kú-Ìrẹtẹ̀

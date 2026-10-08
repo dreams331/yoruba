@@ -12,8 +12,8 @@ excerpt: Ọ̀bàrà-Ìrẹtẹ̀ combines the energy of Ọ̀bàrà Méjì (hon
   the danger of pride, leadership) with Ìrẹtẹ̀ Méjì (perseverance despite
   setbacks, hidden victory). It is read as a distinct Odù with its own guidance,
   drawing on both influences.
-pattern_right: I,II,II,II
-pattern_left: I,I,II,I
+pattern_right: "I,II,II,II"
+pattern_left: "I,I,II,I"
 ---
 
 ## Ọ̀bàrà-Ìrẹtẹ̀

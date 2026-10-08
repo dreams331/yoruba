@@ -12,8 +12,8 @@ excerpt: Ìrosùn-Ìká combines the energy of Ìrosùn Méjì (blood, sacrifice
   warning, consequence) with Ìká Méjì (cruelty, resentment, the need for
   restraint). It is read as a distinct Odù with its own guidance, drawing on
   both influences.
-pattern_right: I,I,II,II
-pattern_left: II,I,II,II
+pattern_right: "I,I,II,II"
+pattern_left: "II,I,II,II"
 ---
 
 ## Ìrosùn-Ìká

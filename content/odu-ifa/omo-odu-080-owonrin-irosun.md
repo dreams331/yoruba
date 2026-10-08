@@ -12,8 +12,8 @@ excerpt: Ọ̀wọ́nrín-Ìrosùn combines the energy of Ọ̀wọ́nrín Méj�
   change, the trickster's lesson, humility) with Ìrosùn Méjì (blood, sacrifice,
   warning, consequence). It is read as a distinct Odù with its own guidance,
   drawing on both influences.
-pattern_right: II,II,I,I
-pattern_left: I,I,II,II
+pattern_right: "II,II,I,I"
+pattern_left: "I,I,II,II"
 ---
 
 ## Ọ̀wọ́nrín-Ìrosùn

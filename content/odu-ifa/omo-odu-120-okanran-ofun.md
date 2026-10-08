@@ -12,8 +12,8 @@ excerpt: Ọ̀kànràn-Òfún combines the energy of Ọ̀kànràn Méjì (confl
   truth-telling, sharp consequences) with Òfún Méjì (purity, old age,
   completion, moral integrity). It is read as a distinct Odù with its own
   guidance, drawing on both influences.
-pattern_right: II,II,II,I
-pattern_left: II,I,II,I
+pattern_right: "II,II,II,I"
+pattern_left: "II,I,II,I"
 ---
 
 ## Ọ̀kànràn-Òfún

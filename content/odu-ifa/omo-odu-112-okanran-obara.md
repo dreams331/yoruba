@@ -8,8 +8,8 @@ parent2: "obara-meji"
 orisha: "Ọya / Ògún; Ṣàngó / Ọ̀bàtálá"
 theme: "conflict, truth-telling, sharp consequences; honour, boastfulness, the danger of pride, leadership"
 excerpt: "Ọ̀kànràn-Ọ̀bàrà combines the energy of Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences) with Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,I,I"
-pattern_left: "I,I,I,II"
+pattern_right: "II,II,II,I"
+pattern_left: "I,II,II,II"
 ---
 
 ## Ọ̀kànràn-Ọ̀bàrà

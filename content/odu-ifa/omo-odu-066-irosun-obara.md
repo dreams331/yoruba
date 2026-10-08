@@ -12,8 +12,8 @@ excerpt: Ìrosùn-Ọ̀bàrà combines the energy of Ìrosùn Méjì (blood, sac
   warning, consequence) with Ọ̀bàrà Méjì (honour, boastfulness, the danger of
   pride, leadership). It is read as a distinct Odù with its own guidance,
   drawing on both influences.
-pattern_right: I,I,II,II
-pattern_left: I,II,II,II
+pattern_right: "I,I,II,II"
+pattern_left: "I,II,II,II"
 ---
 
 ## Ìrosùn-Ọ̀bàrà

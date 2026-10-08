@@ -12,8 +12,8 @@ excerpt: Ọ̀bàrà-Ìká combines the energy of Ọ̀bàrà Méjì (honour, bo
   the danger of pride, leadership) with Ìká Méjì (cruelty, resentment, the need
   for restraint). It is read as a distinct Odù with its own guidance, drawing on
   both influences.
-pattern_right: I,II,II,II
-pattern_left: II,I,II,II
+pattern_right: "I,II,II,II"
+pattern_left: "II,I,II,II"
 ---
 
 ## Ọ̀bàrà-Ìká

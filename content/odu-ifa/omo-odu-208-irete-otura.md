@@ -8,8 +8,8 @@ parent2: "otura-meji"
 orisha: "Ọ̀rúnmìlà / Ọya; Ọ̀rúnmìlà / Ọbàtálá"
 theme: "perseverance despite setbacks, hidden victory; transformation, clarity after confusion, truth revealed"
 excerpt: "Ìrẹtẹ̀-Òtúrá combines the energy of Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory) with Òtúrá Méjì (transformation, clarity after confusion, truth revealed). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,I,I"
-pattern_left: "I,I,II,I"
+pattern_right: "I,I,II,I"
+pattern_left: "I,II,I,I"
 ---
 
 ## Ìrẹtẹ̀-Òtúrá

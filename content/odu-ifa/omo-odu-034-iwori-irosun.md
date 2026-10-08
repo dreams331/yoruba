@@ -12,8 +12,8 @@ excerpt: Ìwòrì-Ìrosùn combines the energy of Ìwòrì Méjì (self-knowledg
   truth, inner vision) with Ìrosùn Méjì (blood, sacrifice, warning,
   consequence). It is read as a distinct Odù with its own guidance, drawing on
   both influences.
-pattern_right: II,I,I,II
-pattern_left: I,I,II,II
+pattern_right: "II,I,I,II"
+pattern_left: "I,I,II,II"
 ---
 
 ## Ìwòrì-Ìrosùn

@@ -8,8 +8,8 @@ parent2: "okanran-meji"
 orisha: "Ọya / Èṣù; Ọya / Ògún"
 theme: "cruelty, resentment, the need for restraint; conflict, truth-telling, sharp consequences"
 excerpt: "Ìká-Ọ̀kànràn combines the energy of Ìká Méjì (cruelty, resentment, the need for restraint) with Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,II,I"
-pattern_left: "II,I,I,I"
+pattern_right: "II,I,II,II"
+pattern_left: "II,II,II,I"
 ---
 
 ## Ìká-Ọ̀kànràn

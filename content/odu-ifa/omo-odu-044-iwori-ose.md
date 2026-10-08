@@ -12,8 +12,8 @@ excerpt: Ìwòrì-Ọ̀ṣẹ́ combines the energy of Ìwòrì Méjì (self-kno
   truth, inner vision) with Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance,
   gratitude). It is read as a distinct Odù with its own guidance, drawing on
   both influences.
-pattern_right: II,I,I,II
-pattern_left: I,II,I,II
+pattern_right: "II,I,I,II"
+pattern_left: "I,II,I,II"
 ---
 
 ## Ìwòrì-Ọ̀ṣẹ́

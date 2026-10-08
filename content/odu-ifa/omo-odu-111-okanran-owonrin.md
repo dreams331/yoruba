@@ -8,8 +8,8 @@ parent2: "owonrin-meji"
 orisha: "Ọya / Ògún; Èṣù / Ọ̀rúnmìlà"
 theme: "conflict, truth-telling, sharp consequences; instability, change, the trickster's lesson, humility"
 excerpt: "Ọ̀kànràn-Ọ̀wọ́nrín combines the energy of Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences) with Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,I,I,I"
-pattern_left: "II,I,II,I"
+pattern_right: "II,II,II,I"
+pattern_left: "II,II,I,I"
 ---
 
 ## Ọ̀kànràn-Ọ̀wọ́nrín

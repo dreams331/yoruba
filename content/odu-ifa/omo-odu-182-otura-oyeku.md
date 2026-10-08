@@ -8,7 +8,7 @@ parent2: "oyeku-meji"
 orisha: "Ọ̀rúnmìlà / Ọbàtálá; Ikú (Death) / Ọ̀sun"
 theme: "transformation, clarity after confusion, truth revealed; endings, the ancestors, the unseen world, mortality"
 excerpt: "Òtúrá-Ọ̀yẹ̀kú combines the energy of Òtúrá Méjì (transformation, clarity after confusion, truth revealed) with Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,I,II,I"
+pattern_right: "I,II,I,I"
 pattern_left: "II,II,II,II"
 ---
 

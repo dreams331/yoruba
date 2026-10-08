@@ -12,8 +12,8 @@ excerpt: Ìwòrì-Ọ̀sá combines the energy of Ìwòrì Méjì (self-knowledg
   truth, inner vision) with Ọ̀sá Méjì (upheaval, the whirlwind, sudden change,
   protection from harm). It is read as a distinct Odù with its own guidance,
   drawing on both influences.
-pattern_right: II,I,I,II
-pattern_left: II,I,I,I
+pattern_right: "II,I,I,II"
+pattern_left: "II,I,I,I"
 ---
 
 ## Ìwòrì-Ọ̀sá

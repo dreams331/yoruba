@@ -8,8 +8,8 @@ parent2: "irete-meji"
 orisha: "Ọya; Ọ̀rúnmìlà / Ọya"
 theme: "upheaval, the whirlwind, sudden change, protection from harm; perseverance despite setbacks, hidden victory"
 excerpt: "Ọ̀sá-Ìrẹtẹ̀ combines the energy of Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm) with Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,II,I"
-pattern_left: "I,II,I,I"
+pattern_right: "II,I,I,I"
+pattern_left: "I,I,II,I"
 ---
 
 ## Ọ̀sá-Ìrẹtẹ̀

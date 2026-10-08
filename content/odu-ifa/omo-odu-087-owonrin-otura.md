@@ -12,8 +12,8 @@ excerpt: Ọ̀wọ́nrín-Òtúrá combines the energy of Ọ̀wọ́nrín Méj�
   change, the trickster's lesson, humility) with Òtúrá Méjì (transformation,
   clarity after confusion, truth revealed). It is read as a distinct Odù with
   its own guidance, drawing on both influences.
-pattern_right: II,II,I,I
-pattern_left: I,II,I,I
+pattern_right: "II,II,I,I"
+pattern_left: "I,II,I,I"
 ---
 
 ## Ọ̀wọ́nrín-Òtúrá

@@ -8,8 +8,8 @@ parent2: "owonrin-meji"
 orisha: "Ọbàtálá / Ọ̀rúnmìlà; Èṣù / Ọ̀rúnmìlà"
 theme: "illness and healing, secrets of the body, patience; instability, change, the trickster's lesson, humility"
 excerpt: "Òtúrúpọ̀n-Ọ̀wọ́nrín combines the energy of Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience) with Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,I,I"
-pattern_left: "II,I,II,I"
+pattern_right: "II,II,I,II"
+pattern_left: "II,II,I,I"
 ---
 
 ## Òtúrúpọ̀n-Ọ̀wọ́nrín

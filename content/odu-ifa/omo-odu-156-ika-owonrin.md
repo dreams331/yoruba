@@ -8,8 +8,8 @@ parent2: "owonrin-meji"
 orisha: "Ọya / Èṣù; Èṣù / Ọ̀rúnmìlà"
 theme: "cruelty, resentment, the need for restraint; instability, change, the trickster's lesson, humility"
 excerpt: "Ìká-Ọ̀wọ́nrín combines the energy of Ìká Méjì (cruelty, resentment, the need for restraint) with Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,II,I"
-pattern_left: "II,I,II,I"
+pattern_right: "II,I,II,II"
+pattern_left: "II,II,I,I"
 ---
 
 ## Ìká-Ọ̀wọ́nrín

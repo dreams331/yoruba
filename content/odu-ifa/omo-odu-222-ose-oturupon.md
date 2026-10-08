@@ -8,8 +8,8 @@ parent2: "oturupon-meji"
 orisha: "Ọ̀ṣun; Ọbàtálá / Ọ̀rúnmìlà"
 theme: "blessings, sweetness, abundance, gratitude; illness and healing, secrets of the body, patience"
 excerpt: "Ọ̀ṣẹ́-Òtúrúpọ̀n combines the energy of Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude) with Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "II,II,I,II"
-pattern_left: "II,II,I,I"
+pattern_right: "I,II,I,II"
+pattern_left: "II,II,I,II"
 ---
 
 ## Ọ̀ṣẹ́-Òtúrúpọ̀n

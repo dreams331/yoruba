@@ -12,8 +12,8 @@ excerpt: Òdí-Òfún combines the energy of Òdí Méjì (the womb, mystery,
   transformation, hidden depth) with Òfún Méjì (purity, old age, completion,
   moral integrity). It is read as a distinct Odù with its own guidance, drawing
   on both influences.
-pattern_right: I,II,II,I
-pattern_left: II,I,II,I
+pattern_right: "I,II,II,I"
+pattern_left: "II,I,II,I"
 ---
 
 ## Òdí-Òfún

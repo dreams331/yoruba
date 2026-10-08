@@ -8,8 +8,8 @@ parent2: "owonrin-meji"
 orisha: "Ògún; Èṣù / Ọ̀rúnmìlà"
 theme: "struggle, tools, perseverance, clearing the path; instability, change, the trickster's lesson, humility"
 excerpt: "Ògúndá-Ọ̀wọ́nrín combines the energy of Ògúndá Méjì (struggle, tools, perseverance, clearing the path) with Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility). It is read as a distinct Odù with its own guidance, drawing on both influences."
-pattern_right: "I,II,II,II"
-pattern_left: "II,I,II,I"
+pattern_right: "I,I,I,II"
+pattern_left: "II,II,I,I"
 ---
 
 ## Ògúndá-Ọ̀wọ́nrín
