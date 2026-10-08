@@ -3,7 +3,7 @@
  * Caches core assets for offline use and fast loading
  */
 
-const CACHE_NAME = 'yoruba-heritage-v1';
+const CACHE_NAME = 'yoruba-heritage-v2';
 const CACHE_TIMEOUT = 3000; // ms before falling back to cache
 
 // Core assets to pre-cache on install
@@ -65,7 +65,22 @@ self.addEventListener('fetch', event => {
         return;
     }
 
-    // For everything else: cache first, network fallback
+    // Content data, CSS and JS: network first so edits show up immediately
+    const url = new URL(event.request.url);
+    if (/\.(json|css|js)$/.test(url.pathname)) {
+        event.respondWith(
+            fetch(event.request)
+                .then(res => {
+                    const clone = res.clone();
+                    caches.open(CACHE_NAME).then(c => c.put(event.request, clone));
+                    return res;
+                })
+                .catch(() => caches.match(event.request))
+        );
+        return;
+    }
+
+    // Images and other static assets: cache first, network fallback
     event.respondWith(
         caches.match(event.request).then(cached => {
             if (cached) return cached;
