@@ -372,6 +372,7 @@ function buildStaticOduMejiCards(items) {
             <p>${excerpt}</p>
             ${orisha}
             ${proverb}
+            <p><a href="${staticDetailUrl('odu-ifa', slugify(o.id))}">Read the full interpretation &rarr;</a></p>
         </div>`;
         }).join('\n');
 }
@@ -437,8 +438,16 @@ function slugify(str) {
 const DETAIL_SECTIONS = {
     articles: { dir: 'articles', label: 'Articles', listPage: 'articles.html' },
     stories:  { dir: 'stories',  label: 'Stories',  listPage: 'stories.html' },
-    ifa:      { dir: 'ifa',      label: 'IFA Wisdom', listPage: 'ifa-wisdom.html' }
+    ifa:      { dir: 'ifa',      label: 'IFA Wisdom', listPage: 'ifa-wisdom.html' },
+    'odu-ifa': { dir: 'odu',     label: 'Odu Ifa',  listPage: 'odu-ifa.html' }
 };
+
+// Odu Ifa entries are only given a standalone, indexable page when they carry
+// real written content (an "Overview" section). Templated Omo Odù stay in the
+// interactive grid only, so thin pages are never published.
+function isPublishableOdu(item) {
+    return /^###\s+Overview\s*$/m.test(item.content || '');
+}
 
 // Unique slug per item within a collection (falls back to filename on collision)
 function buildSlugMap(items) {
@@ -582,7 +591,8 @@ function generateStaticDetailPages(results) {
     const urls = [];
     Object.keys(DETAIL_SECTIONS).forEach(key => {
         // Skip empty/untitled entries so we never publish blank pages
-        const items = (results[key] || []).filter(i => i.title && (i.content || i.htmlContent));
+        const items = (results[key] || []).filter(i => i.title && (i.content || i.htmlContent)
+            && (key !== 'odu-ifa' || isPublishableOdu(i)));
         const dir = path.join(root, DETAIL_SECTIONS[key].dir);
         fs.mkdirSync(dir, { recursive: true });
         const slugs = buildSlugMap(items);
