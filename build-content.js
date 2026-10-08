@@ -512,6 +512,7 @@ function renderDetailPage(sectionKey, item, slug) {
     <link rel="icon" type="image/png" href="/images/favicon.png">
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="css/article-detail.css">
+    <link rel="alternate" type="application/rss+xml" title="Yoruba Heritage" href="/feed.xml">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
@@ -625,6 +626,56 @@ function writeSitemap(detailUrls) {
     console.log(`  ✓ sitemap.xml (${fixed.length + detailUrls.length} URLs)`);
 }
 
+// Generate feed.xml (RSS 2.0) of the newest articles and stories, for Buffer / Make.com
+function writeFeed(results, detailUrlsBySection) {
+    const SITE = 'https://yorubaheritage.com';
+    const items = [];
+    ['articles', 'stories'].forEach(key => {
+        const list = (results[key] || []).filter(i => i.title && (i.content || i.htmlContent));
+        const slugs = buildSlugMap(list);
+        list.forEach(i => {
+            const d = new Date(i.date);
+            if (isNaN(d)) return;
+            items.push({
+                title: i.title,
+                link: `${SITE}/${staticDetailUrl(key, slugs.get(i))}`,
+                desc: i.excerpt || toPlainExcerpt(i.htmlContent || i.content, 200),
+                date: d,
+                category: i.category || DETAIL_SECTIONS[key].label,
+                image: i.image
+            });
+        });
+    });
+    items.sort((a, b) => b.date - a.date);
+    const top = items.slice(0, 30);
+    const absImg = img => !img ? '' : (/^https?:/.test(img) ? img : `${SITE}/${img.replace(/^\//, '')}`);
+    const imgType = img => /\.png$/i.test(img) ? 'image/png' : /\.webp$/i.test(img) ? 'image/webp' : 'image/jpeg';
+    const xmlItems = top.map(i => `    <item>
+      <title>${escapeHtml(i.title)}</title>
+      <link>${escapeHtml(i.link)}</link>
+      <guid isPermaLink="true">${escapeHtml(i.link)}</guid>
+      <pubDate>${i.date.toUTCString()}</pubDate>
+      <category>${escapeHtml(i.category)}</category>
+      <description>${escapeHtml(i.desc)}</description>${i.image ? `
+      <enclosure url="${escapeHtml(absImg(i.image))}" length="0" type="${imgType(i.image)}" />` : ''}
+    </item>`).join('\n');
+    const xml = `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yoruba Heritage</title>
+    <link>${SITE}/</link>
+    <description>Articles and traditional stories celebrating Yoruba history, culture and wisdom.</description>
+    <language>en</language>
+    <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
+    <atom:link href="${SITE}/feed.xml" rel="self" type="application/rss+xml" />
+${xmlItems}
+  </channel>
+</rss>
+`;
+    fs.writeFileSync(path.join(__dirname, 'feed.xml'), xml);
+    console.log(`  ✓ feed.xml (${top.length} items)`);
+}
+
 // Main build function
 function buildContent() {
     console.log('🔨 Building content from CMS...\n');
@@ -671,6 +722,7 @@ function buildContent() {
     // Generate full-text static detail pages + sitemap, then inject listing content
     const detailUrls = generateStaticDetailPages(results);
     writeSitemap(detailUrls);
+    writeFeed(results);
     injectStaticContentForPages(results);
     
     // Generate summary

@@ -4,3 +4,6 @@ Disallow: /admin/
 Disallow: /data/
 
 Sitemap: https://yorubaheritage.com/sitemap.xml
+
+# RSS feed
+# https://yorubaheritage.com/feed.xml
