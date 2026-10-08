@@ -2,7 +2,7 @@
 title: "Welcome to Ìròyìn — Our New Yoruba Community News Page"
 date: 2026-09-01T09:00:00.000Z
 category: "Culture & Heritage"
-image: ""
+image: "images/uploads/yoruba-people.jpg"
 excerpt: "We're launching Ìròyìn, a curated news space dedicated to stories from and about the Yoruba community worldwide — culture, royalty, diaspora life, and more."
 source_name: "Yoruba Heritage"
 source_link: ""
@@ -13,3 +13,5 @@ featured: true
 Welcome to **Ìròyìn** — meaning "news" or "report" in Yoruba. This page will feature carefully selected news relevant to Yoruba people and culture worldwide, curated by our editorial team rather than automated feeds, to ensure everything here is genuinely meaningful to our community.
 
 Check back regularly for updates on royal palace news, diaspora community events, language preservation efforts, and more.
+
+Our editorial approach is simple: each item summarises a report, explains why it matters to Yoruba readers and links to the original publisher so you can read the full story.

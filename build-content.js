@@ -623,7 +623,7 @@ function writeSitemap(detailUrls) {
     const fixed = [
         ['', 'daily', '1.0'], ['articles.html', 'daily', '0.9'], ['stories.html', 'daily', '0.9'],
         ['ifa-wisdom.html', 'weekly', '0.8'], ['odu-ifa.html', 'weekly', '0.8'],
-        ['events.html', 'weekly', '0.8'], ['news.html', 'daily', '0.8'],
+        ['events.html', 'weekly', '0.8'],
         ['yoruba-calendar.html', 'monthly', '0.7'], ['gallery.html', 'weekly', '0.7'],
         ['diaspora.html', 'monthly', '0.6'], ['about.html', 'monthly', '0.6'],
         ['contact.html', 'monthly', '0.5'], ['contribute.html', 'monthly', '0.5'],
