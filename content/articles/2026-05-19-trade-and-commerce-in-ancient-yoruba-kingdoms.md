@@ -40,7 +40,7 @@ Agriculture formed the backbone of the economy. Farmers cultivated crops such as
 * Plantain
 * Palm produce
 
-These agricultural goods supplied local populations and supported trade between towns and kingdoms. ([britannica.com](<>))
+These agricultural goods supplied local populations and supported trade between towns and kingdoms.
 
 In addition to farming, Yoruba craftsmen produced goods that became highly valued in regional trade networks.
 
@@ -50,7 +50,7 @@ Several Yoruba cities became famous commercial centers due to their strategic lo
 
 ### Old Oyo
 
-The Oyo Empire controlled important trade routes connecting the forest regions of southern Yorubaland to the savannah and trans-Saharan networks in the north. This allowed Oyo to grow wealthy through taxes, tribute, and commerce. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Oyo_Empire?utm_source=chatgpt.com))
+The Oyo Empire controlled important trade routes connecting the forest regions of southern Yorubaland to the savannah and trans-Saharan networks in the north. This allowed Oyo to grow wealthy through taxes, tribute, and commerce. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Oyo_Empire))
 
 ### Ijebu Kingdom
 
@@ -65,7 +65,7 @@ Ijebu merchants managed trade involving:
 * Imported goods
 * European products
 
-Their economic strength made the Ijebu Kingdom one of the wealthiest states in Yorubaland. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Ijebu_Kingdom?utm_source=chatgpt.com))
+Their economic strength made the Ijebu Kingdom one of the wealthiest states in Yorubaland. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Ijebu_Kingdom))
 
 ### Lagos
 
@@ -90,7 +90,7 @@ for local products including:
 
 ### Ibadan
 
-During the nineteenth century, Ibadan emerged as both a military and commercial center. Its strategic position connected various trade routes across Yorubaland. Traders from different regions gathered there to exchange goods and establish business partnerships. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Ibadan?utm_source=chatgpt.com))
+During the nineteenth century, Ibadan emerged as both a military and commercial center. Its strategic position connected various trade routes across Yorubaland. Traders from different regions gathered there to exchange goods and establish business partnerships. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Ibadan))
 
 ## The Yoruba Market System
 
@@ -114,7 +114,7 @@ Women played especially important roles in Yoruba commerce.
 
 Many markets were supervised by influential female leaders known as the Iyaloja, meaning “Mother of the Market.” The Iyaloja coordinated market affairs, resolved disputes, and represented traders in political matters.
 
-The position carried significant authority and respect within Yoruba society. ([en.wikipedia.org](<>))
+The position carried significant authority and respect within Yoruba society.
 
 ## Trade Goods in Ancient Yorubaland
 
@@ -166,7 +166,7 @@ Through these routes, Yoruba merchants interacted with traders from:
 * Songhai territories
 * North Africa
 
-Goods such as horses and salt entered Yorubaland through northern commercial networks. ([britannica.com](<>))
+Goods such as horses and salt entered Yorubaland through northern commercial networks.
 
 ### Atlantic Trade
 
@@ -212,7 +212,7 @@ Prominent crafts included:
 * Wood carving
 * Bead making
 
-Cities such as Ile-Ife became internationally respected for artistic excellence, especially in bronze and terracotta works. ([en.wikipedia.org](<>))
+Cities such as Ile-Ife became internationally respected for artistic excellence, especially in bronze and terracotta works.
 
 ## The Role of Women in Commerce
 
@@ -241,7 +241,7 @@ Rulers taxed trade routes, collected tribute, and controlled strategic markets. 
 
 Economic success often translated into military and political power.
 
-The Oyo Empire, for example, used wealth generated from trade to maintain cavalry forces and expand imperial influence across West Africa. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Oyo_Empire?utm_source=chatgpt.com))
+The Oyo Empire, for example, used wealth generated from trade to maintain cavalry forces and expand imperial influence across West Africa. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Oyo_Empire))
 
 ## Challenges to Yoruba Commerce
 

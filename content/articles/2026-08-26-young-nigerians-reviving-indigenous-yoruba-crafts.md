@@ -39,9 +39,9 @@ The result is a meeting point between **old knowledge and new imagination**.
 
 One of the greatest challenges facing indigenous crafts is the loss of practical knowledge. A craft can disappear when younger generations no longer learn how to make it.
 
-That is why training centres and cultural organisations are becoming increasingly important. The [Adire Oodua Textile Hub](https://adireoodua.org/about-us/?utm_source=chatgpt.com), for example, runs educational and participatory programmes designed to preserve traditional Adìrẹ techniques while encouraging innovation among adults and young people.
+That is why training centres and cultural organisations are becoming increasingly important. The [Adire Oodua Textile Hub](https://adireoodua.org/about-us/), for example, runs educational and participatory programmes designed to preserve traditional Adìrẹ techniques while encouraging innovation among adults and young people.
 
-The [OlaDapo Autentic Art Adire Revival Foundation](https://www.oaaadf.com/adirerevival/about.html?utm_source=chatgpt.com) also focuses on training young people and communities in Adìrẹ making as a form of cultural preservation and sustainable entrepreneurship.
+The [OlaDapo Autentic Art Adire Revival Foundation](https://www.oaaadf.com/adirerevival/about.html) also focuses on training young people and communities in Adìrẹ making as a form of cultural preservation and sustainable entrepreneurship.
 
 These initiatives recognise an important truth:
 
@@ -80,7 +80,7 @@ A process that once remained largely hidden inside an artisan's workspace can no
 
 ## Institutions Are Also Helping Keep Skills Alive
 
-[Nike Art Gallery](https://nikeartgallery.ng/about?utm_source=chatgpt.com) has played a major role in promoting Nigerian artistic traditions and providing art education and vocational training. Its work includes preserving textile traditions and supporting younger generations through training in areas such as textile art, dyeing, painting and embroidery.
+[Nike Art Gallery](https://nikeartgallery.ng/about) has played a major role in promoting Nigerian artistic traditions and providing art education and vocational training. Its work includes preserving textile traditions and supporting younger generations through training in areas such as textile art, dyeing, painting and embroidery.
 
 These spaces are important because young people need more than admiration for culture. They need opportunities to **learn, practise, experiment and earn from traditional knowledge**.
 

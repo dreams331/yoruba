@@ -21,7 +21,7 @@ Across Yorubaland, Egúngún celebrations combine spirituality, performance, mus
 
 Egúngún refers both to ancestral masquerades and to the spiritual tradition surrounding ancestral veneration in Yoruba culture.
 
-The word “Egúngún” is commonly associated with masked performers believed to embody or represent ancestral spirits temporarily returning to the world of the living during ceremonial festivals. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Egungun?utm_source=chatgpt.com))
+The word “Egúngún” is commonly associated with masked performers believed to embody or represent ancestral spirits temporarily returning to the world of the living during ceremonial festivals. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Egungun))
 
 In Yoruba belief, ancestors remain spiritually active members of the community even after death. They are honored because they:
 
@@ -55,7 +55,7 @@ The Egúngún tradition therefore reinforces moral behavior by reminding communi
 
 The origins of Egúngún traditions extend far back into Yoruba history and oral tradition.
 
-Different Yoruba towns and lineages preserve unique stories explaining how ancestral masquerade practices began. Many traditions trace the system to early Yoruba religious and royal institutions connected to ancestor veneration and spiritual authority. ([britannica.com](<>))
+Different Yoruba towns and lineages preserve unique stories explaining how ancestral masquerade practices began. Many traditions trace the system to early Yoruba religious and royal institutions connected to ancestor veneration and spiritual authority.
 
 Over centuries, Egúngún festivals evolved into highly organized ceremonial events involving:
 

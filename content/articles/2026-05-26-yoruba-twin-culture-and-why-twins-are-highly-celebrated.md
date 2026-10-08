@@ -30,7 +30,7 @@ Research has shown particularly high twin birth rates in areas such as:
 * Ibadan
 * Parts of Ogun and Osun States
 
-([bbc.com](<>))
+
 
 Because twins occur so frequently among the Yoruba, unique cultural systems developed around their birth and spiritual significance.
 
@@ -122,7 +122,7 @@ These figures were treated with great care and respect through:
 
 The practice reflected the Yoruba belief that the spiritual bond between twins continues beyond physical death.
 
-Ìbejì carvings are now internationally recognized as important works of African art and spirituality. ([britannica.com](<>))
+Ìbejì carvings are now internationally recognized as important works of African art and spirituality.
 
 ## Twin Festivals and Celebrations
 

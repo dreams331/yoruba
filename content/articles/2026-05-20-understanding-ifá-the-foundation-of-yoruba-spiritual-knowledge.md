@@ -31,7 +31,7 @@ According to Yoruba belief, Orunmila possesses deep understanding of:
 * Cosmic order
 * The consequences of human actions
 
-Ifá serves as the medium through which this wisdom is communicated to humanity. ([en.wikipedia.org](https://en.wikipedia.org/wiki/If%C3%A1?utm_source=chatgpt.com))
+Ifá serves as the medium through which this wisdom is communicated to humanity. ([en.wikipedia.org](https://en.wikipedia.org/wiki/If%C3%A1))
 
 The system is both spiritual and intellectual, combining philosophy, history, ethics, medicine, poetry, mathematics, and symbolism into a highly organized tradition.
 
@@ -41,7 +41,7 @@ The origins of Ifá are deeply rooted in Yoruba oral tradition and ancient histo
 
 Yoruba traditions identify Ile-Ife as the spiritual birthplace of Yoruba civilization and an important center for the development of Ifá knowledge.
 
-According to oral accounts, Orunmila was sent by Olodumare, the Supreme Being, to guide humanity with wisdom and moral understanding. Through his teachings, the foundations of Ifá divination and Yoruba spirituality were established. ([britannica.com](<>))
+According to oral accounts, Orunmila was sent by Olodumare, the Supreme Being, to guide humanity with wisdom and moral understanding. Through his teachings, the foundations of Ifá divination and Yoruba spirituality were established.
 
 Over time, trained priests known as Babalawo preserved and expanded the Ifá corpus through memorization and oral transmission.
 
@@ -60,7 +60,7 @@ Babalawos undergo years of rigorous training involving:
 
 The training process can take many years because the Ifá corpus contains hundreds of sacred literary verses known as Odu Ifá.
 
-Female practitioners also exist and are sometimes called Iyanifa. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Babalawo?utm_source=chatgpt.com))
+Female practitioners also exist and are sometimes called Iyanifa. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Babalawo))
 
 ## The Odu Ifá System
 
@@ -68,7 +68,7 @@ At the heart of Ifá lies the Odu Ifá system.
 
 The Odu are sacred patterns and literary bodies that contain stories, teachings, proverbs, historical references, prayers, medicinal knowledge, and moral lessons.
 
-Traditional Ifá recognizes 256 Odu combinations formed through divination patterns. Each Odu contains numerous verses that guide interpretation and spiritual advice. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Odu_If%C3%A1?utm_source=chatgpt.com))
+Traditional Ifá recognizes 256 Odu combinations formed through divination patterns. Each Odu contains numerous verses that guide interpretation and spiritual advice. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Odu_If%C3%A1))
 
 Some important Odu include:
 
@@ -104,7 +104,7 @@ Divination may address matters involving:
 * Spiritual imbalance
 * Personal destiny
 
-The guidance often includes ethical advice, sacrifices, prayers, or behavioral corrections. ([britannica.com](<>))
+The guidance often includes ethical advice, sacrifices, prayers, or behavioral corrections.
 
 ## Ifá Philosophy and Moral Teachings
 

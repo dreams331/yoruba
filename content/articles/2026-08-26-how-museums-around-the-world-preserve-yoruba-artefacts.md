@@ -39,7 +39,7 @@ This may include recording:
 * Ownership and acquisition history.
 * Known cultural or historical significance.
 
-The growing importance of documentation can be seen in the collaboration between the [Metropolitan Museum of Art](https://www.metmuseum.org/press-releases/ncmm-project-announcement-2023-news?utm_source=chatgpt.com) and Nigeria's National Commission for Museums and Monuments, which includes cataloguing and digitisation work aimed at strengthening documentation of Nigerian collections.
+The growing importance of documentation can be seen in the collaboration between the [Metropolitan Museum of Art](https://www.metmuseum.org/press-releases/ncmm-project-announcement-2023-news) and Nigeria's National Commission for Museums and Monuments, which includes cataloguing and digitisation work aimed at strengthening documentation of Nigerian collections.
 
 ## 3. Climate Controlled Storage Protects Fragile Heritage
 
@@ -90,7 +90,7 @@ For example, the British Museum's research on Lower Niger copper alloy objects h
 
 ## 7. Museums Around the World Hold Important Yoruba Collections
 
-Institutions with significant Yoruba material include the [British Museum](https://www.britishmuseum.org/collection/term/x85250?utm_source=chatgpt.com), which lists thousands of Yoruba related objects in its collection, the [Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/312519?utm_source=chatgpt.com), and the [Smithsonian National Museum of African Art](https://africa.si.edu/exhibitions/visionary-viewpoints-africas-arts-art-history-made-visible?utm_source=chatgpt.com), whose holdings include a substantial group of Yoruba artworks across materials such as beadwork, ceramics, copper alloy, iron, ivory and wood.
+Institutions with significant Yoruba material include the [British Museum](https://www.britishmuseum.org/collection/term/x85250), which lists thousands of Yoruba related objects in its collection, the [Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/312519), and the [Smithsonian National Museum of African Art](https://africa.si.edu/exhibitions/visionary-viewpoints-africas-arts-art-history-made-visible), whose holdings include a substantial group of Yoruba artworks across materials such as beadwork, ceramics, copper alloy, iron, ivory and wood.
 
 These collections allow Yoruba artistic traditions to be studied on an international scale. For example, the Met holds Yoruba works ranging from stone sculpture to ceremonial objects, while the British Museum documents artefacts including **ìbejì** figures, textiles and ritual objects.
 

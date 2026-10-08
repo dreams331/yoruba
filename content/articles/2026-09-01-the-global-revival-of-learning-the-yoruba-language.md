@@ -20,7 +20,7 @@ Across Nigeria and the Yoruba diaspora, more children, young people and adults a
 
 For many Yoruba families living in countries such as the United Kingdom, United States and Canada, language has become an important connection to identity.
 
-Parents who may have grown up speaking Yoruba are increasingly looking for ways to ensure their children do not lose that connection. Programmes such as [Yorùbá Basics](https://www.yorubabasics.com/courses/fall-2025-j-losinmi-beginner-4-7-years?utm_source=chatgpt.com) provide online language and cultural education specifically designed for younger members of the African diaspora.
+Parents who may have grown up speaking Yoruba are increasingly looking for ways to ensure their children do not lose that connection. Programmes such as [Yorùbá Basics](https://www.yorubabasics.com/courses/fall-2025-j-losinmi-beginner-4-7-years) provide online language and cultural education specifically designed for younger members of the African diaspora.
 
 The goal is not simply to memorise vocabulary. Learners are also introduced to **greetings, tones, etiquette, stories, proverbs and Yoruba cultural traditions**.
 
@@ -30,7 +30,7 @@ Perhaps the greatest change has come through technology.
 
 A person living thousands of kilometres away from Nigeria can now learn Yoruba through live video classes, private tutoring, digital flashcards, audiobooks, podcasts and online communities.
 
-Platforms such as [LedeYoruba](https://www.ledeyoruba.com/?utm_source=chatgpt.com) and [Lingawa](https://www.lingawa.com/?utm_source=chatgpt.com) are examples of modern services designed to connect learners with Yoruba language education from different parts of the world. Lingawa reports serving thousands of diaspora learners, while other platforms focus on flexible tutoring and live classes.
+Platforms such as [LedeYoruba](https://www.ledeyoruba.com/) and [Lingawa](https://www.lingawa.com/) are examples of modern services designed to connect learners with Yoruba language education from different parts of the world. Lingawa reports serving thousands of diaspora learners, while other platforms focus on flexible tutoring and live classes.
 
 Technology has effectively removed one of the biggest barriers to language learning:
 
@@ -40,9 +40,9 @@ Technology has effectively removed one of the biggest barriers to language learn
 
 The global interest in Yoruba is also visible in formal education.
 
-[SOAS University of London’s Yorùbá Beginners Course](https://www.soas.ac.uk/study/find-course/yoruba-beginners-course?utm_source=chatgpt.com) offers structured instruction covering speaking, listening, reading and writing, alongside Yoruba cultural context.
+[SOAS University of London’s Yorùbá Beginners Course](https://www.soas.ac.uk/study/find-course/yoruba-beginners-course) offers structured instruction covering speaking, listening, reading and writing, alongside Yoruba cultural context.
 
-In Nigeria, the [Yorùbá Language Centre at the University of Ibadan](https://ylc.ui.edu.ng/programmes-and-activities?utm_source=chatgpt.com) offers programmes specifically designed for foreigners, heritage learners and second language learners, including programmes aimed at learners in Europe, Asia and Latin America.
+In Nigeria, the [Yorùbá Language Centre at the University of Ibadan](https://ylc.ui.edu.ng/programmes-and-activities) offers programmes specifically designed for foreigners, heritage learners and second language learners, including programmes aimed at learners in Europe, Asia and Latin America.
 
 This is a powerful development because it shows that Yoruba is increasingly being approached not only as a language people inherit at birth but also as a language that people around the world can deliberately study.
 

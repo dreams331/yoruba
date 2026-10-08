@@ -29,13 +29,13 @@ In Yoruba spirituality, Òrúnmìlà is the Orisha of wisdom, knowledge, foresig
 * Akéréfinúṣọgbọn — The small one full of wisdom
 * Ọ̀rúnmìlà Àgbọnnìrègún — The wise sage of heaven
 
-According to Yoruba belief, every person chooses a destiny before coming into the world. However, humans often forget this destiny after birth. Òrúnmìlà, through Ifá divination, helps people understand their spiritual path and make wiser decisions. ([britannica.com](<>))
+According to Yoruba belief, every person chooses a destiny before coming into the world. However, humans often forget this destiny after birth. Òrúnmìlà, through Ifá divination, helps people understand their spiritual path and make wiser decisions.
 
 ## Òrúnmìlà and the Ifá Divination System
 
 Òrúnmìlà is inseparably connected to Ifá, the sacred Yoruba system of divination and knowledge.
 
-Ifá is considered one of the oldest and most sophisticated systems of spiritual philosophy in Africa. Through divination, priests known as Babalawo interpret sacred messages associated with Òrúnmìlà’s wisdom. ([en.wikipedia.org](https://en.wikipedia.org/wiki/If%C3%A1?utm_source=chatgpt.com))
+Ifá is considered one of the oldest and most sophisticated systems of spiritual philosophy in Africa. Through divination, priests known as Babalawo interpret sacred messages associated with Òrúnmìlà’s wisdom. ([en.wikipedia.org](https://en.wikipedia.org/wiki/If%C3%A1))
 
 The divination system is built around 256 sacred literary and symbolic patterns called Odu Ifá. Each Odu contains verses filled with:
 
@@ -73,7 +73,7 @@ Divination may concern:
 * Spiritual imbalance
 * Community conflicts
 
-The guidance given usually includes practical wisdom alongside spiritual recommendations. ([britannica.com](<>))
+The guidance given usually includes practical wisdom alongside spiritual recommendations.
 
 ## Wisdom as the Highest Virtue
 

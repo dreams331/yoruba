@@ -30,13 +30,13 @@ Pre-colonial Yoruba warfare was driven by several factors, including:
 * Protection of communities
 * Rivalries among kingdoms
 
-Unlike the modern idea of permanent national armies, many Yoruba states relied on a combination of professional soldiers, war chiefs, hunters, cavalry units, and citizens mobilized during conflicts. However, powerful kingdoms such as Old Oyo maintained highly organized military systems with specialized leadership structures. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Oyo_Empire?utm_source=chatgpt.com))
+Unlike the modern idea of permanent national armies, many Yoruba states relied on a combination of professional soldiers, war chiefs, hunters, cavalry units, and citizens mobilized during conflicts. However, powerful kingdoms such as Old Oyo maintained highly organized military systems with specialized leadership structures. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Oyo_Empire))
 
 Military success often determined the strength and prestige of a kingdom. Victorious rulers expanded their influence, gained tribute from neighboring territories, and increased their political authority.
 
 ## The Oyo Empire and Military Supremacy
 
-Among all Yoruba states, the Old Oyo Empire became the most famous military power in pre-colonial Yorubaland. Between the seventeenth and eighteenth centuries, Oyo expanded into one of the largest empires in West Africa. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Oyo_Empire?utm_source=chatgpt.com))
+Among all Yoruba states, the Old Oyo Empire became the most famous military power in pre-colonial Yorubaland. Between the seventeenth and eighteenth centuries, Oyo expanded into one of the largest empires in West Africa. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Oyo_Empire))
 
 One of Oyo’s greatest military advantages was its cavalry.
 
@@ -58,7 +58,7 @@ Oyo’s horsemen often carried spears, swords, shields, and sometimes imported f
 
 The title of Aare Ona Kakanfo was one of the most powerful military offices in Yorubaland.
 
-The Aare Ona Kakanfo served as the supreme military commander of the Oyo Empire and was expected to lead armies into battle. Tradition held that the holder of the title must never lose a war. If defeat became inevitable, the expectation was often death rather than retreat or surrender. ([en.wikipedia.org](<>))
+The Aare Ona Kakanfo served as the supreme military commander of the Oyo Empire and was expected to lead armies into battle. Tradition held that the holder of the title must never lose a war. If defeat became inevitable, the expectation was often death rather than retreat or surrender.
 
 Famous holders of the title included:
 
@@ -88,7 +88,7 @@ Blacksmiths played an important role in Yoruba society because they produced wea
 
 By the eighteenth and nineteenth centuries, firearms had become increasingly important. European trade along the Atlantic coast introduced guns into many Yoruba states.
 
-However, traditional weapons continued to be widely used because firearms were expensive, slow to reload, and not always reliable during battle. ([britannica.com](<>))
+However, traditional weapons continued to be widely used because firearms were expensive, slow to reload, and not always reliable during battle.
 
 ## Military Strategy and Battlefield Tactics
 
@@ -108,7 +108,7 @@ Forest environments in parts of Yorubaland encouraged ambush tactics and guerril
 
 Many Yoruba cities were fortified with walls, gates, trenches, and defensive earthworks. Attacking such cities required long sieges and strategic planning.
 
-Ancient cities such as Ibadan, Oyo-Ile, and Ijebu settlements developed defensive systems to resist invasions. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Sungbo%27s_Eredo?utm_source=chatgpt.com))
+Ancient cities such as Ibadan, Oyo-Ile, and Ijebu settlements developed defensive systems to resist invasions. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Sungbo%27s_Eredo))
 
 ### Psychological Warfare
 
@@ -120,7 +120,7 @@ War drums communicated commands across battlefields and boosted morale among tro
 
 During the nineteenth century, Ibadan emerged as one of the most militarized Yoruba cities.
 
-Unlike many Yoruba kingdoms ruled strictly by hereditary monarchs, Ibadan developed a military-based political structure where successful warriors rose through ranks based on achievement and battlefield success. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Ibadan?utm_source=chatgpt.com))
+Unlike many Yoruba kingdoms ruled strictly by hereditary monarchs, Ibadan developed a military-based political structure where successful warriors rose through ranks based on achievement and battlefield success. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Ibadan))
 
 Military titles became pathways to political leadership. Prominent war chiefs controlled large forces and influenced regional politics.
 
@@ -170,7 +170,7 @@ Several factors contributed to the decline of traditional military systems:
 * Colonial administration
 * Internal Yoruba conflicts
 
-The Kiriji War, fought in the late nineteenth century, became one of the last major Yoruba civil wars before colonial consolidation. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Kiriji_War?utm_source=chatgpt.com))
+The Kiriji War, fought in the late nineteenth century, became one of the last major Yoruba civil wars before colonial consolidation. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Kiriji_War))
 
 British intervention eventually reduced the independence of Yoruba military states and replaced indigenous political systems with colonial administration.
 
