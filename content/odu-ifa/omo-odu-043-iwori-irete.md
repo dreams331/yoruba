@@ -8,7 +8,7 @@ parent2: irete-meji
 orisha: Ọ̀sanyìn / Ọ̀rúnmìlà; Ọ̀rúnmìlà / Ọya
 theme: self-knowledge, hidden truth, inner vision; perseverance despite
   setbacks, hidden victory
-excerpt: "Self-belief carries you through setbacks. The figure says that inner conviction is what turns delay into eventual victory."
+excerpt: "Self-belief carries you through setbacks. Inner conviction is what turns delay into eventual victory."
 pattern_right: "II,I,I,II"
 pattern_left: "I,I,II,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "I,I,II,I"
 
 ### Overview
 
-Self-belief carries you through setbacks. The figure says that inner conviction is what turns delay into eventual victory.
+Self-belief carries you through setbacks. Inner conviction is what turns delay into eventual victory.
 
 ### Governing Influences
 

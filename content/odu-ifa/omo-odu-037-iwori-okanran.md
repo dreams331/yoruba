@@ -8,7 +8,7 @@ parent2: okanran-meji
 orisha: Ọ̀sanyìn / Ọ̀rúnmìlà; Ọya / Ògún
 theme: self-knowledge, hidden truth, inner vision; conflict, truth-telling,
   sharp consequences
-excerpt: "Sharp truth cuts through confusion. The figure promises that honest vision settles conflict, even if the process is uncomfortable."
+excerpt: "Sharp truth cuts through confusion. Honest vision settles conflict, even if the process is uncomfortable."
 pattern_right: "II,I,I,II"
 pattern_left: "II,II,II,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,II,II,I"
 
 ### Overview
 
-Sharp truth cuts through confusion. The figure promises that honest vision settles conflict, even if the process is uncomfortable.
+Sharp truth cuts through confusion. Honest vision settles conflict, even if the process is uncomfortable.
 
 ### Governing Influences
 

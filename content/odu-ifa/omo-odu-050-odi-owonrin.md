@@ -8,7 +8,7 @@ parent2: owonrin-meji
 orisha: Ọya / Yemọja; Èṣù / Ọ̀rúnmìlà
 theme: the womb, mystery, transformation, hidden depth; instability, change, the
   trickster's lesson, humility
-excerpt: "Transformation proceeds through unsteady times. The figure suggests that change feels uncomfortable because something new is forming."
+excerpt: "Transformation proceeds through unsteady times. Change feels uncomfortable because something new is forming."
 pattern_right: "I,II,II,I"
 pattern_left: "II,II,I,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,II,I,I"
 
 ### Overview
 
-Transformation proceeds through unsteady times. The figure suggests that change feels uncomfortable because something new is forming.
+Transformation proceeds through unsteady times. Change feels uncomfortable because something new is forming.
 
 ### Governing Influences
 

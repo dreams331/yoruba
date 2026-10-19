@@ -7,7 +7,7 @@ parent1: "ogunda-meji"
 parent2: "eji-ogbe"
 orisha: "Ògún; Ọ̀rúnmìlà / Olódùmarè"
 theme: "struggle, tools, perseverance, clearing the path; light, new beginnings, divine potential"
-excerpt: "Effort walks under a bright sky. The figure promises that hard work done at the right time is met with favourable conditions."
+excerpt: "Effort walks under a bright sky. Hard work done at the right time is met with favourable conditions."
 pattern_right: "I,I,I,II"
 pattern_left: "I,I,I,I"
 ---
@@ -15,7 +15,7 @@ pattern_left: "I,I,I,I"
 
 ### Overview
 
-Effort walks under a bright sky. The figure promises that hard work done at the right time is met with favourable conditions.
+Effort walks under a bright sky. Hard work done at the right time is met with favourable conditions.
 
 ### Governing Influences
 

@@ -7,7 +7,7 @@ parent1: "ika-meji"
 parent2: "eji-ogbe"
 orisha: "Ọya / Èṣù; Ọ̀rúnmìlà / Olódùmarè"
 theme: "cruelty, resentment, the need for restraint; light, new beginnings, divine potential"
-excerpt: "A hard heart is exposed to the light. The figure says that cruelty and bitterness are revealed for what they are, and offers a chance to start over."
+excerpt: "A hard heart is exposed to the light. Cruelty and bitterness are revealed for what they are, and offers a chance to start over."
 pattern_right: "II,I,II,II"
 pattern_left: "I,I,I,I"
 ---
@@ -15,7 +15,7 @@ pattern_left: "I,I,I,I"
 
 ### Overview
 
-A hard heart is exposed to the light. The figure says that cruelty and bitterness are revealed for what they are, and offers a chance to start over.
+A hard heart is exposed to the light. Cruelty and bitterness are revealed for what they are, and offers a chance to start over.
 
 ### Governing Influences
 

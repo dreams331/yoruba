@@ -7,7 +7,7 @@ parent1: "okanran-meji"
 parent2: "ogunda-meji"
 orisha: "Ọya / Ògún; Ògún"
 theme: "conflict, truth-telling, sharp consequences; struggle, tools, perseverance, clearing the path"
-excerpt: "A fight needs the right tools. The figure says that conflict is best met with preparation, skill and discipline, not with temper."
+excerpt: "A fight needs the right tools. Conflict is best met with preparation, skill and discipline, not with temper."
 pattern_right: "II,II,II,I"
 pattern_left: "I,I,I,II"
 ---
@@ -15,7 +15,7 @@ pattern_left: "I,I,I,II"
 
 ### Overview
 
-A fight needs the right tools. The figure says that conflict is best met with preparation, skill and discipline, not with temper.
+A fight needs the right tools. Conflict is best met with preparation, skill and discipline, not with temper.
 
 ### Governing Influences
 

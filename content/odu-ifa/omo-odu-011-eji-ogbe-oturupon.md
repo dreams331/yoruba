@@ -8,7 +8,7 @@ parent2: oturupon-meji
 orisha: Ọ̀rúnmìlà / Olódùmarè; Ọbàtálá / Ọ̀rúnmìlà
 theme: light, new beginnings, divine potential; illness and healing, secrets of
   the body, patience
-excerpt: "The figure joins vitality with the call to heal. Good fortune depends on caring for the body and being patient with slow recovery."
+excerpt: "It joins vitality with the call to heal. Good fortune depends on caring for the body and being patient with slow recovery."
 pattern_right: "I,I,I,I"
 pattern_left: "II,II,I,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,II,I,II"
 
 ### Overview
 
-The figure joins vitality with the call to heal. Good fortune depends on caring for the body and being patient with slow recovery.
+It joins vitality with the call to heal. Good fortune depends on caring for the body and being patient with slow recovery.
 
 ### Governing Influences
 

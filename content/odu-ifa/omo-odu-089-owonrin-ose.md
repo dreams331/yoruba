@@ -8,7 +8,7 @@ parent2: ose-meji
 orisha: Èṣù / Ọ̀rúnmìlà; Ọ̀ṣun
 theme: instability, change, the trickster's lesson, humility; blessings,
   sweetness, abundance, gratitude
-excerpt: "Change brings an unexpected blessing. The figure says that what looks like disruption may carry a gift, and calls for thanks."
+excerpt: "Change brings an unexpected blessing. What looks like disruption may carry a gift, and calls for thanks."
 pattern_right: "II,II,I,I"
 pattern_left: "I,II,I,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "I,II,I,II"
 
 ### Overview
 
-Change brings an unexpected blessing. The figure says that what looks like disruption may carry a gift, and calls for thanks.
+Change brings an unexpected blessing. What looks like disruption may carry a gift, and calls for thanks.
 
 ### Governing Influences
 

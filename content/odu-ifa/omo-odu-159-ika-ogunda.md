@@ -7,7 +7,7 @@ parent1: "ika-meji"
 parent2: "ogunda-meji"
 orisha: "Ọya / Èṣù; Ògún"
 theme: "cruelty, resentment, the need for restraint; struggle, tools, perseverance, clearing the path"
-excerpt: "Resentment fuels a hard struggle. The figure advises channelling anger into disciplined work instead of revenge."
+excerpt: "Resentment fuels a hard struggle. It advises channelling anger into disciplined work instead of revenge."
 pattern_right: "II,I,II,II"
 pattern_left: "I,I,I,II"
 ---
@@ -15,7 +15,7 @@ pattern_left: "I,I,I,II"
 
 ### Overview
 
-Resentment fuels a hard struggle. The figure advises channelling anger into disciplined work instead of revenge.
+Resentment fuels a hard struggle. It advises channelling anger into disciplined work instead of revenge.
 
 ### Governing Influences
 

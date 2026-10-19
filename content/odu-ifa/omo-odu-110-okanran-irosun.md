@@ -7,7 +7,7 @@ parent1: "okanran-meji"
 parent2: "irosun-meji"
 orisha: "Ọya / Ògún; Ṣàngó / Ọya"
 theme: "conflict, truth-telling, sharp consequences; blood, sacrifice, warning, consequence"
-excerpt: "Conflict has consequences. The figure warns that anger can lead to injury or loss, and that sacrifice and restraint bring peace."
+excerpt: "Conflict has consequences. Note the warning: anger can lead to injury or loss, and sacrifice and restraint bring peace."
 pattern_right: "II,II,II,I"
 pattern_left: "I,I,II,II"
 ---
@@ -15,7 +15,7 @@ pattern_left: "I,I,II,II"
 
 ### Overview
 
-Conflict has consequences. The figure warns that anger can lead to injury or loss, and that sacrifice and restraint bring peace.
+Conflict has consequences. The caution is that anger can lead to injury or loss, and sacrifice and restraint bring peace.
 
 ### Governing Influences
 

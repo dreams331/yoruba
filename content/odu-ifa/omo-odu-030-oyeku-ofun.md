@@ -8,7 +8,7 @@ parent2: ofun-meji
 orisha: Ikú (Death) / Ọ̀sun; Ọbàtálá / Olódùmarè
 theme: endings, the ancestors, the unseen world, mortality; purity, old age,
   completion, moral integrity
-excerpt: "A life reaches its natural completion with dignity. The figure honours old age, a clean conscience and a peaceful transition."
+excerpt: "A life reaches its natural completion with dignity. It honours old age, a clean conscience and a peaceful transition."
 pattern_right: "II,II,II,II"
 pattern_left: "II,I,II,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,I,II,I"
 
 ### Overview
 
-A life reaches its natural completion with dignity. The figure honours old age, a clean conscience and a peaceful transition.
+A life reaches its natural completion with dignity. It honours old age, a clean conscience and a peaceful transition.
 
 ### Governing Influences
 

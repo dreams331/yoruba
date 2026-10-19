@@ -8,7 +8,7 @@ parent2: iwori-meji
 orisha: Èṣù / Ọ̀rúnmìlà; Ọ̀sanyìn / Ọ̀rúnmìlà
 theme: instability, change, the trickster's lesson, humility; self-knowledge,
   hidden truth, inner vision
-excerpt: "Shifting ground calls for self-knowledge. The figure says that knowing your own mind is the best protection when everything else is moving."
+excerpt: "Shifting ground calls for self-knowledge. Knowing your own mind is the best protection when everything else is moving."
 pattern_right: "II,II,I,I"
 pattern_left: "II,I,I,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,I,I,II"
 
 ### Overview
 
-Shifting ground calls for self-knowledge. The figure says that knowing your own mind is the best protection when everything else is moving.
+Shifting ground calls for self-knowledge. Knowing your own mind is the best protection when everything else is moving.
 
 ### Governing Influences
 

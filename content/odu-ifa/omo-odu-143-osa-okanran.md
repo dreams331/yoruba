@@ -7,7 +7,7 @@ parent1: "osa-meji"
 parent2: "okanran-meji"
 orisha: "Ọya; Ọya / Ògún"
 theme: "upheaval, the whirlwind, sudden change, protection from harm; conflict, truth-telling, sharp consequences"
-excerpt: "Upheaval brings open quarrel. The figure advises restraint of speech while emotions are high."
+excerpt: "Upheaval brings open quarrel. It advises restraint of speech while emotions are high."
 pattern_right: "II,I,I,I"
 pattern_left: "II,II,II,I"
 ---
@@ -15,7 +15,7 @@ pattern_left: "II,II,II,I"
 
 ### Overview
 
-Upheaval brings open quarrel. The figure advises restraint of speech while emotions are high.
+Upheaval brings open quarrel. It advises restraint of speech while emotions are high.
 
 ### Governing Influences
 

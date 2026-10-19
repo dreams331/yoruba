@@ -8,7 +8,7 @@ parent2: iwori-meji
 orisha: Ṣàngó / Ọya; Ọ̀sanyìn / Ọ̀rúnmìlà
 theme: blood, sacrifice, warning, consequence; self-knowledge, hidden truth,
   inner vision
-excerpt: "Consequence is revealed through insight. The figure says that honest self-examination can turn a looming warning into a lesson learned in time."
+excerpt: "Consequence is revealed through insight. Honest self-examination can turn a looming warning into a lesson learned in time."
 pattern_right: "I,I,II,II"
 pattern_left: "II,I,I,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,I,I,II"
 
 ### Overview
 
-Consequence is revealed through insight. The figure says that honest self-examination can turn a looming warning into a lesson learned in time.
+Consequence is revealed through insight. Honest self-examination can turn a looming warning into a lesson learned in time.
 
 ### Governing Influences
 

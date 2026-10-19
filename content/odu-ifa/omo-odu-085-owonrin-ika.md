@@ -8,7 +8,7 @@ parent2: ika-meji
 orisha: Èṣù / Ọ̀rúnmìlà; Ọya / Èṣù
 theme: instability, change, the trickster's lesson, humility; cruelty,
   resentment, the need for restraint
-excerpt: "Instability can breed resentment. The figure warns that frustration with change may turn into bitterness, and urges forgiveness."
+excerpt: "Instability can breed resentment. Note the warning: frustration with change may turn into bitterness. It urges forgiveness."
 pattern_right: "II,II,I,I"
 pattern_left: "II,I,II,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,I,II,II"
 
 ### Overview
 
-Instability can breed resentment. The figure warns that frustration with change may turn into bitterness, and urges forgiveness.
+Instability can breed resentment. The caution is that frustration with change may turn into bitterness. It urges forgiveness.
 
 ### Governing Influences
 

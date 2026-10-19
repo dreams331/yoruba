@@ -7,7 +7,7 @@ parent1: "osa-meji"
 parent2: "irosun-meji"
 orisha: "Ọya; Ṣàngó / Ọya"
 theme: "upheaval, the whirlwind, sudden change, protection from harm; blood, sacrifice, warning, consequence"
-excerpt: "A storm demands sacrifice. The figure advises making an offering or a sacrifice of comfort so that the damage stays small."
+excerpt: "A storm demands sacrifice. It advises making an offering or a sacrifice of comfort so that the damage stays small."
 pattern_right: "II,I,I,I"
 pattern_left: "I,I,II,II"
 ---
@@ -15,7 +15,7 @@ pattern_left: "I,I,II,II"
 
 ### Overview
 
-A storm demands sacrifice. The figure advises making an offering or a sacrifice of comfort so that the damage stays small.
+A storm demands sacrifice. It advises making an offering or a sacrifice of comfort so that the damage stays small.
 
 ### Governing Influences
 

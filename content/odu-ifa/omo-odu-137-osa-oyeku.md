@@ -7,7 +7,7 @@ parent1: "osa-meji"
 parent2: "oyeku-meji"
 orisha: "Ọya; Ikú (Death) / Ọ̀sun"
 theme: "upheaval, the whirlwind, sudden change, protection from harm; endings, the ancestors, the unseen world, mortality"
-excerpt: "Turbulence stirs the ancestors. The figure says that upheaval is a time to seek the guidance of elders and the departed."
+excerpt: "Turbulence stirs the ancestors. Upheaval is a time to seek the guidance of elders and the departed."
 pattern_right: "II,I,I,I"
 pattern_left: "II,II,II,II"
 ---
@@ -15,7 +15,7 @@ pattern_left: "II,II,II,II"
 
 ### Overview
 
-Turbulence stirs the ancestors. The figure says that upheaval is a time to seek the guidance of elders and the departed.
+Turbulence stirs the ancestors. Upheaval is a time to seek the guidance of elders and the departed.
 
 ### Governing Influences
 

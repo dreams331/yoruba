@@ -7,7 +7,7 @@ parent1: "ika-meji"
 parent2: "irete-meji"
 orisha: "Ọya / Èṣù; Ọ̀rúnmìlà / Ọya"
 theme: "cruelty, resentment, the need for restraint; perseverance despite setbacks, hidden victory"
-excerpt: "Perseverance outlasts malice. The figure promises that enduring patiently with good conduct outlasts those who wish you harm."
+excerpt: "Perseverance outlasts malice. Enduring patiently with good conduct outlasts those who wish you harm."
 pattern_right: "II,I,II,II"
 pattern_left: "I,I,II,I"
 ---
@@ -15,7 +15,7 @@ pattern_left: "I,I,II,I"
 
 ### Overview
 
-Perseverance outlasts malice. The figure promises that enduring patiently with good conduct outlasts those who wish you harm.
+Perseverance outlasts malice. Enduring patiently with good conduct outlasts those who wish you harm.
 
 ### Governing Influences
 

@@ -7,7 +7,7 @@ parent1: "irosun-meji"
 parent2: "oyeku-meji"
 orisha: "Ṣàngó / Ọya; Ikú (Death) / Ọ̀sun"
 theme: "blood, sacrifice, warning, consequence; endings, the ancestors, the unseen world, mortality"
-excerpt: "Sacrifice meets mortality. The figure warns that careless action can bring loss, and urges care for the family and the elderly."
+excerpt: "Sacrifice meets mortality. Note the warning: careless action can bring loss. It urges care for the family and the elderly."
 pattern_right: "I,I,II,II"
 pattern_left: "II,II,II,II"
 ---
@@ -15,7 +15,7 @@ pattern_left: "II,II,II,II"
 
 ### Overview
 
-Sacrifice meets mortality. The figure warns that careless action can bring loss, and urges care for the family and the elderly.
+Sacrifice meets mortality. The caution is that careless action can bring loss. It urges care for the family and the elderly.
 
 ### Governing Influences
 

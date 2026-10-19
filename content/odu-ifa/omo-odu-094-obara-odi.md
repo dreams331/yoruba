@@ -8,7 +8,7 @@ parent2: odi-meji
 orisha: Ṣàngó / Ọ̀bàtálá; Ọya / Yemọja
 theme: honour, boastfulness, the danger of pride, leadership; the womb, mystery,
   transformation, hidden depth
-excerpt: "Authority carries hidden depth. The figure suggests that a leader's strongest assets are often unseen and should not be displayed for show."
+excerpt: "Authority carries hidden depth. A leader's strongest assets are often unseen and should not be displayed for show."
 pattern_right: "I,II,II,II"
 pattern_left: "I,II,II,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "I,II,II,I"
 
 ### Overview
 
-Authority carries hidden depth. The figure suggests that a leader's strongest assets are often unseen and should not be displayed for show.
+Authority carries hidden depth. A leader's strongest assets are often unseen and should not be displayed for show.
 
 ### Governing Influences
 

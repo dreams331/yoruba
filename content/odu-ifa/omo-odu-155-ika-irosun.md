@@ -7,7 +7,7 @@ parent1: "ika-meji"
 parent2: "irosun-meji"
 orisha: "Ọya / Èṣù; Ṣàngó / Ọya"
 theme: "cruelty, resentment, the need for restraint; blood, sacrifice, warning, consequence"
-excerpt: "The cost of cruelty. The figure says that harm done in anger returns as consequences, and that offerings and amends restore order."
+excerpt: "The cost of cruelty. Harm done in anger returns as consequences, and offerings and amends restore order."
 pattern_right: "II,I,II,II"
 pattern_left: "I,I,II,II"
 ---
@@ -15,7 +15,7 @@ pattern_left: "I,I,II,II"
 
 ### Overview
 
-The cost of cruelty. The figure says that harm done in anger returns as consequences, and that offerings and amends restore order.
+The cost of cruelty. Harm done in anger returns as consequences, and offerings and amends restore order.
 
 ### Governing Influences
 

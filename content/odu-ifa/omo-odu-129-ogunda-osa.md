@@ -7,7 +7,7 @@ parent1: "ogunda-meji"
 parent2: "osa-meji"
 orisha: "Ògún; Ọya"
 theme: "struggle, tools, perseverance, clearing the path; upheaval, the whirlwind, sudden change, protection from harm"
-excerpt: "Work continues in a storm. The figure advises persevering through disruption and protecting your tools and resources."
+excerpt: "Work continues in a storm. It advises persevering through disruption and protecting your tools and resources."
 pattern_right: "I,I,I,II"
 pattern_left: "II,I,I,I"
 ---
@@ -15,7 +15,7 @@ pattern_left: "II,I,I,I"
 
 ### Overview
 
-Work continues in a storm. The figure advises persevering through disruption and protecting your tools and resources.
+Work continues in a storm. It advises persevering through disruption and protecting your tools and resources.
 
 ### Governing Influences
 

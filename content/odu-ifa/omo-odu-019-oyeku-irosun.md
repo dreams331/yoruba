@@ -7,7 +7,7 @@ parent1: "oyeku-meji"
 parent2: "irosun-meji"
 orisha: "Ikú (Death) / Ọ̀sun; Ṣàngó / Ọya"
 theme: "endings, the ancestors, the unseen world, mortality; blood, sacrifice, warning, consequence"
-excerpt: "Loss and consequence are close together. The figure warns of the cost of careless actions and of the need for offerings to protect the living."
+excerpt: "Loss and consequence are close together. There is a warning of the cost of careless actions and of the need for offerings to protect the living."
 pattern_right: "II,II,II,II"
 pattern_left: "I,I,II,II"
 ---
@@ -15,7 +15,7 @@ pattern_left: "I,I,II,II"
 
 ### Overview
 
-Loss and consequence are close together. The figure warns of the cost of careless actions and of the need for offerings to protect the living.
+Loss and consequence are close together. There is a warning of the cost of careless actions and of the need for offerings to protect the living.
 
 ### Governing Influences
 

@@ -7,7 +7,7 @@ parent1: "osa-meji"
 parent2: "ika-meji"
 orisha: "Ọya; Ọya / Èṣù"
 theme: "upheaval, the whirlwind, sudden change, protection from harm; cruelty, resentment, the need for restraint"
-excerpt: "Disruption breeds resentment. The figure warns that when circumstances change, some will blame others, and calls for generosity."
+excerpt: "Disruption breeds resentment. Note the warning: when circumstances change, some will blame others. It calls for generosity."
 pattern_right: "II,I,I,I"
 pattern_left: "II,I,II,II"
 ---
@@ -15,7 +15,7 @@ pattern_left: "II,I,II,II"
 
 ### Overview
 
-Disruption breeds resentment. The figure warns that when circumstances change, some will blame others, and calls for generosity.
+Disruption breeds resentment. The caution is that when circumstances change, some will blame others. It calls for generosity.
 
 ### Governing Influences
 

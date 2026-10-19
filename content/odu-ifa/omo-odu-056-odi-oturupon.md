@@ -8,7 +8,7 @@ parent2: oturupon-meji
 orisha: Ọya / Yemọja; Ọbàtálá / Ọ̀rúnmìlà
 theme: the womb, mystery, transformation, hidden depth; illness and healing,
   secrets of the body, patience
-excerpt: "A hidden depth meets the work of healing. The figure says that what is gestating inside you needs patient, proper care before it can come to full strength."
+excerpt: "A hidden depth meets the work of healing. What is gestating inside you needs patient, proper care before it can come to full strength."
 pattern_right: "I,II,II,I"
 pattern_left: "II,II,I,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,II,I,II"
 
 ### Overview
 
-A hidden depth meets the work of healing. The figure says that what is gestating inside you needs patient, proper care before it can come to full strength.
+A hidden depth meets the work of healing. What is gestating inside you needs patient, proper care before it can come to full strength.
 
 ### Governing Influences
 

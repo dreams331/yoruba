@@ -8,7 +8,7 @@ parent2: obara-meji
 orisha: Èṣù / Ọ̀rúnmìlà; Ṣàngó / Ọ̀bàtálá
 theme: instability, change, the trickster's lesson, humility; honour,
   boastfulness, the danger of pride, leadership
-excerpt: "Changing status tests character. The figure shows that rank and reputation can move quickly, and that humility keeps honour intact."
+excerpt: "Changing status tests character. Rank and reputation can move quickly, and humility keeps honour intact."
 pattern_right: "II,II,I,I"
 pattern_left: "I,II,II,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "I,II,II,II"
 
 ### Overview
 
-Changing status tests character. The figure shows that rank and reputation can move quickly, and that humility keeps honour intact.
+Changing status tests character. Rank and reputation can move quickly, and humility keeps honour intact.
 
 ### Governing Influences
 

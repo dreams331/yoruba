@@ -8,7 +8,7 @@ parent2: ika-meji
 orisha: Ọ̀sanyìn / Ọ̀rúnmìlà; Ọya / Èṣù
 theme: self-knowledge, hidden truth, inner vision; cruelty, resentment, the need
   for restraint
-excerpt: "Seeing through deceit protects you. The figure warns of hidden ill will and shows how awareness defuses it."
+excerpt: "Seeing through deceit protects you. There is a warning of hidden ill will and shows how awareness defuses it."
 pattern_right: "II,I,I,II"
 pattern_left: "II,I,II,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,I,II,II"
 
 ### Overview
 
-Seeing through deceit protects you. The figure warns of hidden ill will and shows how awareness defuses it.
+Seeing through deceit protects you. There is a warning of hidden ill will and shows how awareness defuses it.
 
 ### Governing Influences
 

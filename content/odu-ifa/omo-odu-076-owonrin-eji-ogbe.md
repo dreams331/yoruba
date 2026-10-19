@@ -8,7 +8,7 @@ parent2: eji-ogbe
 orisha: Èṣù / Ọ̀rúnmìlà; Ọ̀rúnmìlà / Olódùmarè
 theme: instability, change, the trickster's lesson, humility; light, new
   beginnings, divine potential
-excerpt: "Instability meets opportunity. The figure shows that light is available in a changing world, but only to those who stay humble and flexible."
+excerpt: "Instability meets opportunity. Light is available in a changing world, but only to those who stay humble and flexible."
 pattern_right: "II,II,I,I"
 pattern_left: "I,I,I,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "I,I,I,I"
 
 ### Overview
 
-Instability meets opportunity. The figure shows that light is available in a changing world, but only to those who stay humble and flexible.
+Instability meets opportunity. Light is available in a changing world, but only to those who stay humble and flexible.
 
 ### Governing Influences
 

@@ -8,7 +8,7 @@ parent2: ose-meji
 orisha: Ikú (Death) / Ọ̀sun; Ọ̀ṣun
 theme: endings, the ancestors, the unseen world, mortality; blessings,
   sweetness, abundance, gratitude
-excerpt: "Sweetness comes out of endings. The figure speaks of blessings that follow sacrifice and of gratitude toward those who have passed."
+excerpt: "Sweetness comes out of endings. It speaks of blessings that follow sacrifice and of gratitude toward those who have passed."
 pattern_right: "II,II,II,II"
 pattern_left: "I,II,I,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "I,II,I,II"
 
 ### Overview
 
-Sweetness comes out of endings. The figure speaks of blessings that follow sacrifice and of gratitude toward those who have passed.
+Sweetness comes out of endings. It speaks of blessings that follow sacrifice and of gratitude toward those who have passed.
 
 ### Governing Influences
 

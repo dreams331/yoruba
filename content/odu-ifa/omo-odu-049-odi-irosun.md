@@ -8,7 +8,7 @@ parent2: irosun-meji
 orisha: Ọya / Yemọja; Ṣàngó / Ọya
 theme: the womb, mystery, transformation, hidden depth; blood, sacrifice,
   warning, consequence
-excerpt: "Secrecy carries a price. The figure warns that hidden matters have consequences, and that offerings and honesty restore balance."
+excerpt: "Secrecy carries a price. Be aware that hidden matters have consequences, and offerings and honesty restore balance."
 pattern_right: "I,II,II,I"
 pattern_left: "I,I,II,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "I,I,II,II"
 
 ### Overview
 
-Secrecy carries a price. The figure warns that hidden matters have consequences, and that offerings and honesty restore balance.
+Secrecy carries a price. Take care here: hidden matters have consequences, and offerings and honesty restore balance.
 
 ### Governing Influences
 

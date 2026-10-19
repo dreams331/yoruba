@@ -8,7 +8,7 @@ parent2: ofun-meji
 orisha: Ṣàngó / Ọya; Ọbàtálá / Olódùmarè
 theme: blood, sacrifice, warning, consequence; purity, old age, completion,
   moral integrity
-excerpt: "A hard lesson ends in purity. The figure speaks of cleansing, moral integrity and a clean slate after proper atonement."
+excerpt: "A hard lesson ends in purity. It speaks of cleansing, moral integrity and a clean slate after proper atonement."
 pattern_right: "I,I,II,II"
 pattern_left: "II,I,II,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,I,II,I"
 
 ### Overview
 
-A hard lesson ends in purity. The figure speaks of cleansing, moral integrity and a clean slate after proper atonement.
+A hard lesson ends in purity. It speaks of cleansing, moral integrity and a clean slate after proper atonement.
 
 ### Governing Influences
 

@@ -8,7 +8,7 @@ parent2: irosun-meji
 orisha: Ṣàngó / Ọ̀bàtálá; Ṣàngó / Ọya
 theme: honour, boastfulness, the danger of pride, leadership; blood, sacrifice,
   warning, consequence
-excerpt: "Pride is a costly companion. The figure warns that boasting invites a lesson, and that sacrifice restores balance."
+excerpt: "Pride is a costly companion. Be aware that boasting invites a lesson, and sacrifice restores balance."
 pattern_right: "I,II,II,II"
 pattern_left: "I,I,II,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "I,I,II,II"
 
 ### Overview
 
-Pride is a costly companion. The figure warns that boasting invites a lesson, and that sacrifice restores balance.
+Pride is a costly companion. Take care here: boasting invites a lesson, and sacrifice restores balance.
 
 ### Governing Influences
 

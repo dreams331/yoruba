@@ -8,7 +8,7 @@ parent2: oturupon-meji
 orisha: Ṣàngó / Ọya; Ọbàtálá / Ọ̀rúnmìlà
 theme: blood, sacrifice, warning, consequence; illness and healing, secrets of
   the body, patience
-excerpt: "The body gives a warning. The figure links health to conduct, and advises treatment, patience and attention to what has been neglected."
+excerpt: "The body gives a warning. It links health to conduct, and advises treatment, patience and attention to what has been neglected."
 pattern_right: "I,I,II,II"
 pattern_left: "II,II,I,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,II,I,II"
 
 ### Overview
 
-The body gives a warning. The figure links health to conduct, and advises treatment, patience and attention to what has been neglected.
+The body gives a warning. It links health to conduct, and advises treatment, patience and attention to what has been neglected.
 
 ### Governing Influences
 

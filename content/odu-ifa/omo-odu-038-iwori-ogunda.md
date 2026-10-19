@@ -8,7 +8,7 @@ parent2: ogunda-meji
 orisha: Ọ̀sanyìn / Ọ̀rúnmìlà; Ògún
 theme: self-knowledge, hidden truth, inner vision; struggle, tools,
   perseverance, clearing the path
-excerpt: "Vision directs effort. The figure advises thinking carefully before acting so that hard work is spent on the right road."
+excerpt: "Vision directs effort. It advises thinking carefully before acting so that hard work is spent on the right road."
 pattern_right: "II,I,I,II"
 pattern_left: "I,I,I,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "I,I,I,II"
 
 ### Overview
 
-Vision directs effort. The figure advises thinking carefully before acting so that hard work is spent on the right road.
+Vision directs effort. It advises thinking carefully before acting so that hard work is spent on the right road.
 
 ### Governing Influences
 

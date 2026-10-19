@@ -8,7 +8,7 @@ parent2: okanran-meji
 orisha: Èṣù / Ọ̀rúnmìlà; Ọya / Ògún
 theme: instability, change, the trickster's lesson, humility; conflict,
   truth-telling, sharp consequences
-excerpt: "Volatility feeds conflict. The figure warns that rapid change can bring arguments, and that plain honest speech keeps peace."
+excerpt: "Volatility feeds conflict. Be aware that rapid change can bring arguments, and plain honest speech keeps peace."
 pattern_right: "II,II,I,I"
 pattern_left: "II,II,II,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,II,II,I"
 
 ### Overview
 
-Volatility feeds conflict. The figure warns that rapid change can bring arguments, and that plain honest speech keeps peace.
+Volatility feeds conflict. Take care here: rapid change can bring arguments, and plain honest speech keeps peace.
 
 ### Governing Influences
 

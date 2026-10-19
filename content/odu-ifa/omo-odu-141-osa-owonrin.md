@@ -7,7 +7,7 @@ parent1: "osa-meji"
 parent2: "owonrin-meji"
 orisha: "Ọya; Èṣù / Ọ̀rúnmìlà"
 theme: "upheaval, the whirlwind, sudden change, protection from harm; instability, change, the trickster's lesson, humility"
-excerpt: "Double instability. The figure warns that everything is moving at once and advises caution with commitments until things settle."
+excerpt: "Double instability. Be aware that everything is moving at once and advises caution with commitments until things settle."
 pattern_right: "II,I,I,I"
 pattern_left: "II,II,I,I"
 ---
@@ -15,7 +15,7 @@ pattern_left: "II,II,I,I"
 
 ### Overview
 
-Double instability. The figure warns that everything is moving at once and advises caution with commitments until things settle.
+Double instability. Take care here: everything is moving at once and advises caution with commitments until things settle.
 
 ### Governing Influences
 

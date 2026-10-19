@@ -7,7 +7,7 @@ parent1: "ogunda-meji"
 parent2: "irete-meji"
 orisha: "Ògún; Ọ̀rúnmìlà / Ọya"
 theme: "struggle, tools, perseverance, clearing the path; perseverance despite setbacks, hidden victory"
-excerpt: "Struggle is long but not wasted. The figure says that repeated failure is part of an eventual win for those who adapt."
+excerpt: "Struggle is long but not wasted. Repeated failure is part of an eventual win for those who adapt."
 pattern_right: "I,I,I,II"
 pattern_left: "I,I,II,I"
 ---
@@ -15,7 +15,7 @@ pattern_left: "I,I,II,I"
 
 ### Overview
 
-Struggle is long but not wasted. The figure says that repeated failure is part of an eventual win for those who adapt.
+Struggle is long but not wasted. Repeated failure is part of an eventual win for those who adapt.
 
 ### Governing Influences
 

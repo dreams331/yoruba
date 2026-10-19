@@ -8,7 +8,7 @@ parent2: irete-meji
 orisha: Èṣù / Ọ̀rúnmìlà; Ọ̀rúnmìlà / Ọya
 theme: instability, change, the trickster's lesson, humility; perseverance
   despite setbacks, hidden victory
-excerpt: "Resilience turns upheaval into progress. The figure says that those who keep trying through shifting conditions finally win."
+excerpt: "Resilience turns upheaval into progress. Those who keep trying through shifting conditions finally win."
 pattern_right: "II,II,I,I"
 pattern_left: "I,I,II,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "I,I,II,I"
 
 ### Overview
 
-Resilience turns upheaval into progress. The figure says that those who keep trying through shifting conditions finally win.
+Resilience turns upheaval into progress. Those who keep trying through shifting conditions finally win.
 
 ### Governing Influences
 

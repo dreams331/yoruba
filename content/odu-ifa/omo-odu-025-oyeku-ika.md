@@ -8,7 +8,7 @@ parent2: ika-meji
 orisha: Ikú (Death) / Ọ̀sun; Ọya / Èṣù
 theme: endings, the ancestors, the unseen world, mortality; cruelty, resentment,
   the need for restraint
-excerpt: "Resentment threatens to harm the living. The figure advises restraint and reconciliation so that bitterness does not grow into loss."
+excerpt: "Resentment threatens to harm the living. It advises restraint and reconciliation so that bitterness does not grow into loss."
 pattern_right: "II,II,II,II"
 pattern_left: "II,I,II,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,I,II,II"
 
 ### Overview
 
-Resentment threatens to harm the living. The figure advises restraint and reconciliation so that bitterness does not grow into loss.
+Resentment threatens to harm the living. It advises restraint and reconciliation so that bitterness does not grow into loss.
 
 ### Governing Influences
 

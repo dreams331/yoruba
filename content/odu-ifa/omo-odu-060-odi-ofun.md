@@ -8,7 +8,7 @@ parent2: ofun-meji
 orisha: Ọya / Yemọja; Ọbàtálá / Olódùmarè
 theme: the womb, mystery, transformation, hidden depth; purity, old age,
   completion, moral integrity
-excerpt: "The deep mystery is brought to a clean completion. The figure favours honesty, integrity and bringing hidden matters to a peaceful end."
+excerpt: "The deep mystery is brought to a clean completion. It favours honesty, integrity and bringing hidden matters to a peaceful end."
 pattern_right: "I,II,II,I"
 pattern_left: "II,I,II,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,I,II,I"
 
 ### Overview
 
-The deep mystery is brought to a clean completion. The figure favours honesty, integrity and bringing hidden matters to a peaceful end.
+The deep mystery is brought to a clean completion. It favours honesty, integrity and bringing hidden matters to a peaceful end.
 
 ### Governing Influences
 

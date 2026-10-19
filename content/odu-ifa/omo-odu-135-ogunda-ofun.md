@@ -7,7 +7,7 @@ parent1: "ogunda-meji"
 parent2: "ofun-meji"
 orisha: "Ògún; Ọbàtálá / Olódùmarè"
 theme: "struggle, tools, perseverance, clearing the path; purity, old age, completion, moral integrity"
-excerpt: "Labour is completed with honour. The figure favours finishing a task thoroughly, honestly and cleanly."
+excerpt: "Labour is completed with honour. It favours finishing a task thoroughly, honestly and cleanly."
 pattern_right: "I,I,I,II"
 pattern_left: "II,I,II,I"
 ---
@@ -15,7 +15,7 @@ pattern_left: "II,I,II,I"
 
 ### Overview
 
-Labour is completed with honour. The figure favours finishing a task thoroughly, honestly and cleanly.
+Labour is completed with honour. It favours finishing a task thoroughly, honestly and cleanly.
 
 ### Governing Influences
 

@@ -8,7 +8,7 @@ parent2: ika-meji
 orisha: Ọya / Yemọja; Ọya / Èṣù
 theme: the womb, mystery, transformation, hidden depth; cruelty, resentment, the
   need for restraint
-excerpt: "Hidden malice needs careful handling. The figure urges patience and discretion in dealing with someone whose intentions are unclear."
+excerpt: "Hidden malice needs careful handling. It urges patience and discretion in dealing with someone whose intentions are unclear."
 pattern_right: "I,II,II,I"
 pattern_left: "II,I,II,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,I,II,II"
 
 ### Overview
 
-Hidden malice needs careful handling. The figure urges patience and discretion in dealing with someone whose intentions are unclear.
+Hidden malice needs careful handling. It urges patience and discretion in dealing with someone whose intentions are unclear.
 
 ### Governing Influences
 

@@ -7,7 +7,7 @@ parent1: "ika-meji"
 parent2: "oturupon-meji"
 orisha: "Ọya / Èṣù; Ọbàtálá / Ọ̀rúnmìlà"
 theme: "cruelty, resentment, the need for restraint; illness and healing, secrets of the body, patience"
-excerpt: "Bitterness harms the body. The figure links long-held resentment to ill health and suggests healing through forgiveness."
+excerpt: "Bitterness harms the body. It links long-held resentment to ill health and suggests healing through forgiveness."
 pattern_right: "II,I,II,II"
 pattern_left: "II,II,I,II"
 ---
@@ -15,7 +15,7 @@ pattern_left: "II,II,I,II"
 
 ### Overview
 
-Bitterness harms the body. The figure links long-held resentment to ill health and suggests healing through forgiveness.
+Bitterness harms the body. It links long-held resentment to ill health and suggests healing through forgiveness.
 
 ### Governing Influences
 

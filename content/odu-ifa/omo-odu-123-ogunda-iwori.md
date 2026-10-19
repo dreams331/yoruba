@@ -7,7 +7,7 @@ parent1: "ogunda-meji"
 parent2: "iwori-meji"
 orisha: "Ògún; Ọ̀sanyìn / Ọ̀rúnmìlà"
 theme: "struggle, tools, perseverance, clearing the path; self-knowledge, hidden truth, inner vision"
-excerpt: "Skill needs self-knowledge. The figure advises asking what you are really good at before choosing where to put your effort."
+excerpt: "Skill needs self-knowledge. It advises asking what you are really good at before choosing where to put your effort."
 pattern_right: "I,I,I,II"
 pattern_left: "II,I,I,II"
 ---
@@ -15,7 +15,7 @@ pattern_left: "II,I,I,II"
 
 ### Overview
 
-Skill needs self-knowledge. The figure advises asking what you are really good at before choosing where to put your effort.
+Skill needs self-knowledge. It advises asking what you are really good at before choosing where to put your effort.
 
 ### Governing Influences
 

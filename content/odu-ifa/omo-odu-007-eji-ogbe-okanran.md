@@ -8,7 +8,7 @@ parent2: okanran-meji
 orisha: Ọ̀rúnmìlà / Olódùmarè; Ọya / Ògún
 theme: light, new beginnings, divine potential; conflict, truth-telling, sharp
   consequences
-excerpt: "Truth is spoken into a heated situation. Light exposes what is wrong, and that can cause conflict before it brings peace."
+excerpt: "Truth is spoken into a heated situation. Light exposes what is wrong, and can cause conflict before it brings peace."
 pattern_right: "I,I,I,I"
 pattern_left: "II,II,II,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,II,II,I"
 
 ### Overview
 
-Truth is spoken into a heated situation. Light exposes what is wrong, and that can cause conflict before it brings peace.
+Truth is spoken into a heated situation. Light exposes what is wrong, and can cause conflict before it brings peace.
 
 ### Governing Influences
 

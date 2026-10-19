@@ -8,7 +8,7 @@ parent2: osa-meji
 orisha: Ikú (Death) / Ọ̀sun; Ọya
 theme: endings, the ancestors, the unseen world, mortality; upheaval, the
   whirlwind, sudden change, protection from harm
-excerpt: "Turbulence stirs the realm of the ancestors. The figure warns of sudden upheaval and advises calm, protective action."
+excerpt: "Turbulence stirs the realm of the ancestors. There is a warning of sudden upheaval and advises calm, protective action."
 pattern_right: "II,II,II,II"
 pattern_left: "II,I,I,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,I,I,I"
 
 ### Overview
 
-Turbulence stirs the realm of the ancestors. The figure warns of sudden upheaval and advises calm, protective action.
+Turbulence stirs the realm of the ancestors. There is a warning of sudden upheaval and advises calm, protective action.
 
 ### Governing Influences
 

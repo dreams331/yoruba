@@ -7,7 +7,7 @@ parent1: "owonrin-meji"
 parent2: "osa-meji"
 orisha: "Èṣù / Ọ̀rúnmìlà; Ọya"
 theme: "instability, change, the trickster's lesson, humility; upheaval, the whirlwind, sudden change, protection from harm"
-excerpt: "Double turbulence demands calm. The figure advises staying centred when events spin quickly and seeking shelter in sound principles."
+excerpt: "Double turbulence demands calm. It advises staying centred when events spin quickly and seeking shelter in sound principles."
 pattern_right: "II,II,I,I"
 pattern_left: "II,I,I,I"
 ---
@@ -15,7 +15,7 @@ pattern_left: "II,I,I,I"
 
 ### Overview
 
-Double turbulence demands calm. The figure advises staying centred when events spin quickly and seeking shelter in sound principles.
+Double turbulence demands calm. It advises staying centred when events spin quickly and seeking shelter in sound principles.
 
 ### Governing Influences
 

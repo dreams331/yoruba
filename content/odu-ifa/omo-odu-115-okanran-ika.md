@@ -7,7 +7,7 @@ parent1: "okanran-meji"
 parent2: "ika-meji"
 orisha: "Ọya / Ògún; Ọya / Èṣù"
 theme: "conflict, truth-telling, sharp consequences; cruelty, resentment, the need for restraint"
-excerpt: "Conflict is feeding resentment. The figure warns that unresolved anger sours into bitterness and recommends forgiveness before it takes root."
+excerpt: "Conflict is feeding resentment. Be aware that unresolved anger sours into bitterness and recommends forgiveness before it takes root."
 pattern_right: "II,II,II,I"
 pattern_left: "II,I,II,II"
 ---
@@ -15,7 +15,7 @@ pattern_left: "II,I,II,II"
 
 ### Overview
 
-Conflict is feeding resentment. The figure warns that unresolved anger sours into bitterness and recommends forgiveness before it takes root.
+Conflict is feeding resentment. Take care here: unresolved anger sours into bitterness and recommends forgiveness before it takes root.
 
 ### Governing Influences
 

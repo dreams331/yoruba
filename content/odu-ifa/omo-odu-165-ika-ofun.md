@@ -7,7 +7,7 @@ parent1: "ika-meji"
 parent2: "ofun-meji"
 orisha: "Ọya / Èṣù; Ọbàtálá / Olódùmarè"
 theme: "cruelty, resentment, the need for restraint; purity, old age, completion, moral integrity"
-excerpt: "Restraint becomes purity. The figure honours those who master their anger and grow wise and clean-hearted with age."
+excerpt: "Restraint becomes purity. It honours those who master their anger and grow wise and clean-hearted with age."
 pattern_right: "II,I,II,II"
 pattern_left: "II,I,II,I"
 ---
@@ -15,7 +15,7 @@ pattern_left: "II,I,II,I"
 
 ### Overview
 
-Restraint becomes purity. The figure honours those who master their anger and grow wise and clean-hearted with age.
+Restraint becomes purity. It honours those who master their anger and grow wise and clean-hearted with age.
 
 ### Governing Influences
 

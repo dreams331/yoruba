@@ -8,7 +8,7 @@ parent2: obara-meji
 orisha: Ọ̀sanyìn / Ọ̀rúnmìlà; Ṣàngó / Ọ̀bàtálá
 theme: self-knowledge, hidden truth, inner vision; honour, boastfulness, the
   danger of pride, leadership
-excerpt: "Knowing oneself checks arrogance. The figure says that honest self-assessment protects against the pitfalls of pride and showing off."
+excerpt: "Knowing oneself checks arrogance. Honest self-assessment protects against the pitfalls of pride and showing off."
 pattern_right: "II,I,I,II"
 pattern_left: "I,II,II,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "I,II,II,II"
 
 ### Overview
 
-Knowing oneself checks arrogance. The figure says that honest self-assessment protects against the pitfalls of pride and showing off.
+Knowing oneself checks arrogance. Honest self-assessment protects against the pitfalls of pride and showing off.
 
 ### Governing Influences
 

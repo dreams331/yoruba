@@ -7,7 +7,7 @@ parent1: "osa-meji"
 parent2: "ose-meji"
 orisha: "Ọya; Ọ̀ṣun"
 theme: "upheaval, the whirlwind, sudden change, protection from harm; blessings, sweetness, abundance, gratitude"
-excerpt: "A storm leaves a gift. The figure suggests that disruption can open unexpected sweetness, and calls for gratitude."
+excerpt: "A storm leaves a gift. Disruption can open unexpected sweetness, and calls for gratitude."
 pattern_right: "II,I,I,I"
 pattern_left: "I,II,I,II"
 ---
@@ -15,7 +15,7 @@ pattern_left: "I,II,I,II"
 
 ### Overview
 
-A storm leaves a gift. The figure suggests that disruption can open unexpected sweetness, and calls for gratitude.
+A storm leaves a gift. Disruption can open unexpected sweetness, and calls for gratitude.
 
 ### Governing Influences
 

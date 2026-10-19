@@ -8,7 +8,7 @@ parent2: otura-meji
 orisha: Ṣàngó / Ọ̀bàtálá; Ọ̀rúnmìlà / Ọbàtálá
 theme: honour, boastfulness, the danger of pride, leadership; transformation,
   clarity after confusion, truth revealed
-excerpt: "Insight tempers authority. The figure says that clarity of mind lets a leader decide with fairness once confusion has passed."
+excerpt: "Insight tempers authority. Clarity of mind lets a leader decide with fairness once confusion has passed."
 pattern_right: "I,II,II,II"
 pattern_left: "I,II,I,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "I,II,I,I"
 
 ### Overview
 
-Insight tempers authority. The figure says that clarity of mind lets a leader decide with fairness once confusion has passed.
+Insight tempers authority. Clarity of mind lets a leader decide with fairness once confusion has passed.
 
 ### Governing Influences
 

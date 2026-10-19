@@ -8,7 +8,7 @@ parent2: okanran-meji
 orisha: Ṣàngó / Ọya; Ọya / Ògún
 theme: blood, sacrifice, warning, consequence; conflict, truth-telling, sharp
   consequences
-excerpt: "Conflict carries a price. The figure says that anger leads to injury, while honest speech and a willingness to sacrifice calm the situation."
+excerpt: "Conflict carries a price. Anger leads to injury, while honest speech and a willingness to sacrifice calm the situation."
 pattern_right: "I,I,II,II"
 pattern_left: "II,II,II,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,II,II,I"
 
 ### Overview
 
-Conflict carries a price. The figure says that anger leads to injury, while honest speech and a willingness to sacrifice calm the situation.
+Conflict carries a price. Anger leads to injury, while honest speech and a willingness to sacrifice calm the situation.
 
 ### Governing Influences
 

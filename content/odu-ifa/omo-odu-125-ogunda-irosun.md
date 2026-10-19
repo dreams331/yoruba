@@ -7,7 +7,7 @@ parent1: "ogunda-meji"
 parent2: "irosun-meji"
 orisha: "Ògún; Ṣàngó / Ọya"
 theme: "struggle, tools, perseverance, clearing the path; blood, sacrifice, warning, consequence"
-excerpt: "Work has a price. The figure notes that every real achievement requires sacrifice, and that offerings of time or comfort are part of the bargain."
+excerpt: "Work has a price. Every real achievement requires sacrifice, and offerings of time or comfort are part of the bargain."
 pattern_right: "I,I,I,II"
 pattern_left: "I,I,II,II"
 ---
@@ -15,7 +15,7 @@ pattern_left: "I,I,II,II"
 
 ### Overview
 
-Work has a price. The figure notes that every real achievement requires sacrifice, and that offerings of time or comfort are part of the bargain.
+Work has a price. Every real achievement requires sacrifice, and offerings of time or comfort are part of the bargain.
 
 ### Governing Influences
 

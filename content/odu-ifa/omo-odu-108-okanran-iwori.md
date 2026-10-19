@@ -7,7 +7,7 @@ parent1: "okanran-meji"
 parent2: "iwori-meji"
 orisha: "Ọya / Ògún; Ọ̀sanyìn / Ọ̀rúnmìlà"
 theme: "conflict, truth-telling, sharp consequences; self-knowledge, hidden truth, inner vision"
-excerpt: "Honest speech joins self-awareness. The figure says that you can say hard things well only after you have looked honestly at yourself."
+excerpt: "Honest speech joins self-awareness. You can say hard things well only after you have looked honestly at yourself."
 pattern_right: "II,II,II,I"
 pattern_left: "II,I,I,II"
 ---
@@ -15,7 +15,7 @@ pattern_left: "II,I,I,II"
 
 ### Overview
 
-Honest speech joins self-awareness. The figure says that you can say hard things well only after you have looked honestly at yourself.
+Honest speech joins self-awareness. You can say hard things well only after you have looked honestly at yourself.
 
 ### Governing Influences
 

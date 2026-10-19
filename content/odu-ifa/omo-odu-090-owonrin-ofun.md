@@ -7,7 +7,7 @@ parent1: "owonrin-meji"
 parent2: "ofun-meji"
 orisha: "Èṣù / Ọ̀rúnmìlà; Ọbàtálá / Olódùmarè"
 theme: "instability, change, the trickster's lesson, humility; purity, old age, completion, moral integrity"
-excerpt: "Restlessness settles into integrity. The figure suggests that stability is found through honest living, not through control of events."
+excerpt: "Restlessness settles into integrity. Stability is found through honest living, not through control of events."
 pattern_right: "II,II,I,I"
 pattern_left: "II,I,II,I"
 ---
@@ -15,7 +15,7 @@ pattern_left: "II,I,II,I"
 
 ### Overview
 
-Restlessness settles into integrity. The figure suggests that stability is found through honest living, not through control of events.
+Restlessness settles into integrity. Stability is found through honest living, not through control of events.
 
 ### Governing Influences
 

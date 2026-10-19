@@ -8,7 +8,7 @@ parent2: ika-meji
 orisha: Ṣàngó / Ọya; Ọya / Èṣù
 theme: blood, sacrifice, warning, consequence; cruelty, resentment, the need for
   restraint
-excerpt: "Resentment brings danger. The figure warns that jealousy can cause harm, and that sacrifice and restraint turn aside the threat."
+excerpt: "Resentment brings danger. Note the warning: jealousy can cause harm, and sacrifice and restraint turn aside the threat."
 pattern_right: "I,I,II,II"
 pattern_left: "II,I,II,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,I,II,II"
 
 ### Overview
 
-Resentment brings danger. The figure warns that jealousy can cause harm, and that sacrifice and restraint turn aside the threat.
+Resentment brings danger. The caution is that jealousy can cause harm, and sacrifice and restraint turn aside the threat.
 
 ### Governing Influences
 

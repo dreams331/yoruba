@@ -7,7 +7,7 @@ parent1: "ogunda-meji"
 parent2: "okanran-meji"
 orisha: "Ògún; Ọya / Ògún"
 theme: "struggle, tools, perseverance, clearing the path; conflict, truth-telling, sharp consequences"
-excerpt: "Struggle meets a sharp dispute. The figure warns of friction among colleagues and recommends honest, direct communication."
+excerpt: "Struggle meets a sharp dispute. There is a warning of friction among colleagues and recommends honest, direct communication."
 pattern_right: "I,I,I,II"
 pattern_left: "II,II,II,I"
 ---
@@ -15,7 +15,7 @@ pattern_left: "II,II,II,I"
 
 ### Overview
 
-Struggle meets a sharp dispute. The figure warns of friction among colleagues and recommends honest, direct communication.
+Struggle meets a sharp dispute. There is a warning of friction among colleagues and recommends honest, direct communication.
 
 ### Governing Influences
 

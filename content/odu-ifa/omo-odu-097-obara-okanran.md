@@ -8,7 +8,7 @@ parent2: okanran-meji
 orisha: Ṣàngó / Ọ̀bàtálá; Ọya / Ògún
 theme: honour, boastfulness, the danger of pride, leadership; conflict,
   truth-telling, sharp consequences
-excerpt: "Pride meets conflict. The figure warns that arrogance produces quarrels, and that honest, measured speech prevents them."
+excerpt: "Pride meets conflict. Note the warning: arrogance produces quarrels, and honest, measured speech prevents them."
 pattern_right: "I,II,II,II"
 pattern_left: "II,II,II,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,II,II,I"
 
 ### Overview
 
-Pride meets conflict. The figure warns that arrogance produces quarrels, and that honest, measured speech prevents them.
+Pride meets conflict. The caution is that arrogance produces quarrels, and honest, measured speech prevents them.
 
 ### Governing Influences
 

@@ -7,7 +7,7 @@ parent1: "osa-meji"
 parent2: "ofun-meji"
 orisha: "Ọya; Ọbàtálá / Olódùmarè"
 theme: "upheaval, the whirlwind, sudden change, protection from harm; purity, old age, completion, moral integrity"
-excerpt: "After the whirlwind, a clean slate. The figure speaks of starting afresh with a clear conscience and renewed purity of purpose."
+excerpt: "After the whirlwind, a clean slate. It speaks of starting afresh with a clear conscience and renewed purity of purpose."
 pattern_right: "II,I,I,I"
 pattern_left: "II,I,II,I"
 ---
@@ -15,7 +15,7 @@ pattern_left: "II,I,II,I"
 
 ### Overview
 
-After the whirlwind, a clean slate. The figure speaks of starting afresh with a clear conscience and renewed purity of purpose.
+After the whirlwind, a clean slate. It speaks of starting afresh with a clear conscience and renewed purity of purpose.
 
 ### Governing Influences
 

@@ -7,7 +7,7 @@ parent1: "osa-meji"
 parent2: "ogunda-meji"
 orisha: "Ọya; Ògún"
 theme: "upheaval, the whirlwind, sudden change, protection from harm; struggle, tools, perseverance, clearing the path"
-excerpt: "Resilience under pressure. The figure says that disciplined effort and good tools protect you when events turn violent or unpredictable."
+excerpt: "Resilience under pressure. Disciplined effort and good tools protect you when events turn violent or unpredictable."
 pattern_right: "II,I,I,I"
 pattern_left: "I,I,I,II"
 ---
@@ -15,7 +15,7 @@ pattern_left: "I,I,I,II"
 
 ### Overview
 
-Resilience under pressure. The figure says that disciplined effort and good tools protect you when events turn violent or unpredictable.
+Resilience under pressure. Disciplined effort and good tools protect you when events turn violent or unpredictable.
 
 ### Governing Influences
 

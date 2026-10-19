@@ -8,7 +8,7 @@ parent2: oyeku-meji
 orisha: Ọya / Yemọja; Ikú (Death) / Ọ̀sun
 theme: the womb, mystery, transformation, hidden depth; endings, the ancestors,
   the unseen world, mortality
-excerpt: "A hidden process meets the ancestral realm. The figure points to inherited patterns, transformation and the quiet work of renewal."
+excerpt: "A hidden process meets the ancestral realm. It points to inherited patterns, transformation and the quiet work of renewal."
 pattern_right: "I,II,II,I"
 pattern_left: "II,II,II,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,II,II,II"
 
 ### Overview
 
-A hidden process meets the ancestral realm. The figure points to inherited patterns, transformation and the quiet work of renewal.
+A hidden process meets the ancestral realm. It points to inherited patterns, transformation and the quiet work of renewal.
 
 ### Governing Influences
 

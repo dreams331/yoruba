@@ -8,7 +8,7 @@ parent2: osa-meji
 orisha: Ṣàngó / Ọya; Ọya
 theme: blood, sacrifice, warning, consequence; upheaval, the whirlwind, sudden
   change, protection from harm
-excerpt: "A storm threatens, and a sacrifice shelters. The figure advises preparing for upheaval by making offerings and holding to principle."
+excerpt: "A storm threatens, and a sacrifice shelters. It advises preparing for upheaval by making offerings and holding to principle."
 pattern_right: "I,I,II,II"
 pattern_left: "II,I,I,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,I,I,I"
 
 ### Overview
 
-A storm threatens, and a sacrifice shelters. The figure advises preparing for upheaval by making offerings and holding to principle.
+A storm threatens, and a sacrifice shelters. It advises preparing for upheaval by making offerings and holding to principle.
 
 ### Governing Influences
 

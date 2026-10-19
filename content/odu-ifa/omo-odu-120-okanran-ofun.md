@@ -8,7 +8,7 @@ parent2: ofun-meji
 orisha: Ọya / Ògún; Ọbàtálá / Olódùmarè
 theme: conflict, truth-telling, sharp consequences; purity, old age, completion,
   moral integrity
-excerpt: "Truth ends in clean integrity. The figure honours those who settle disputes fairly and without malice, and who leave a clear name."
+excerpt: "Truth ends in clean integrity. It honours those who settle disputes fairly and without malice, and who leave a clear name."
 pattern_right: "II,II,II,I"
 pattern_left: "II,I,II,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,I,II,I"
 
 ### Overview
 
-Truth ends in clean integrity. The figure honours those who settle disputes fairly and without malice, and who leave a clear name.
+Truth ends in clean integrity. It honours those who settle disputes fairly and without malice, and who leave a clear name.
 
 ### Governing Influences
 

@@ -7,7 +7,7 @@ parent1: "ika-meji"
 parent2: "okanran-meji"
 orisha: "Ọya / Èṣù; Ọya / Ògún"
 theme: "cruelty, resentment, the need for restraint; conflict, truth-telling, sharp consequences"
-excerpt: "Grudges lead to open dispute. The figure says that resentment breaks into conflict if ignored, and advises honest speech."
+excerpt: "Grudges lead to open dispute. Resentment breaks into conflict if ignored, and advises honest speech."
 pattern_right: "II,I,II,II"
 pattern_left: "II,II,II,I"
 ---
@@ -15,7 +15,7 @@ pattern_left: "II,II,II,I"
 
 ### Overview
 
-Grudges lead to open dispute. The figure says that resentment breaks into conflict if ignored, and advises honest speech.
+Grudges lead to open dispute. Resentment breaks into conflict if ignored, and advises honest speech.
 
 ### Governing Influences
 

@@ -7,7 +7,7 @@ parent1: "osa-meji"
 parent2: "obara-meji"
 orisha: "Ọya; Ṣàngó / Ọ̀bàtálá"
 theme: "upheaval, the whirlwind, sudden change, protection from harm; honour, boastfulness, the danger of pride, leadership"
-excerpt: "Pride is blown off its pedestal. The figure warns that the whirlwind humbles the overconfident and spares the humble."
+excerpt: "Pride is blown off its pedestal. Be aware that the whirlwind humbles the overconfident and spares the humble."
 pattern_right: "II,I,I,I"
 pattern_left: "I,II,II,II"
 ---
@@ -15,7 +15,7 @@ pattern_left: "I,II,II,II"
 
 ### Overview
 
-Pride is blown off its pedestal. The figure warns that the whirlwind humbles the overconfident and spares the humble.
+Pride is blown off its pedestal. Take care here: the whirlwind humbles the overconfident and spares the humble.
 
 ### Governing Influences
 

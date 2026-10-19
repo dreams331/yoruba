@@ -8,7 +8,7 @@ parent2: eji-ogbe
 orisha: Ṣàngó / Ọ̀bàtálá; Ọ̀rúnmìlà / Olódùmarè
 theme: honour, boastfulness, the danger of pride, leadership; light, new
   beginnings, divine potential
-excerpt: "Honour meets light. The figure grants standing and favourable beginnings, and asks that leadership remain humble."
+excerpt: "Honour meets light. It grants standing and favourable beginnings, and asks that leadership remain humble."
 pattern_right: "I,II,II,II"
 pattern_left: "I,I,I,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "I,I,I,I"
 
 ### Overview
 
-Honour meets light. The figure grants standing and favourable beginnings, and asks that leadership remain humble.
+Honour meets light. It grants standing and favourable beginnings, and asks that leadership remain humble.
 
 ### Governing Influences
 

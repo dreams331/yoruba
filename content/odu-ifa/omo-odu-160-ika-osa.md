@@ -7,7 +7,7 @@ parent1: "ika-meji"
 parent2: "osa-meji"
 orisha: "Ọya / Èṣù; Ọya"
 theme: "cruelty, resentment, the need for restraint; upheaval, the whirlwind, sudden change, protection from harm"
-excerpt: "Double hardship. The figure warns of anger and upheaval together and urges restraint and protective prudence."
+excerpt: "Double hardship. There is a warning of anger and upheaval together and urges restraint and protective prudence."
 pattern_right: "II,I,II,II"
 pattern_left: "II,I,I,I"
 ---
@@ -15,7 +15,7 @@ pattern_left: "II,I,I,I"
 
 ### Overview
 
-Double hardship. The figure warns of anger and upheaval together and urges restraint and protective prudence.
+Double hardship. There is a warning of anger and upheaval together and urges restraint and protective prudence.
 
 ### Governing Influences
 

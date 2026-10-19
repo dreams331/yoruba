@@ -8,7 +8,7 @@ parent2: okanran-meji
 orisha: Ọya / Yemọja; Ọya / Ògún
 theme: the womb, mystery, transformation, hidden depth; conflict, truth-telling,
   sharp consequences
-excerpt: "A concealed conflict demands honesty. The figure says that what is left unsaid will eventually erupt, so it is better to speak plainly."
+excerpt: "A concealed conflict demands honesty. What is left unsaid will eventually erupt, so it is better to speak plainly."
 pattern_right: "I,II,II,I"
 pattern_left: "II,II,II,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,II,II,I"
 
 ### Overview
 
-A concealed conflict demands honesty. The figure says that what is left unsaid will eventually erupt, so it is better to speak plainly.
+A concealed conflict demands honesty. What is left unsaid will eventually erupt, so it is better to speak plainly.
 
 ### Governing Influences
 

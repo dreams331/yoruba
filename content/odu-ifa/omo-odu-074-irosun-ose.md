@@ -8,7 +8,7 @@ parent2: ose-meji
 orisha: Ṣàngó / Ọya; Ọ̀ṣun
 theme: blood, sacrifice, warning, consequence; blessings, sweetness, abundance,
   gratitude
-excerpt: "Sacrifice opens the way to sweetness. The figure says that what you give up in good faith returns as blessing."
+excerpt: "Sacrifice opens the way to sweetness. What you give up in good faith returns as blessing."
 pattern_right: "I,I,II,II"
 pattern_left: "I,II,I,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "I,II,I,II"
 
 ### Overview
 
-Sacrifice opens the way to sweetness. The figure says that what you give up in good faith returns as blessing.
+Sacrifice opens the way to sweetness. What you give up in good faith returns as blessing.
 
 ### Governing Influences
 

@@ -7,7 +7,7 @@ parent1: "ogunda-meji"
 parent2: "oturupon-meji"
 orisha: "Ògún; Ọbàtálá / Ọ̀rúnmìlà"
 theme: "struggle, tools, perseverance, clearing the path; illness and healing, secrets of the body, patience"
-excerpt: "The worker needs rest. The figure ties success to health, and says that burnout undoes what effort has built."
+excerpt: "The worker needs rest. It ties success to health, and says that burnout undoes what effort has built."
 pattern_right: "I,I,I,II"
 pattern_left: "II,II,I,II"
 ---
@@ -15,7 +15,7 @@ pattern_left: "II,II,I,II"
 
 ### Overview
 
-The worker needs rest. The figure ties success to health, and says that burnout undoes what effort has built.
+The worker needs rest. It ties success to health, and says that burnout undoes what effort has built.
 
 ### Governing Influences
 

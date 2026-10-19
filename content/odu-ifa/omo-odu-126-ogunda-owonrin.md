@@ -7,7 +7,7 @@ parent1: "ogunda-meji"
 parent2: "owonrin-meji"
 orisha: "Ògún; Èṣù / Ọ̀rúnmìlà"
 theme: "struggle, tools, perseverance, clearing the path; instability, change, the trickster's lesson, humility"
-excerpt: "Effort meets changing conditions. The figure says that the worker who adjusts methods without losing purpose will prevail."
+excerpt: "Effort meets changing conditions. The worker who adjusts methods without losing purpose will prevail."
 pattern_right: "I,I,I,II"
 pattern_left: "II,II,I,I"
 ---
@@ -15,7 +15,7 @@ pattern_left: "II,II,I,I"
 
 ### Overview
 
-Effort meets changing conditions. The figure says that the worker who adjusts methods without losing purpose will prevail.
+Effort meets changing conditions. The worker who adjusts methods without losing purpose will prevail.
 
 ### Governing Influences
 

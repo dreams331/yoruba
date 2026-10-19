@@ -8,7 +8,7 @@ parent2: oturupon-meji
 orisha: Ikú (Death) / Ọ̀sun; Ọbàtálá / Ọ̀rúnmìlà
 theme: endings, the ancestors, the unseen world, mortality; illness and healing,
   secrets of the body, patience
-excerpt: "Sickness and the thin boundary of life appear together. The figure advises prompt care, patience and attention to the elderly and ill."
+excerpt: "Sickness and the thin boundary of life appear together. It advises prompt care, patience and attention to the elderly and ill."
 pattern_right: "II,II,II,II"
 pattern_left: "II,II,I,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,II,I,II"
 
 ### Overview
 
-Sickness and the thin boundary of life appear together. The figure advises prompt care, patience and attention to the elderly and ill.
+Sickness and the thin boundary of life appear together. It advises prompt care, patience and attention to the elderly and ill.
 
 ### Governing Influences
 

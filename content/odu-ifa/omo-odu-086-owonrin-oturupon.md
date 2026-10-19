@@ -8,7 +8,7 @@ parent2: oturupon-meji
 orisha: Èṣù / Ọ̀rúnmìlà; Ọbàtálá / Ọ̀rúnmìlà
 theme: instability, change, the trickster's lesson, humility; illness and
   healing, secrets of the body, patience
-excerpt: "Changes affect the body and health. The figure advises rest, regular care and patience during recovery."
+excerpt: "Changes affect the body and health. It advises rest, regular care and patience during recovery."
 pattern_right: "II,II,I,I"
 pattern_left: "II,II,I,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,II,I,II"
 
 ### Overview
 
-Changes affect the body and health. The figure advises rest, regular care and patience during recovery.
+Changes affect the body and health. It advises rest, regular care and patience during recovery.
 
 ### Governing Influences
 

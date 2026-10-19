@@ -8,7 +8,7 @@ parent2: irosun-meji
 orisha: Ọ̀sanyìn / Ọ̀rúnmìlà; Ṣàngó / Ọya
 theme: self-knowledge, hidden truth, inner vision; blood, sacrifice, warning,
   consequence
-excerpt: "Perception is challenged by consequence. The figure warns that ignoring the signs leads to a costly lesson, and that sacrifice can restore order."
+excerpt: "Perception is challenged by consequence. Note the warning: ignoring the signs leads to a costly lesson, and sacrifice can restore order."
 pattern_right: "II,I,I,II"
 pattern_left: "I,I,II,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "I,I,II,II"
 
 ### Overview
 
-Perception is challenged by consequence. The figure warns that ignoring the signs leads to a costly lesson, and that sacrifice can restore order.
+Perception is challenged by consequence. The caution is that ignoring the signs leads to a costly lesson, and sacrifice can restore order.
 
 ### Governing Influences
 

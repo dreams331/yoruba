@@ -7,7 +7,7 @@ parent1: "ika-meji"
 parent2: "iwori-meji"
 orisha: "Ọya / Èṣù; Ọ̀sanyìn / Ọ̀rúnmìlà"
 theme: "cruelty, resentment, the need for restraint; self-knowledge, hidden truth, inner vision"
-excerpt: "Seeing through malice. The figure says that honest self-knowledge shields you from envy, both received and felt."
+excerpt: "Seeing through malice. Honest self-knowledge shields you from envy, both received and felt."
 pattern_right: "II,I,II,II"
 pattern_left: "II,I,I,II"
 ---
@@ -15,7 +15,7 @@ pattern_left: "II,I,I,II"
 
 ### Overview
 
-Seeing through malice. The figure says that honest self-knowledge shields you from envy, both received and felt.
+Seeing through malice. Honest self-knowledge shields you from envy, both received and felt.
 
 ### Governing Influences
 

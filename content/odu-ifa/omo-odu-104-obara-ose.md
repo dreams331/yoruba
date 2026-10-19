@@ -8,7 +8,7 @@ parent2: ose-meji
 orisha: Ṣàngó / Ọ̀bàtálá; Ọ̀ṣun
 theme: honour, boastfulness, the danger of pride, leadership; blessings,
   sweetness, abundance, gratitude
-excerpt: "Honour is sweetest when shared. The figure says that blessings grow when a leader is generous and grateful."
+excerpt: "Honour is sweetest when shared. Blessings grow when a leader is generous and grateful."
 pattern_right: "I,II,II,II"
 pattern_left: "I,II,I,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "I,II,I,II"
 
 ### Overview
 
-Honour is sweetest when shared. The figure says that blessings grow when a leader is generous and grateful.
+Honour is sweetest when shared. Blessings grow when a leader is generous and grateful.
 
 ### Governing Influences
 

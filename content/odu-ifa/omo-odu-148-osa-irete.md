@@ -7,7 +7,7 @@ parent1: "osa-meji"
 parent2: "irete-meji"
 orisha: "Ọya; Ọ̀rúnmìlà / Ọya"
 theme: "upheaval, the whirlwind, sudden change, protection from harm; perseverance despite setbacks, hidden victory"
-excerpt: "Survival through hard times. The figure tells of those who endure sudden upheaval and come out stronger."
+excerpt: "Survival through hard times. Endure sudden upheaval and come out stronger."
 pattern_right: "II,I,I,I"
 pattern_left: "I,I,II,I"
 ---
@@ -15,7 +15,7 @@ pattern_left: "I,I,II,I"
 
 ### Overview
 
-Survival through hard times. The figure tells of those who endure sudden upheaval and come out stronger.
+Survival through hard times. Endure sudden upheaval and come out stronger.
 
 ### Governing Influences
 

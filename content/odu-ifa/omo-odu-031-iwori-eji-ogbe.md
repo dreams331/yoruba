@@ -8,7 +8,7 @@ parent2: eji-ogbe
 orisha: Ọ̀sanyìn / Ọ̀rúnmìlà; Ọ̀rúnmìlà / Olódùmarè
 theme: self-knowledge, hidden truth, inner vision; light, new beginnings, divine
   potential
-excerpt: "Self-knowledge leads back to the source of light. This figure says that insight and opportunity belong together, and that inner honesty draws blessings in."
+excerpt: "Self-knowledge leads back to the source of light. This figure says that insight and opportunity belong together, and inner honesty draws blessings in."
 pattern_right: "II,I,I,II"
 pattern_left: "I,I,I,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "I,I,I,I"
 
 ### Overview
 
-Self-knowledge leads back to the source of light. This figure says that insight and opportunity belong together, and that inner honesty draws blessings in.
+Self-knowledge leads back to the source of light. This figure says that insight and opportunity belong together, and inner honesty draws blessings in.
 
 ### Governing Influences
 

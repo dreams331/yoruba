@@ -7,7 +7,7 @@ parent1: "okanran-meji"
 parent2: "eji-ogbe"
 orisha: "Ọya / Ògún; Ọ̀rúnmìlà / Olódùmarè"
 theme: "conflict, truth-telling, sharp consequences; light, new beginnings, divine potential"
-excerpt: "Truth walks into the light. The figure says that open honesty brings a fresh start, even when it begins as conflict."
+excerpt: "Truth walks into the light. Open honesty brings a fresh start, even when it begins as conflict."
 pattern_right: "II,II,II,I"
 pattern_left: "I,I,I,I"
 ---
@@ -15,7 +15,7 @@ pattern_left: "I,I,I,I"
 
 ### Overview
 
-Truth walks into the light. The figure says that open honesty brings a fresh start, even when it begins as conflict.
+Truth walks into the light. Open honesty brings a fresh start, even when it begins as conflict.
 
 ### Governing Influences
 

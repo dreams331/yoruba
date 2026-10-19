@@ -7,7 +7,7 @@ parent1: "ika-meji"
 parent2: "obara-meji"
 orisha: "Ọya / Èṣù; Ṣàngó / Ọ̀bàtálá"
 theme: "cruelty, resentment, the need for restraint; honour, boastfulness, the danger of pride, leadership"
-excerpt: "Envy attacks a leader. The figure advises those with standing to be humble and generous to avoid resentment."
+excerpt: "Envy attacks a leader. It advises those with standing to be humble and generous to avoid resentment."
 pattern_right: "II,I,II,II"
 pattern_left: "I,II,II,II"
 ---
@@ -15,7 +15,7 @@ pattern_left: "I,II,II,II"
 
 ### Overview
 
-Envy attacks a leader. The figure advises those with standing to be humble and generous to avoid resentment.
+Envy attacks a leader. It advises those with standing to be humble and generous to avoid resentment.
 
 ### Governing Influences
 

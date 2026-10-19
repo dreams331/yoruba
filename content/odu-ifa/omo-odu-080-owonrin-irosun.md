@@ -8,7 +8,7 @@ parent2: irosun-meji
 orisha: Èṣù / Ọ̀rúnmìlà; Ṣàngó / Ọya
 theme: instability, change, the trickster's lesson, humility; blood, sacrifice,
   warning, consequence
-excerpt: "Restless fortune meets warning. The figure advises caution during unstable times and recommends offerings to keep losses small."
+excerpt: "Restless fortune meets warning. It advises caution during unstable times and recommends offerings to keep losses small."
 pattern_right: "II,II,I,I"
 pattern_left: "I,I,II,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "I,I,II,II"
 
 ### Overview
 
-Restless fortune meets warning. The figure advises caution during unstable times and recommends offerings to keep losses small.
+Restless fortune meets warning. It advises caution during unstable times and recommends offerings to keep losses small.
 
 ### Governing Influences
 

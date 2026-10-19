@@ -8,7 +8,7 @@ parent2: ogunda-meji
 orisha: Ọya / Yemọja; Ògún
 theme: the womb, mystery, transformation, hidden depth; struggle, tools,
   perseverance, clearing the path
-excerpt: "Slow, deep work is rewarded. The figure advises persistent effort on projects that are not yet visible to others."
+excerpt: "Slow, deep work is rewarded. It advises persistent effort on projects that are not yet visible to others."
 pattern_right: "I,II,II,I"
 pattern_left: "I,I,I,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "I,I,I,II"
 
 ### Overview
 
-Slow, deep work is rewarded. The figure advises persistent effort on projects that are not yet visible to others.
+Slow, deep work is rewarded. It advises persistent effort on projects that are not yet visible to others.
 
 ### Governing Influences
 

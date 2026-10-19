@@ -8,7 +8,7 @@ parent2: ofun-meji
 orisha: Ṣàngó / Ọ̀bàtálá; Ọbàtálá / Olódùmarè
 theme: honour, boastfulness, the danger of pride, leadership; purity, old age,
   completion, moral integrity
-excerpt: "Leadership ends well when it is clean. The figure praises integrity and a good legacy built on honesty."
+excerpt: "Leadership ends well when it is clean. It praises integrity and a good legacy built on honesty."
 pattern_right: "I,II,II,II"
 pattern_left: "II,I,II,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,I,II,I"
 
 ### Overview
 
-Leadership ends well when it is clean. The figure praises integrity and a good legacy built on honesty.
+Leadership ends well when it is clean. It praises integrity and a good legacy built on honesty.
 
 ### Governing Influences
 

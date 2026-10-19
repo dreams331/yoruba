@@ -8,7 +8,7 @@ parent2: owonrin-meji
 orisha: Ọ̀rúnmìlà / Olódùmarè; Èṣù / Ọ̀rúnmìlà
 theme: light, new beginnings, divine potential; instability, change, the
   trickster's lesson, humility
-excerpt: "Fortune is bright but unstable. The figure warns that good luck can turn quickly, and that humility is what keeps a blessing in place."
+excerpt: "Fortune is bright but unstable. Note the warning: good luck can turn quickly, and humility is what keeps a blessing in place."
 pattern_right: "I,I,I,I"
 pattern_left: "II,II,I,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,II,I,I"
 
 ### Overview
 
-Fortune is bright but unstable. The figure warns that good luck can turn quickly, and that humility is what keeps a blessing in place.
+Fortune is bright but unstable. The caution is that good luck can turn quickly, and humility is what keeps a blessing in place.
 
 ### Governing Influences
 

@@ -7,7 +7,7 @@ parent1: "osa-meji"
 parent2: "oturupon-meji"
 orisha: "Ọya; Ọbàtálá / Ọ̀rúnmìlà"
 theme: "upheaval, the whirlwind, sudden change, protection from harm; illness and healing, secrets of the body, patience"
-excerpt: "Stress shows in the body. The figure says that turmoil affects health and that rest and treatment come first."
+excerpt: "Stress shows in the body. Turmoil affects health and that rest and treatment come first."
 pattern_right: "II,I,I,I"
 pattern_left: "II,II,I,II"
 ---
@@ -15,7 +15,7 @@ pattern_left: "II,II,I,II"
 
 ### Overview
 
-Stress shows in the body. The figure says that turmoil affects health and that rest and treatment come first.
+Stress shows in the body. Turmoil affects health and that rest and treatment come first.
 
 ### Governing Influences
 

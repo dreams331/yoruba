@@ -8,7 +8,7 @@ parent2: obara-meji
 orisha: Ọ̀rúnmìlà / Olódùmarè; Ṣàngó / Ọ̀bàtálá
 theme: light, new beginnings, divine potential; honour, boastfulness, the danger
   of pride, leadership
-excerpt: "Natural leadership is tested by pride. The figure grants honour and standing, then asks whether you can carry them without boasting."
+excerpt: "Natural leadership is tested by pride. It grants honour and standing, then asks whether you can carry them without boasting."
 pattern_right: "I,I,I,I"
 pattern_left: "I,II,II,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "I,II,II,II"
 
 ### Overview
 
-Natural leadership is tested by pride. The figure grants honour and standing, then asks whether you can carry them without boasting.
+Natural leadership is tested by pride. It grants honour and standing, then asks whether you can carry them without boasting.
 
 ### Governing Influences
 

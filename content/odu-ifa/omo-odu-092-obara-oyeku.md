@@ -8,7 +8,7 @@ parent2: oyeku-meji
 orisha: Ṣàngó / Ọ̀bàtálá; Ikú (Death) / Ọ̀sun
 theme: honour, boastfulness, the danger of pride, leadership; endings, the
   ancestors, the unseen world, mortality
-excerpt: "Status is set against mortality. The figure reminds the proud that position is temporary and that respect for ancestors is lasting."
+excerpt: "Status is set against mortality. It reminds the proud that position is temporary and that respect for ancestors is lasting."
 pattern_right: "I,II,II,II"
 pattern_left: "II,II,II,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,II,II,II"
 
 ### Overview
 
-Status is set against mortality. The figure reminds the proud that position is temporary and that respect for ancestors is lasting.
+Status is set against mortality. It reminds the proud that position is temporary and that respect for ancestors is lasting.
 
 ### Governing Influences
 

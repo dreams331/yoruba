@@ -8,7 +8,7 @@ parent2: osa-meji
 orisha: Ọya / Yemọja; Ọya
 theme: the womb, mystery, transformation, hidden depth; upheaval, the whirlwind,
   sudden change, protection from harm
-excerpt: "Stillness before the storm. The figure warns of coming upheaval and advises preparing quietly and protecting what is vulnerable."
+excerpt: "Stillness before the storm. There is a warning of coming upheaval and advises preparing quietly and protecting what is vulnerable."
 pattern_right: "I,II,II,I"
 pattern_left: "II,I,I,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,I,I,I"
 
 ### Overview
 
-Stillness before the storm. The figure warns of coming upheaval and advises preparing quietly and protecting what is vulnerable.
+Stillness before the storm. There is a warning of coming upheaval and advises preparing quietly and protecting what is vulnerable.
 
 ### Governing Influences
 

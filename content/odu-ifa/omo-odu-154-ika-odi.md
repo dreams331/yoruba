@@ -7,7 +7,7 @@ parent1: "ika-meji"
 parent2: "odi-meji"
 orisha: "Ọya / Èṣù; Ọya / Yemọja"
 theme: "cruelty, resentment, the need for restraint; the womb, mystery, transformation, hidden depth"
-excerpt: "Hidden ill will. The figure warns of resentment that is concealed, and advises watchfulness and quiet protective action."
+excerpt: "Hidden ill will. There is a warning of resentment that is concealed, and advises watchfulness and quiet protective action."
 pattern_right: "II,I,II,II"
 pattern_left: "I,II,II,I"
 ---
@@ -15,7 +15,7 @@ pattern_left: "I,II,II,I"
 
 ### Overview
 
-Hidden ill will. The figure warns of resentment that is concealed, and advises watchfulness and quiet protective action.
+Hidden ill will. There is a warning of resentment that is concealed, and advises watchfulness and quiet protective action.
 
 ### Governing Influences
 

@@ -8,7 +8,7 @@ parent2: iwori-meji
 orisha: Ṣàngó / Ọ̀bàtálá; Ọ̀sanyìn / Ọ̀rúnmìlà
 theme: honour, boastfulness, the danger of pride, leadership; self-knowledge,
   hidden truth, inner vision
-excerpt: "Leadership needs self-knowledge. The figure says that real authority starts with an honest look at your own motives."
+excerpt: "Leadership needs self-knowledge. Real authority starts with an honest look at your own motives."
 pattern_right: "I,II,II,II"
 pattern_left: "II,I,I,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,I,I,II"
 
 ### Overview
 
-Leadership needs self-knowledge. The figure says that real authority starts with an honest look at your own motives.
+Leadership needs self-knowledge. Real authority starts with an honest look at your own motives.
 
 ### Governing Influences
 

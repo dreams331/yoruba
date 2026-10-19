@@ -8,7 +8,7 @@ parent2: oturupon-meji
 orisha: Ṣàngó / Ọ̀bàtálá; Ọbàtálá / Ọ̀rúnmìlà
 theme: honour, boastfulness, the danger of pride, leadership; illness and
   healing, secrets of the body, patience
-excerpt: "Responsibility includes health. The figure ties leadership to caring for the body and for people under your care."
+excerpt: "Responsibility includes health. It ties leadership to caring for the body and for people under your care."
 pattern_right: "I,II,II,II"
 pattern_left: "II,II,I,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,II,I,II"
 
 ### Overview
 
-Responsibility includes health. The figure ties leadership to caring for the body and for people under your care.
+Responsibility includes health. It ties leadership to caring for the body and for people under your care.
 
 ### Governing Influences
 

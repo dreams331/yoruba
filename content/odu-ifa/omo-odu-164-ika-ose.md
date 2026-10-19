@@ -7,7 +7,7 @@ parent1: "ika-meji"
 parent2: "ose-meji"
 orisha: "Ọya / Èṣù; Ọ̀ṣun"
 theme: "cruelty, resentment, the need for restraint; blessings, sweetness, abundance, gratitude"
-excerpt: "Kindness sweetens a hard heart. The figure says that generosity and gratitude can soften resentment in others and in yourself."
+excerpt: "Kindness sweetens a hard heart. Generosity and gratitude can soften resentment in others and in yourself."
 pattern_right: "II,I,II,II"
 pattern_left: "I,II,I,II"
 ---
@@ -15,7 +15,7 @@ pattern_left: "I,II,I,II"
 
 ### Overview
 
-Kindness sweetens a hard heart. The figure says that generosity and gratitude can soften resentment in others and in yourself.
+Kindness sweetens a hard heart. Generosity and gratitude can soften resentment in others and in yourself.
 
 ### Governing Influences
 

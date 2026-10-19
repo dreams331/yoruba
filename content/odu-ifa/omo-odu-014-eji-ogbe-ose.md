@@ -8,7 +8,7 @@ parent2: ose-meji
 orisha: Ọ̀rúnmìlà / Olódùmarè; Ọ̀ṣun
 theme: light, new beginnings, divine potential; blessings, sweetness, abundance,
   gratitude
-excerpt: "Abundance and gratitude walk together. The figure points to sweetness in life, and to a duty to share it generously."
+excerpt: "Abundance and gratitude walk together. It points to sweetness in life, and to a duty to share it generously."
 pattern_right: "I,I,I,I"
 pattern_left: "I,II,I,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "I,II,I,II"
 
 ### Overview
 
-Abundance and gratitude walk together. The figure points to sweetness in life, and to a duty to share it generously.
+Abundance and gratitude walk together. It points to sweetness in life, and to a duty to share it generously.
 
 ### Governing Influences
 

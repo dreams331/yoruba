@@ -8,7 +8,7 @@ parent2: owonrin-meji
 orisha: Ṣàngó / Ọ̀bàtálá; Èṣù / Ọ̀rúnmìlà
 theme: honour, boastfulness, the danger of pride, leadership; instability,
   change, the trickster's lesson, humility
-excerpt: "Power is unstable when pride grows. The figure says that status changes quickly for those who lose humility."
+excerpt: "Power is unstable when pride grows. Status changes quickly for those who lose humility."
 pattern_right: "I,II,II,II"
 pattern_left: "II,II,I,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,II,I,I"
 
 ### Overview
 
-Power is unstable when pride grows. The figure says that status changes quickly for those who lose humility.
+Power is unstable when pride grows. Status changes quickly for those who lose humility.
 
 ### Governing Influences
 

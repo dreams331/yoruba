@@ -8,7 +8,7 @@ parent2: ofun-meji
 orisha: Ọ̀rúnmìlà / Olódùmarè; Ọbàtálá / Olódùmarè
 theme: light, new beginnings, divine potential; purity, old age, completion,
   moral integrity
-excerpt: "A pure beginning reaches maturity. The figure speaks of integrity, of wisdom that comes with age, and of work brought to completion."
+excerpt: "A pure beginning reaches maturity. It speaks of integrity, of wisdom that comes with age, and of work brought to completion."
 pattern_right: "I,I,I,I"
 pattern_left: "II,I,II,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,I,II,I"
 
 ### Overview
 
-A pure beginning reaches maturity. The figure speaks of integrity, of wisdom that comes with age, and of work brought to completion.
+A pure beginning reaches maturity. It speaks of integrity, of wisdom that comes with age, and of work brought to completion.
 
 ### Governing Influences
 

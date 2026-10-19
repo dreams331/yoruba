@@ -8,7 +8,7 @@ parent2: osa-meji
 orisha: Ṣàngó / Ọ̀bàtálá; Ọya
 theme: honour, boastfulness, the danger of pride, leadership; upheaval, the
   whirlwind, sudden change, protection from harm
-excerpt: "A leader faces a storm. The figure advises calm, protective decisions when the group is shaken by sudden change."
+excerpt: "A leader faces a storm. It advises calm, protective decisions when the group is shaken by sudden change."
 pattern_right: "I,II,II,II"
 pattern_left: "II,I,I,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,I,I,I"
 
 ### Overview
 
-A leader faces a storm. The figure advises calm, protective decisions when the group is shaken by sudden change.
+A leader faces a storm. It advises calm, protective decisions when the group is shaken by sudden change.
 
 ### Governing Influences
 

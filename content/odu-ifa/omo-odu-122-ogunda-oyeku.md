@@ -7,7 +7,7 @@ parent1: "ogunda-meji"
 parent2: "oyeku-meji"
 orisha: "Ògún; Ikú (Death) / Ọ̀sun"
 theme: "struggle, tools, perseverance, clearing the path; endings, the ancestors, the unseen world, mortality"
-excerpt: "Labour is tied to the ancestors. The figure says that skills and trades are inherited, and that honouring the source of your craft protects its future."
+excerpt: "Labour is tied to the ancestors. Skills and trades are inherited, and honouring the source of your craft protects its future."
 pattern_right: "I,I,I,II"
 pattern_left: "II,II,II,II"
 ---
@@ -15,7 +15,7 @@ pattern_left: "II,II,II,II"
 
 ### Overview
 
-Labour is tied to the ancestors. The figure says that skills and trades are inherited, and that honouring the source of your craft protects its future.
+Labour is tied to the ancestors. Skills and trades are inherited, and honouring the source of your craft protects its future.
 
 ### Governing Influences
 

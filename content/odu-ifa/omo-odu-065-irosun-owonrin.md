@@ -8,7 +8,7 @@ parent2: owonrin-meji
 orisha: Ṣàngó / Ọya; Èṣù / Ọ̀rúnmìlà
 theme: blood, sacrifice, warning, consequence; instability, change, the
   trickster's lesson, humility
-excerpt: "Danger and instability travel together. The figure advises humility and flexibility so that sudden change does not become a loss."
+excerpt: "Danger and instability travel together. It advises humility and flexibility so that sudden change does not become a loss."
 pattern_right: "I,I,II,II"
 pattern_left: "II,II,I,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,II,I,I"
 
 ### Overview
 
-Danger and instability travel together. The figure advises humility and flexibility so that sudden change does not become a loss.
+Danger and instability travel together. It advises humility and flexibility so that sudden change does not become a loss.
 
 ### Governing Influences
 

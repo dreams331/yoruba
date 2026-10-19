@@ -8,7 +8,7 @@ parent2: otura-meji
 orisha: Ọ̀sanyìn / Ọ̀rúnmìlà; Ọ̀rúnmìlà / Ọbàtálá
 theme: self-knowledge, hidden truth, inner vision; transformation, clarity after
   confusion, truth revealed
-excerpt: "Confusion gives way to revelation. The figure promises that a clouded situation will be explained and a new light will dawn."
+excerpt: "Confusion gives way to revelation. A clouded situation will be explained and a new light will dawn."
 pattern_right: "II,I,I,II"
 pattern_left: "I,II,I,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "I,II,I,I"
 
 ### Overview
 
-Confusion gives way to revelation. The figure promises that a clouded situation will be explained and a new light will dawn.
+Confusion gives way to revelation. A clouded situation will be explained and a new light will dawn.
 
 ### Governing Influences
 

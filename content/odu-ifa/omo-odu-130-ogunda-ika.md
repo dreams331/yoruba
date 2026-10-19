@@ -7,7 +7,7 @@ parent1: "ogunda-meji"
 parent2: "ika-meji"
 orisha: "Ògún; Ọya / Èṣù"
 theme: "struggle, tools, perseverance, clearing the path; cruelty, resentment, the need for restraint"
-excerpt: "Hard effort invites envy. The figure says that visible progress attracts resentment, and that quiet persistence is the best response."
+excerpt: "Hard effort invites envy. Visible progress attracts resentment, and quiet persistence is the best response."
 pattern_right: "I,I,I,II"
 pattern_left: "II,I,II,II"
 ---
@@ -15,7 +15,7 @@ pattern_left: "II,I,II,II"
 
 ### Overview
 
-Hard effort invites envy. The figure says that visible progress attracts resentment, and that quiet persistence is the best response.
+Hard effort invites envy. Visible progress attracts resentment, and quiet persistence is the best response.
 
 ### Governing Influences
 

@@ -8,7 +8,7 @@ parent2: obara-meji
 orisha: Ọya / Yemọja; Ṣàngó / Ọ̀bàtálá
 theme: the womb, mystery, transformation, hidden depth; honour, boastfulness,
   the danger of pride, leadership
-excerpt: "Hidden strength must not turn into pride. The figure grants quiet power and cautions against displaying it for show."
+excerpt: "Hidden strength must not turn into pride. It grants quiet power and cautions against displaying it for show."
 pattern_right: "I,II,II,I"
 pattern_left: "I,II,II,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "I,II,II,II"
 
 ### Overview
 
-Hidden strength must not turn into pride. The figure grants quiet power and cautions against displaying it for show.
+Hidden strength must not turn into pride. It grants quiet power and cautions against displaying it for show.
 
 ### Governing Influences
 

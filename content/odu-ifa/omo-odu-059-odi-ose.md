@@ -8,7 +8,7 @@ parent2: ose-meji
 orisha: Ọya / Yemọja; Ọ̀ṣun
 theme: the womb, mystery, transformation, hidden depth; blessings, sweetness,
   abundance, gratitude
-excerpt: "Concealed effort is rewarded with sweetness. The figure promises that private discipline brings a blessing that you can share with others."
+excerpt: "Concealed effort is rewarded with sweetness. Private discipline brings a blessing that you can share with others."
 pattern_right: "I,II,II,I"
 pattern_left: "I,II,I,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "I,II,I,II"
 
 ### Overview
 
-Concealed effort is rewarded with sweetness. The figure promises that private discipline brings a blessing that you can share with others.
+Concealed effort is rewarded with sweetness. Private discipline brings a blessing that you can share with others.
 
 ### Governing Influences
 

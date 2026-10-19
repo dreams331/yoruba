@@ -7,7 +7,7 @@ parent1: "ika-meji"
 parent2: "owonrin-meji"
 orisha: "Ọya / Èṣù; Èṣù / Ọ̀rúnmìlà"
 theme: "cruelty, resentment, the need for restraint; instability, change, the trickster's lesson, humility"
-excerpt: "Bitterness meets instability. The figure warns that changing circumstances can sharpen grudges, and calls for flexibility and kindness."
+excerpt: "Bitterness meets instability. Be aware that changing circumstances can sharpen grudges. It calls for flexibility and kindness."
 pattern_right: "II,I,II,II"
 pattern_left: "II,II,I,I"
 ---
@@ -15,7 +15,7 @@ pattern_left: "II,II,I,I"
 
 ### Overview
 
-Bitterness meets instability. The figure warns that changing circumstances can sharpen grudges, and calls for flexibility and kindness.
+Bitterness meets instability. Take care here: changing circumstances can sharpen grudges. It calls for flexibility and kindness.
 
 ### Governing Influences
 

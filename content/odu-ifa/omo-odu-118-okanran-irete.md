@@ -8,7 +8,7 @@ parent2: irete-meji
 orisha: Ọya / Ògún; Ọ̀rúnmìlà / Ọya
 theme: conflict, truth-telling, sharp consequences; perseverance despite
   setbacks, hidden victory
-excerpt: "Honesty persists through setbacks. The figure says that those who keep telling the truth despite cost eventually see it vindicated."
+excerpt: "Honesty persists through setbacks. Those who keep telling the truth despite cost eventually see it vindicated."
 pattern_right: "II,II,II,I"
 pattern_left: "I,I,II,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "I,I,II,I"
 
 ### Overview
 
-Honesty persists through setbacks. The figure says that those who keep telling the truth despite cost eventually see it vindicated.
+Honesty persists through setbacks. Those who keep telling the truth despite cost eventually see it vindicated.
 
 ### Governing Influences
 

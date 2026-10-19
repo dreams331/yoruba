@@ -8,7 +8,7 @@ parent2: ogunda-meji
 orisha: Ṣàngó / Ọ̀bàtálá; Ògún
 theme: honour, boastfulness, the danger of pride, leadership; struggle, tools,
   perseverance, clearing the path
-excerpt: "Honour is earned by work. The figure says that standing grows through effort and perseverance rather than claims."
+excerpt: "Honour is earned by work. Standing grows through effort and perseverance rather than claims."
 pattern_right: "I,II,II,II"
 pattern_left: "I,I,I,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "I,I,I,II"
 
 ### Overview
 
-Honour is earned by work. The figure says that standing grows through effort and perseverance rather than claims.
+Honour is earned by work. Standing grows through effort and perseverance rather than claims.
 
 ### Governing Influences
 

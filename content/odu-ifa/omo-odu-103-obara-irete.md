@@ -8,7 +8,7 @@ parent2: irete-meji
 orisha: Ṣàngó / Ọ̀bàtálá; Ọ̀rúnmìlà / Ọya
 theme: honour, boastfulness, the danger of pride, leadership; perseverance
   despite setbacks, hidden victory
-excerpt: "Perseverance restores honour. The figure promises that standing lost through setbacks can be regained through patient effort."
+excerpt: "Perseverance restores honour. Standing lost through setbacks can be regained through patient effort."
 pattern_right: "I,II,II,II"
 pattern_left: "I,I,II,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "I,I,II,I"
 
 ### Overview
 
-Perseverance restores honour. The figure promises that standing lost through setbacks can be regained through patient effort.
+Perseverance restores honour. Standing lost through setbacks can be regained through patient effort.
 
 ### Governing Influences
 

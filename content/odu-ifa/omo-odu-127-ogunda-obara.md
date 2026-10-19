@@ -7,7 +7,7 @@ parent1: "ogunda-meji"
 parent2: "obara-meji"
 orisha: "Ògún; Ṣàngó / Ọ̀bàtálá"
 theme: "struggle, tools, perseverance, clearing the path; honour, boastfulness, the danger of pride, leadership"
-excerpt: "Capable hands must stay humble. The figure praises skill and warns that pride in it can ruin a good reputation."
+excerpt: "Capable hands must stay humble. It praises skill and warns that pride in it can ruin a good reputation."
 pattern_right: "I,I,I,II"
 pattern_left: "I,II,II,II"
 ---
@@ -15,7 +15,7 @@ pattern_left: "I,II,II,II"
 
 ### Overview
 
-Capable hands must stay humble. The figure praises skill and warns that pride in it can ruin a good reputation.
+Capable hands must stay humble. It praises skill and warns that pride in it can ruin a good reputation.
 
 ### Governing Influences
 

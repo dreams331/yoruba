@@ -7,7 +7,7 @@ parent1: "ika-meji"
 parent2: "otura-meji"
 orisha: "Ọya / Èṣù; Ọ̀rúnmìlà / Ọbàtálá"
 theme: "cruelty, resentment, the need for restraint; transformation, clarity after confusion, truth revealed"
-excerpt: "Clarity dissolves anger. The figure says that once the facts are clear, resentment loses its force."
+excerpt: "Clarity dissolves anger. Once the facts are clear, resentment loses its force."
 pattern_right: "II,I,II,II"
 pattern_left: "I,II,I,I"
 ---
@@ -15,7 +15,7 @@ pattern_left: "I,II,I,I"
 
 ### Overview
 
-Clarity dissolves anger. The figure says that once the facts are clear, resentment loses its force.
+Clarity dissolves anger. Once the facts are clear, resentment loses its force.
 
 ### Governing Influences
 

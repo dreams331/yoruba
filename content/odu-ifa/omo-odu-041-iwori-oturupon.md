@@ -8,7 +8,7 @@ parent2: oturupon-meji
 orisha: Ọ̀sanyìn / Ọ̀rúnmìlà; Ọbàtálá / Ọ̀rúnmìlà
 theme: self-knowledge, hidden truth, inner vision; illness and healing, secrets
   of the body, patience
-excerpt: "Understanding the body and spirit supports healing. The figure links inner awareness to recovery and balance."
+excerpt: "Understanding the body and spirit supports healing. It links inner awareness to recovery and balance."
 pattern_right: "II,I,I,II"
 pattern_left: "II,II,I,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,II,I,II"
 
 ### Overview
 
-Understanding the body and spirit supports healing. The figure links inner awareness to recovery and balance.
+Understanding the body and spirit supports healing. It links inner awareness to recovery and balance.
 
 ### Governing Influences
 

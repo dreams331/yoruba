@@ -8,7 +8,7 @@ parent2: irete-meji
 orisha: Ṣàngó / Ọya; Ọ̀rúnmìlà / Ọya
 theme: blood, sacrifice, warning, consequence; perseverance despite setbacks,
   hidden victory
-excerpt: "Hardship is survivable with perseverance. The figure promises eventual victory, provided you accept guidance and make the needed offering."
+excerpt: "Hardship is survivable with perseverance. Eventual victory, provided you accept guidance and make the needed offering."
 pattern_right: "I,I,II,II"
 pattern_left: "I,I,II,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "I,I,II,I"
 
 ### Overview
 
-Hardship is survivable with perseverance. The figure promises eventual victory, provided you accept guidance and make the needed offering.
+Hardship is survivable with perseverance. Eventual victory, provided you accept guidance and make the needed offering.
 
 ### Governing Influences
 

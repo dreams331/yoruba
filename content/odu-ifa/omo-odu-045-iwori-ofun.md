@@ -8,7 +8,7 @@ parent2: ofun-meji
 orisha: Ọ̀sanyìn / Ọ̀rúnmìlà; Ọbàtálá / Olódùmarè
 theme: self-knowledge, hidden truth, inner vision; purity, old age, completion,
   moral integrity
-excerpt: "Insight ripens into integrity. The figure honours a life lived honestly and suggests that self-knowledge reaches its fullest form in goodness."
+excerpt: "Insight ripens into integrity. It honours a life lived honestly and suggests that self-knowledge reaches its fullest form in goodness."
 pattern_right: "II,I,I,II"
 pattern_left: "II,I,II,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,I,II,I"
 
 ### Overview
 
-Insight ripens into integrity. The figure honours a life lived honestly and suggests that self-knowledge reaches its fullest form in goodness.
+Insight ripens into integrity. It honours a life lived honestly and suggests that self-knowledge reaches its fullest form in goodness.
 
 ### Governing Influences
 

@@ -7,7 +7,7 @@ parent1: "osa-meji"
 parent2: "iwori-meji"
 orisha: "Ọya; Ọ̀sanyìn / Ọ̀rúnmìlà"
 theme: "upheaval, the whirlwind, sudden change, protection from harm; self-knowledge, hidden truth, inner vision"
-excerpt: "A whirlwind calls for inner steadiness. The figure says that those who know themselves are not blown over by events."
+excerpt: "A whirlwind calls for inner steadiness. Those who know themselves are not blown over by events."
 pattern_right: "II,I,I,I"
 pattern_left: "II,I,I,II"
 ---
@@ -15,7 +15,7 @@ pattern_left: "II,I,I,II"
 
 ### Overview
 
-A whirlwind calls for inner steadiness. The figure says that those who know themselves are not blown over by events.
+A whirlwind calls for inner steadiness. Those who know themselves are not blown over by events.
 
 ### Governing Influences
 

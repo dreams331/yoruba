@@ -7,7 +7,7 @@ parent1: "okanran-meji"
 parent2: "oyeku-meji"
 orisha: "Ọya / Ògún; Ikú (Death) / Ọ̀sun"
 theme: "conflict, truth-telling, sharp consequences; endings, the ancestors, the unseen world, mortality"
-excerpt: "Hard truths touch the ancestors. The figure warns of family disputes and advises honest, fair settlement of inherited matters."
+excerpt: "Hard truths touch the ancestors. There is a warning of family disputes and advises honest, fair settlement of inherited matters."
 pattern_right: "II,II,II,I"
 pattern_left: "II,II,II,II"
 ---
@@ -15,7 +15,7 @@ pattern_left: "II,II,II,II"
 
 ### Overview
 
-Hard truths touch the ancestors. The figure warns of family disputes and advises honest, fair settlement of inherited matters.
+Hard truths touch the ancestors. There is a warning of family disputes and advises honest, fair settlement of inherited matters.
 
 ### Governing Influences
 

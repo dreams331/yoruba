@@ -7,7 +7,7 @@ parent1: "ika-meji"
 parent2: "oyeku-meji"
 orisha: "Ọya / Èṣù; Ikú (Death) / Ọ̀sun"
 theme: "cruelty, resentment, the need for restraint; endings, the ancestors, the unseen world, mortality"
-excerpt: "Resentment follows the family. The figure warns that old grievances passed down through generations should be settled with the help of elders."
+excerpt: "Resentment follows the family. Be aware that old grievances passed down through generations should be settled with the help of elders."
 pattern_right: "II,I,II,II"
 pattern_left: "II,II,II,II"
 ---
@@ -15,7 +15,7 @@ pattern_left: "II,II,II,II"
 
 ### Overview
 
-Resentment follows the family. The figure warns that old grievances passed down through generations should be settled with the help of elders.
+Resentment follows the family. Take care here: old grievances passed down through generations should be settled with the help of elders.
 
 ### Governing Influences
 

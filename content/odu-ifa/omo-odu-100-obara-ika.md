@@ -8,7 +8,7 @@ parent2: ika-meji
 orisha: Ṣàngó / Ọ̀bàtálá; Ọya / Èṣù
 theme: honour, boastfulness, the danger of pride, leadership; cruelty,
   resentment, the need for restraint
-excerpt: "Pride attracts envy. The figure warns that visible success draws resentment, and that restraint is the best shield."
+excerpt: "Pride attracts envy. Be aware that visible success draws resentment, and restraint is the best shield."
 pattern_right: "I,II,II,II"
 pattern_left: "II,I,II,II"
 ---
@@ -16,7 +16,7 @@ pattern_left: "II,I,II,II"
 
 ### Overview
 
-Pride attracts envy. The figure warns that visible success draws resentment, and that restraint is the best shield.
+Pride attracts envy. Take care here: visible success draws resentment, and restraint is the best shield.
 
 ### Governing Influences
 

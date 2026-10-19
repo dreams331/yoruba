@@ -7,7 +7,7 @@ parent1: "okanran-meji"
 parent2: "odi-meji"
 orisha: "Ọya / Ògún; Ọya / Yemọja"
 theme: "conflict, truth-telling, sharp consequences; the womb, mystery, transformation, hidden depth"
-excerpt: "A buried quarrel needs air. The figure says that what is left unsaid will grow, and it is wiser to address it early."
+excerpt: "A buried quarrel needs air. What is left unsaid will grow, and it is wiser to address it early."
 pattern_right: "II,II,II,I"
 pattern_left: "I,II,II,I"
 ---
@@ -15,7 +15,7 @@ pattern_left: "I,II,II,I"
 
 ### Overview
 
-A buried quarrel needs air. The figure says that what is left unsaid will grow, and it is wiser to address it early.
+A buried quarrel needs air. What is left unsaid will grow, and it is wiser to address it early.
 
 ### Governing Influences
 

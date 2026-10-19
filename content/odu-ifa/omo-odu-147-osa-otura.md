@@ -7,7 +7,7 @@ parent1: "osa-meji"
 parent2: "otura-meji"
 orisha: "Ọya; Ọ̀rúnmìlà / Ọbàtálá"
 theme: "upheaval, the whirlwind, sudden change, protection from harm; transformation, clarity after confusion, truth revealed"
-excerpt: "The storm passes and the view clears. The figure promises that things will make sense once the disruption subsides."
+excerpt: "The storm passes and the view clears. Things will make sense once the disruption subsides."
 pattern_right: "II,I,I,I"
 pattern_left: "I,II,I,I"
 ---
@@ -15,7 +15,7 @@ pattern_left: "I,II,I,I"
 
 ### Overview
 
-The storm passes and the view clears. The figure promises that things will make sense once the disruption subsides.
+The storm passes and the view clears. Things will make sense once the disruption subsides.
 
 ### Governing Influences
 

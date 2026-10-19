@@ -8,7 +8,7 @@ parent2: odi-meji
 orisha: Ọ̀sanyìn / Ọ̀rúnmìlà; Ọya / Yemọja
 theme: self-knowledge, hidden truth, inner vision; the womb, mystery,
   transformation, hidden depth
-excerpt: "Hidden things come to the surface slowly. The figure speaks of mysteries, secrets and truths that mature in the dark before being revealed."
+excerpt: "Hidden things come to the surface slowly. It speaks of mysteries, secrets and truths that mature in the dark before being revealed."
 pattern_right: "II,I,I,II"
 pattern_left: "I,II,II,I"
 ---
@@ -16,7 +16,7 @@ pattern_left: "I,II,II,I"
 
 ### Overview
 
-Hidden things come to the surface slowly. The figure speaks of mysteries, secrets and truths that mature in the dark before being revealed.
+Hidden things come to the surface slowly. It speaks of mysteries, secrets and truths that mature in the dark before being revealed.
 
 ### Governing Influences
 
