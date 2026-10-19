@@ -7,25 +7,25 @@ parent1: "osa-meji"
 parent2: "ika-meji"
 orisha: "Ọya; Ọya / Èṣù"
 theme: "upheaval, the whirlwind, sudden change, protection from harm; cruelty, resentment, the need for restraint"
-excerpt: "Ọ̀sá-Ìká combines the energy of Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm) with Ìká Méjì (cruelty, resentment, the need for restraint). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Disruption breeds resentment. The figure warns that when circumstances change, some will blame others, and calls for generosity."
 pattern_right: "II,I,I,I"
 pattern_left: "II,I,II,II"
 ---
-
 ## Ọ̀sá-Ìká
 
-### Meaning
+### Overview
 
-Ọ̀sá-Ìká combines the energy of Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm) with Ìká Méjì (cruelty, resentment, the need for restraint). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Disruption breeds resentment. The figure warns that when circumstances change, some will blame others, and calls for generosity.
 
 ### Governing Influences
 
 - **Ọ̀sá Méjì** — upheaval, the whirlwind, sudden change, protection from harm (Ọya)
 - **Ìká Méjì** — cruelty, resentment, the need for restraint (Ọya / Èṣù)
 
+
 ### Guidance
 
-When Ọ̀sá-Ìká appears, it suggests a situation where the lessons of Ọ̀sá Méjì — upheaval, the whirlwind, sudden change, protection from harm — must be balanced with the lessons of Ìká Méjì — cruelty, resentment, the need for restraint. Ọ̀sá Méjì advises: Ọ̀sá teaches resilience through sudden disruption. Ìká Méjì adds: Ìká warns of the dangers of bitterness, envy, and vengeance — both suffering it and inflicting it. Together, they call for wisdom that honours both sides of this Odù.
+Do not look for scapegoats; support those who are struggling.
 
 ---
 

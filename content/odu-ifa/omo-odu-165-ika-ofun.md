@@ -7,25 +7,25 @@ parent1: "ika-meji"
 parent2: "ofun-meji"
 orisha: "Ọya / Èṣù; Ọbàtálá / Olódùmarè"
 theme: "cruelty, resentment, the need for restraint; purity, old age, completion, moral integrity"
-excerpt: "Ìká-Òfún combines the energy of Ìká Méjì (cruelty, resentment, the need for restraint) with Òfún Méjì (purity, old age, completion, moral integrity). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Restraint becomes purity. The figure honours those who master their anger and grow wise and clean-hearted with age."
 pattern_right: "II,I,II,II"
 pattern_left: "II,I,II,I"
 ---
-
 ## Ìká-Òfún
 
-### Meaning
+### Overview
 
-Ìká-Òfún combines the energy of Ìká Méjì (cruelty, resentment, the need for restraint) with Òfún Méjì (purity, old age, completion, moral integrity). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Restraint becomes purity. The figure honours those who master their anger and grow wise and clean-hearted with age.
 
 ### Governing Influences
 
 - **Ìká Méjì** — cruelty, resentment, the need for restraint (Ọya / Èṣù)
 - **Òfún Méjì** — purity, old age, completion, moral integrity (Ọbàtálá / Olódùmarè)
 
+
 ### Guidance
 
-When Ìká-Òfún appears, it suggests a situation where the lessons of Ìká Méjì — cruelty, resentment, the need for restraint — must be balanced with the lessons of Òfún Méjì — purity, old age, completion, moral integrity. Ìká Méjì advises: Ìká warns of the dangers of bitterness, envy, and vengeance — both suffering it and inflicting it. Òfún Méjì adds: Òfún, closely tied to Ọbàtálá, teaches purity of character, patience, and the moral discipline required to age gracefully and finish life's journey with integrity intact. Together, they call for wisdom that honours both sides of this Odù.
+Practise self-control until it becomes your nature.
 
 ---
 

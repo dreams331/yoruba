@@ -7,25 +7,25 @@ parent1: "okanran-meji"
 parent2: "obara-meji"
 orisha: "Ọya / Ògún; Ṣàngó / Ọ̀bàtálá"
 theme: "conflict, truth-telling, sharp consequences; honour, boastfulness, the danger of pride, leadership"
-excerpt: "Ọ̀kànràn-Ọ̀bàrà combines the energy of Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences) with Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Plain truth collides with pride. Someone in a position of honour resists hearing what is right, and the figure warns that status does not excuse error."
 pattern_right: "II,II,II,I"
 pattern_left: "I,II,II,II"
 ---
-
 ## Ọ̀kànràn-Ọ̀bàrà
 
-### Meaning
+### Overview
 
-Ọ̀kànràn-Ọ̀bàrà combines the energy of Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences) with Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Plain truth collides with pride. Someone in a position of honour resists hearing what is right, and the figure warns that status does not excuse error.
 
 ### Governing Influences
 
 - **Ọ̀kànràn Méjì** — conflict, truth-telling, sharp consequences (Ọya / Ògún)
 - **Ọ̀bàrà Méjì** — honour, boastfulness, the danger of pride, leadership (Ṣàngó / Ọ̀bàtálá)
 
+
 ### Guidance
 
-When Ọ̀kànràn-Ọ̀bàrà appears, it suggests a situation where the lessons of Ọ̀kànràn Méjì — conflict, truth-telling, sharp consequences — must be balanced with the lessons of Ọ̀bàrà Méjì — honour, boastfulness, the danger of pride, leadership. Ọ̀kànràn Méjì advises: Ọ̀kànràn exposes what is hidden and warns against betrayal, gossip, and dishonesty. Ọ̀bàrà Méjì adds: Ọ̀bàrà teaches that leadership and confidence are gifts, but boastfulness invites downfall. Together, they call for wisdom that honours both sides of this Odù.
+Accept correction gracefully and speak to leaders with respect and honesty.
 
 ---
 

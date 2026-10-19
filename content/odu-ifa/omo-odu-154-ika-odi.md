@@ -7,25 +7,25 @@ parent1: "ika-meji"
 parent2: "odi-meji"
 orisha: "Ọya / Èṣù; Ọya / Yemọja"
 theme: "cruelty, resentment, the need for restraint; the womb, mystery, transformation, hidden depth"
-excerpt: "Ìká-Òdí combines the energy of Ìká Méjì (cruelty, resentment, the need for restraint) with Òdí Méjì (the womb, mystery, transformation, hidden depth). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Hidden ill will. The figure warns of resentment that is concealed, and advises watchfulness and quiet protective action."
 pattern_right: "II,I,II,II"
 pattern_left: "I,II,II,I"
 ---
-
 ## Ìká-Òdí
 
-### Meaning
+### Overview
 
-Ìká-Òdí combines the energy of Ìká Méjì (cruelty, resentment, the need for restraint) with Òdí Méjì (the womb, mystery, transformation, hidden depth). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Hidden ill will. The figure warns of resentment that is concealed, and advises watchfulness and quiet protective action.
 
 ### Governing Influences
 
 - **Ìká Méjì** — cruelty, resentment, the need for restraint (Ọya / Èṣù)
 - **Òdí Méjì** — the womb, mystery, transformation, hidden depth (Ọya / Yemọja)
 
+
 ### Guidance
 
-When Ìká-Òdí appears, it suggests a situation where the lessons of Ìká Méjì — cruelty, resentment, the need for restraint — must be balanced with the lessons of Òdí Méjì — the womb, mystery, transformation, hidden depth. Ìká Méjì advises: Ìká warns of the dangers of bitterness, envy, and vengeance — both suffering it and inflicting it. Òdí Méjì adds: Òdí teaches patience with processes that are not yet visible — pregnancy, growth, and transformation take time in darkness before they emerge into light. Together, they call for wisdom that honours both sides of this Odù.
+Stay discreet and observant around those whose motives are unclear.
 
 ---
 

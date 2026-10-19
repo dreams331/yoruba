@@ -8,28 +8,25 @@ parent2: ose-meji
 orisha: Ọya / Ògún; Ọ̀ṣun
 theme: conflict, truth-telling, sharp consequences; blessings, sweetness,
   abundance, gratitude
-excerpt: Ọ̀kànràn-Ọ̀ṣẹ́ combines the energy of Ọ̀kànràn Méjì (conflict,
-  truth-telling, sharp consequences) with Ọ̀ṣẹ́ Méjì (blessings, sweetness,
-  abundance, gratitude). It is read as a distinct Odù with its own guidance,
-  drawing on both influences.
+excerpt: "Hard words end in sweetness. A difficult conversation leads to peace and goodwill, and the figure calls for thanks once it is resolved."
 pattern_right: "II,II,II,I"
 pattern_left: "I,II,I,II"
 ---
-
 ## Ọ̀kànràn-Ọ̀ṣẹ́
 
-### Meaning
+### Overview
 
-Ọ̀kànràn-Ọ̀ṣẹ́ combines the energy of Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences) with Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Hard words end in sweetness. A difficult conversation leads to peace and goodwill, and the figure calls for thanks once it is resolved.
 
 ### Governing Influences
 
 - **Ọ̀kànràn Méjì** — conflict, truth-telling, sharp consequences (Ọya / Ògún)
 - **Ọ̀ṣẹ́ Méjì** — blessings, sweetness, abundance, gratitude (Ọ̀ṣun)
 
+
 ### Guidance
 
-When Ọ̀kànràn-Ọ̀ṣẹ́ appears, it suggests a situation where the lessons of Ọ̀kànràn Méjì — conflict, truth-telling, sharp consequences — must be balanced with the lessons of Ọ̀ṣẹ́ Méjì — blessings, sweetness, abundance, gratitude. Ọ̀kànràn Méjì advises: Ọ̀kànràn exposes what is hidden and warns against betrayal, gossip, and dishonesty. Ọ̀ṣẹ́ Méjì adds: Ọ̀ṣẹ́ celebrates the sweetness of life earned through generosity, hospitality, and gratitude. Together, they call for wisdom that honours both sides of this Odù.
+Have the difficult conversation, then celebrate the peace it brings.
 
 ---
 

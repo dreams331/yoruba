@@ -7,25 +7,25 @@ parent1: "osa-meji"
 parent2: "ofun-meji"
 orisha: "Ọya; Ọbàtálá / Olódùmarè"
 theme: "upheaval, the whirlwind, sudden change, protection from harm; purity, old age, completion, moral integrity"
-excerpt: "Ọ̀sá-Òfún combines the energy of Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm) with Òfún Méjì (purity, old age, completion, moral integrity). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "After the whirlwind, a clean slate. The figure speaks of starting afresh with a clear conscience and renewed purity of purpose."
 pattern_right: "II,I,I,I"
 pattern_left: "II,I,II,I"
 ---
-
 ## Ọ̀sá-Òfún
 
-### Meaning
+### Overview
 
-Ọ̀sá-Òfún combines the energy of Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm) with Òfún Méjì (purity, old age, completion, moral integrity). It is read as a distinct Odù with its own guidance, drawing on both influences.
+After the whirlwind, a clean slate. The figure speaks of starting afresh with a clear conscience and renewed purity of purpose.
 
 ### Governing Influences
 
 - **Ọ̀sá Méjì** — upheaval, the whirlwind, sudden change, protection from harm (Ọya)
 - **Òfún Méjì** — purity, old age, completion, moral integrity (Ọbàtálá / Olódùmarè)
 
+
 ### Guidance
 
-When Ọ̀sá-Òfún appears, it suggests a situation where the lessons of Ọ̀sá Méjì — upheaval, the whirlwind, sudden change, protection from harm — must be balanced with the lessons of Òfún Méjì — purity, old age, completion, moral integrity. Ọ̀sá Méjì advises: Ọ̀sá teaches resilience through sudden disruption. Òfún Méjì adds: Òfún, closely tied to Ọbàtálá, teaches purity of character, patience, and the moral discipline required to age gracefully and finish life's journey with integrity intact. Together, they call for wisdom that honours both sides of this Odù.
+Use the reset to begin again, with integrity.
 
 ---
 

@@ -7,25 +7,25 @@ parent1: "ogunda-meji"
 parent2: "odi-meji"
 orisha: "Ògún; Ọya / Yemọja"
 theme: "struggle, tools, perseverance, clearing the path; the womb, mystery, transformation, hidden depth"
-excerpt: "Ògúndá-Òdí combines the energy of Ògúndá Méjì (struggle, tools, perseverance, clearing the path) with Òdí Méjì (the womb, mystery, transformation, hidden depth). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Quiet work builds a hidden foundation. Effort that nobody sees is shaping something that will later be solid."
 pattern_right: "I,I,I,II"
 pattern_left: "I,II,II,I"
 ---
-
 ## Ògúndá-Òdí
 
-### Meaning
+### Overview
 
-Ògúndá-Òdí combines the energy of Ògúndá Méjì (struggle, tools, perseverance, clearing the path) with Òdí Méjì (the womb, mystery, transformation, hidden depth). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Quiet work builds a hidden foundation. Effort that nobody sees is shaping something that will later be solid.
 
 ### Governing Influences
 
 - **Ògúndá Méjì** — struggle, tools, perseverance, clearing the path (Ògún)
 - **Òdí Méjì** — the womb, mystery, transformation, hidden depth (Ọya / Yemọja)
 
+
 ### Guidance
 
-When Ògúndá-Òdí appears, it suggests a situation where the lessons of Ògúndá Méjì — struggle, tools, perseverance, clearing the path — must be balanced with the lessons of Òdí Méjì — the womb, mystery, transformation, hidden depth. Ògúndá Méjì advises: Ògúndá honours the warrior spirit of Ògún — perseverance, the courage to clear obstacles, and the discipline of using one's tools and skills wisely rather than recklessly. Òdí Méjì adds: Òdí teaches patience with processes that are not yet visible — pregnancy, growth, and transformation take time in darkness before they emerge into light. Together, they call for wisdom that honours both sides of this Odù.
+Keep building patiently, even if no one notices yet.
 
 ---
 

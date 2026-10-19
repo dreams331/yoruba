@@ -7,25 +7,25 @@ parent1: "osa-meji"
 parent2: "oyeku-meji"
 orisha: "Ọya; Ikú (Death) / Ọ̀sun"
 theme: "upheaval, the whirlwind, sudden change, protection from harm; endings, the ancestors, the unseen world, mortality"
-excerpt: "Ọ̀sá-Ọ̀yẹ̀kú combines the energy of Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm) with Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Turbulence stirs the ancestors. The figure says that upheaval is a time to seek the guidance of elders and the departed."
 pattern_right: "II,I,I,I"
 pattern_left: "II,II,II,II"
 ---
-
 ## Ọ̀sá-Ọ̀yẹ̀kú
 
-### Meaning
+### Overview
 
-Ọ̀sá-Ọ̀yẹ̀kú combines the energy of Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm) with Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Turbulence stirs the ancestors. The figure says that upheaval is a time to seek the guidance of elders and the departed.
 
 ### Governing Influences
 
 - **Ọ̀sá Méjì** — upheaval, the whirlwind, sudden change, protection from harm (Ọya)
 - **Ọ̀yẹ̀kú Méjì** — endings, the ancestors, the unseen world, mortality (Ikú (Death) / Ọ̀sun)
 
+
 ### Guidance
 
-When Ọ̀sá-Ọ̀yẹ̀kú appears, it suggests a situation where the lessons of Ọ̀sá Méjì — upheaval, the whirlwind, sudden change, protection from harm — must be balanced with the lessons of Ọ̀yẹ̀kú Méjì — endings, the ancestors, the unseen world, mortality. Ọ̀sá Méjì advises: Ọ̀sá teaches resilience through sudden disruption. Ọ̀yẹ̀kú Méjì adds: Ọ̀yẹ̀kú teaches respect for the ancestors, acceptance of mortality, and the understanding that every ending clears space for renewal. Together, they call for wisdom that honours both sides of this Odù.
+Consult the wise and remember your roots when things shake.
 
 ---
 

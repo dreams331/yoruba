@@ -7,25 +7,25 @@ parent1: "ogunda-meji"
 parent2: "irosun-meji"
 orisha: "Ògún; Ṣàngó / Ọya"
 theme: "struggle, tools, perseverance, clearing the path; blood, sacrifice, warning, consequence"
-excerpt: "Ògúndá-Ìrosùn combines the energy of Ògúndá Méjì (struggle, tools, perseverance, clearing the path) with Ìrosùn Méjì (blood, sacrifice, warning, consequence). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Work has a price. The figure notes that every real achievement requires sacrifice, and that offerings of time or comfort are part of the bargain."
 pattern_right: "I,I,I,II"
 pattern_left: "I,I,II,II"
 ---
-
 ## Ògúndá-Ìrosùn
 
-### Meaning
+### Overview
 
-Ògúndá-Ìrosùn combines the energy of Ògúndá Méjì (struggle, tools, perseverance, clearing the path) with Ìrosùn Méjì (blood, sacrifice, warning, consequence). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Work has a price. The figure notes that every real achievement requires sacrifice, and that offerings of time or comfort are part of the bargain.
 
 ### Governing Influences
 
 - **Ògúndá Méjì** — struggle, tools, perseverance, clearing the path (Ògún)
 - **Ìrosùn Méjì** — blood, sacrifice, warning, consequence (Ṣàngó / Ọya)
 
+
 ### Guidance
 
-When Ògúndá-Ìrosùn appears, it suggests a situation where the lessons of Ògúndá Méjì — struggle, tools, perseverance, clearing the path — must be balanced with the lessons of Ìrosùn Méjì — blood, sacrifice, warning, consequence. Ògúndá Méjì advises: Ògúndá honours the warrior spirit of Ògún — perseverance, the courage to clear obstacles, and the discipline of using one's tools and skills wisely rather than recklessly. Ìrosùn Méjì adds: Ìrosùn warns that actions have irreversible consequences, and that ẹbọ (sacrifice) — whether of time, pride, or resources — is often required to avert disaster. Together, they call for wisdom that honours both sides of this Odù.
+Accept the cost of your goal and pay it willingly.
 
 ---
 

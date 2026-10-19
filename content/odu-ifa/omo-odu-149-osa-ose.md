@@ -7,25 +7,25 @@ parent1: "osa-meji"
 parent2: "ose-meji"
 orisha: "Ọya; Ọ̀ṣun"
 theme: "upheaval, the whirlwind, sudden change, protection from harm; blessings, sweetness, abundance, gratitude"
-excerpt: "Ọ̀sá-Ọ̀ṣẹ́ combines the energy of Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm) with Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "A storm leaves a gift. The figure suggests that disruption can open unexpected sweetness, and calls for gratitude."
 pattern_right: "II,I,I,I"
 pattern_left: "I,II,I,II"
 ---
-
 ## Ọ̀sá-Ọ̀ṣẹ́
 
-### Meaning
+### Overview
 
-Ọ̀sá-Ọ̀ṣẹ́ combines the energy of Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm) with Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude). It is read as a distinct Odù with its own guidance, drawing on both influences.
+A storm leaves a gift. The figure suggests that disruption can open unexpected sweetness, and calls for gratitude.
 
 ### Governing Influences
 
 - **Ọ̀sá Méjì** — upheaval, the whirlwind, sudden change, protection from harm (Ọya)
 - **Ọ̀ṣẹ́ Méjì** — blessings, sweetness, abundance, gratitude (Ọ̀ṣun)
 
+
 ### Guidance
 
-When Ọ̀sá-Ọ̀ṣẹ́ appears, it suggests a situation where the lessons of Ọ̀sá Méjì — upheaval, the whirlwind, sudden change, protection from harm — must be balanced with the lessons of Ọ̀ṣẹ́ Méjì — blessings, sweetness, abundance, gratitude. Ọ̀sá Méjì advises: Ọ̀sá teaches resilience through sudden disruption. Ọ̀ṣẹ́ Méjì adds: Ọ̀ṣẹ́ celebrates the sweetness of life earned through generosity, hospitality, and gratitude. Together, they call for wisdom that honours both sides of this Odù.
+Look for what the change has made possible, and give thanks.
 
 ---
 

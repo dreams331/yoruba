@@ -7,25 +7,25 @@ parent1: "ika-meji"
 parent2: "ogunda-meji"
 orisha: "Ọya / Èṣù; Ògún"
 theme: "cruelty, resentment, the need for restraint; struggle, tools, perseverance, clearing the path"
-excerpt: "Ìká-Ògúndá combines the energy of Ìká Méjì (cruelty, resentment, the need for restraint) with Ògúndá Méjì (struggle, tools, perseverance, clearing the path). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Resentment fuels a hard struggle. The figure advises channelling anger into disciplined work instead of revenge."
 pattern_right: "II,I,II,II"
 pattern_left: "I,I,I,II"
 ---
-
 ## Ìká-Ògúndá
 
-### Meaning
+### Overview
 
-Ìká-Ògúndá combines the energy of Ìká Méjì (cruelty, resentment, the need for restraint) with Ògúndá Méjì (struggle, tools, perseverance, clearing the path). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Resentment fuels a hard struggle. The figure advises channelling anger into disciplined work instead of revenge.
 
 ### Governing Influences
 
 - **Ìká Méjì** — cruelty, resentment, the need for restraint (Ọya / Èṣù)
 - **Ògúndá Méjì** — struggle, tools, perseverance, clearing the path (Ògún)
 
+
 ### Guidance
 
-When Ìká-Ògúndá appears, it suggests a situation where the lessons of Ìká Méjì — cruelty, resentment, the need for restraint — must be balanced with the lessons of Ògúndá Méjì — struggle, tools, perseverance, clearing the path. Ìká Méjì advises: Ìká warns of the dangers of bitterness, envy, and vengeance — both suffering it and inflicting it. Ògúndá Méjì adds: Ògúndá honours the warrior spirit of Ògún — perseverance, the courage to clear obstacles, and the discipline of using one's tools and skills wisely rather than recklessly. Together, they call for wisdom that honours both sides of this Odù.
+Turn bitterness into effort that improves your own position.
 
 ---
 

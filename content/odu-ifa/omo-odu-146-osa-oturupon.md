@@ -7,25 +7,25 @@ parent1: "osa-meji"
 parent2: "oturupon-meji"
 orisha: "Ọya; Ọbàtálá / Ọ̀rúnmìlà"
 theme: "upheaval, the whirlwind, sudden change, protection from harm; illness and healing, secrets of the body, patience"
-excerpt: "Ọ̀sá-Òtúrúpọ̀n combines the energy of Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm) with Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Stress shows in the body. The figure says that turmoil affects health and that rest and treatment come first."
 pattern_right: "II,I,I,I"
 pattern_left: "II,II,I,II"
 ---
-
 ## Ọ̀sá-Òtúrúpọ̀n
 
-### Meaning
+### Overview
 
-Ọ̀sá-Òtúrúpọ̀n combines the energy of Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm) with Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Stress shows in the body. The figure says that turmoil affects health and that rest and treatment come first.
 
 ### Governing Influences
 
 - **Ọ̀sá Méjì** — upheaval, the whirlwind, sudden change, protection from harm (Ọya)
 - **Òtúrúpọ̀n Méjì** — illness and healing, secrets of the body, patience (Ọbàtálá / Ọ̀rúnmìlà)
 
+
 ### Guidance
 
-When Ọ̀sá-Òtúrúpọ̀n appears, it suggests a situation where the lessons of Ọ̀sá Méjì — upheaval, the whirlwind, sudden change, protection from harm — must be balanced with the lessons of Òtúrúpọ̀n Méjì — illness and healing, secrets of the body, patience. Ọ̀sá Méjì advises: Ọ̀sá teaches resilience through sudden disruption. Òtúrúpọ̀n Méjì adds: Òtúrúpọ̀n calls for patience, proper diagnosis before action, and respect for the body's natural healing processes. Together, they call for wisdom that honours both sides of this Odù.
+Seek care and rest while life is unsettled.
 
 ---
 

@@ -7,25 +7,25 @@ parent1: "ika-meji"
 parent2: "eji-ogbe"
 orisha: "Ọya / Èṣù; Ọ̀rúnmìlà / Olódùmarè"
 theme: "cruelty, resentment, the need for restraint; light, new beginnings, divine potential"
-excerpt: "Ìká-ÈjìOgbè combines the energy of Ìká Méjì (cruelty, resentment, the need for restraint) with Èjì Ogbè (light, new beginnings, divine potential). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "A hard heart is exposed to the light. The figure says that cruelty and bitterness are revealed for what they are, and offers a chance to start over."
 pattern_right: "II,I,II,II"
 pattern_left: "I,I,I,I"
 ---
-
 ## Ìká-ÈjìOgbè
 
-### Meaning
+### Overview
 
-Ìká-ÈjìOgbè combines the energy of Ìká Méjì (cruelty, resentment, the need for restraint) with Èjì Ogbè (light, new beginnings, divine potential). It is read as a distinct Odù with its own guidance, drawing on both influences.
+A hard heart is exposed to the light. The figure says that cruelty and bitterness are revealed for what they are, and offers a chance to start over.
 
 ### Governing Influences
 
 - **Ìká Méjì** — cruelty, resentment, the need for restraint (Ọya / Èṣù)
 - **Èjì Ogbè** — light, new beginnings, divine potential (Ọ̀rúnmìlà / Olódùmarè)
 
+
 ### Guidance
 
-When Ìká-ÈjìOgbè appears, it suggests a situation where the lessons of Ìká Méjì — cruelty, resentment, the need for restraint — must be balanced with the lessons of Èjì Ogbè — light, new beginnings, divine potential. Ìká Méjì advises: Ìká warns of the dangers of bitterness, envy, and vengeance — both suffering it and inflicting it. Èjì Ogbè adds: You were not born by accident. Together, they call for wisdom that honours both sides of this Odù.
+Examine your own bitterness and choose a better beginning.
 
 ---
 

@@ -7,25 +7,25 @@ parent1: "ogunda-meji"
 parent2: "iwori-meji"
 orisha: "Ògún; Ọ̀sanyìn / Ọ̀rúnmìlà"
 theme: "struggle, tools, perseverance, clearing the path; self-knowledge, hidden truth, inner vision"
-excerpt: "Ògúndá-Ìwòrì combines the energy of Ògúndá Méjì (struggle, tools, perseverance, clearing the path) with Ìwòrì Méjì (self-knowledge, hidden truth, inner vision). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Skill needs self-knowledge. The figure advises asking what you are really good at before choosing where to put your effort."
 pattern_right: "I,I,I,II"
 pattern_left: "II,I,I,II"
 ---
-
 ## Ògúndá-Ìwòrì
 
-### Meaning
+### Overview
 
-Ògúndá-Ìwòrì combines the energy of Ògúndá Méjì (struggle, tools, perseverance, clearing the path) with Ìwòrì Méjì (self-knowledge, hidden truth, inner vision). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Skill needs self-knowledge. The figure advises asking what you are really good at before choosing where to put your effort.
 
 ### Governing Influences
 
 - **Ògúndá Méjì** — struggle, tools, perseverance, clearing the path (Ògún)
 - **Ìwòrì Méjì** — self-knowledge, hidden truth, inner vision (Ọ̀sanyìn / Ọ̀rúnmìlà)
 
+
 ### Guidance
 
-When Ògúndá-Ìwòrì appears, it suggests a situation where the lessons of Ògúndá Méjì — struggle, tools, perseverance, clearing the path — must be balanced with the lessons of Ìwòrì Méjì — self-knowledge, hidden truth, inner vision. Ògúndá Méjì advises: Ògúndá honours the warrior spirit of Ògún — perseverance, the courage to clear obstacles, and the discipline of using one's tools and skills wisely rather than recklessly. Ìwòrì Méjì adds: Ìwòrì calls for introspection and honesty about one's own motives before judging others. Together, they call for wisdom that honours both sides of this Odù.
+Know your strengths, and take on work that fits them.
 
 ---
 

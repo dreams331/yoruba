@@ -7,25 +7,25 @@ parent1: "osa-meji"
 parent2: "irete-meji"
 orisha: "Ọya; Ọ̀rúnmìlà / Ọya"
 theme: "upheaval, the whirlwind, sudden change, protection from harm; perseverance despite setbacks, hidden victory"
-excerpt: "Ọ̀sá-Ìrẹtẹ̀ combines the energy of Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm) with Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Survival through hard times. The figure tells of those who endure sudden upheaval and come out stronger."
 pattern_right: "II,I,I,I"
 pattern_left: "I,I,II,I"
 ---
-
 ## Ọ̀sá-Ìrẹtẹ̀
 
-### Meaning
+### Overview
 
-Ọ̀sá-Ìrẹtẹ̀ combines the energy of Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm) with Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Survival through hard times. The figure tells of those who endure sudden upheaval and come out stronger.
 
 ### Governing Influences
 
 - **Ọ̀sá Méjì** — upheaval, the whirlwind, sudden change, protection from harm (Ọya)
 - **Ìrẹtẹ̀ Méjì** — perseverance despite setbacks, hidden victory (Ọ̀rúnmìlà / Ọya)
 
+
 ### Guidance
 
-When Ọ̀sá-Ìrẹtẹ̀ appears, it suggests a situation where the lessons of Ọ̀sá Méjì — upheaval, the whirlwind, sudden change, protection from harm — must be balanced with the lessons of Ìrẹtẹ̀ Méjì — perseverance despite setbacks, hidden victory. Ọ̀sá Méjì advises: Ọ̀sá teaches resilience through sudden disruption. Ìrẹtẹ̀ Méjì adds: Ìrẹtẹ̀ teaches resilience in adversity, especially struggles others cannot see. Together, they call for wisdom that honours both sides of this Odù.
+Keep your resolve; you will come through.
 
 ---
 

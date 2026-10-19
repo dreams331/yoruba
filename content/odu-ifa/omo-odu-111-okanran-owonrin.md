@@ -7,25 +7,25 @@ parent1: "okanran-meji"
 parent2: "owonrin-meji"
 orisha: "Ọya / Ògún; Èṣù / Ọ̀rúnmìlà"
 theme: "conflict, truth-telling, sharp consequences; instability, change, the trickster's lesson, humility"
-excerpt: "Ọ̀kànràn-Ọ̀wọ́nrín combines the energy of Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences) with Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Conflict meets a changing world. Disputes flare because circumstances keep shifting, and the figure advises steady, honest speech while others react."
 pattern_right: "II,II,II,I"
 pattern_left: "II,II,I,I"
 ---
-
 ## Ọ̀kànràn-Ọ̀wọ́nrín
 
-### Meaning
+### Overview
 
-Ọ̀kànràn-Ọ̀wọ́nrín combines the energy of Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences) with Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Conflict meets a changing world. Disputes flare because circumstances keep shifting, and the figure advises steady, honest speech while others react.
 
 ### Governing Influences
 
 - **Ọ̀kànràn Méjì** — conflict, truth-telling, sharp consequences (Ọya / Ògún)
 - **Ọ̀wọ́nrín Méjì** — instability, change, the trickster's lesson, humility (Èṣù / Ọ̀rúnmìlà)
 
+
 ### Guidance
 
-When Ọ̀kànràn-Ọ̀wọ́nrín appears, it suggests a situation where the lessons of Ọ̀kànràn Méjì — conflict, truth-telling, sharp consequences — must be balanced with the lessons of Ọ̀wọ́nrín Méjì — instability, change, the trickster's lesson, humility. Ọ̀kànràn Méjì advises: Ọ̀kànràn exposes what is hidden and warns against betrayal, gossip, and dishonesty. Ọ̀wọ́nrín Méjì adds: Ọ̀wọ́nrín teaches humility in success and resilience in reversal. Together, they call for wisdom that honours both sides of this Odù.
+Say what is true, stay flexible, and do not let a quarrel harden into a feud.
 
 ---
 

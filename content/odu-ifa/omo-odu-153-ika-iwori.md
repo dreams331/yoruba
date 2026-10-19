@@ -7,25 +7,25 @@ parent1: "ika-meji"
 parent2: "iwori-meji"
 orisha: "Ọya / Èṣù; Ọ̀sanyìn / Ọ̀rúnmìlà"
 theme: "cruelty, resentment, the need for restraint; self-knowledge, hidden truth, inner vision"
-excerpt: "Ìká-Ìwòrì combines the energy of Ìká Méjì (cruelty, resentment, the need for restraint) with Ìwòrì Méjì (self-knowledge, hidden truth, inner vision). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Seeing through malice. The figure says that honest self-knowledge shields you from envy, both received and felt."
 pattern_right: "II,I,II,II"
 pattern_left: "II,I,I,II"
 ---
-
 ## Ìká-Ìwòrì
 
-### Meaning
+### Overview
 
-Ìká-Ìwòrì combines the energy of Ìká Méjì (cruelty, resentment, the need for restraint) with Ìwòrì Méjì (self-knowledge, hidden truth, inner vision). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Seeing through malice. The figure says that honest self-knowledge shields you from envy, both received and felt.
 
 ### Governing Influences
 
 - **Ìká Méjì** — cruelty, resentment, the need for restraint (Ọya / Èṣù)
 - **Ìwòrì Méjì** — self-knowledge, hidden truth, inner vision (Ọ̀sanyìn / Ọ̀rúnmìlà)
 
+
 ### Guidance
 
-When Ìká-Ìwòrì appears, it suggests a situation where the lessons of Ìká Méjì — cruelty, resentment, the need for restraint — must be balanced with the lessons of Ìwòrì Méjì — self-knowledge, hidden truth, inner vision. Ìká Méjì advises: Ìká warns of the dangers of bitterness, envy, and vengeance — both suffering it and inflicting it. Ìwòrì Méjì adds: Ìwòrì calls for introspection and honesty about one's own motives before judging others. Together, they call for wisdom that honours both sides of this Odù.
+Know yourself well enough that others' bitterness cannot define you.
 
 ---
 

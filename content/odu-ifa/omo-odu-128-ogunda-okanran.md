@@ -7,25 +7,25 @@ parent1: "ogunda-meji"
 parent2: "okanran-meji"
 orisha: "Ògún; Ọya / Ògún"
 theme: "struggle, tools, perseverance, clearing the path; conflict, truth-telling, sharp consequences"
-excerpt: "Ògúndá-Ọ̀kànràn combines the energy of Ògúndá Méjì (struggle, tools, perseverance, clearing the path) with Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Struggle meets a sharp dispute. The figure warns of friction among colleagues and recommends honest, direct communication."
 pattern_right: "I,I,I,II"
 pattern_left: "II,II,II,I"
 ---
-
 ## Ògúndá-Ọ̀kànràn
 
-### Meaning
+### Overview
 
-Ògúndá-Ọ̀kànràn combines the energy of Ògúndá Méjì (struggle, tools, perseverance, clearing the path) with Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Struggle meets a sharp dispute. The figure warns of friction among colleagues and recommends honest, direct communication.
 
 ### Governing Influences
 
 - **Ògúndá Méjì** — struggle, tools, perseverance, clearing the path (Ògún)
 - **Ọ̀kànràn Méjì** — conflict, truth-telling, sharp consequences (Ọya / Ògún)
 
+
 ### Guidance
 
-When Ògúndá-Ọ̀kànràn appears, it suggests a situation where the lessons of Ògúndá Méjì — struggle, tools, perseverance, clearing the path — must be balanced with the lessons of Ọ̀kànràn Méjì — conflict, truth-telling, sharp consequences. Ògúndá Méjì advises: Ògúndá honours the warrior spirit of Ògún — perseverance, the courage to clear obstacles, and the discipline of using one's tools and skills wisely rather than recklessly. Ọ̀kànràn Méjì adds: Ọ̀kànràn exposes what is hidden and warns against betrayal, gossip, and dishonesty. Together, they call for wisdom that honours both sides of this Odù.
+Settle workplace tensions quickly and fairly.
 
 ---
 

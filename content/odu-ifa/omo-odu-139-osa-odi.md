@@ -7,25 +7,25 @@ parent1: "osa-meji"
 parent2: "odi-meji"
 orisha: "Ọya; Ọya / Yemọja"
 theme: "upheaval, the whirlwind, sudden change, protection from harm; the womb, mystery, transformation, hidden depth"
-excerpt: "Ọ̀sá-Òdí combines the energy of Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm) with Òdí Méjì (the womb, mystery, transformation, hidden depth). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Change is working in the dark. Transformation is under way but not yet visible, and the figure advises patience through the disruption."
 pattern_right: "II,I,I,I"
 pattern_left: "I,II,II,I"
 ---
-
 ## Ọ̀sá-Òdí
 
-### Meaning
+### Overview
 
-Ọ̀sá-Òdí combines the energy of Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm) with Òdí Méjì (the womb, mystery, transformation, hidden depth). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Change is working in the dark. Transformation is under way but not yet visible, and the figure advises patience through the disruption.
 
 ### Governing Influences
 
 - **Ọ̀sá Méjì** — upheaval, the whirlwind, sudden change, protection from harm (Ọya)
 - **Òdí Méjì** — the womb, mystery, transformation, hidden depth (Ọya / Yemọja)
 
+
 ### Guidance
 
-When Ọ̀sá-Òdí appears, it suggests a situation where the lessons of Ọ̀sá Méjì — upheaval, the whirlwind, sudden change, protection from harm — must be balanced with the lessons of Òdí Méjì — the womb, mystery, transformation, hidden depth. Ọ̀sá Méjì advises: Ọ̀sá teaches resilience through sudden disruption. Òdí Méjì adds: Òdí teaches patience with processes that are not yet visible — pregnancy, growth, and transformation take time in darkness before they emerge into light. Together, they call for wisdom that honours both sides of this Odù.
+Trust the process, and hold back from forcing outcomes.
 
 ---
 

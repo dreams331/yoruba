@@ -7,25 +7,25 @@ parent1: "ogunda-meji"
 parent2: "ofun-meji"
 orisha: "Ògún; Ọbàtálá / Olódùmarè"
 theme: "struggle, tools, perseverance, clearing the path; purity, old age, completion, moral integrity"
-excerpt: "Ògúndá-Òfún combines the energy of Ògúndá Méjì (struggle, tools, perseverance, clearing the path) with Òfún Méjì (purity, old age, completion, moral integrity). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Labour is completed with honour. The figure favours finishing a task thoroughly, honestly and cleanly."
 pattern_right: "I,I,I,II"
 pattern_left: "II,I,II,I"
 ---
-
 ## Ògúndá-Òfún
 
-### Meaning
+### Overview
 
-Ògúndá-Òfún combines the energy of Ògúndá Méjì (struggle, tools, perseverance, clearing the path) with Òfún Méjì (purity, old age, completion, moral integrity). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Labour is completed with honour. The figure favours finishing a task thoroughly, honestly and cleanly.
 
 ### Governing Influences
 
 - **Ògúndá Méjì** — struggle, tools, perseverance, clearing the path (Ògún)
 - **Òfún Méjì** — purity, old age, completion, moral integrity (Ọbàtálá / Olódùmarè)
 
+
 ### Guidance
 
-When Ògúndá-Òfún appears, it suggests a situation where the lessons of Ògúndá Méjì — struggle, tools, perseverance, clearing the path — must be balanced with the lessons of Òfún Méjì — purity, old age, completion, moral integrity. Ògúndá Méjì advises: Ògúndá honours the warrior spirit of Ògún — perseverance, the courage to clear obstacles, and the discipline of using one's tools and skills wisely rather than recklessly. Òfún Méjì adds: Òfún, closely tied to Ọbàtálá, teaches purity of character, patience, and the moral discipline required to age gracefully and finish life's journey with integrity intact. Together, they call for wisdom that honours both sides of this Odù.
+Complete your work to a standard you are proud of.
 
 ---
 

@@ -7,25 +7,25 @@ parent1: "okanran-meji"
 parent2: "ika-meji"
 orisha: "Ọya / Ògún; Ọya / Èṣù"
 theme: "conflict, truth-telling, sharp consequences; cruelty, resentment, the need for restraint"
-excerpt: "Ọ̀kànràn-Ìká combines the energy of Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences) with Ìká Méjì (cruelty, resentment, the need for restraint). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Conflict is feeding resentment. The figure warns that unresolved anger sours into bitterness and recommends forgiveness before it takes root."
 pattern_right: "II,II,II,I"
 pattern_left: "II,I,II,II"
 ---
-
 ## Ọ̀kànràn-Ìká
 
-### Meaning
+### Overview
 
-Ọ̀kànràn-Ìká combines the energy of Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences) with Ìká Méjì (cruelty, resentment, the need for restraint). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Conflict is feeding resentment. The figure warns that unresolved anger sours into bitterness and recommends forgiveness before it takes root.
 
 ### Governing Influences
 
 - **Ọ̀kànràn Méjì** — conflict, truth-telling, sharp consequences (Ọya / Ògún)
 - **Ìká Méjì** — cruelty, resentment, the need for restraint (Ọya / Èṣù)
 
+
 ### Guidance
 
-When Ọ̀kànràn-Ìká appears, it suggests a situation where the lessons of Ọ̀kànràn Méjì — conflict, truth-telling, sharp consequences — must be balanced with the lessons of Ìká Méjì — cruelty, resentment, the need for restraint. Ọ̀kànràn Méjì advises: Ọ̀kànràn exposes what is hidden and warns against betrayal, gossip, and dishonesty. Ìká Méjì adds: Ìká warns of the dangers of bitterness, envy, and vengeance — both suffering it and inflicting it. Together, they call for wisdom that honours both sides of this Odù.
+Settle grievances early and refuse to hand anger down to others.
 
 ---
 

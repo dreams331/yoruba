@@ -7,25 +7,25 @@ parent1: "osa-meji"
 parent2: "ogunda-meji"
 orisha: "Ọya; Ògún"
 theme: "upheaval, the whirlwind, sudden change, protection from harm; struggle, tools, perseverance, clearing the path"
-excerpt: "Ọ̀sá-Ògúndá combines the energy of Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm) with Ògúndá Méjì (struggle, tools, perseverance, clearing the path). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Resilience under pressure. The figure says that disciplined effort and good tools protect you when events turn violent or unpredictable."
 pattern_right: "II,I,I,I"
 pattern_left: "I,I,I,II"
 ---
-
 ## Ọ̀sá-Ògúndá
 
-### Meaning
+### Overview
 
-Ọ̀sá-Ògúndá combines the energy of Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm) with Ògúndá Méjì (struggle, tools, perseverance, clearing the path). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Resilience under pressure. The figure says that disciplined effort and good tools protect you when events turn violent or unpredictable.
 
 ### Governing Influences
 
 - **Ọ̀sá Méjì** — upheaval, the whirlwind, sudden change, protection from harm (Ọya)
 - **Ògúndá Méjì** — struggle, tools, perseverance, clearing the path (Ògún)
 
+
 ### Guidance
 
-When Ọ̀sá-Ògúndá appears, it suggests a situation where the lessons of Ọ̀sá Méjì — upheaval, the whirlwind, sudden change, protection from harm — must be balanced with the lessons of Ògúndá Méjì — struggle, tools, perseverance, clearing the path. Ọ̀sá Méjì advises: Ọ̀sá teaches resilience through sudden disruption. Ògúndá Méjì adds: Ògúndá honours the warrior spirit of Ògún — perseverance, the courage to clear obstacles, and the discipline of using one's tools and skills wisely rather than recklessly. Together, they call for wisdom that honours both sides of this Odù.
+Stay disciplined and keep your equipment and plans in order.
 
 ---
 

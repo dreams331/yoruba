@@ -7,25 +7,25 @@ parent1: "okanran-meji"
 parent2: "osa-meji"
 orisha: "Ọya / Ògún; Ọya"
 theme: "conflict, truth-telling, sharp consequences; upheaval, the whirlwind, sudden change, protection from harm"
-excerpt: "Ọ̀kànràn-Ọ̀sá combines the energy of Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences) with Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Quarrels are carried on a storm. Anger spreads quickly and damage can follow, so the figure advises calm and protection of the vulnerable."
 pattern_right: "II,II,II,I"
 pattern_left: "II,I,I,I"
 ---
-
 ## Ọ̀kànràn-Ọ̀sá
 
-### Meaning
+### Overview
 
-Ọ̀kànràn-Ọ̀sá combines the energy of Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences) with Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Quarrels are carried on a storm. Anger spreads quickly and damage can follow, so the figure advises calm and protection of the vulnerable.
 
 ### Governing Influences
 
 - **Ọ̀kànràn Méjì** — conflict, truth-telling, sharp consequences (Ọya / Ògún)
 - **Ọ̀sá Méjì** — upheaval, the whirlwind, sudden change, protection from harm (Ọya)
 
+
 ### Guidance
 
-When Ọ̀kànràn-Ọ̀sá appears, it suggests a situation where the lessons of Ọ̀kànràn Méjì — conflict, truth-telling, sharp consequences — must be balanced with the lessons of Ọ̀sá Méjì — upheaval, the whirlwind, sudden change, protection from harm. Ọ̀kànràn Méjì advises: Ọ̀kànràn exposes what is hidden and warns against betrayal, gossip, and dishonesty. Ọ̀sá Méjì adds: Ọ̀sá teaches resilience through sudden disruption. Together, they call for wisdom that honours both sides of this Odù.
+Step back from heated moments and protect those who cannot defend themselves.
 
 ---
 

@@ -7,25 +7,25 @@ parent1: "ika-meji"
 parent2: "oyeku-meji"
 orisha: "Ọya / Èṣù; Ikú (Death) / Ọ̀sun"
 theme: "cruelty, resentment, the need for restraint; endings, the ancestors, the unseen world, mortality"
-excerpt: "Ìká-Ọ̀yẹ̀kú combines the energy of Ìká Méjì (cruelty, resentment, the need for restraint) with Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Resentment follows the family. The figure warns that old grievances passed down through generations should be settled with the help of elders."
 pattern_right: "II,I,II,II"
 pattern_left: "II,II,II,II"
 ---
-
 ## Ìká-Ọ̀yẹ̀kú
 
-### Meaning
+### Overview
 
-Ìká-Ọ̀yẹ̀kú combines the energy of Ìká Méjì (cruelty, resentment, the need for restraint) with Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Resentment follows the family. The figure warns that old grievances passed down through generations should be settled with the help of elders.
 
 ### Governing Influences
 
 - **Ìká Méjì** — cruelty, resentment, the need for restraint (Ọya / Èṣù)
 - **Ọ̀yẹ̀kú Méjì** — endings, the ancestors, the unseen world, mortality (Ikú (Death) / Ọ̀sun)
 
+
 ### Guidance
 
-When Ìká-Ọ̀yẹ̀kú appears, it suggests a situation where the lessons of Ìká Méjì — cruelty, resentment, the need for restraint — must be balanced with the lessons of Ọ̀yẹ̀kú Méjì — endings, the ancestors, the unseen world, mortality. Ìká Méjì advises: Ìká warns of the dangers of bitterness, envy, and vengeance — both suffering it and inflicting it. Ọ̀yẹ̀kú Méjì adds: Ọ̀yẹ̀kú teaches respect for the ancestors, acceptance of mortality, and the understanding that every ending clears space for renewal. Together, they call for wisdom that honours both sides of this Odù.
+Make peace with the past so it does not shape the future.
 
 ---
 

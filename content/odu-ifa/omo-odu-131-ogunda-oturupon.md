@@ -7,25 +7,25 @@ parent1: "ogunda-meji"
 parent2: "oturupon-meji"
 orisha: "Ògún; Ọbàtálá / Ọ̀rúnmìlà"
 theme: "struggle, tools, perseverance, clearing the path; illness and healing, secrets of the body, patience"
-excerpt: "Ògúndá-Òtúrúpọ̀n combines the energy of Ògúndá Méjì (struggle, tools, perseverance, clearing the path) with Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "The worker needs rest. The figure ties success to health, and says that burnout undoes what effort has built."
 pattern_right: "I,I,I,II"
 pattern_left: "II,II,I,II"
 ---
-
 ## Ògúndá-Òtúrúpọ̀n
 
-### Meaning
+### Overview
 
-Ògúndá-Òtúrúpọ̀n combines the energy of Ògúndá Méjì (struggle, tools, perseverance, clearing the path) with Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience). It is read as a distinct Odù with its own guidance, drawing on both influences.
+The worker needs rest. The figure ties success to health, and says that burnout undoes what effort has built.
 
 ### Governing Influences
 
 - **Ògúndá Méjì** — struggle, tools, perseverance, clearing the path (Ògún)
 - **Òtúrúpọ̀n Méjì** — illness and healing, secrets of the body, patience (Ọbàtálá / Ọ̀rúnmìlà)
 
+
 ### Guidance
 
-When Ògúndá-Òtúrúpọ̀n appears, it suggests a situation where the lessons of Ògúndá Méjì — struggle, tools, perseverance, clearing the path — must be balanced with the lessons of Òtúrúpọ̀n Méjì — illness and healing, secrets of the body, patience. Ògúndá Méjì advises: Ògúndá honours the warrior spirit of Ògún — perseverance, the courage to clear obstacles, and the discipline of using one's tools and skills wisely rather than recklessly. Òtúrúpọ̀n Méjì adds: Òtúrúpọ̀n calls for patience, proper diagnosis before action, and respect for the body's natural healing processes. Together, they call for wisdom that honours both sides of this Odù.
+Look after your body so that you can sustain your work.
 
 ---
 

@@ -7,25 +7,25 @@ parent1: "ika-meji"
 parent2: "ose-meji"
 orisha: "Ọya / Èṣù; Ọ̀ṣun"
 theme: "cruelty, resentment, the need for restraint; blessings, sweetness, abundance, gratitude"
-excerpt: "Ìká-Ọ̀ṣẹ́ combines the energy of Ìká Méjì (cruelty, resentment, the need for restraint) with Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Kindness sweetens a hard heart. The figure says that generosity and gratitude can soften resentment in others and in yourself."
 pattern_right: "II,I,II,II"
 pattern_left: "I,II,I,II"
 ---
-
 ## Ìká-Ọ̀ṣẹ́
 
-### Meaning
+### Overview
 
-Ìká-Ọ̀ṣẹ́ combines the energy of Ìká Méjì (cruelty, resentment, the need for restraint) with Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Kindness sweetens a hard heart. The figure says that generosity and gratitude can soften resentment in others and in yourself.
 
 ### Governing Influences
 
 - **Ìká Méjì** — cruelty, resentment, the need for restraint (Ọya / Èṣù)
 - **Ọ̀ṣẹ́ Méjì** — blessings, sweetness, abundance, gratitude (Ọ̀ṣun)
 
+
 ### Guidance
 
-When Ìká-Ọ̀ṣẹ́ appears, it suggests a situation where the lessons of Ìká Méjì — cruelty, resentment, the need for restraint — must be balanced with the lessons of Ọ̀ṣẹ́ Méjì — blessings, sweetness, abundance, gratitude. Ìká Méjì advises: Ìká warns of the dangers of bitterness, envy, and vengeance — both suffering it and inflicting it. Ọ̀ṣẹ́ Méjì adds: Ọ̀ṣẹ́ celebrates the sweetness of life earned through generosity, hospitality, and gratitude. Together, they call for wisdom that honours both sides of this Odù.
+Respond to bitterness with generosity.
 
 ---
 

@@ -7,25 +7,25 @@ parent1: "ika-meji"
 parent2: "oturupon-meji"
 orisha: "Ọya / Èṣù; Ọbàtálá / Ọ̀rúnmìlà"
 theme: "cruelty, resentment, the need for restraint; illness and healing, secrets of the body, patience"
-excerpt: "Ìká-Òtúrúpọ̀n combines the energy of Ìká Méjì (cruelty, resentment, the need for restraint) with Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Bitterness harms the body. The figure links long-held resentment to ill health and suggests healing through forgiveness."
 pattern_right: "II,I,II,II"
 pattern_left: "II,II,I,II"
 ---
-
 ## Ìká-Òtúrúpọ̀n
 
-### Meaning
+### Overview
 
-Ìká-Òtúrúpọ̀n combines the energy of Ìká Méjì (cruelty, resentment, the need for restraint) with Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Bitterness harms the body. The figure links long-held resentment to ill health and suggests healing through forgiveness.
 
 ### Governing Influences
 
 - **Ìká Méjì** — cruelty, resentment, the need for restraint (Ọya / Èṣù)
 - **Òtúrúpọ̀n Méjì** — illness and healing, secrets of the body, patience (Ọbàtálá / Ọ̀rúnmìlà)
 
+
 ### Guidance
 
-When Ìká-Òtúrúpọ̀n appears, it suggests a situation where the lessons of Ìká Méjì — cruelty, resentment, the need for restraint — must be balanced with the lessons of Òtúrúpọ̀n Méjì — illness and healing, secrets of the body, patience. Ìká Méjì advises: Ìká warns of the dangers of bitterness, envy, and vengeance — both suffering it and inflicting it. Òtúrúpọ̀n Méjì adds: Òtúrúpọ̀n calls for patience, proper diagnosis before action, and respect for the body's natural healing processes. Together, they call for wisdom that honours both sides of this Odù.
+Forgive for the sake of your own health.
 
 ---
 
