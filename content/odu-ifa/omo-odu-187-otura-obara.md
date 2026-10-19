@@ -7,25 +7,25 @@ parent1: "otura-meji"
 parent2: "obara-meji"
 orisha: "Ọ̀rúnmìlà / Ọbàtálá; Ṣàngó / Ọ̀bàtálá"
 theme: "transformation, clarity after confusion, truth revealed; honour, boastfulness, the danger of pride, leadership"
-excerpt: "Òtúrá-Ọ̀bàrà combines the energy of Òtúrá Méjì (transformation, clarity after confusion, truth revealed) with Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "A new understanding tests your pride. The truth you have learned may mean admitting you were wrong."
 pattern_right: "I,II,I,I"
 pattern_left: "I,II,II,II"
 ---
-
 ## Òtúrá-Ọ̀bàrà
 
-### Meaning
+### Overview
 
-Òtúrá-Ọ̀bàrà combines the energy of Òtúrá Méjì (transformation, clarity after confusion, truth revealed) with Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership). It is read as a distinct Odù with its own guidance, drawing on both influences.
+A new understanding tests your pride. The truth you have learned may mean admitting you were wrong.
 
 ### Governing Influences
 
 - **Òtúrá Méjì** — transformation, clarity after confusion, truth revealed (Ọ̀rúnmìlà / Ọbàtálá)
 - **Ọ̀bàrà Méjì** — honour, boastfulness, the danger of pride, leadership (Ṣàngó / Ọ̀bàtálá)
 
+
 ### Guidance
 
-When Òtúrá-Ọ̀bàrà appears, it suggests a situation where the lessons of Òtúrá Méjì — transformation, clarity after confusion, truth revealed — must be balanced with the lessons of Ọ̀bàrà Méjì — honour, boastfulness, the danger of pride, leadership. Òtúrá Méjì advises: Òtúrá teaches that confusion and difficulty are often temporary, giving way to clarity for those who remain patient and truthful. Ọ̀bàrà Méjì adds: Ọ̀bàrà teaches that leadership and confidence are gifts, but boastfulness invites downfall. Together, they call for wisdom that honours both sides of this Odù.
+Admit the mistake and move forward.
 
 ---
 

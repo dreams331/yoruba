@@ -30,3 +30,15 @@ The Ọlọ́jọ́ Festival is one of the oldest and most spiritually significa
 ## Global Significance
 
 As Ile-Ife is considered the spiritual homeland of all Yoruba people, Ọlọ́jọ́ draws visitors and diaspora devotees from across Nigeria, the Americas, and the Caribbean who trace their spiritual lineage to Ifẹ̀.
+
+## Ọlọ́jọ́ and Ògún
+
+Ọlọ́jọ́ is closely tied to Ògún, the Òrìṣà of iron, hunting and war, and to Ọ̀rànmíyàn in the traditions of Ile-Ife. Tellers differ on the details, as they often do in oral history, but the festival sits at the centre of how Ile-Ife remembers its founders.
+
+## The Aare Crown
+
+The most closely watched moment is when the Ọọ̀ni wears the Aare crown. Unlike other crowns, it is said to be too powerful to wear for long, and the Ọọ̀ni appears with it for a short time only. Before this, the Ọọ̀ni takes part in private rites and prayers, and the community follows a sequence of days that includes rites at shrines, the blessing of the town and a public procession. Chiefs, priests and visitors from across Nigeria attend.
+
+## Around Ile-Ife
+
+Visitors often combine the festival with a tour of Ile-Ife. The Ife Museum holds the famous bronze and terracotta heads, and the Oranmiyan Staff, a granite column associated with the founder, stands in the town. As with most large festivals, the dates move each year, so check with the Ọọ̀ni's palace or the Osun State tourism office before travelling, and plan accommodation well in advance.

@@ -60,7 +60,7 @@ Beyond home cooked meals, Yoruba food culture thrives in the streets.
 
 *Boli*, roasted plantain, is simple yet deeply satisfying, especially when paired with groundnut or spicy sauce.
 
-These foods reflect the fast paced, vibrant life of urban Yoruba communities.
+These foods reflect the fast paced, busy life of urban Yoruba communities.
 
 ## Food and Culture: More Than a Meal
 

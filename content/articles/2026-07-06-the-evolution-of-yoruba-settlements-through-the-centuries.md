@@ -152,10 +152,10 @@ Traditional palaces, markets, festivals, and family compounds remain visible rem
 
 The evolution of Yoruba settlements demonstrates a remarkable continuity of culture and innovation.
 
-Across the centuries, Yoruba communities successfully adapted to changing political, economic, and environmental conditions while maintaining core institutions such as kingship, family compounds, marketplaces, and religious traditions. This continuity has allowed many ancient towns to remain vibrant centres of culture into the twenty-first century.
+Across the centuries, Yoruba communities successfully adapted to changing political, economic, and environmental conditions while maintaining core institutions such as kingship, family compounds, marketplaces, and religious traditions. This continuity has allowed many ancient towns to remain living centres of culture into the twenty-first century.
 
 ## Conclusion
 
-The evolution of Yoruba settlements is a testament to the creativity, resilience, and organisational skill of one of Africa's oldest urban civilisations. From small farming communities in the first millennium CE to the rise of powerful kingdoms centred on **Ile-Ife**, the **Old Oyo Empire**, and other historic cities, the Yoruba developed settlements that balanced governance, commerce, spirituality, and community life.
+The evolution of Yoruba settlements is a sign of the creativity, resilience, and organisational skill of one of Africa's oldest urban civilisations. From small farming communities in the first millennium CE to the rise of powerful kingdoms centred on **Ile-Ife**, the **Old Oyo Empire**, and other historic cities, the Yoruba developed settlements that balanced governance, commerce, spirituality, and community life.
 
 Although colonial rule introduced new patterns of urban growth, it built upon landscapes that had already been shaped by centuries of indigenous planning and development. The enduring presence of traditional palaces, markets, festivals, and royal institutions across Yorubaland highlights the lasting legacy of these settlements and their central place in the history of West Africa.

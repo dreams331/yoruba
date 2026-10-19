@@ -7,25 +7,25 @@ parent1: "ose-meji"
 parent2: "owonrin-meji"
 orisha: "Ọ̀ṣun; Èṣù / Ọ̀rúnmìlà"
 theme: "blessings, sweetness, abundance, gratitude; instability, change, the trickster's lesson, humility"
-excerpt: "Ọ̀ṣẹ́-Ọ̀wọ́nrín combines the energy of Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude) with Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Good fortune in a changing market. Prosperity may move from one place to another, so hold your gains loosely."
 pattern_right: "I,II,I,II"
 pattern_left: "II,II,I,I"
 ---
-
 ## Ọ̀ṣẹ́-Ọ̀wọ́nrín
 
-### Meaning
+### Overview
 
-Ọ̀ṣẹ́-Ọ̀wọ́nrín combines the energy of Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude) with Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Good fortune in a changing market. Prosperity may move from one place to another, so hold your gains loosely.
 
 ### Governing Influences
 
 - **Ọ̀ṣẹ́ Méjì** — blessings, sweetness, abundance, gratitude (Ọ̀ṣun)
 - **Ọ̀wọ́nrín Méjì** — instability, change, the trickster's lesson, humility (Èṣù / Ọ̀rúnmìlà)
 
+
 ### Guidance
 
-When Ọ̀ṣẹ́-Ọ̀wọ́nrín appears, it suggests a situation where the lessons of Ọ̀ṣẹ́ Méjì — blessings, sweetness, abundance, gratitude — must be balanced with the lessons of Ọ̀wọ́nrín Méjì — instability, change, the trickster's lesson, humility. Ọ̀ṣẹ́ Méjì advises: Ọ̀ṣẹ́ celebrates the sweetness of life earned through generosity, hospitality, and gratitude. Ọ̀wọ́nrín Méjì adds: Ọ̀wọ́nrín teaches humility in success and resilience in reversal. Together, they call for wisdom that honours both sides of this Odù.
+Do not put all your trust in one source of income.
 
 ---
 

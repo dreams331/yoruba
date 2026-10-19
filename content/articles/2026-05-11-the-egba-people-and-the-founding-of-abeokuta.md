@@ -72,7 +72,7 @@ The city’s history of resistance and independence remained visible throughout 
 
 ## Cultural Identity and Modern Abeokuta
 
-Today, Abeokuta is known for its rich cultural heritage, traditional festivals, Adire textile production, and historical landmarks. The legacy of the Egba people remains deeply embedded in the city’s identity.
+Today, Abeokuta is known for its cultural heritage, traditional festivals, Adire textile production, and historical landmarks. The legacy of the Egba people remains deeply embedded in the city’s identity.
 
 Cultural celebrations, oral traditions, and historical sites continue to preserve the memory of the journey that led to the founding of Abeokuta.
 

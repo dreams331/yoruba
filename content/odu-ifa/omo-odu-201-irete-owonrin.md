@@ -7,25 +7,25 @@ parent1: "irete-meji"
 parent2: "owonrin-meji"
 orisha: "Ọ̀rúnmìlà / Ọya; Èṣù / Ọ̀rúnmìlà"
 theme: "perseverance despite setbacks, hidden victory; instability, change, the trickster's lesson, humility"
-excerpt: "Ìrẹtẹ̀-Ọ̀wọ́nrín combines the energy of Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory) with Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Staying steady through change. A world in motion tests your resolve, and those who adjust come out ahead."
 pattern_right: "I,I,II,I"
 pattern_left: "II,II,I,I"
 ---
-
 ## Ìrẹtẹ̀-Ọ̀wọ́nrín
 
-### Meaning
+### Overview
 
-Ìrẹtẹ̀-Ọ̀wọ́nrín combines the energy of Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory) with Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Staying steady through change. A world in motion tests your resolve, and those who adjust come out ahead.
 
 ### Governing Influences
 
 - **Ìrẹtẹ̀ Méjì** — perseverance despite setbacks, hidden victory (Ọ̀rúnmìlà / Ọya)
 - **Ọ̀wọ́nrín Méjì** — instability, change, the trickster's lesson, humility (Èṣù / Ọ̀rúnmìlà)
 
+
 ### Guidance
 
-When Ìrẹtẹ̀-Ọ̀wọ́nrín appears, it suggests a situation where the lessons of Ìrẹtẹ̀ Méjì — perseverance despite setbacks, hidden victory — must be balanced with the lessons of Ọ̀wọ́nrín Méjì — instability, change, the trickster's lesson, humility. Ìrẹtẹ̀ Méjì advises: Ìrẹtẹ̀ teaches resilience in adversity, especially struggles others cannot see. Ọ̀wọ́nrín Méjì adds: Ọ̀wọ́nrín teaches humility in success and resilience in reversal. Together, they call for wisdom that honours both sides of this Odù.
+Keep your goal fixed and your methods flexible.
 
 ---
 

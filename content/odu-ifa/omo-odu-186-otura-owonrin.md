@@ -7,25 +7,25 @@ parent1: "otura-meji"
 parent2: "owonrin-meji"
 orisha: "Ọ̀rúnmìlà / Ọbàtálá; Èṣù / Ọ̀rúnmìlà"
 theme: "transformation, clarity after confusion, truth revealed; instability, change, the trickster's lesson, humility"
-excerpt: "Òtúrá-Ọ̀wọ́nrín combines the energy of Òtúrá Méjì (transformation, clarity after confusion, truth revealed) with Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Clarity in a moving situation. You see the picture only briefly before it changes, so decide quickly and stay flexible."
 pattern_right: "I,II,I,I"
 pattern_left: "II,II,I,I"
 ---
-
 ## Òtúrá-Ọ̀wọ́nrín
 
-### Meaning
+### Overview
 
-Òtúrá-Ọ̀wọ́nrín combines the energy of Òtúrá Méjì (transformation, clarity after confusion, truth revealed) with Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Clarity in a moving situation. You see the picture only briefly before it changes, so decide quickly and stay flexible.
 
 ### Governing Influences
 
 - **Òtúrá Méjì** — transformation, clarity after confusion, truth revealed (Ọ̀rúnmìlà / Ọbàtálá)
 - **Ọ̀wọ́nrín Méjì** — instability, change, the trickster's lesson, humility (Èṣù / Ọ̀rúnmìlà)
 
+
 ### Guidance
 
-When Òtúrá-Ọ̀wọ́nrín appears, it suggests a situation where the lessons of Òtúrá Méjì — transformation, clarity after confusion, truth revealed — must be balanced with the lessons of Ọ̀wọ́nrín Méjì — instability, change, the trickster's lesson, humility. Òtúrá Méjì advises: Òtúrá teaches that confusion and difficulty are often temporary, giving way to clarity for those who remain patient and truthful. Ọ̀wọ́nrín Méjì adds: Ọ̀wọ́nrín teaches humility in success and resilience in reversal. Together, they call for wisdom that honours both sides of this Odù.
+Act on what you see now, and adjust as it shifts.
 
 ---
 

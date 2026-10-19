@@ -7,25 +7,25 @@ parent1: "irete-meji"
 parent2: "odi-meji"
 orisha: "Ọ̀rúnmìlà / Ọya; Ọya / Yemọja"
 theme: "perseverance despite setbacks, hidden victory; the womb, mystery, transformation, hidden depth"
-excerpt: "Ìrẹtẹ̀-Òdí combines the energy of Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory) with Òdí Méjì (the womb, mystery, transformation, hidden depth). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "The quiet climb. Progress is happening below the surface, away from anyone's notice."
 pattern_right: "I,I,II,I"
 pattern_left: "I,II,II,I"
 ---
-
 ## Ìrẹtẹ̀-Òdí
 
-### Meaning
+### Overview
 
-Ìrẹtẹ̀-Òdí combines the energy of Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory) with Òdí Méjì (the womb, mystery, transformation, hidden depth). It is read as a distinct Odù with its own guidance, drawing on both influences.
+The quiet climb. Progress is happening below the surface, away from anyone's notice.
 
 ### Governing Influences
 
 - **Ìrẹtẹ̀ Méjì** — perseverance despite setbacks, hidden victory (Ọ̀rúnmìlà / Ọya)
 - **Òdí Méjì** — the womb, mystery, transformation, hidden depth (Ọya / Yemọja)
 
+
 ### Guidance
 
-When Ìrẹtẹ̀-Òdí appears, it suggests a situation where the lessons of Ìrẹtẹ̀ Méjì — perseverance despite setbacks, hidden victory — must be balanced with the lessons of Òdí Méjì — the womb, mystery, transformation, hidden depth. Ìrẹtẹ̀ Méjì advises: Ìrẹtẹ̀ teaches resilience in adversity, especially struggles others cannot see. Òdí Méjì adds: Òdí teaches patience with processes that are not yet visible — pregnancy, growth, and transformation take time in darkness before they emerge into light. Together, they call for wisdom that honours both sides of this Odù.
+Keep working without waiting for applause.
 
 ---
 

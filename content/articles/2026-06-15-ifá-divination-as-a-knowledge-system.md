@@ -204,7 +204,7 @@ It is a system that brings together spirituality and philosophy, ethics and prac
 
 To describe Ifá merely as divination is to see only its surface.
 
-Beneath that surface lies an intricate body of knowledge shaped by centuries of reflection and lived experience. It is an archive of stories, a guide to ethical living, a method of inquiry, and a testament to the richness of African thought.
+Beneath that surface lies an intricate body of knowledge shaped by centuries of reflection and lived experience. It is an archive of stories, a guide to ethical living, a method of inquiry, and proof of the richness of African thought.
 
 In recognising Ifá as a knowledge system, we gain more than an appreciation of Yoruba heritage. We are invited to reconsider how knowledge itself is defined and to acknowledge that humanity has always developed multiple pathways towards wisdom.
 

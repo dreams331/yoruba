@@ -114,7 +114,7 @@ This belief explains why many Yoruba traditions regard human life as sacred. Eve
 
 ## The World Takes Shape
 
-As time passed, the earth became increasingly vibrant.
+As time passed, the earth became increasingly lively.
 
 Forests spread across the land.
 

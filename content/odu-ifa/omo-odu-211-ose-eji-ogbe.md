@@ -7,25 +7,25 @@ parent1: "ose-meji"
 parent2: "eji-ogbe"
 orisha: "Ọ̀ṣun; Ọ̀rúnmìlà / Olódùmarè"
 theme: "blessings, sweetness, abundance, gratitude; light, new beginnings, divine potential"
-excerpt: "Ọ̀ṣẹ́-ÈjìOgbè combines the energy of Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude) with Èjì Ogbè (light, new beginnings, divine potential). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "A blessing at the start. Good fortune comes with a fresh opportunity, and gratitude keeps it flowing."
 pattern_right: "I,II,I,II"
 pattern_left: "I,I,I,I"
 ---
-
 ## Ọ̀ṣẹ́-ÈjìOgbè
 
-### Meaning
+### Overview
 
-Ọ̀ṣẹ́-ÈjìOgbè combines the energy of Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude) with Èjì Ogbè (light, new beginnings, divine potential). It is read as a distinct Odù with its own guidance, drawing on both influences.
+A blessing at the start. Good fortune comes with a fresh opportunity, and gratitude keeps it flowing.
 
 ### Governing Influences
 
 - **Ọ̀ṣẹ́ Méjì** — blessings, sweetness, abundance, gratitude (Ọ̀ṣun)
 - **Èjì Ogbè** — light, new beginnings, divine potential (Ọ̀rúnmìlà / Olódùmarè)
 
+
 ### Guidance
 
-When Ọ̀ṣẹ́-ÈjìOgbè appears, it suggests a situation where the lessons of Ọ̀ṣẹ́ Méjì — blessings, sweetness, abundance, gratitude — must be balanced with the lessons of Èjì Ogbè — light, new beginnings, divine potential. Ọ̀ṣẹ́ Méjì advises: Ọ̀ṣẹ́ celebrates the sweetness of life earned through generosity, hospitality, and gratitude. Èjì Ogbè adds: You were not born by accident. Together, they call for wisdom that honours both sides of this Odù.
+Say thank you at the start, not only at the end.
 
 ---
 

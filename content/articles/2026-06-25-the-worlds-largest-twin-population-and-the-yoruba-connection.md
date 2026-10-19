@@ -158,7 +158,7 @@ The Yoruba connection to the world's largest twin population is one of the most 
 
 While scientists continue to investigate the reasons behind the exceptionally high rate of twin births, Yoruba culture has long embraced twins as special gifts worthy of honour and celebration.
 
-Through names, ceremonies, art, folklore, and family traditions, generations of Yoruba people have transformed a biological phenomenon into a rich cultural heritage.
+Through names, ceremonies, art, folklore, and family traditions, generations of Yoruba people have transformed a biological phenomenon into a cultural heritage.
 
 The story of Yoruba twins reminds us that numbers alone cannot tell the full story. Behind every statistic lies a community, a tradition, and a worldview that gives meaning to human experience.
 

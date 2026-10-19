@@ -197,4 +197,4 @@ It journeys with people.
 
 It evolves through encounter and experience.
 
-And across West Africa, the enduring presence of Yoruba communities stands as a testament to a civilisation that has long been dynamic, interconnected, and profoundly influential.
+And across West Africa, the enduring presence of Yoruba communities stands as evidence of a civilisation that has long been dynamic, interconnected, and profoundly influential.

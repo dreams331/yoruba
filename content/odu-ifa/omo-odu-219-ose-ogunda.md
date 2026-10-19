@@ -7,25 +7,25 @@ parent1: "ose-meji"
 parent2: "ogunda-meji"
 orisha: "Ọ̀ṣun; Ògún"
 theme: "blessings, sweetness, abundance, gratitude; struggle, tools, perseverance, clearing the path"
-excerpt: "Ọ̀ṣẹ́-Ògúndá combines the energy of Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude) with Ògúndá Méjì (struggle, tools, perseverance, clearing the path). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Rewarded effort. Work done well returns more than it cost, and gratitude is the right response."
 pattern_right: "I,II,I,II"
 pattern_left: "I,I,I,II"
 ---
-
 ## Ọ̀ṣẹ́-Ògúndá
 
-### Meaning
+### Overview
 
-Ọ̀ṣẹ́-Ògúndá combines the energy of Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude) with Ògúndá Méjì (struggle, tools, perseverance, clearing the path). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Rewarded effort. Work done well returns more than it cost, and gratitude is the right response.
 
 ### Governing Influences
 
 - **Ọ̀ṣẹ́ Méjì** — blessings, sweetness, abundance, gratitude (Ọ̀ṣun)
 - **Ògúndá Méjì** — struggle, tools, perseverance, clearing the path (Ògún)
 
+
 ### Guidance
 
-When Ọ̀ṣẹ́-Ògúndá appears, it suggests a situation where the lessons of Ọ̀ṣẹ́ Méjì — blessings, sweetness, abundance, gratitude — must be balanced with the lessons of Ògúndá Méjì — struggle, tools, perseverance, clearing the path. Ọ̀ṣẹ́ Méjì advises: Ọ̀ṣẹ́ celebrates the sweetness of life earned through generosity, hospitality, and gratitude. Ògúndá Méjì adds: Ògúndá honours the warrior spirit of Ògún — perseverance, the courage to clear obstacles, and the discipline of using one's tools and skills wisely rather than recklessly. Together, they call for wisdom that honours both sides of this Odù.
+Thank your co-workers and give credit where it belongs.
 
 ---
 

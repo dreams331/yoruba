@@ -36,7 +36,7 @@ This meeting helps establish trust and understanding between both families befor
 
 ## The Engagement Ceremony
 
-The traditional engagement ceremony is one of the most important parts of a Yoruba wedding. Known for its vibrant atmosphere, it combines ritual, performance, and celebration.
+The traditional engagement ceremony is one of the most important parts of a Yoruba wedding. Known for its festive atmosphere, it combines ritual, performance, and celebration.
 
 One of the most recognizable customs is the groom’s prostration before the bride’s family. Alongside his friends, he lies flat on the ground as a sign of respect and humility. In response, the bride kneels before the groom’s family to show honor and appreciation.
 
@@ -56,7 +56,7 @@ Family members and guests may also wear coordinated outfits known as *aso ebi*, 
 
 Yoruba weddings are lively and energetic celebrations filled with music and dance. Traditional drummers, especially talking drum performers, create rhythms that bring excitement to the ceremony.
 
-Guests dance joyfully, singers praise the families, and the atmosphere is often vibrant from beginning to end.
+Guests dance joyfully, singers praise the families, and the atmosphere is often living from beginning to end.
 
 Food also plays an important role. Large gatherings are served traditional dishes, reinforcing the Yoruba value of hospitality and generosity.
 
@@ -80,6 +80,6 @@ Younger generations continue to embrace Yoruba wedding culture as a way of prese
 
 Yoruba wedding traditions are a celebration of love, family, and cultural continuity. Through rituals, music, fashion, and shared joy, they reflect values that have shaped Yoruba society for generations.
 
-From the respectful gestures of the engagement ceremony to the vibrant energy of the celebration, every moment carries meaning.
+From the respectful gestures of the engagement ceremony to the active energy of the celebration, every moment carries meaning.
 
 In a rapidly changing world, Yoruba weddings continue to remind people of the beauty of tradition and the importance of community, respect, and togetherness.

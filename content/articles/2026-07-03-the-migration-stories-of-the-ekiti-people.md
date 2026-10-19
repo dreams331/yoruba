@@ -6,14 +6,14 @@ image: /images/uploads/the-migration-stories-of-the-ekiti-people.jfif
 excerpt: The history of the Ekiti people is one of migration, settlement,
   resilience, and the formation of numerous independent kingdoms. Today, the
   Ekiti occupy much of modern Ekiti State and parts of neighbouring states,
-  where they are renowned for their rich cultural heritage, strong traditions of
+  where they are renowned for their cultural heritage, strong traditions of
   kingship, and deep respect for education and community life.
 readTime: 5 min
 featured: false
 ---
 ## Introduction
 
-The history of the **Ekiti** people is one of migration, settlement, resilience, and the formation of numerous independent kingdoms. Today, the Ekiti occupy much of modern **Ekiti State** and parts of neighbouring states, where they are renowned for their rich cultural heritage, strong traditions of kingship, and deep respect for education and community life.
+The history of the **Ekiti** people is one of migration, settlement, resilience, and the formation of numerous independent kingdoms. Today, the Ekiti occupy much of modern **Ekiti State** and parts of neighbouring states, where they are renowned for their cultural heritage, strong traditions of kingship, and deep respect for education and community life.
 
 According to Yoruba oral traditions, the ancestors of many Ekiti communities trace their origins to **Ile-Ife**, regarded as the spiritual and ancestral homeland of the Yoruba people. Over many centuries, groups migrated from Ife and established settlements across the rugged hills and forests of what is now Ekiti. While each kingdom preserves its own unique migration narrative, these traditions share common themes of kinship, leadership, and adaptation to new environments.
 

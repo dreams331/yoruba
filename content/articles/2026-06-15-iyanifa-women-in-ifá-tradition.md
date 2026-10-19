@@ -16,7 +16,7 @@ For many years, discussions about **Ifá** have often focused almost exclusively
 
 However, Yoruba history and oral tradition present a more complex picture.
 
-Within the rich tapestry of Yoruba spirituality exists the figure of the **Ìyánífá**—a woman initiated into the knowledge and practice of Ifá. Although the visibility and acceptance of female practitioners have varied across regions and historical periods, the presence of women within the Ifá tradition is neither entirely new nor without precedent.
+Within the world of Yoruba spirituality exists the figure of the **Ìyánífá**—a woman initiated into the knowledge and practice of Ifá. Although the visibility and acceptance of female practitioners have varied across regions and historical periods, the presence of women within the Ifá tradition is neither entirely new nor without precedent.
 
 The story of the Ìyánífá invites us to explore broader questions about gender, authority, knowledge, and the transmission of sacred wisdom in Yoruba society.
 

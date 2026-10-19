@@ -3,7 +3,7 @@ title: The Founding of Ondo Kingdom
 date: 2026-06-10T14:11:21.823Z
 category: history
 image: /images/uploads/ondo.jfif
-excerpt: In the rich tapestry of Yoruba civilisation, the **Ondo Kingdom**
+excerpt: Within Yoruba civilisation, the **Ondo Kingdom**
   stands as one of the most enduring and historically layered societies in
   southwestern Nigeria. Known for its deep traditions, structured monarchy, and
   strong cultural identity, Ondo occupies a unique place among Yoruba kingdoms.
@@ -12,7 +12,7 @@ featured: false
 ---
 ## Introduction
 
-In the rich tapestry of Yoruba civilisation, the **Ondo Kingdom** stands as one of the most enduring and historically layered societies in southwestern Nigeria. Known for its deep traditions, structured monarchy, and strong cultural identity, Ondo occupies a unique place among Yoruba kingdoms.
+Within Yoruba civilisation, the **Ondo Kingdom** stands as one of the most enduring and historically layered societies in southwestern Nigeria. Known for its deep traditions, structured monarchy, and strong cultural identity, Ondo occupies a unique place among Yoruba kingdoms.
 
 Its origins are often traced through oral traditions that blend history, migration, and legend. At the heart of its political structure is the **Osemawe**, the paramount ruler who embodies the continuity of Ondo heritage.
 

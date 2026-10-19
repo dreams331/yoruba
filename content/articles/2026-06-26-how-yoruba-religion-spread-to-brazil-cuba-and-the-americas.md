@@ -176,6 +176,6 @@ Today, Yoruba religious traditions continue to inspire millions of people and se
 
 The spread of Yoruba religion to Brazil, Cuba, and the wider Americas is not simply a story of migration. It is a story of perseverance, adaptation, and cultural memory.
 
-Carried across the Atlantic by enslaved Yoruba people, these traditions survived centuries of hardship and evolved into vibrant religious systems such as **Candomblé** in Brazil and \*\*Santería> in Cuba. They preserved Yoruba concepts of Olódùmarè, the Òrìṣà, sacred music, ritual, and community, while also reflecting the historical realities of life in the Americas.
+Carried across the Atlantic by enslaved Yoruba people, these traditions survived centuries of hardship and evolved into established religious systems such as **Candomblé** in Brazil and \*\*Santería> in Cuba. They preserved Yoruba concepts of Olódùmarè, the Òrìṣà, sacred music, ritual, and community, while also reflecting the historical realities of life in the Americas.
 
 Today, these traditions stand as living monuments to the resilience of the Yoruba people. They remind us that faith, culture, and identity can cross oceans, survive oppression, and continue to unite generations separated by continents but connected through a shared spiritual heritage.

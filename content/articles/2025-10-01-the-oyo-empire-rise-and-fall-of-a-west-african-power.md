@@ -66,7 +66,7 @@ At its peak, the empire controlled an estimated 150,000 square kilometers, makin
 
 ## Culture and Society in the Oyo Empire
 
-The Oyo Empire was not only a military and political power; it was also a vibrant center of Yorùbá culture.
+The Oyo Empire was not only a military and political power; it was also a lively center of Yorùbá culture.
 
 ### Religion
 

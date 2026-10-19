@@ -7,25 +7,25 @@ parent1: "irete-meji"
 parent2: "eji-ogbe"
 orisha: "Ọ̀rúnmìlà / Ọya; Ọ̀rúnmìlà / Olódùmarè"
 theme: "perseverance despite setbacks, hidden victory; light, new beginnings, divine potential"
-excerpt: "Ìrẹtẹ̀-ÈjìOgbè combines the energy of Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory) with Èjì Ogbè (light, new beginnings, divine potential). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Slow effort, bright start. A project that looks small now holds the seed of a large success."
 pattern_right: "I,I,II,I"
 pattern_left: "I,I,I,I"
 ---
-
 ## Ìrẹtẹ̀-ÈjìOgbè
 
-### Meaning
+### Overview
 
-Ìrẹtẹ̀-ÈjìOgbè combines the energy of Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory) with Èjì Ogbè (light, new beginnings, divine potential). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Slow effort, bright start. A project that looks small now holds the seed of a large success.
 
 ### Governing Influences
 
 - **Ìrẹtẹ̀ Méjì** — perseverance despite setbacks, hidden victory (Ọ̀rúnmìlà / Ọya)
 - **Èjì Ogbè** — light, new beginnings, divine potential (Ọ̀rúnmìlà / Olódùmarè)
 
+
 ### Guidance
 
-When Ìrẹtẹ̀-ÈjìOgbè appears, it suggests a situation where the lessons of Ìrẹtẹ̀ Méjì — perseverance despite setbacks, hidden victory — must be balanced with the lessons of Èjì Ogbè — light, new beginnings, divine potential. Ìrẹtẹ̀ Méjì advises: Ìrẹtẹ̀ teaches resilience in adversity, especially struggles others cannot see. Èjì Ogbè adds: You were not born by accident. Together, they call for wisdom that honours both sides of this Odù.
+Begin, even if the first step is small.
 
 ---
 

@@ -183,6 +183,6 @@ These efforts ensure that Yoruba heritage remains a living tradition rather than
 
 The descendants of the Yoruba in the Caribbean are living witnesses to one of history's most extraordinary stories of cultural survival. Despite the trauma of enslavement and displacement, they preserved essential elements of their ancestral heritage through religion, music, language, dance, and communal memory.
 
-Today, Yoruba influence can still be seen across Cuba, Trinidad and Tobago, Jamaica, and other Caribbean societies. Whether through **Santería**, the Orisha tradition of Trinidad, sacred drumming, or the continued use of Yoruba words in ritual life, the legacy of Yorubaland remains vibrant.
+Today, Yoruba influence can still be seen across Cuba, Trinidad and Tobago, Jamaica, and other Caribbean societies. Whether through **Santería**, the Orisha tradition of Trinidad, sacred drumming, or the continued use of Yoruba words in ritual life, the legacy of Yorubaland remains alive.
 
 The journey from West Africa to the Caribbean was one of profound suffering, but it also became a story of resilience. Across generations and across oceans, Yoruba descendants have safeguarded a heritage that continues to inspire pride, strengthen communities, and connect millions of people to their ancestral roots.

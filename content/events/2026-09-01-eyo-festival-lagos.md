@@ -32,3 +32,15 @@ Unlike most Yoruba festivals tied to fixed calendar dates, Eyo is staged on spec
 Eyo represents the deep-rooted spiritual and monarchical traditions of the Lagos Yoruba (Aworis and Lagos indigenes), and is a proud symbol of the city's identity, often referenced as an inspiration for Brazil and the Caribbean's carnival masquerade traditions.
 
 *Check local Lagos State Government and palace announcements for the next scheduled date, as Eyo outings are announced on a case-by-case basis rather than a fixed annual date.*
+
+## The Groups and the Dress
+
+Each Eyo group belongs to a house or section of Lagos Island, and the groups include Adimu, Laba and Ologede. The groups are distinguished by the colour of their hats and the design of their staffs. Each masquerader, called an Eyo or Agogoro, wears a white robe that covers the body completely and a wide-brimmed hat, and carries a long staff known as an *opambata*. The covering is meant to represent the spirits of the departed, and onlookers are expected to treat each Eyo with respect.
+
+## Rules on the Day
+
+Eyo is surrounded by customs that visitors should know. Tradition says an Eyo should not be touched or obstructed. Eyo outings are timed in the afternoon, and the streets of Lagos Island are closed or crowded. Some people avoid wearing certain types of clothing or headwear, and local organisers publish guidance beforehand. Following the instructions of the stewards avoids trouble.
+
+## Why It Endures
+
+Lagos has changed enormously since the festival began, and it now has millions of residents from every part of Nigeria. Eyo remains one of the few events where the older Yoruba identity of the island is plain to see. The festival is also one of the clearest examples of a masquerade tradition that Yoruba communities carried to other parts of the world, which is why scholars of the Atlantic world refer to it so often.

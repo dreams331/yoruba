@@ -162,4 +162,4 @@ Santería is one of the most enduring expressions of Yoruba civilisation outside
 
 Although shaped by Cuban history and influenced by centuries of cultural interaction, Santería preserves essential elements of Yoruba religion, including belief in Olódùmarè, devotion to the Òrìṣà, sacred drumming, divination, oral tradition, and communal worship.
 
-Its continued vitality is a testament to the resilience of the Yoruba people and the enduring power of culture. Across oceans and generations, the voices of the ancestors continue to resonate in the songs, prayers, rhythms, and ceremonies of Santería, ensuring that the spiritual heritage of Yorubaland remains alive far beyond the shores of West Africa.
+Its continued vitality is a sign of the resilience of the Yoruba people and the enduring power of culture. Across oceans and generations, the voices of the ancestors continue to resonate in the songs, prayers, rhythms, and ceremonies of Santería, ensuring that the spiritual heritage of Yorubaland remains alive far beyond the shores of West Africa.

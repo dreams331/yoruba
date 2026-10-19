@@ -7,25 +7,25 @@ parent1: "ofun-meji"
 parent2: "irosun-meji"
 orisha: "Ọbàtálá / Olódùmarè; Ṣàngó / Ọya"
 theme: "purity, old age, completion, moral integrity; blood, sacrifice, warning, consequence"
-excerpt: "Òfún-Ìrosùn combines the energy of Òfún Méjì (purity, old age, completion, moral integrity) with Ìrosùn Méjì (blood, sacrifice, warning, consequence). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Cleansing through sacrifice. Putting right a wrong often requires an offering or an act of repair."
 pattern_right: "II,I,II,I"
 pattern_left: "I,I,II,II"
 ---
-
 ## Òfún-Ìrosùn
 
-### Meaning
+### Overview
 
-Òfún-Ìrosùn combines the energy of Òfún Méjì (purity, old age, completion, moral integrity) with Ìrosùn Méjì (blood, sacrifice, warning, consequence). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Cleansing through sacrifice. Putting right a wrong often requires an offering or an act of repair.
 
 ### Governing Influences
 
 - **Òfún Méjì** — purity, old age, completion, moral integrity (Ọbàtálá / Olódùmarè)
 - **Ìrosùn Méjì** — blood, sacrifice, warning, consequence (Ṣàngó / Ọya)
 
+
 ### Guidance
 
-When Òfún-Ìrosùn appears, it suggests a situation where the lessons of Òfún Méjì — purity, old age, completion, moral integrity — must be balanced with the lessons of Ìrosùn Méjì — blood, sacrifice, warning, consequence. Òfún Méjì advises: Òfún, closely tied to Ọbàtálá, teaches purity of character, patience, and the moral discipline required to age gracefully and finish life's journey with integrity intact. Ìrosùn Méjì adds: Ìrosùn warns that actions have irreversible consequences, and that ẹbọ (sacrifice) — whether of time, pride, or resources — is often required to avert disaster. Together, they call for wisdom that honours both sides of this Odù.
+Make amends in a way that actually costs you something.
 
 ---
 

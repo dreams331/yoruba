@@ -184,4 +184,4 @@ By transforming the tonal patterns of language into rhythm and sound, Yoruba mas
 
 Its continued presence in festivals, royal courts, religious ceremonies, and contemporary music reflects the enduring brilliance of Yoruba civilisation. The talking drum reminds us that technology is not defined solely by electronics or machines. It is any creative solution that enables people to communicate, preserve knowledge, and strengthen community.
 
-In every beat of the **gángan** echoes the voice of generations past, carrying stories, wisdom, and identity across time. It stands as a powerful testament to the ingenuity of the Yoruba people and to the timeless connection between language, music, and culture.
+In every beat of the **gángan** echoes the voice of generations past, carrying stories, wisdom, and identity across time. It stands as a powerful tribute to the ingenuity of the Yoruba people and to the timeless connection between language, music, and culture.

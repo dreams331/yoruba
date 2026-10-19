@@ -7,25 +7,25 @@ parent1: "otura-meji"
 parent2: "oyeku-meji"
 orisha: "Ọ̀rúnmìlà / Ọbàtálá; Ikú (Death) / Ọ̀sun"
 theme: "transformation, clarity after confusion, truth revealed; endings, the ancestors, the unseen world, mortality"
-excerpt: "Òtúrá-Ọ̀yẹ̀kú combines the energy of Òtúrá Méjì (transformation, clarity after confusion, truth revealed) with Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Understanding what the ancestors left. A change in your life becomes clear when you look at where your family came from."
 pattern_right: "I,II,I,I"
 pattern_left: "II,II,II,II"
 ---
-
 ## Òtúrá-Ọ̀yẹ̀kú
 
-### Meaning
+### Overview
 
-Òtúrá-Ọ̀yẹ̀kú combines the energy of Òtúrá Méjì (transformation, clarity after confusion, truth revealed) with Ọ̀yẹ̀kú Méjì (endings, the ancestors, the unseen world, mortality). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Understanding what the ancestors left. A change in your life becomes clear when you look at where your family came from.
 
 ### Governing Influences
 
 - **Òtúrá Méjì** — transformation, clarity after confusion, truth revealed (Ọ̀rúnmìlà / Ọbàtálá)
 - **Ọ̀yẹ̀kú Méjì** — endings, the ancestors, the unseen world, mortality (Ikú (Death) / Ọ̀sun)
 
+
 ### Guidance
 
-When Òtúrá-Ọ̀yẹ̀kú appears, it suggests a situation where the lessons of Òtúrá Méjì — transformation, clarity after confusion, truth revealed — must be balanced with the lessons of Ọ̀yẹ̀kú Méjì — endings, the ancestors, the unseen world, mortality. Òtúrá Méjì advises: Òtúrá teaches that confusion and difficulty are often temporary, giving way to clarity for those who remain patient and truthful. Ọ̀yẹ̀kú Méjì adds: Ọ̀yẹ̀kú teaches respect for the ancestors, acceptance of mortality, and the understanding that every ending clears space for renewal. Together, they call for wisdom that honours both sides of this Odù.
+Look into your family history for guidance.
 
 ---
 

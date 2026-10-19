@@ -140,7 +140,7 @@ The Awujale institution survived and continues to play a vital role today.
 
 Today, the Ìjẹ̀bú people remain one of the most influential Yoruba sub-groups in Nigeria.
 
-Their most famous cultural celebration is **Ojúde Ọba**, a vibrant festival held annually in honour of the Awujale.
+Their most famous cultural celebration is **Ojúde Ọba**, a living festival held annually in honour of the Awujale.
 
 The festival brings together:
 

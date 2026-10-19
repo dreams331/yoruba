@@ -7,25 +7,25 @@ parent1: "ofun-meji"
 parent2: "okanran-meji"
 orisha: "Ọbàtálá / Olódùmarè; Ọya / Ògún"
 theme: "purity, old age, completion, moral integrity; conflict, truth-telling, sharp consequences"
-excerpt: "Òfún-Ọ̀kànràn combines the energy of Òfún Méjì (purity, old age, completion, moral integrity) with Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "A clean conscience in a dispute. If your own hands are clean, you can speak firmly without fear."
 pattern_right: "II,I,II,I"
 pattern_left: "II,II,II,I"
 ---
-
 ## Òfún-Ọ̀kànràn
 
-### Meaning
+### Overview
 
-Òfún-Ọ̀kànràn combines the energy of Òfún Méjì (purity, old age, completion, moral integrity) with Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences). It is read as a distinct Odù with its own guidance, drawing on both influences.
+A clean conscience in a dispute. If your own hands are clean, you can speak firmly without fear.
 
 ### Governing Influences
 
 - **Òfún Méjì** — purity, old age, completion, moral integrity (Ọbàtálá / Olódùmarè)
 - **Ọ̀kànràn Méjì** — conflict, truth-telling, sharp consequences (Ọya / Ògún)
 
+
 ### Guidance
 
-When Òfún-Ọ̀kànràn appears, it suggests a situation where the lessons of Òfún Méjì — purity, old age, completion, moral integrity — must be balanced with the lessons of Ọ̀kànràn Méjì — conflict, truth-telling, sharp consequences. Òfún Méjì advises: Òfún, closely tied to Ọbàtálá, teaches purity of character, patience, and the moral discipline required to age gracefully and finish life's journey with integrity intact. Ọ̀kànràn Méjì adds: Ọ̀kànràn exposes what is hidden and warns against betrayal, gossip, and dishonesty. Together, they call for wisdom that honours both sides of this Odù.
+Make sure you are in the right, then speak up.
 
 ---
 

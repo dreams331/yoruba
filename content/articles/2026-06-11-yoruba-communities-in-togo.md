@@ -199,4 +199,4 @@ Today, in villages and towns across Togo, the Yoruba language is still spoken, a
 
 Their story is not merely one of survival.
 
-It is a testament to the enduring strength of a people who have carried their heritage across landscapes and generations, ensuring that the spirit of Yoruba civilisation continues to flourish far beyond the boundaries of its ancient homeland.
+It is evidence of the enduring strength of a people who have carried their heritage across landscapes and generations, ensuring that the spirit of Yoruba civilisation continues to flourish far beyond the boundaries of its ancient homeland.

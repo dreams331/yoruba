@@ -226,7 +226,7 @@ The festival also challenges outdated stereotypes by showcasing the richness, or
 
 ## Conclusion
 
-The Eyo Festival remains one of the grandest and most important cultural traditions in Lagos and the wider Yoruba world. With its majestic white masquerades, royal symbolism, spiritual significance, and vibrant public celebrations, the festival stands as a living expression of history and identity.
+The Eyo Festival remains one of the grandest and most important cultural traditions in Lagos and the wider Yoruba world. With its majestic white masquerades, royal symbolism, spiritual significance, and lively public celebrations, the festival stands as a living expression of history and identity.
 
 More than a spectacle, Eyo is a celebration of heritage, memory, and cultural pride passed down across generations.
 

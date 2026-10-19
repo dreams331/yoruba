@@ -173,6 +173,6 @@ Rather than being viewed solely as an ancient religion, Ifá is increasingly rec
 
 The global revival of Ifá and Yoruba spirituality is one of the most significant cultural developments of recent decades. After surviving centuries of displacement, suppression, and misunderstanding, these traditions are once again attracting people from around the world who seek knowledge, identity, and a deeper understanding of African civilisation.
 
-From the sacred teachings of **Ọ̀rúnmìlà** to the vibrant festivals of Yorubaland and the diaspora, Ifá continues to unite communities across continents. Its philosophy, oral literature, ethical teachings, and spiritual practices remain a source of inspiration for millions.
+From the sacred teachings of **Ọ̀rúnmìlà** to the active festivals of Yorubaland and the diaspora, Ifá continues to unite communities across continents. Its philosophy, oral literature, ethical teachings, and spiritual practices remain a source of inspiration for millions.
 
 The revival of Ifá is therefore more than a return to an ancient tradition. It is a reaffirmation of the enduring value of Yoruba knowledge, culture, and spirituality. As new generations embrace this heritage with respect and curiosity, they ensure that the wisdom of Ifá will continue to guide, educate, and inspire people far beyond the land where it first emerged.

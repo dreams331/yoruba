@@ -83,6 +83,6 @@ In a rapidly changing world, the grove remains a powerful reminder that culture 
 
 The Osun Osogbo Sacred Grove is more than a tourist destination or historical site. It is a living symbol of Yoruba spirituality, creativity, and resilience.
 
-From its sacred river and ancient shrines to the vibrant annual festival, the grove continues to connect generations to their heritage and beliefs.
+From its sacred river and ancient shrines to the lively annual festival, the grove continues to connect generations to their heritage and beliefs.
 
-Its survival across centuries stands as a testament to the enduring power of culture and the importance of protecting places where history, faith, and nature come together.
+Its survival across centuries stands as proof of the enduring power of culture and the importance of protecting places where history, faith, and nature come together.

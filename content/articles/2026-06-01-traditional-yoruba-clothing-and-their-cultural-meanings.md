@@ -80,7 +80,7 @@ Worn at weddings, religious ceremonies, and significant celebrations, the Gele r
 
 In the late 1990s, Tunde Kelani's classic movie *Oleku* (1997) sparked a major fashion revival. *Oleku* is a Yoruba word meaning "too hot" or "to die for," and it describes a modernized version of the Iro and Buba featuring a shorter, cropped Buba and a mini-length Iro. This style echoed the daring fashion of the 1960s and brought the Iro and Buba back into vogue among younger generations who had previously associated it with older women.
 
-Designers like Ituen Basi further popularized vibrant Oleku styles, and the trend has since evolved into countless contemporary variations: fitted blouses, off-shoulder necklines, velvet wrappers, and silk bows. What was once considered traditional became undeniably cool.
+Designers like Ituen Basi further popularized busy Oleku styles, and the trend has since evolved into countless contemporary variations: fitted blouses, off-shoulder necklines, velvet wrappers, and silk bows. What was once considered traditional became undeniably cool.
 
 ## The Semiotics of Color and Pattern
 

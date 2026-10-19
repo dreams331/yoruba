@@ -7,25 +7,25 @@ parent1: "irete-meji"
 parent2: "oturupon-meji"
 orisha: "Ọ̀rúnmìlà / Ọya; Ọbàtálá / Ọ̀rúnmìlà"
 theme: "perseverance despite setbacks, hidden victory; illness and healing, secrets of the body, patience"
-excerpt: "Ìrẹtẹ̀-Òtúrúpọ̀n combines the energy of Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory) with Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Slow healing, steady spirit. Illness or fatigue is long, but those who persevere do recover."
 pattern_right: "I,I,II,I"
 pattern_left: "II,II,I,II"
 ---
-
 ## Ìrẹtẹ̀-Òtúrúpọ̀n
 
-### Meaning
+### Overview
 
-Ìrẹtẹ̀-Òtúrúpọ̀n combines the energy of Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory) with Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Slow healing, steady spirit. Illness or fatigue is long, but those who persevere do recover.
 
 ### Governing Influences
 
 - **Ìrẹtẹ̀ Méjì** — perseverance despite setbacks, hidden victory (Ọ̀rúnmìlà / Ọya)
 - **Òtúrúpọ̀n Méjì** — illness and healing, secrets of the body, patience (Ọbàtálá / Ọ̀rúnmìlà)
 
+
 ### Guidance
 
-When Ìrẹtẹ̀-Òtúrúpọ̀n appears, it suggests a situation where the lessons of Ìrẹtẹ̀ Méjì — perseverance despite setbacks, hidden victory — must be balanced with the lessons of Òtúrúpọ̀n Méjì — illness and healing, secrets of the body, patience. Ìrẹtẹ̀ Méjì advises: Ìrẹtẹ̀ teaches resilience in adversity, especially struggles others cannot see. Òtúrúpọ̀n Méjì adds: Òtúrúpọ̀n calls for patience, proper diagnosis before action, and respect for the body's natural healing processes. Together, they call for wisdom that honours both sides of this Odù.
+Be kind to yourself and keep following the treatment.
 
 ---
 

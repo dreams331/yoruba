@@ -7,25 +7,25 @@ parent1: "ose-meji"
 parent2: "oturupon-meji"
 orisha: "Ọ̀ṣun; Ọbàtálá / Ọ̀rúnmìlà"
 theme: "blessings, sweetness, abundance, gratitude; illness and healing, secrets of the body, patience"
-excerpt: "Ọ̀ṣẹ́-Òtúrúpọ̀n combines the energy of Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude) with Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Health as a blessing. Good health is wealth, and it should not be taken for granted."
 pattern_right: "I,II,I,II"
 pattern_left: "II,II,I,II"
 ---
-
 ## Ọ̀ṣẹ́-Òtúrúpọ̀n
 
-### Meaning
+### Overview
 
-Ọ̀ṣẹ́-Òtúrúpọ̀n combines the energy of Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude) with Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Health as a blessing. Good health is wealth, and it should not be taken for granted.
 
 ### Governing Influences
 
 - **Ọ̀ṣẹ́ Méjì** — blessings, sweetness, abundance, gratitude (Ọ̀ṣun)
 - **Òtúrúpọ̀n Méjì** — illness and healing, secrets of the body, patience (Ọbàtálá / Ọ̀rúnmìlà)
 
+
 ### Guidance
 
-When Ọ̀ṣẹ́-Òtúrúpọ̀n appears, it suggests a situation where the lessons of Ọ̀ṣẹ́ Méjì — blessings, sweetness, abundance, gratitude — must be balanced with the lessons of Òtúrúpọ̀n Méjì — illness and healing, secrets of the body, patience. Ọ̀ṣẹ́ Méjì advises: Ọ̀ṣẹ́ celebrates the sweetness of life earned through generosity, hospitality, and gratitude. Òtúrúpọ̀n Méjì adds: Òtúrúpọ̀n calls for patience, proper diagnosis before action, and respect for the body's natural healing processes. Together, they call for wisdom that honours both sides of this Odù.
+Look after your body as you would your savings.
 
 ---
 

@@ -18,7 +18,7 @@ featured: false
 
 There is a profound Yoruba saying: *Adiye irana ki soun ajegbe*. One must repay eating the sacrificial funeral fowl. It is a gentle reminder that every soul must taste death, and that the living carry a debt to the dead. For the Yoruba people of southwestern Nigeria, death is not a full stop. It is a comma, a pause, a transition from one room of existence to another. The physical world, called *Aiye*, and the spirit world, called *Orun*, are not separate countries. They are dance partners, constantly moving in sync, and death is merely the step that carries the soul from one partner to the other.[](https://www.talkdeath.com/the-traditional-death-rites-of-the-yoruba/)
 
-This worldview shapes everything about how the Yoruba approach death. A funeral is not simply a farewell. It is a carefully choreographed passage, a social event, a spiritual obligation, and often a vibrant celebration. The way a person is buried says as much about the living as it does about the departed. It reveals the family’s resources, their respect for tradition, their religious convictions, and their desire to ensure that their loved one arrives safely in the ancestral realm.
+This worldview shapes everything about how the Yoruba approach death. A funeral is not simply a farewell. It is a carefully choreographed passage, a social event, a spiritual obligation, and often a lively celebration. The way a person is buried says as much about the living as it does about the departed. It reveals the family’s resources, their respect for tradition, their religious convictions, and their desire to ensure that their loved one arrives safely in the ancestral realm.
 
 ## The Geography of the Afterlife
 

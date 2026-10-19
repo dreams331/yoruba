@@ -189,6 +189,6 @@ They also remind the world of the profound contributions that African civilisati
 
 The presence of Yoruba words and traditions throughout Latin America stands as one of the most powerful examples of cultural continuity in history. Across Brazil, Cuba, and other parts of the region, the voices of Yoruba ancestors still resonate in sacred songs, prayers, festivals, personal names, and everyday expressions such as **Axé**, a direct descendant of the Yoruba concept of Àṣẹ.
 
-From the worship of the Òrìṣà to the rhythms of Batá drums, from ceremonial greetings to traditional foods, Yoruba heritage remains a vibrant part of Latin American life. These traditions have evolved over centuries, shaped by local cultures and historical experiences, yet they continue to reflect the enduring influence of Yorubaland.
+From the worship of the Òrìṣà to the rhythms of Batá drums, from ceremonial greetings to traditional foods, Yoruba heritage remains a living part of Latin American life. These traditions have evolved over centuries, shaped by local cultures and historical experiences, yet they continue to reflect the enduring influence of Yorubaland.
 
-Their survival is a testament to the resilience of the Yoruba people and to the enduring power of language, memory, and faith. Even across oceans and generations, Yoruba civilisation continues to enrich the cultural landscape of Latin America, serving as a bridge between Africa and its diaspora.
+Their survival is proof of the resilience of the Yoruba people and of the enduring power of language, memory, and faith. Even across oceans and generations, Yoruba civilisation continues to enrich the cultural landscape of Latin America, serving as a bridge between Africa and its diaspora.

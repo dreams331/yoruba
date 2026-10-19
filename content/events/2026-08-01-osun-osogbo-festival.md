@@ -32,3 +32,13 @@ The two-week festival includes:
 ## Global Significance
 
 The festival attracts visitors from across the Yoruba diaspora — Brazil, Cuba, the United States, and the Caribbean — many of whom practice Ọ̀ṣun devotion within Candomblé, Santería, and other Orisha-based traditions.
+
+## The Grove and the Offerings
+
+The festival takes place in the Osun-Osogbo Sacred Grove, one of the last areas of high forest left in southern Nigeria. UNESCO added it to the World Heritage List in 2005. Visitors walk past shrines and sculptures, many of them restored from the 1950s onward by the Austrian-born artist Susanne Wenger and a group of local craftsmen, before reaching the river itself.
+
+Two moments stand out. The first is the lighting of the sixteen-point lamp, the Atupa Olojumerindinlogun, which opens the festival. The second is the procession of the Arugba, a young woman who carries a calabash of offerings on her head to the river on behalf of the town. She walks in near silence, and the crowd keeps a respectful distance. Tradition holds that the calabash carries the town's prayers for the year, for children, for good harvests and for peace.
+
+## Visiting
+
+The main ceremonies draw very large crowds, so most visitors arrive early in the day and plan their stay in Osogbo ahead of time. Photography is generally welcome in public areas, but ask before photographing worshippers at a shrine. Dress modestly, follow the instructions of the guides, and do not enter restricted areas of the grove. Check with the Osun State tourism office or the Ataoja's palace for the exact dates, which change each year.

@@ -7,25 +7,25 @@ parent1: "otura-meji"
 parent2: "iwori-meji"
 orisha: "Ọ̀rúnmìlà / Ọbàtálá; Ọ̀sanyìn / Ọ̀rúnmìlà"
 theme: "transformation, clarity after confusion, truth revealed; self-knowledge, hidden truth, inner vision"
-excerpt: "Òtúrá-Ìwòrì combines the energy of Òtúrá Méjì (transformation, clarity after confusion, truth revealed) with Ìwòrì Méjì (self-knowledge, hidden truth, inner vision). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Truth about yourself comes into view. A change of direction becomes possible once you see your own motives."
 pattern_right: "I,II,I,I"
 pattern_left: "II,I,I,II"
 ---
-
 ## Òtúrá-Ìwòrì
 
-### Meaning
+### Overview
 
-Òtúrá-Ìwòrì combines the energy of Òtúrá Méjì (transformation, clarity after confusion, truth revealed) with Ìwòrì Méjì (self-knowledge, hidden truth, inner vision). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Truth about yourself comes into view. A change of direction becomes possible once you see your own motives.
 
 ### Governing Influences
 
 - **Òtúrá Méjì** — transformation, clarity after confusion, truth revealed (Ọ̀rúnmìlà / Ọbàtálá)
 - **Ìwòrì Méjì** — self-knowledge, hidden truth, inner vision (Ọ̀sanyìn / Ọ̀rúnmìlà)
 
+
 ### Guidance
 
-When Òtúrá-Ìwòrì appears, it suggests a situation where the lessons of Òtúrá Méjì — transformation, clarity after confusion, truth revealed — must be balanced with the lessons of Ìwòrì Méjì — self-knowledge, hidden truth, inner vision. Òtúrá Méjì advises: Òtúrá teaches that confusion and difficulty are often temporary, giving way to clarity for those who remain patient and truthful. Ìwòrì Méjì adds: Ìwòrì calls for introspection and honesty about one's own motives before judging others. Together, they call for wisdom that honours both sides of this Odù.
+Be honest about what you want, then change course.
 
 ---
 

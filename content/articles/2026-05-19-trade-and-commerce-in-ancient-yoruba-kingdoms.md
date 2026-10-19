@@ -15,7 +15,7 @@ featured: false
 
 Trade and commerce were among the most important foundations of civilization in ancient Yoruba kingdoms. Long before colonial rule and the introduction of modern banking systems, Yoruba societies had already developed sophisticated economic networks built on local markets, regional trade routes, craftsmanship, agriculture, and international commerce.
 
-From the bustling markets of Oyo and Ibadan to the coastal trade centers of Lagos and Ijebu, commerce shaped politics, urban development, diplomacy, and cultural exchange throughout Yorubaland. Yoruba traders, merchants, artisans, and market leaders helped create one of the most vibrant economic systems in pre-colonial West Africa.
+From the bustling markets of Oyo and Ibadan to the coastal trade centers of Lagos and Ijebu, commerce shaped politics, urban development, diplomacy, and cultural exchange throughout Yorubaland. Yoruba traders, merchants, artisans, and market leaders helped create one of the most active economic systems in pre-colonial West Africa.
 
 ## The Economic Foundations of Yoruba Society
 

@@ -183,8 +183,8 @@ The relationship between the Yoruba, Itsekiri, and Igala peoples is one of the m
 
 Their story reminds us that ethnic identities are rarely isolated or fixed. They are shaped by migration, trade, diplomacy, conflict, and shared human experience.
 
-The Yoruba contributed to one of Africa's great civilisations centred around Ile-Ife. The Itsekiri transformed coastal interactions into a vibrant kingdom that bridged Africa and Europe. The Igala built a powerful state at the meeting point of major trade routes and cultural worlds.
+The Yoruba contributed to one of Africa's great civilisations centred around Ile-Ife. The Itsekiri turned coastal contact into a kingdom that bridged Africa and Europe. The Igala built a powerful state at the meeting point of major trade routes and cultural worlds.
 
-Together, their histories reveal that Nigeria's past is not a collection of separate stories, but a tapestry woven from countless encounters and relationships.
+Together, their histories reveal that Nigeria's past is not a collection of separate stories, but a web built from countless encounters and relationships.
 
 To understand these people is not merely to study their differences. It is to appreciate how deeply connected they have always been, while honouring the distinct identities they proudly maintain today.

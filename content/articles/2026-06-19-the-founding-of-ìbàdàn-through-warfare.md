@@ -146,4 +146,4 @@ From the ruins of the Old Ọ̀yọ́ Empire and the turmoil of nineteenth-centu
 
 Although war gave birth to Ìbàdàn, it was the courage, discipline, and enterprise of its people that transformed it into a thriving city.
 
-Today, Ìbàdàn stands not merely as a reminder of past conflicts, but as a testament to the resilience of the Yoruba people and their ability to rebuild, adapt, and flourish even in the face of adversity.
+Today, Ìbàdàn stands not merely as a reminder of past conflicts, but as a tribute to the resilience of the Yoruba people and their ability to rebuild, adapt, and flourish even in the face of adversity.

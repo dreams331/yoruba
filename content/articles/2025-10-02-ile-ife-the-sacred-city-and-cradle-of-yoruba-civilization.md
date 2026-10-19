@@ -96,7 +96,7 @@ UNESCO recognized Ifá as part of the Intangible Cultural Heritage of Humanity d
 
 ## Festivals and Cultural Celebrations
 
-Ile-Ife remains vibrant with traditional festivals that attract visitors from around the world.
+Ile-Ife remains active with traditional festivals that attract visitors from around the world.
 
 ### Olojo Festival
 

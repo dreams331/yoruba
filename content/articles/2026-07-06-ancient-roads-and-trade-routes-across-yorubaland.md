@@ -168,6 +168,6 @@ The ancient road network reminds us that Yorubaland was never isolated. Instead,
 
 ## Conclusion
 
-The ancient roads and trade routes of Yorubaland formed the lifeblood of one of Africa's most vibrant pre-colonial civilisations. They linked great cities such as **Ile-Ife**, **Old Oyo Empire**, **Ijebu Ode**, and **Owo**, allowing merchants, rulers, pilgrims, artisans, and travellers to exchange goods, ideas, and traditions across vast distances.
+The ancient roads and trade routes of Yorubaland formed the lifeblood of one of Africa's most prosperous pre-colonial civilisations. They linked great cities such as **Ile-Ife**, **Old Oyo Empire**, **Ijebu Ode**, and **Owo**, allowing merchants, rulers, pilgrims, artisans, and travellers to exchange goods, ideas, and traditions across vast distances.
 
 These routes did more than support commerce. They strengthened political alliances, encouraged cultural unity, and connected the Yoruba with neighbouring peoples throughout West Africa. Their enduring legacy can still be seen in the locations of modern towns, historic markets, and transportation corridors, demonstrating that the foundations of Yoruba connectivity were established centuries before colonial rule.

@@ -71,7 +71,7 @@ These Yoruba descendants became known as the Aku community. While English and Kr
 
 ## Yoruba Language in Modern Global Communities
 
-Modern migration has created new Yoruba speaking communities around the world. Cities such as London, Houston, Toronto, and New York now contain vibrant Nigerian diaspora populations where Yoruba language continues to be spoken at home, in churches, mosques, cultural associations, and social gatherings.
+Modern migration has created new Yoruba speaking communities around the world. Cities such as London, Houston, Toronto, and New York now have large Nigerian diaspora populations where Yoruba language continues to be spoken at home, in churches, mosques, cultural associations, and social gatherings.
 
 Parents and cultural organizations increasingly encourage younger generations to learn Yoruba through:
 

@@ -7,25 +7,25 @@ parent1: "ofun-meji"
 parent2: "ose-meji"
 orisha: "Ọbàtálá / Olódùmarè; Ọ̀ṣun"
 theme: "purity, old age, completion, moral integrity; blessings, sweetness, abundance, gratitude"
-excerpt: "Òfún-Ọ̀ṣẹ́ combines the energy of Òfún Méjì (purity, old age, completion, moral integrity) with Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "A life that is complete and sweet. Old age is a reward when it has been lived with generosity and gratitude."
 pattern_right: "II,I,II,I"
 pattern_left: "I,II,I,II"
 ---
-
 ## Òfún-Ọ̀ṣẹ́
 
-### Meaning
+### Overview
 
-Òfún-Ọ̀ṣẹ́ combines the energy of Òfún Méjì (purity, old age, completion, moral integrity) with Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude). It is read as a distinct Odù with its own guidance, drawing on both influences.
+A life that is complete and sweet. Old age is a reward when it has been lived with generosity and gratitude.
 
 ### Governing Influences
 
 - **Òfún Méjì** — purity, old age, completion, moral integrity (Ọbàtálá / Olódùmarè)
 - **Ọ̀ṣẹ́ Méjì** — blessings, sweetness, abundance, gratitude (Ọ̀ṣun)
 
+
 ### Guidance
 
-When Òfún-Ọ̀ṣẹ́ appears, it suggests a situation where the lessons of Òfún Méjì — purity, old age, completion, moral integrity — must be balanced with the lessons of Ọ̀ṣẹ́ Méjì — blessings, sweetness, abundance, gratitude. Òfún Méjì advises: Òfún, closely tied to Ọbàtálá, teaches purity of character, patience, and the moral discipline required to age gracefully and finish life's journey with integrity intact. Ọ̀ṣẹ́ Méjì adds: Ọ̀ṣẹ́ celebrates the sweetness of life earned through generosity, hospitality, and gratitude. Together, they call for wisdom that honours both sides of this Odù.
+Live so that you can look back with thanks.
 
 ---
 

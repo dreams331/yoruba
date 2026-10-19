@@ -7,25 +7,25 @@ parent1: "otura-meji"
 parent2: "okanran-meji"
 orisha: "Ọ̀rúnmìlà / Ọbàtálá; Ọya / Ògún"
 theme: "transformation, clarity after confusion, truth revealed; conflict, truth-telling, sharp consequences"
-excerpt: "Òtúrá-Ọ̀kànràn combines the energy of Òtúrá Méjì (transformation, clarity after confusion, truth revealed) with Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Honest vision settles an argument. When the facts are clear, a long quarrel loses its fuel."
 pattern_right: "I,II,I,I"
 pattern_left: "II,II,II,I"
 ---
-
 ## Òtúrá-Ọ̀kànràn
 
-### Meaning
+### Overview
 
-Òtúrá-Ọ̀kànràn combines the energy of Òtúrá Méjì (transformation, clarity after confusion, truth revealed) with Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Honest vision settles an argument. When the facts are clear, a long quarrel loses its fuel.
 
 ### Governing Influences
 
 - **Òtúrá Méjì** — transformation, clarity after confusion, truth revealed (Ọ̀rúnmìlà / Ọbàtálá)
 - **Ọ̀kànràn Méjì** — conflict, truth-telling, sharp consequences (Ọya / Ògún)
 
+
 ### Guidance
 
-When Òtúrá-Ọ̀kànràn appears, it suggests a situation where the lessons of Òtúrá Méjì — transformation, clarity after confusion, truth revealed — must be balanced with the lessons of Ọ̀kànràn Méjì — conflict, truth-telling, sharp consequences. Òtúrá Méjì advises: Òtúrá teaches that confusion and difficulty are often temporary, giving way to clarity for those who remain patient and truthful. Ọ̀kànràn Méjì adds: Ọ̀kànràn exposes what is hidden and warns against betrayal, gossip, and dishonesty. Together, they call for wisdom that honours both sides of this Odù.
+Bring the evidence to the discussion and keep your tone even.
 
 ---
 

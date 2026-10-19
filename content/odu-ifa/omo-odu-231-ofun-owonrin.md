@@ -7,25 +7,25 @@ parent1: "ofun-meji"
 parent2: "owonrin-meji"
 orisha: "Ọbàtálá / Olódùmarè; Èṣù / Ọ̀rúnmìlà"
 theme: "purity, old age, completion, moral integrity; instability, change, the trickster's lesson, humility"
-excerpt: "Òfún-Ọ̀wọ́nrín combines the energy of Òfún Méjì (purity, old age, completion, moral integrity) with Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Staying clean in a shifting world. Values are tested when everything around you changes."
 pattern_right: "II,I,II,I"
 pattern_left: "II,II,I,I"
 ---
-
 ## Òfún-Ọ̀wọ́nrín
 
-### Meaning
+### Overview
 
-Òfún-Ọ̀wọ́nrín combines the energy of Òfún Méjì (purity, old age, completion, moral integrity) with Ọ̀wọ́nrín Méjì (instability, change, the trickster's lesson, humility). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Staying clean in a shifting world. Values are tested when everything around you changes.
 
 ### Governing Influences
 
 - **Òfún Méjì** — purity, old age, completion, moral integrity (Ọbàtálá / Olódùmarè)
 - **Ọ̀wọ́nrín Méjì** — instability, change, the trickster's lesson, humility (Èṣù / Ọ̀rúnmìlà)
 
+
 ### Guidance
 
-When Òfún-Ọ̀wọ́nrín appears, it suggests a situation where the lessons of Òfún Méjì — purity, old age, completion, moral integrity — must be balanced with the lessons of Ọ̀wọ́nrín Méjì — instability, change, the trickster's lesson, humility. Òfún Méjì advises: Òfún, closely tied to Ọbàtálá, teaches purity of character, patience, and the moral discipline required to age gracefully and finish life's journey with integrity intact. Ọ̀wọ́nrín Méjì adds: Ọ̀wọ́nrín teaches humility in success and resilience in reversal. Together, they call for wisdom that honours both sides of this Odù.
+Keep your principles even as circumstances change.
 
 ---
 

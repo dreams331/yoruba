@@ -174,7 +174,7 @@ Anthropologists and historians study Egúngún festivals as important examples o
 
 ## Egúngún Festivals in Modern Times
 
-Today, Egúngún festivals remain vibrant across many Yoruba communities.
+Today, Egúngún festivals remain strong across many Yoruba communities.
 
 They continue to attract:
 

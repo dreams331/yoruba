@@ -104,7 +104,7 @@ Their participation reflected the kingdom's determination to defend its independ
 
 ## Culture and Traditions
 
-The Ijẹ̀ṣà people have preserved a vibrant cultural heritage that includes:
+The Ijẹ̀ṣà people have preserved a lively cultural heritage that includes:
 
 * Traditional festivals.
 * Royal ceremonies.
@@ -134,4 +134,4 @@ The kingdom continues to celebrate its heritage while contributing to the social
 
 The origins of the **Ijẹ̀ṣà Kingdom** tell the story of migration, leadership, and the creation of one of Yorubaland's most enduring kingdoms. Rooted in traditions linking its founders to **Ile-Ife** and the legendary **Owa Obokun**, the kingdom grew into a centre of commerce, governance, and cultural achievement. While aspects of its early history remain preserved through oral tradition, these narratives continue to shape the identity and values of the Ijẹ̀ṣà people.
 
-Today, Ijesaland stands as a testament to the resilience and creativity of Yoruba civilisation. Its history reminds us that kingdoms are built not only through conquest, but also through wise leadership, cooperation, trade, and a strong sense of community. The enduring legacy of the Owa Obokun and the people of Ijẹ̀ṣà continues to inspire pride across Yorubaland and beyond.
+Today, Ijesaland stands as evidence of the resilience and creativity of Yoruba civilisation. Its history reminds us that kingdoms are built not only through conquest, but also through wise leadership, cooperation, trade, and a strong sense of community. The enduring legacy of the Owa Obokun and the people of Ijẹ̀ṣà continues to inspire pride across Yorubaland and beyond.

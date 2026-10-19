@@ -30,7 +30,7 @@ Although they were separated from their homeland, they preserved important aspec
 * Ritual language.
 * Community celebrations.
 
-Over time, these traditions evolved into vibrant cultural and religious festivals that continue today.
+Over time, these traditions evolved into colourful cultural and religious festivals that continue today.
 
 ### The Festival of Iemanjá in Brazil
 
@@ -171,6 +171,6 @@ From the beaches of Salvador to the streets of Havana, from Port of Spain to Lon
 
 These celebrations are living proof that the Yoruba people carried more than memories across the Atlantic. They carried a civilisation rich in music, spirituality, language, art, and communal values.
 
-Centuries later, those traditions remain vibrant, connecting millions of people across the world to a shared heritage rooted in Yorubaland.
+Centuries later, those traditions remain alive, connecting millions of people across the world to a shared heritage rooted in Yorubaland.
 
 In every drumbeat, dance, prayer, and festival procession, the story of Yoruba culture continues to be told—not only in Africa, but across the globe.

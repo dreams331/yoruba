@@ -223,4 +223,4 @@ Their achievements challenge outdated assumptions that science belongs exclusive
 
 Instead, the Yoruba experience reminds us that human curiosity is universal. Wherever people observed nature, solved problems, and passed knowledge to future generations, scientific thinking emerged.
 
-The legacy of Yoruba knowledge systems continues to inspire researchers, cultural scholars, and communities today. It stands as a powerful testament to the intellectual creativity of one of Africa's great civilisations and to the many ways human beings have sought to understand the world around them.
+The legacy of Yoruba knowledge systems continues to inspire researchers, cultural scholars, and communities today. It stands as a lasting sign of the intellectual creativity of one of Africa's great civilisations and to the many ways human beings have sought to understand the world around them.

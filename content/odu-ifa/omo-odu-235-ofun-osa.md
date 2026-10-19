@@ -7,25 +7,25 @@ parent1: "ofun-meji"
 parent2: "osa-meji"
 orisha: "Ọbàtálá / Olódùmarè; Ọya"
 theme: "purity, old age, completion, moral integrity; upheaval, the whirlwind, sudden change, protection from harm"
-excerpt: "Òfún-Ọ̀sá combines the energy of Òfún Méjì (purity, old age, completion, moral integrity) with Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Calm in a crisis. A settled mind protects you when things around you are in chaos."
 pattern_right: "II,I,II,I"
 pattern_left: "II,I,I,I"
 ---
-
 ## Òfún-Ọ̀sá
 
-### Meaning
+### Overview
 
-Òfún-Ọ̀sá combines the energy of Òfún Méjì (purity, old age, completion, moral integrity) with Ọ̀sá Méjì (upheaval, the whirlwind, sudden change, protection from harm). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Calm in a crisis. A settled mind protects you when things around you are in chaos.
 
 ### Governing Influences
 
 - **Òfún Méjì** — purity, old age, completion, moral integrity (Ọbàtálá / Olódùmarè)
 - **Ọ̀sá Méjì** — upheaval, the whirlwind, sudden change, protection from harm (Ọya)
 
+
 ### Guidance
 
-When Òfún-Ọ̀sá appears, it suggests a situation where the lessons of Òfún Méjì — purity, old age, completion, moral integrity — must be balanced with the lessons of Ọ̀sá Méjì — upheaval, the whirlwind, sudden change, protection from harm. Òfún Méjì advises: Òfún, closely tied to Ọbàtálá, teaches purity of character, patience, and the moral discipline required to age gracefully and finish life's journey with integrity intact. Ọ̀sá Méjì adds: Ọ̀sá teaches resilience through sudden disruption. Together, they call for wisdom that honours both sides of this Odù.
+Breathe, keep your standards, and wait for the storm to pass.
 
 ---
 

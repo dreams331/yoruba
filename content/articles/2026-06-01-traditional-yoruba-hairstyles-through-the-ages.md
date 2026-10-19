@@ -126,6 +126,6 @@ Photographers like J.D. 'Okhai Ojeikere, who spent decades documenting Nigerian 
 
 Traditional Yoruba hairstyles are far more than arrangements of fibre upon the scalp. They are archives of memory, maps of social structure, and prayers made visible. From the royal Shuku that crowned queens of old, to the spiritual Dada that connected children to Olokun, to the architectural Eko Bridge that celebrated a modernising Lagos, each style encodes a worldview.
 
-In a global beauty industry that still too often privileges European textures and standards, the persistence of Yoruba hairdressing is a testament to resilience. It is a declaration that beauty is not singular, that the coily, the threaded, and the braided are as worthy of admiration as the straight and the flowing.
+In a global beauty industry that still too often privileges European textures and standards, the persistence of Yoruba hairdressing is a form of resilience. It is a declaration that beauty is not singular, that the coily, the threaded, and the braided are as worthy of admiration as the straight and the flowing.
 
 To wear a traditional Yoruba hairstyle today is to join a conversation that has lasted for centuries. It is to honour the hands of the hairdresser, the *onidiri*, who learned her craft from her mother, who learned it from hers. It is to recognise that the hair is not merely an accessory, but a crown. And as the Yoruba have always known, the crown does not sit upon just any head. It sits upon the *orí*, the sacred seat of destiny itself.

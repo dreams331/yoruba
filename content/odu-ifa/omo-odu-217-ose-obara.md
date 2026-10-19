@@ -7,25 +7,25 @@ parent1: "ose-meji"
 parent2: "obara-meji"
 orisha: "Ọ̀ṣun; Ṣàngó / Ọ̀bàtálá"
 theme: "blessings, sweetness, abundance, gratitude; honour, boastfulness, the danger of pride, leadership"
-excerpt: "Ọ̀ṣẹ́-Ọ̀bàrà combines the energy of Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude) with Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Blessings and pride. Success is welcome, but boasting about it can drive away the goodwill that built it."
 pattern_right: "I,II,I,II"
 pattern_left: "I,II,II,II"
 ---
-
 ## Ọ̀ṣẹ́-Ọ̀bàrà
 
-### Meaning
+### Overview
 
-Ọ̀ṣẹ́-Ọ̀bàrà combines the energy of Ọ̀ṣẹ́ Méjì (blessings, sweetness, abundance, gratitude) with Ọ̀bàrà Méjì (honour, boastfulness, the danger of pride, leadership). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Blessings and pride. Success is welcome, but boasting about it can drive away the goodwill that built it.
 
 ### Governing Influences
 
 - **Ọ̀ṣẹ́ Méjì** — blessings, sweetness, abundance, gratitude (Ọ̀ṣun)
 - **Ọ̀bàrà Méjì** — honour, boastfulness, the danger of pride, leadership (Ṣàngó / Ọ̀bàtálá)
 
+
 ### Guidance
 
-When Ọ̀ṣẹ́-Ọ̀bàrà appears, it suggests a situation where the lessons of Ọ̀ṣẹ́ Méjì — blessings, sweetness, abundance, gratitude — must be balanced with the lessons of Ọ̀bàrà Méjì — honour, boastfulness, the danger of pride, leadership. Ọ̀ṣẹ́ Méjì advises: Ọ̀ṣẹ́ celebrates the sweetness of life earned through generosity, hospitality, and gratitude. Ọ̀bàrà Méjì adds: Ọ̀bàrà teaches that leadership and confidence are gifts, but boastfulness invites downfall. Together, they call for wisdom that honours both sides of this Odù.
+Share your success quietly.
 
 ---
 

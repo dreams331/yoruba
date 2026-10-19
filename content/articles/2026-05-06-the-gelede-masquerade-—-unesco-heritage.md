@@ -45,7 +45,7 @@ The Gẹlẹdẹ masquerade is not a single event but a carefully structured per
 
 The night segment, known as *Èfè*, features satirical performances, chants, and songs. It is a time for social commentary, where performers address issues such as morality, leadership, and community behavior, often using humor and symbolism.
 
-The daytime performance is more vibrant and visual. Masqueraders appear in elaborate costumes, dancing gracefully to the rhythm of drums and songs. The atmosphere is celebratory, drawing crowds from near and far.
+The daytime performance is more colourful and visual. Masqueraders appear in elaborate costumes, dancing gracefully to the rhythm of drums and songs. The atmosphere is celebratory, drawing crowds from near and far.
 
 Though the performers are male, they embody feminine energy, moving with elegance and restraint to reflect the essence of womanhood and spiritual balance.
 

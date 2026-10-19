@@ -190,4 +190,4 @@ These ceremonies continue to strengthen family relationships and preserve cultur
 
 Marriage customs across the different Yoruba subgroups illustrate both the unity and diversity of Yoruba civilisation. While each region has developed distinctive ceremonial practices, all share a common understanding of marriage as a sacred union that binds families, honours ancestors, and strengthens the community.
 
-Whether celebrated in Oyo, Ijẹ̀bú, Ẹ̀gbá, Èkìtì, Ìjẹ̀ṣà, Ondo, or Akure, traditional Yoruba marriages continue to embody the enduring values of love, respect, cooperation, and cultural continuity. They remain vibrant expressions of a heritage that has been passed down through generations and continues to thrive in modern society.
+Whether celebrated in Oyo, Ijẹ̀bú, Ẹ̀gbá, Èkìtì, Ìjẹ̀ṣà, Ondo, or Akure, traditional Yoruba marriages continue to embody the enduring values of love, respect, cooperation, and cultural continuity. They remain living expressions of a heritage that has been passed down through generations and continues to thrive in modern society.

@@ -127,7 +127,7 @@ Today, people from many cultural backgrounds study Ifá and participate in Yorub
 
 ## A Living Culture
 
-One of the greatest strengths of Yoruba civilisation is its ability to remain vibrant in the modern world.
+One of the greatest strengths of Yoruba civilisation is its ability to remain active in the modern world.
 
 Traditional festivals, marriage rites, naming ceremonies, music, fashion, cuisine, and language continue to thrive alongside contemporary life.
 

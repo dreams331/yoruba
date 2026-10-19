@@ -162,7 +162,7 @@ This unity in diversity is one of the defining strengths of Yoruba civilisation.
 
 The Yoruba world is not a single uniform identity but a **civilisation of interconnected subgroups**, each shaped by geography, migration, and history.
 
-From the powerful Oyo Empire to the intellectual Ekiti highlands, from the trading brilliance of Ijebu to the spiritual authority of Ile-Ife, each subgroup contributes a unique thread to the larger Yoruba tapestry.
+From the powerful Oyo Empire to the intellectual Ekiti highlands, from the trading brilliance of Ijebu to the spiritual authority of Ile-Ife, each subgroup contributes a unique thread to the larger Yoruba story.
 
 Together, they form a civilisation that is both diverse and unified, ancient and evolving, local and global.
 

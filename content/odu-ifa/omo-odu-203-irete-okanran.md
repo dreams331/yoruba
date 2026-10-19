@@ -7,25 +7,25 @@ parent1: "irete-meji"
 parent2: "okanran-meji"
 orisha: "Ọ̀rúnmìlà / Ọya; Ọya / Ògún"
 theme: "perseverance despite setbacks, hidden victory; conflict, truth-telling, sharp consequences"
-excerpt: "Ìrẹtẹ̀-Ọ̀kànràn combines the energy of Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory) with Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "The patient truth-teller. Saying the right thing over and over, without anger, wins the argument in time."
 pattern_right: "I,I,II,I"
 pattern_left: "II,II,II,I"
 ---
-
 ## Ìrẹtẹ̀-Ọ̀kànràn
 
-### Meaning
+### Overview
 
-Ìrẹtẹ̀-Ọ̀kànràn combines the energy of Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory) with Ọ̀kànràn Méjì (conflict, truth-telling, sharp consequences). It is read as a distinct Odù with its own guidance, drawing on both influences.
+The patient truth-teller. Saying the right thing over and over, without anger, wins the argument in time.
 
 ### Governing Influences
 
 - **Ìrẹtẹ̀ Méjì** — perseverance despite setbacks, hidden victory (Ọ̀rúnmìlà / Ọya)
 - **Ọ̀kànràn Méjì** — conflict, truth-telling, sharp consequences (Ọya / Ògún)
 
+
 ### Guidance
 
-When Ìrẹtẹ̀-Ọ̀kànràn appears, it suggests a situation where the lessons of Ìrẹtẹ̀ Méjì — perseverance despite setbacks, hidden victory — must be balanced with the lessons of Ọ̀kànràn Méjì — conflict, truth-telling, sharp consequences. Ìrẹtẹ̀ Méjì advises: Ìrẹtẹ̀ teaches resilience in adversity, especially struggles others cannot see. Ọ̀kànràn Méjì adds: Ọ̀kànràn exposes what is hidden and warns against betrayal, gossip, and dishonesty. Together, they call for wisdom that honours both sides of this Odù.
+Repeat the truth calmly until it is heard.
 
 ---
 

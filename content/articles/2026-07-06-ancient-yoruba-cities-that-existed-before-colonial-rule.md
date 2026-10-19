@@ -57,7 +57,7 @@ The city prospered because it:
 
 * Controlled trade routes to the coast.
 * Collected customs duties.
-* Hosted vibrant markets.
+* Hosted busy markets.
 * Maintained strong diplomatic ties.
 
 Its wealth made it one of the most influential cities in southern Yorubaland.
@@ -124,7 +124,7 @@ Founded according to tradition by **Pupupu**, the city became known for:
 
 * Stable governance.
 * Rich agricultural production.
-* Vibrant festivals.
+* Lively festivals.
 * Strong royal institutions.
 
 ## 9. Abẹ́òkúta
@@ -171,7 +171,7 @@ Many also had defensive walls, moats, or natural features that protected their i
 
 The survival of many of these cities into the present day demonstrates the durability of Yoruba civilisation. Their royal institutions, festivals, markets, and cultural practices continue to thrive, linking modern communities with centuries of history.
 
-Archaeological research, oral traditions, and historical records all point to the Yoruba as one of Africa's most urbanised peoples before colonial rule. These cities were not isolated settlements but vibrant centres of innovation, governance, religion, and commerce that contributed significantly to the history of West Africa.
+Archaeological research, oral traditions, and historical records all point to the Yoruba as one of Africa's most urbanised peoples before colonial rule. These cities were not isolated settlements but busy centres of innovation, governance, religion, and commerce that contributed significantly to the history of West Africa.
 
 ## Conclusion
 

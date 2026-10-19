@@ -115,7 +115,7 @@ Despite these influences, the Yoruba language remains an important marker of ide
 
 Religion among Yoruba communities in Benin Republic reflects both continuity and diversity.
 
-Traditional practices remain vibrant in many areas.
+Traditional practices remain active in many areas.
 
 These include:
 

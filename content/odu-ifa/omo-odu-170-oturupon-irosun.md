@@ -7,25 +7,25 @@ parent1: "oturupon-meji"
 parent2: "irosun-meji"
 orisha: "Ọbàtálá / Ọ̀rúnmìlà; Ṣàngó / Ọya"
 theme: "illness and healing, secrets of the body, patience; blood, sacrifice, warning, consequence"
-excerpt: "Òtúrúpọ̀n-Ìrosùn combines the energy of Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience) with Ìrosùn Méjì (blood, sacrifice, warning, consequence). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Illness and obligation meet. A health problem may be tied to a promise or offering that has been put off."
 pattern_right: "II,II,I,II"
 pattern_left: "I,I,II,II"
 ---
-
 ## Òtúrúpọ̀n-Ìrosùn
 
-### Meaning
+### Overview
 
-Òtúrúpọ̀n-Ìrosùn combines the energy of Òtúrúpọ̀n Méjì (illness and healing, secrets of the body, patience) with Ìrosùn Méjì (blood, sacrifice, warning, consequence). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Illness and obligation meet. A health problem may be tied to a promise or offering that has been put off.
 
 ### Governing Influences
 
 - **Òtúrúpọ̀n Méjì** — illness and healing, secrets of the body, patience (Ọbàtálá / Ọ̀rúnmìlà)
 - **Ìrosùn Méjì** — blood, sacrifice, warning, consequence (Ṣàngó / Ọya)
 
+
 ### Guidance
 
-When Òtúrúpọ̀n-Ìrosùn appears, it suggests a situation where the lessons of Òtúrúpọ̀n Méjì — illness and healing, secrets of the body, patience — must be balanced with the lessons of Ìrosùn Méjì — blood, sacrifice, warning, consequence. Òtúrúpọ̀n Méjì advises: Òtúrúpọ̀n calls for patience, proper diagnosis before action, and respect for the body's natural healing processes. Ìrosùn Méjì adds: Ìrosùn warns that actions have irreversible consequences, and that ẹbọ (sacrifice) — whether of time, pride, or resources — is often required to avert disaster. Together, they call for wisdom that honours both sides of this Odù.
+Settle what you owe and attend to your health at the same time.
 
 ---
 

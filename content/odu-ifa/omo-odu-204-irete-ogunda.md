@@ -7,25 +7,25 @@ parent1: "irete-meji"
 parent2: "ogunda-meji"
 orisha: "Ọ̀rúnmìlà / Ọya; Ògún"
 theme: "perseverance despite setbacks, hidden victory; struggle, tools, perseverance, clearing the path"
-excerpt: "Ìrẹtẹ̀-Ògúndá combines the energy of Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory) with Ògúndá Méjì (struggle, tools, perseverance, clearing the path). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "Grit and craftsmanship. Hard work, repeated daily, builds a skill that no one can take away."
 pattern_right: "I,I,II,I"
 pattern_left: "I,I,I,II"
 ---
-
 ## Ìrẹtẹ̀-Ògúndá
 
-### Meaning
+### Overview
 
-Ìrẹtẹ̀-Ògúndá combines the energy of Ìrẹtẹ̀ Méjì (perseverance despite setbacks, hidden victory) with Ògúndá Méjì (struggle, tools, perseverance, clearing the path). It is read as a distinct Odù with its own guidance, drawing on both influences.
+Grit and craftsmanship. Hard work, repeated daily, builds a skill that no one can take away.
 
 ### Governing Influences
 
 - **Ìrẹtẹ̀ Méjì** — perseverance despite setbacks, hidden victory (Ọ̀rúnmìlà / Ọya)
 - **Ògúndá Méjì** — struggle, tools, perseverance, clearing the path (Ògún)
 
+
 ### Guidance
 
-When Ìrẹtẹ̀-Ògúndá appears, it suggests a situation where the lessons of Ìrẹtẹ̀ Méjì — perseverance despite setbacks, hidden victory — must be balanced with the lessons of Ògúndá Méjì — struggle, tools, perseverance, clearing the path. Ìrẹtẹ̀ Méjì advises: Ìrẹtẹ̀ teaches resilience in adversity, especially struggles others cannot see. Ògúndá Méjì adds: Ògúndá honours the warrior spirit of Ògún — perseverance, the courage to clear obstacles, and the discipline of using one's tools and skills wisely rather than recklessly. Together, they call for wisdom that honours both sides of this Odù.
+Practise every day, even when progress is slow.
 
 ---
 

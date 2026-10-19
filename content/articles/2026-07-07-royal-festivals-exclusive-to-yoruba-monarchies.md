@@ -141,7 +141,7 @@ They now serve additional purposes by:
 * Reconnecting the Yoruba diaspora with their heritage.
 * Showcasing Yoruba arts and traditions to international audiences.
 
-These celebrations demonstrate that traditional institutions remain vibrant and relevant in contemporary society.
+These celebrations demonstrate that traditional institutions remain strong and relevant in contemporary society.
 
 ## Preserving Heritage Through Celebration
 
@@ -160,6 +160,6 @@ By bringing generations together, they ensure that the cultural identity of each
 
 ## Conclusion
 
-Royal festivals exclusive to Yoruba monarchies are among the most enduring expressions of the region's rich cultural heritage. Celebrations such as the **Olojo Festival**, the **Ojúde Ọba Festival**, and the **Oranyan Festival** honour the history of their kingdoms while strengthening the relationship between traditional rulers and their people.
+Royal festivals exclusive to Yoruba monarchies are among the most enduring expressions of the region's cultural heritage. Celebrations such as the **Olojo Festival**, the **Ojúde Ọba Festival**, and the **Oranyan Festival** honour the history of their kingdoms while strengthening the relationship between traditional rulers and their people.
 
 Beyond their colourful processions and ceremonial splendour, these festivals preserve centuries of history, music, oral tradition, and royal customs. They remind both the Yoruba people and the wider world that traditional monarchies remain important custodians of culture, identity, and community, ensuring that the legacy of Yorubaland continues to thrive across generations.

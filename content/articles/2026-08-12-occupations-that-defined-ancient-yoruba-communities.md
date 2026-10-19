@@ -8,14 +8,14 @@ excerpt: The prosperity of ancient Yoruba civilisation was built upon the hard
   colonial era, Yoruba communities had developed a diverse economy supported by
   farming, trade, craftsmanship, hunting, fishing, and numerous specialised
   professions. These occupations not only sustained daily life but also
-  contributed to the growth of powerful kingdoms, vibrant markets, and
+  contributed to the growth of powerful kingdoms, busy markets, and
   internationally admired artistic traditions.
 readTime: 5 min
 featured: false
 ---
 ## Introduction
 
-The prosperity of ancient Yoruba civilisation was built upon the hard work, creativity, and specialised skills of its people. Long before the colonial era, Yoruba communities had developed a diverse economy supported by farming, trade, craftsmanship, hunting, fishing, and numerous specialised professions. These occupations not only sustained daily life but also contributed to the growth of powerful kingdoms, vibrant markets, and internationally admired artistic traditions.
+The prosperity of ancient Yoruba civilisation was built upon the hard work, creativity, and specialised skills of its people. Long before the colonial era, Yoruba communities had developed a diverse economy supported by farming, trade, craftsmanship, hunting, fishing, and numerous specialised professions. These occupations not only sustained daily life but also contributed to the growth of powerful kingdoms, living markets, and internationally admired artistic traditions.
 
 Work in traditional Yoruba society was more than a means of earning a living. It was closely connected to family identity, community service, cultural values, and the transmission of knowledge from one generation to the next. Many occupations were learned through apprenticeship, ensuring that valuable skills and traditions were preserved over centuries.
 

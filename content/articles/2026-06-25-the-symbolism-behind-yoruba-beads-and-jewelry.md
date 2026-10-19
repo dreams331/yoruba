@@ -61,7 +61,7 @@ The beads transform royal attire into a visible expression of authority and legi
 
 One of the most prestigious forms of Yoruba jewellery is coral beadwork.
 
-The vibrant red-orange coral beads commonly associated with royalty have long symbolised:
+The colourful red-orange coral beads commonly associated with royalty have long symbolised:
 
 * Power
 * Prosperity

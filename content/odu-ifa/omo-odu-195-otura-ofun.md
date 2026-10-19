@@ -7,25 +7,25 @@ parent1: "otura-meji"
 parent2: "ofun-meji"
 orisha: "Ọ̀rúnmìlà / Ọbàtálá; Ọbàtálá / Olódùmarè"
 theme: "transformation, clarity after confusion, truth revealed; purity, old age, completion, moral integrity"
-excerpt: "Òtúrá-Òfún combines the energy of Òtúrá Méjì (transformation, clarity after confusion, truth revealed) with Òfún Méjì (purity, old age, completion, moral integrity). It is read as a distinct Odù with its own guidance, drawing on both influences."
+excerpt: "A clean answer. Honest reasoning leads to a conclusion you can stand behind with a clear conscience."
 pattern_right: "I,II,I,I"
 pattern_left: "II,I,II,I"
 ---
-
 ## Òtúrá-Òfún
 
-### Meaning
+### Overview
 
-Òtúrá-Òfún combines the energy of Òtúrá Méjì (transformation, clarity after confusion, truth revealed) with Òfún Méjì (purity, old age, completion, moral integrity). It is read as a distinct Odù with its own guidance, drawing on both influences.
+A clean answer. Honest reasoning leads to a conclusion you can stand behind with a clear conscience.
 
 ### Governing Influences
 
 - **Òtúrá Méjì** — transformation, clarity after confusion, truth revealed (Ọ̀rúnmìlà / Ọbàtálá)
 - **Òfún Méjì** — purity, old age, completion, moral integrity (Ọbàtálá / Olódùmarè)
 
+
 ### Guidance
 
-When Òtúrá-Òfún appears, it suggests a situation where the lessons of Òtúrá Méjì — transformation, clarity after confusion, truth revealed — must be balanced with the lessons of Òfún Méjì — purity, old age, completion, moral integrity. Òtúrá Méjì advises: Òtúrá teaches that confusion and difficulty are often temporary, giving way to clarity for those who remain patient and truthful. Òfún Méjì adds: Òfún, closely tied to Ọbàtálá, teaches purity of character, patience, and the moral discipline required to age gracefully and finish life's journey with integrity intact. Together, they call for wisdom that honours both sides of this Odù.
+Choose the answer that you can defend openly.
 
 ---
 

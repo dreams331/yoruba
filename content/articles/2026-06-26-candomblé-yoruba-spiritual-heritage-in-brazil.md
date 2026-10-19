@@ -16,7 +16,7 @@ featured: false
 
 Few cultural journeys in human history are as remarkable as the survival of Yoruba spirituality in Brazil. Torn from their homeland through the horrors of the transatlantic slave trade, thousands of Yoruba men and women carried with them a spiritual tradition that refused to disappear. Although they lost their freedom, many refused to surrender their faith, their songs, their sacred rhythms, or their understanding of the divine.
 
-Over generations, those beliefs took root in Brazil and evolved into **Candomblé**, one of the world's most vibrant Afro-descendant religions. While shaped by Brazil's unique social and historical circumstances, Candomblé retains unmistakable Yoruba foundations. Its reverence for the Òrìṣà, sacred drumming, ritual dance, initiation ceremonies, and oral traditions all bear witness to a heritage that has survived for centuries.
+Over generations, those beliefs took root in Brazil and evolved into **Candomblé**, one of the best-known Afro-descendant religions. While shaped by Brazil's unique social and historical circumstances, Candomblé retains unmistakable Yoruba foundations. Its reverence for the Òrìṣà, sacred drumming, ritual dance, initiation ceremonies, and oral traditions all bear witness to a heritage that has survived for centuries.
 
 Today, Candomblé stands as both a religion and a living monument to the resilience of African civilisation.
 
